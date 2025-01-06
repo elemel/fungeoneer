@@ -1,6 +1,6 @@
 # Crossroads
 
-You have entered the third dungeon. You stand at the bottom of the staircase where you entered, facing east. On one of the bottom stairs, you spot a purse of stacking, apparently lost by someone. You take it for safekeeping.
+You have entered the third dungeon. You stand at the bottom of the staircase where you entered, facing east. On one of the bottom stairs, you spot a purse of stacking. Someone must have lost it. You grab the purse for safekeeping.
 
 Though currently empty, the purse has plenty of room for a tall stack of numbers. Adding a number to the top is called pushing, while removing one is called popping. After strapping the purse to your belt, you pop open the map:
 

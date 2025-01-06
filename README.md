@@ -1,2 +1,11 @@
-# call-of-the-fungeon
-Fungeonal programming
+# Call of the Fungeon
+
+
+## Chapters
+
+1. Wallflower
+
+
+## Answers
+
+1. Answer to Wallflower

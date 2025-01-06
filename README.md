@@ -3,9 +3,9 @@
 
 ## Chapters
 
-1. Wallflower
+1. [Wallflower](chapters/wallflower.md)
 
 
 ## Answers
 
-1. Answer to Wallflower
+1. [Answer to Wallflower](answers/wallflower.md)

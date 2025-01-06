@@ -1,6 +1,6 @@
 Chapter 5: Knapsack
 
-You have entered the fourth dungeon. You stand at the bottom of the staircase where you entered, facing east. You study the map:
+You have entered the fifth dungeon. You stand at the bottom of the staircase where you entered, facing east. You study the map:
 
 ```
 =hcHJmDtWlxBwlxz>]=LUjcXbJ][==H>]########=B]=cJ%.tfxF3qQakVMLf>###=tTWC]##=][#

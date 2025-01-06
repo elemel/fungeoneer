@@ -1,4 +1,4 @@
-# Crossroads
+# Chapter 3: Crossroads
 
 You have entered the third dungeon. You stand at the bottom of the staircase where you entered, facing east. On one of the bottom stairs, you spot a purse of stacking. Someone must have lost it. You grab the purse for safekeeping.
 

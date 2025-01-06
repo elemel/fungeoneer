@@ -99,7 +99,11 @@ After how many steps do you leave the dungeon?
 Consider a smaller dungeon:
 
 ```
-
+#####[#=15]#[##
+[=##<484[3=54=#
+#6##].23934970=
+]0339.63.3.=6[]
+#[#######]=####
 ```
 
 Below is a log of walking through the smaller dungeon. Your location is marked `@` on the map.

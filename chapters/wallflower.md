@@ -1,4 +1,4 @@
-# Wallflower
+# Chapter 1: Wallflower
 
 You have entered a dungeon. You stand at the bottom of the staircase where you entered, facing east. A gnome nods in greeting from an adjacent tile, then hands you a scroll, and finally steps onto the staircase, leaving the dungeon.
 

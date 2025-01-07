@@ -1,6 +1,6 @@
 # Chapter 1: Wallflower
 
-You have entered a dungeon. You stand at the bottom of the staircase where you entered, facing east. A gnome nods in greeting from an adjacent tile, then hands you a scroll, and finally steps onto the staircase, leaving the dungeon.
+You have entered a dungeon. You stand at the bottom of the staircase where you entered, facing east. A gnomish cartographer peers at you from an adjacent tile. As he steps onto the staircase, he thrusts a scroll into your hands. Before you can respond, he has already left the dungeon.
 
 You unroll the scroll, identifying it as a magic map. It flickers and shifts into a symbolic representation of the dungeon:
 

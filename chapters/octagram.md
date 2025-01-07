@@ -174,7 +174,7 @@ This dungeon contains walls for diagonal turning (marked `{`, `(`, `)`, or `}` o
 
 As before, you always step forward when possible, but not into walls. Forward movement now includes diagonal directions: southwest, northwest, northeast, and southeast. You turn 135 degrees left at `{` walls, 45 degrees left at `(` walls, 45 degrees right at `)` walls, and 135 degrees right at `}` walls.
 
-Whenever you step onto an `r` tile, you get your current rotation as a number and push it onto the stack. Whenever you step onto an `R` tile, you pop a number from the stack and set your rotation to it, changing your facing direction accordingly.
+Whenever you step onto an `r` tile, you get your rotation as a number and push it onto the stack. Whenever you step onto an `R` tile, you pop a number from the stack and set your rotation to it, changing your facing direction accordingly.
 
 After how many steps do you leave the dungeon?
 

@@ -158,7 +158,7 @@ Consider a smaller dungeon with registers A, B, and C:
 []##=380.a[####
 ```
 
-Below is a log of walking through the smaller dungeon. Your location is marked `@` on the map.
+Below is a log of walking through the smaller dungeon. Only non-zero registers are shown. Your location is marked `@` on the map.
 
 ```
 Step count: 0

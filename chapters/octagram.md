@@ -170,7 +170,7 @@ b/UEL[udC<)d#eqB]LX]vG#{##oI#(=tRFa4%7KgB3ULzkRFm7w<8*.}K}btU(#wl+L/e)**Uj[)4=
 ###[#][{<=[####}#[##]########(((#}#{)#[({]#[{#]{}#{=[([##{<=#[]R{)[]##[[R{R)R{
 ```
 
-This dungeon contains wall types for diagonal turning (marked `{`, `(`, `)`, or `}` on the map), along with getters and setters for the R register (marked `r` or `R`).
+This dungeon contains walls for diagonal turning (marked `{`, `(`, `)`, or `}` on the map), along with getters and setters for the R register (marked `r` or `R`).
 
 As before, you always step forward when possible, but not into walls. Forward movement now includes diagonal directions: southwest, northwest, northeast, and southeast. You turn 135 degrees left at `{` walls, 45 degrees left at `(` walls, 45 degrees right at `)` walls, and 135 degrees right at `}` walls.
 

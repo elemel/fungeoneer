@@ -1,6 +1,6 @@
 # Chapter 2: Staredown
 
-You have entered another dungeon. You stand at the bottom of the staircase where you entered, facing east. In this dungeon, there are two levels, separated by a blank line on the map:
+You have entered another dungeon. You stand at the bottom of the staircase where you entered, facing east. Adjusting the straps on your knapsack, you ready yourself. In this dungeon, there are two levels, separated by a blank line on the map:
 
 ```
 #########[####[#][#[][###############]######]#[#]##############][##########][#

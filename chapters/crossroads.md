@@ -106,7 +106,7 @@ Consider a smaller dungeon:
 #[#######]=####
 ```
 
-Below is a log of walking through the smaller dungeon. Your location is marked `@` on the map.
+Below is a log of walking through the smaller dungeon. The stack is shown only when non-empty. Your location is marked `@` on the map.
 
 ```
 Step count: 0

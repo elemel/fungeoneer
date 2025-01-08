@@ -114,13 +114,13 @@ You have entered the fourth dungeon. You stand at the bottom of the staircase wh
 
 This dungeon contains tiles with arithmetic operators (marked `+`, `-`, `*`, `/` or `%`).
 
-Whenever you step onto an operator tile, you pop an argument `b` from the stack, then pop another argument `a`, then apply the operator to `a` and `b`, and finally push the result `c` onto the stack. The operators have the following effects:
+Whenever you step onto an operator tile, pop two arguments from the stack: first `b`, then `a`. Apply the corresponding operator to `a` and `b`, then push the result `c` onto the stack. The operator tiles have the following effects:
 
-- The `+` operator applies addition: `c = a + b`.
-- The `-` operator applies subtraction: `c = a - b`.
-- The `*` operator applies multiplication: `c = a * b`.
-- The `/` operator applies floor division: `c = a / b` (rounded toward negative infinity).
-- The `%` operator applies modulo: `c = a % b` (with `c` preserving the sign of `b`).
+- The `+` tile applies addition: `c = a + b`.
+- The `-` tile applies subtraction: `c = a - b`.
+- The `*` tile applies multiplication: `c = a * b`.
+- The `/` tile applies floor division: `c = a / b` (rounded toward negative infinity).
+- The `%` tile applies modulo: `c = a % b` (with `c` preserving the sign of `b`).
 
 The relationship between modulo and floor division is that `a % b` equals `a - (a / b) * b`.
 

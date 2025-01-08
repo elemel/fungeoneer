@@ -139,9 +139,9 @@ l1QaKQZt%iiKXUCEi4iWFyT[HgZV<ZwV[95MW%OX#]#F][=/Co+dzDFiUH=dNOg*g*V*-x]A#zILm#
 #[]w70cFKUW-=m*en.Zn8i=###=[]##]jE+3=6i=ADqI+7<##===aG0bxDvl5n=CE1Kl*Xn.y9X=]#
 ```
 
-This dungeon contains getters (marked by lowercase letters on the map) and setters (marked by uppercase letters). These letters are used for registering numbers in the various compartments of your knapsack, known as registers. Register names are case-insensitive, so both `a` and `A` refer to register A. All registers start at zero. You notice that the letters P, R, and S are missing.
+This dungeon contains tiles with getters (marked by lowercase letters on the map) and setters (marked by uppercase letters). These tiles operate on the registry in your knapsack. As register names disregard capitalization, both `a` and `A` refer to register A. All registers start at zero. The registers P, R, and S are missing from the knapsack and the map.
 
-Whenever you step onto a getter, you get a number from the corresponding register and push it onto the stack. Whenever you step onto a setter, you pop a number from the stack and set the corresponding register to it.
+Whenever you step onto a getter tile, get a number from the corresponding register, then push that number onto the stack. For a setter tile, pop a number from the stack, then set the corresponding register to that number.
 
 After how many steps do you leave the dungeon?
 

@@ -87,9 +87,9 @@ Though currently empty, the purse has plenty of room for a tall stack of numbers
 ##]##]83.7955<#][]52=3[##]=######[#=.[]#[########[]532=]#####=899[#<79366148.=
 ```
 
-This dungeon contains digit tiles (marked `0` through `9` on the map) and crossroads (marked `=`). Whenever you step onto a digit tile, you push that digit (as a number) onto the stack.
+This dungeon contains tiles with digits (marked `0` through `9` on the map) and crossroads (marked `=`). Whenever you step onto a digit tile, push the corresponding number onto the stack.
 
-Whenever you step onto a crossroads, you pop an argument `b` from the stack, then another argument `a`, and finally turn based on how they compare. You turn 90 degrees left if `a` is less than `b`, or 90 degrees right if `a` is greater than `b`. If the arguments are equal, you do not turn at all.
+Whenever you step onto a crossroads tile, pop two arguments from the stack: first `b`, then `a`. If `a` is less than `b`, turn 90 degrees left. If `a` is greater than `b`, turn 90 degrees right. If the arguments are equal, do not turn at all.
 
 After how many steps do you leave the dungeon?
 

@@ -60,7 +60,7 @@ You have entered another dungeon. You stand at the bottom of the staircase where
 
 The top level is at the top of the map, while the bottom level is at the bottom of the map. On the top level, the only staircase leading up is the one where you entered.
 
-There are many other staircases in this dungeon. Each staircase has two ends: a top (marked `>` on the map) and a bottom (marked `<`). The bottom is located directly below the top, on the next lower level. The top of the staircase where you entered is above ground, outside the dungeon. It is not shown on the map. Whenever you step onto either end of a staircase, you immediately traverse it to the other end, without turning, all within the same step.
+There are many other staircases in this dungeon. Each staircase has two ends: a top (marked `>` on the map) and a bottom (marked `<`). The bottom is located directly below the top, on the next lower level. The top of the staircase where you entered is above ground, outside the dungeon. It is not shown on the map. Whenever you step onto either end of a staircase, immediately traverse it to the other end, without turning. This counts as a single step.
 
 After how many steps do you leave the dungeon?
 

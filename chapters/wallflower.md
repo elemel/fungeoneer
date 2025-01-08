@@ -33,9 +33,9 @@ You unroll the scroll, identifying it as a magic map. It flickers and shifts int
 ######]###################[########[#]#######[]#############[]################
 ```
 
-The staircase is marked `<` on the map, with east to the right. Compelled to walk through the dungeon, you always step forward when possible, and turn only when instructed. Stepping onto floor tiles (marked `.`) has no effect beyond movement itself.
+The staircase is marked `<` on the map, with east to the right. Compelled to walk through the dungeon, you always step forward when possible, turning only when instructed. Stepping onto a floor tile (marked `.`) has no additional effect.
 
-The dungeon contains walls, which are marked `[`, `]`, or `#`. Whenever you would step into a wall, you remain in place and turn instead. At a `[` wall, you turn 90 degrees to the left. At a `]` wall, you turn 90 degrees to the right. At a `#` wall, you do not turn at all. Reacting to a wall still counts as a step, being equivalent to stepping onto the wall tile, backtracking, and then turning if applicable. Standing at a `#` wall effectively causes you to halt indefinitely, which is also known as halting until you catch fire.
+The dungeon contains wall tiles (marked `[`, `]`, or `#`). Whenever you would step onto a wall tile, turn in place instead. This still counts as a step. For a `[` tile, turn 90 degrees to the left. For a `]` tile, turn 90 degrees to the right. For a `#` tile, turn 0 degrees, in effect halting until you catch fire.
 
 As demonstrated by the gnome, you leave the dungeon by stepping onto the staircase from an adjacent tile. After how many steps do you leave the dungeon?
 

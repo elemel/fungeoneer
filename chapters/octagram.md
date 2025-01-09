@@ -172,7 +172,7 @@ b/UEL[udC<)d#eqB]LX]vG#{##oI#(=tRFa4%7KgB3ULzkRFm7w<8*.}K}btU(#wl+L/e)**Uj[)4=
 
 This dungeon contains wall tiles for turning diagonally (marked `{`, `(`, `)`, or `}` on the map), along with getters (marked `r`) and setters (marked `R`) for register R.
 
-Your facing direction can now also be diagonal: southeast, southwest, northwest, or northeast. As before, whenever you would step onto a wall tile, turn in place instead. For a `{` tile, turn 135 degrees left. For a `(` tile, turn 45 degrees left. For a `)` tile, turn 45 degrees right. For a `}` tile, turn 135 degrees right.
+Your facing direction can now also be diagonal: southeast, southwest, northwest, or northeast. As before, whenever you would step onto a wall tile, stay and turn instead. For a `{` tile, turn 135 degrees left. For a `(` tile, turn 45 degrees left. For a `)` tile, turn 45 degrees right. For a `}` tile, turn 135 degrees right.
 
 Whenever you step onto an `r` tile (getter), get your rotation as a number, then push that number onto the stack. For an `R` tile (setter), pop a number from the stack, then set your rotation to that number, changing your facing direction accordingly.
 

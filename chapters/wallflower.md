@@ -1,8 +1,8 @@
 # Chapter 1: Wallflower
 
-You have entered a dungeon. You stand at the bottom of the staircase where you entered, facing east. A gnomish cartographer peers at you from an adjacent tile. As he steps onto the staircase, he thrusts a scroll into your hands. Before you can respond, he has already left the dungeon.
+You have entered a dungeon. You stand at the bottom of the staircase where you entered, facing east. A gnomish cartographer, carrying a bundle of scrolls, peers at you from an adjacent tile. As he steps onto the staircase, he thrusts a scroll into your hands. Before you can respond, he has already left the dungeon.
 
-You unroll the scroll, identifying it as a magic map. It flickers and shifts into a symbolic representation of the dungeon:
+Unrolling the scroll, you identify it as a magic map. It ripples and shifts into a symbolic representation of the dungeon:
 
 ```
 ###########[########[####[###############]#[###]##]#########[#################
@@ -33,9 +33,9 @@ You unroll the scroll, identifying it as a magic map. It flickers and shifts int
 ######]###################[########[#]#######[]#############[]################
 ```
 
-The staircase is marked `<` on the map, with east to the right. Compelled to walk through the dungeon, you always step forward when possible, turning only when instructed. Stepping onto a floor tile (marked `.`) has no additional effect.
+The staircase is marked `<` on the map, with east to the right. You are compelled to walk through the dungeon, always step forward when possible, and turn only when instructed. Stepping onto floor tiles (marked `.`) has no particular effect.
 
-The dungeon contains wall tiles (marked `[`, `]`, or `#`). Whenever you would step onto a wall tile, turn in place instead. This still counts as a step. For a `[` tile, turn 90 degrees to the left. For a `]` tile, turn 90 degrees to the right. For a `#` tile, turn 0 degrees, in effect halting indefinitely.
+The dungeon contains wall tiles (marked `[`, `]`, or `#`). Whenever you would step onto a wall tile, stay and turn instead. This still counts as a step. For a `[` tile, turn 90 degrees to the left. For a `]` tile, turn 90 degrees to the right. For a `#` tile, turn 0 degrees, in effect halting indefinitely.
 
 As demonstrated by the gnome, you leave the dungeon by stepping onto the staircase from an adjacent tile. After how many steps do you leave the dungeon?
 

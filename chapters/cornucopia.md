@@ -226,7 +226,7 @@ Below is a log of walking through the smaller dungeon. The hidden slots above th
 Step count: 0
 Coordinates: (4, 2, 0)
 Direction: East
-Next symbol: '}
+Next symbol: }
 
 Non-zero registers:
   [None]
@@ -248,7 +248,7 @@ Stack (0):
 Step count: 1
 Coordinates: (4, 2, 0)
 Direction: Southwest
-Next symbol: ')
+Next symbol: )
 
 Non-zero registers:
   R: 3
@@ -270,7 +270,7 @@ Stack (0):
 Step count: 2
 Coordinates: (4, 2, 0)
 Direction: West
-Next symbol: 'r
+Next symbol: r
 
 Non-zero registers:
   R: 4
@@ -292,7 +292,7 @@ Stack (0):
 Step count: 3
 Coordinates: (3, 2, 0)
 Direction: West
-Next symbol: 'S
+Next symbol: S
 
 Non-zero registers:
   R: 4
@@ -317,7 +317,7 @@ Stack (1):
 Step count: 4
 Coordinates: (2, 2, 0)
 Direction: West
-Next symbol: '(
+Next symbol: (
 
 Non-zero registers:
   R: 4
@@ -345,7 +345,7 @@ Stack (4):
 Step count: 5
 Coordinates: (2, 2, 0)
 Direction: Southwest
-Next symbol: '9
+Next symbol: 9
 
 Non-zero registers:
   R: 3
@@ -373,7 +373,7 @@ Stack (4):
 Step count: 6
 Coordinates: (1, 3, 0)
 Direction: Southwest
-Next symbol: '[
+Next symbol: [
 
 Non-zero registers:
   R: 3
@@ -402,7 +402,7 @@ Stack (5):
 Step count: 7
 Coordinates: (1, 3, 0)
 Direction: Southeast
-Next symbol: '=
+Next symbol: =
 
 Non-zero registers:
   R: 1
@@ -431,7 +431,7 @@ Stack (5):
 Step count: 8
 Coordinates: (2, 4, 0)
 Direction: Northeast
-Next symbol: ')
+Next symbol: )
 
 Non-zero registers:
   R: -1
@@ -458,7 +458,7 @@ Stack (3):
 Step count: 9
 Coordinates: (2, 4, 0)
 Direction: East
-Next symbol: '9
+Next symbol: 9
 
 Non-zero registers:
   S: 3
@@ -484,7 +484,7 @@ Stack (3):
 Step count: 10
 Coordinates: (3, 4, 0)
 Direction: East
-Next symbol: 's
+Next symbol: s
 
 Non-zero registers:
   S: 4
@@ -511,7 +511,7 @@ Stack (4):
 Step count: 11
 Coordinates: (4, 4, 0)
 Direction: East
-Next symbol: '9
+Next symbol: 9
 
 Non-zero registers:
   S: 5
@@ -539,7 +539,7 @@ Stack (5):
 Step count: 12
 Coordinates: (5, 4, 0)
 Direction: East
-Next symbol: '{
+Next symbol: {
 
 Non-zero registers:
   S: 6
@@ -567,7 +567,7 @@ Stack (6):
 Step count: 13
 Coordinates: (5, 4, 0)
 Direction: Northwest
-Next symbol: '8
+Next symbol: 8
 
 Non-zero registers:
   R: -3
@@ -596,7 +596,7 @@ Stack (6):
 Step count: 14
 Coordinates: (4, 3, 0)
 Direction: Northwest
-Next symbol: 'r
+Next symbol: r
 
 Non-zero registers:
   R: -3
@@ -625,7 +625,7 @@ Stack (7):
 Step count: 15
 Coordinates: (3, 2, 0)
 Direction: Northwest
-Next symbol: '9
+Next symbol: 9
 
 Non-zero registers:
   R: -3
@@ -654,7 +654,7 @@ Stack (8):
 Step count: 16
 Coordinates: (2, 1, 0)
 Direction: Northwest
-Next symbol: ']
+Next symbol: ]
 
 Non-zero registers:
   R: -3
@@ -683,7 +683,7 @@ Stack (9):
 Step count: 17
 Coordinates: (2, 1, 0)
 Direction: Northeast
-Next symbol: '(
+Next symbol: (
 
 Non-zero registers:
   R: -1
@@ -712,7 +712,7 @@ Stack (9):
 Step count: 18
 Coordinates: (2, 1, 0)
 Direction: North
-Next symbol: '{
+Next symbol: {
 
 Non-zero registers:
   R: -2
@@ -741,7 +741,7 @@ Stack (9):
 Step count: 19
 Coordinates: (2, 1, 0)
 Direction: Southwest
-Next symbol: '(
+Next symbol: (
 
 Non-zero registers:
   R: -5
@@ -770,7 +770,7 @@ Stack (9):
 Step count: 20
 Coordinates: (2, 1, 0)
 Direction: South
-Next symbol: 'S
+Next symbol: S
 
 Non-zero registers:
   R: -6
@@ -799,7 +799,7 @@ Stack (9):
 Step count: 21
 Coordinates: (2, 2, 0)
 Direction: South
-Next symbol: '5
+Next symbol: 5
 
 Non-zero registers:
   R: -6
@@ -828,7 +828,7 @@ Stack (9):
 Step count: 22
 Coordinates: (2, 3, 0)
 Direction: South
-Next symbol: '=
+Next symbol: =
 
 Non-zero registers:
   R: -6
@@ -857,7 +857,7 @@ Stack (10):
 Step count: 23
 Coordinates: (2, 4, 0)
 Direction: West
-Next symbol: 'R
+Next symbol: R
 
 Non-zero registers:
   R: -4
@@ -886,7 +886,7 @@ Stack (8):
 Step count: 24
 Coordinates: (1, 4, 0)
 Direction: Northwest
-Next symbol: ']
+Next symbol: ]
 
 Non-zero registers:
   R: -3
@@ -915,7 +915,7 @@ Stack (7):
 Step count: 25
 Coordinates: (1, 4, 0)
 Direction: Northeast
-Next symbol: '5
+Next symbol: 5
 
 Non-zero registers:
   R: -1
@@ -944,7 +944,7 @@ Stack (7):
 Step count: 26
 Coordinates: (2, 3, 0)
 Direction: Northeast
-Next symbol: 'r
+Next symbol: r
 
 Non-zero registers:
   R: -1
@@ -973,7 +973,7 @@ Stack (8):
 Step count: 27
 Coordinates: (3, 2, 0)
 Direction: Northeast
-Next symbol: '=
+Next symbol: =
 
 Non-zero registers:
   R: -1
@@ -1002,7 +1002,7 @@ Stack (9):
 Step count: 28
 Coordinates: (4, 1, 0)
 Direction: Southeast
-Next symbol: '}
+Next symbol: }
 
 Non-zero registers:
   R: 1
@@ -1031,7 +1031,7 @@ Stack (7):
 Step count: 29
 Coordinates: (4, 1, 0)
 Direction: West
-Next symbol: 's
+Next symbol: s
 
 Non-zero registers:
   R: 4
@@ -1060,7 +1060,7 @@ Stack (7):
 Step count: 30
 Coordinates: (3, 1, 0)
 Direction: West
-Next symbol: '9
+Next symbol: 9
 
 Non-zero registers:
   R: 4
@@ -1089,7 +1089,7 @@ Stack (8):
 Step count: 31
 Coordinates: (2, 1, 0)
 Direction: West
-Next symbol: '9
+Next symbol: 9
 
 Non-zero registers:
   R: 4
@@ -1118,7 +1118,7 @@ Stack (9):
 Step count: 32
 Coordinates: (1, 1, 0)
 Direction: West
-Next symbol: ')
+Next symbol: )
 
 Non-zero registers:
   R: 4
@@ -1147,7 +1147,7 @@ Stack (10):
 Step count: 33
 Coordinates: (1, 1, 0)
 Direction: Northwest
-Next symbol: ')
+Next symbol: )
 
 Non-zero registers:
   R: 5
@@ -1176,7 +1176,7 @@ Stack (10):
 Step count: 34
 Coordinates: (1, 1, 0)
 Direction: North
-Next symbol: ']
+Next symbol: ]
 
 Non-zero registers:
   R: 6
@@ -1205,7 +1205,7 @@ Stack (10):
 Step count: 35
 Coordinates: (1, 1, 0)
 Direction: East
-Next symbol: '9
+Next symbol: 9
 
 Non-zero registers:
   R: 8
@@ -1234,7 +1234,7 @@ Stack (10):
 Step count: 36
 Coordinates: (2, 1, 0)
 Direction: East
-Next symbol: 's
+Next symbol: s
 
 Non-zero registers:
   R: 8
@@ -1263,7 +1263,7 @@ Stack (11):
 Step count: 37
 Coordinates: (3, 1, 0)
 Direction: East
-Next symbol: '=
+Next symbol: =
 
 Non-zero registers:
   R: 8
@@ -1292,7 +1292,7 @@ Stack (12):
 Step count: 38
 Coordinates: (4, 1, 0)
 Direction: North
-Next symbol: 'R
+Next symbol: R
 
 Non-zero registers:
   R: 6
@@ -1321,7 +1321,7 @@ Stack (10):
 Step count: 39
 Coordinates: (4, 0, 0)
 Direction: Southeast
-Next symbol: '3
+Next symbol: 3
 
 Non-zero registers:
   R: 9
@@ -1350,7 +1350,7 @@ Stack (9):
 Step count: 40
 Coordinates: (5, 1, 0)
 Direction: Southeast
-Next symbol: '(
+Next symbol: (
 
 Non-zero registers:
   R: 9
@@ -1379,7 +1379,7 @@ Stack (10):
 Step count: 41
 Coordinates: (5, 1, 0)
 Direction: East
-Next symbol: 'R
+Next symbol: R
 
 Non-zero registers:
   R: 8
@@ -1408,7 +1408,7 @@ Stack (10):
 Step count: 42
 Coordinates: (6, 1, 0)
 Direction: Southwest
-Next symbol: '}
+Next symbol: }
 
 Non-zero registers:
   R: 3
@@ -1437,7 +1437,7 @@ Stack (9):
 Step count: 43
 Coordinates: (6, 1, 0)
 Direction: North
-Next symbol: '=
+Next symbol: =
 
 Non-zero registers:
   R: 6
@@ -1466,7 +1466,7 @@ Stack (9):
 Step count: 44
 Coordinates: (6, 0, 0)
 Direction: West
-Next symbol: '{
+Next symbol: {
 
 Non-zero registers:
   R: 4
@@ -1495,7 +1495,7 @@ Stack (7):
 Step count: 45
 Coordinates: (6, 0, 0)
 Direction: Southeast
-Next symbol: 's
+Next symbol: s
 
 Non-zero registers:
   R: 1
@@ -1524,7 +1524,7 @@ Stack (7):
 Step count: 46
 Coordinates: (7, 1, 0)
 Direction: Southeast
-Next symbol: '7
+Next symbol: 7
 
 Non-zero registers:
   R: 1
@@ -1553,7 +1553,7 @@ Stack (8):
 Step count: 47
 Coordinates: (8, 2, 0)
 Direction: Southeast
-Next symbol: 'R
+Next symbol: R
 
 Non-zero registers:
   R: 1
@@ -1582,7 +1582,7 @@ Stack (9):
 Step count: 48
 Coordinates: (9, 3, 0)
 Direction: Northeast
-Next symbol: '}
+Next symbol: }
 
 Non-zero registers:
   R: 7
@@ -1611,7 +1611,7 @@ Stack (8):
 Step count: 49
 Coordinates: (9, 3, 0)
 Direction: South
-Next symbol: '[
+Next symbol: [
 
 Non-zero registers:
   R: 10
@@ -1640,7 +1640,7 @@ Stack (8):
 Step count: 50
 Coordinates: (9, 3, 0)
 Direction: East
-Next symbol: '[
+Next symbol: [
 
 Non-zero registers:
   R: 8
@@ -1669,7 +1669,7 @@ Stack (8):
 Step count: 51
 Coordinates: (9, 3, 0)
 Direction: North
-Next symbol: '6
+Next symbol: 6
 
 Non-zero registers:
   R: 6
@@ -1698,7 +1698,7 @@ Stack (8):
 Step count: 52
 Coordinates: (9, 2, 0)
 Direction: North
-Next symbol: ')
+Next symbol: )
 
 Non-zero registers:
   R: 6
@@ -1727,7 +1727,7 @@ Stack (9):
 Step count: 53
 Coordinates: (9, 2, 0)
 Direction: Northeast
-Next symbol: 'S
+Next symbol: S
 
 Non-zero registers:
   R: 7
@@ -1756,7 +1756,7 @@ Stack (9):
 Step count: 54
 Coordinates: (10, 1, 0)
 Direction: Northeast
-Next symbol: 'R
+Next symbol: R
 
 Non-zero registers:
   R: 7
@@ -1785,7 +1785,7 @@ Stack (6):
 Step count: 55
 Coordinates: (11, 0, 0)
 Direction: Southeast
-Next symbol: 'r
+Next symbol: r
 
 Non-zero registers:
   R: 9
@@ -1814,7 +1814,7 @@ Stack (5):
 Step count: 56
 Coordinates: (12, 1, 0)
 Direction: Southeast
-Next symbol: ']
+Next symbol: ]
 
 Non-zero registers:
   R: 9
@@ -1843,7 +1843,7 @@ Stack (6):
 Step count: 57
 Coordinates: (12, 1, 0)
 Direction: Southwest
-Next symbol: '(
+Next symbol: (
 
 Non-zero registers:
   R: 11
@@ -1872,7 +1872,7 @@ Stack (6):
 Step count: 58
 Coordinates: (12, 1, 0)
 Direction: South
-Next symbol: 'R
+Next symbol: R
 
 Non-zero registers:
   R: 10
@@ -1901,7 +1901,7 @@ Stack (6):
 Step count: 59
 Coordinates: (12, 2, 0)
 Direction: Southeast
-Next symbol: '6
+Next symbol: 6
 
 Non-zero registers:
   R: 9
@@ -1930,7 +1930,7 @@ Stack (5):
 Step count: 60
 Coordinates: (13, 3, 0)
 Direction: Southeast
-Next symbol: ')
+Next symbol: )
 
 Non-zero registers:
   R: 9
@@ -1959,7 +1959,7 @@ Stack (6):
 Step count: 61
 Coordinates: (13, 3, 0)
 Direction: South
-Next symbol: '[
+Next symbol: [
 
 Non-zero registers:
   R: 10
@@ -1988,7 +1988,7 @@ Stack (6):
 Step count: 62
 Coordinates: (13, 3, 0)
 Direction: East
-Next symbol: '=
+Next symbol: =
 
 Non-zero registers:
   R: 8
@@ -2017,7 +2017,7 @@ Stack (6):
 Step count: 63
 Coordinates: (14, 3, 0)
 Direction: North
-Next symbol: '4
+Next symbol: 4
 
 Non-zero registers:
   R: 6
@@ -2045,7 +2045,7 @@ Stack (4):
 Step count: 64
 Coordinates: (14, 2, 0)
 Direction: North
-Next symbol: 'S
+Next symbol: S
 
 Non-zero registers:
   R: 6
@@ -2074,7 +2074,7 @@ Stack (5):
 Step count: 65
 Coordinates: (14, 1, 0)
 Direction: North
-Next symbol: '=
+Next symbol: =
 
 Non-zero registers:
   R: 6
@@ -2102,7 +2102,7 @@ Stack (4):
 Step count: 66
 Coordinates: (14, 0, 0)
 Direction: West
-Next symbol: '2
+Next symbol: 2
 
 Non-zero registers:
   R: 4
@@ -2128,7 +2128,7 @@ Stack (2):
 Step count: 67
 Coordinates: (13, 0, 0)
 Direction: West
-Next symbol: 'r
+Next symbol: r
 
 Non-zero registers:
   R: 4
@@ -2155,7 +2155,7 @@ Stack (3):
 Step count: 68
 Coordinates: (12, 0, 0)
 Direction: West
-Next symbol: 'R
+Next symbol: R
 
 Non-zero registers:
   R: 4
@@ -2183,7 +2183,7 @@ Stack (4):
 Step count: 69
 Coordinates: (11, 0, 0)
 Direction: West
-Next symbol: 's
+Next symbol: s
 
 Non-zero registers:
   R: 4
@@ -2210,7 +2210,7 @@ Stack (3):
 Step count: 70
 Coordinates: (10, 0, 0)
 Direction: West
-Next symbol: '4
+Next symbol: 4
 
 Non-zero registers:
   R: 4
@@ -2238,7 +2238,7 @@ Stack (4):
 Step count: 71
 Coordinates: (9, 0, 0)
 Direction: West
-Next symbol: '6
+Next symbol: 6
 
 Non-zero registers:
   R: 4
@@ -2267,7 +2267,7 @@ Stack (5):
 Step count: 72
 Coordinates: (8, 0, 0)
 Direction: West
-Next symbol: '(
+Next symbol: (
 
 Non-zero registers:
   R: 4
@@ -2296,7 +2296,7 @@ Stack (6):
 Step count: 73
 Coordinates: (8, 0, 0)
 Direction: Southwest
-Next symbol: 's
+Next symbol: s
 
 Non-zero registers:
   R: 3
@@ -2325,7 +2325,7 @@ Stack (6):
 Step count: 74
 Coordinates: (7, 1, 0)
 Direction: Southwest
-Next symbol: '(
+Next symbol: (
 
 Non-zero registers:
   R: 3
@@ -2354,7 +2354,7 @@ Stack (7):
 Step count: 75
 Coordinates: (7, 1, 0)
 Direction: South
-Next symbol: 's
+Next symbol: s
 
 Non-zero registers:
   R: 2
@@ -2383,7 +2383,7 @@ Stack (7):
 Step count: 76
 Coordinates: (7, 2, 0)
 Direction: South
-Next symbol: '5
+Next symbol: 5
 
 Non-zero registers:
   R: 2
@@ -2412,7 +2412,7 @@ Stack (8):
 Step count: 77
 Coordinates: (7, 3, 0)
 Direction: South
-Next symbol: '{
+Next symbol: {
 
 Non-zero registers:
   R: 2
@@ -2441,7 +2441,7 @@ Stack (9):
 Step count: 78
 Coordinates: (7, 3, 0)
 Direction: Northeast
-Next symbol: '7
+Next symbol: 7
 
 Non-zero registers:
   R: -1
@@ -2470,7 +2470,7 @@ Stack (9):
 Step count: 79
 Coordinates: (8, 2, 0)
 Direction: Northeast
-Next symbol: ')
+Next symbol: )
 
 Non-zero registers:
   R: -1
@@ -2499,7 +2499,7 @@ Stack (10):
 Step count: 80
 Coordinates: (8, 2, 0)
 Direction: East
-Next symbol: '6
+Next symbol: 6
 
 Non-zero registers:
   S: 10
@@ -2527,7 +2527,7 @@ Stack (10):
 Step count: 81
 Coordinates: (9, 2, 0)
 Direction: East
-Next symbol: '}
+Next symbol: }
 
 Non-zero registers:
   S: 11
@@ -2555,7 +2555,7 @@ Stack (11):
 Step count: 82
 Coordinates: (9, 2, 0)
 Direction: Southwest
-Next symbol: ')
+Next symbol: )
 
 Non-zero registers:
   R: 3
@@ -2584,7 +2584,7 @@ Stack (11):
 Step count: 83
 Coordinates: (9, 2, 0)
 Direction: West
-Next symbol: '7
+Next symbol: 7
 
 Non-zero registers:
   R: 4
@@ -2613,7 +2613,7 @@ Stack (11):
 Step count: 84
 Coordinates: (8, 2, 0)
 Direction: West
-Next symbol: 's
+Next symbol: s
 
 Non-zero registers:
   R: 4
@@ -2642,7 +2642,7 @@ Stack (12):
 Step count: 85
 Coordinates: (7, 2, 0)
 Direction: West
-Next symbol: '(
+Next symbol: (
 
 Non-zero registers:
   R: 4
@@ -2671,7 +2671,7 @@ Stack (13):
 Step count: 86
 Coordinates: (7, 2, 0)
 Direction: Southwest
-Next symbol: '=
+Next symbol: =
 
 Non-zero registers:
   R: 3
@@ -2700,7 +2700,7 @@ Stack (13):
 Step count: 87
 Coordinates: (6, 3, 0)
 Direction: Southeast
-Next symbol: '{
+Next symbol: {
 
 Non-zero registers:
   R: 1
@@ -2729,7 +2729,7 @@ Stack (11):
 Step count: 88
 Coordinates: (6, 3, 0)
 Direction: North
-Next symbol: '(
+Next symbol: (
 
 Non-zero registers:
   R: -2
@@ -2758,7 +2758,7 @@ Stack (11):
 Step count: 89
 Coordinates: (6, 3, 0)
 Direction: Northwest
-Next symbol: '}
+Next symbol: }
 
 Non-zero registers:
   R: -3
@@ -2787,7 +2787,7 @@ Stack (11):
 Step count: 90
 Coordinates: (6, 3, 0)
 Direction: East
-Next symbol: '5
+Next symbol: 5
 
 Non-zero registers:
   S: 11
@@ -2815,7 +2815,7 @@ Stack (11):
 Step count: 91
 Coordinates: (7, 3, 0)
 Direction: East
-Next symbol: ')
+Next symbol: )
 
 Non-zero registers:
   S: 12
@@ -2843,7 +2843,7 @@ Stack (12):
 Step count: 92
 Coordinates: (7, 3, 0)
 Direction: Southeast
-Next symbol: '{
+Next symbol: {
 
 Non-zero registers:
   R: 1
@@ -2872,7 +2872,7 @@ Stack (12):
 Step count: 93
 Coordinates: (7, 3, 0)
 Direction: North
-Next symbol: 's
+Next symbol: s
 
 Non-zero registers:
   R: -2
@@ -2901,7 +2901,7 @@ Stack (12):
 Step count: 94
 Coordinates: (7, 2, 0)
 Direction: North
-Next symbol: 's
+Next symbol: s
 
 Non-zero registers:
   R: -2
@@ -2930,7 +2930,7 @@ Stack (13):
 Step count: 95
 Coordinates: (7, 1, 0)
 Direction: North
-Next symbol: '(
+Next symbol: (
 
 Non-zero registers:
   R: -2
@@ -2959,7 +2959,7 @@ Stack (14):
 Step count: 96
 Coordinates: (7, 1, 0)
 Direction: Northwest
-Next symbol: '=
+Next symbol: =
 
 Non-zero registers:
   R: -3
@@ -2988,7 +2988,7 @@ Stack (14):
 Step count: 97
 Coordinates: (6, 0, 0)
 Direction: Southwest
-Next symbol: '3
+Next symbol: 3
 
 Non-zero registers:
   R: -5
@@ -3017,7 +3017,7 @@ Stack (12):
 Step count: 98
 Coordinates: (5, 1, 0)
 Direction: Southwest
-Next symbol: '<
+Next symbol: <
 
 Non-zero registers:
   R: -5

@@ -1,6 +1,6 @@
 # Chapter 7: Cornucopia
 
-You have entered the seventh dungeon. You stand at the bottom of the staircase where you entered, facing east. A gnome sits on the lowest stair, sipping from a flask. As he looks up at you, then to the purse of stacking on your belt, you recognize him as the cartographer from the first dungeon. With a magic marker and a flick of the wrist, he scribbles a line of credit onto your purse. He nods, sits back, and takes another sip.
+You have entered the seventh dungeon. You stand at the bottom of the staircase where you entered, facing east. A gnome sits on the bottom stair, sipping from a flask. As he looks up at you, then to the purse of stacking on your belt, you recognize him as the cartographer from the first dungeon. He leans forward, as if about to speak. With a magic marker and a flick of the wrist, he scribbles a line of credit onto your purse. He pauses for a moment. Sitting back, he takes another sip.
 
 The line of credit reconfigures your purse as register S. This register serves as both stack size and stack pointer. The stack now contains many slots, indexed from zero, with register S pointing to the slot just above the top of the stack. Slots above the top of the stack are hidden away, but still retain any numbers written to them. All slots are initially zero. Register S is also initially zero: it points to the bottom slot, indicating an empty stack.
 

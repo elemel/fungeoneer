@@ -1,3 +1,3 @@
 # Answer to Chapter 8: Shoreline
 
-You leave the dungeon after 25196 steps.
+You leave the dungeon after 25,196 steps.

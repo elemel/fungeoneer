@@ -251,14 +251,9 @@ This dungeon contains tiles with bitwise operators: bitwise complement (marked `
 
 The binary operators handle arguments and results in the same way as the arithmetic operators (`+`, `-`, `*`, `/`, and `%`). Bitwise complement is also similar, but pops only one argument from the stack.
 
-All bitwise operators reinterpret the arguments as unsigned 32-bit integers after popping them from the stack, then operate on them as unsigned 32-bit integers, and finally reinterpret the result as a signed 32-bit integer before pushing it onto the stack.
+Bitwise shift means shifting `a` to the left by `b % 32` bit positions. The shift is circular: bits that disappear on one side reappear on the other.
 
-Bitwise shift has the following effects:
-
-1. Pop an argument `b` from the stack.
-2. Pop another argument `a`.
-3. Shift `a` to the left by `b % 32` bit positions. Any bits that shift out to the left will wrap around to the right.
-4. Push the result `c` onto the stack.
+All bitwise operators reinterpret their arguments as unsigned 32-bit integers after popping them from the stack. After applying the corresponding operation, the operator reinterprets the result as a signed 32-bit integer before pushing it onto the stack.
 
 After how many steps do you leave the dungeon?
 

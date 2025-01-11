@@ -10,6 +10,7 @@
 - [Chapter 5: Knapsack](chapters/knapsack.md)
 - [Chapter 6: Octagram](chapters/octagram.md)
 - [Chapter 7: Cornucopia](chapters/cornucopia.md)
+- [Chapter 8: Shoreline](chapters/shoreline.md)
 
 
 ## Answers
@@ -21,3 +22,4 @@
 - [Answer to Chapter 5: Knapsack](answers/knapsack.md)
 - [Answer to Chapter 6: Octagram](answers/octagram.md)
 - [Answer to Chapter 7: Cornucopia](answers/cornucopia.md)
+- [Answer to Chapter 8: Shoreline](answers/shoreline.md)

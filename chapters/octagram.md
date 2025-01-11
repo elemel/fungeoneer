@@ -1,8 +1,8 @@
 # Chapter 6: Octagram
 
-You have entered the sixth dungeon. You stand at the bottom of the staircase where you entered, facing east. A skeleton is slumped against the staircase. From its bony fist, suspended on a chain, hangs a revolutionary compass. You retrieve it with caution.
+You have entered the sixth dungeon. You stand at the bottom of the staircase where you entered, facing east. A skeleton is slumped against the staircase. From its bony fist, suspended on a chain, hangs a revolutionary compass. You cautiosly retrieve it.
 
-The compass tracks your clockwise rotation in octants (increments of 45 degrees), starting at zero for east. Full revolutions, each composed of eight octants, also accumulate into the tracked rotation. Turning left counts as counter-clockwise rotation (negative), while turning right counts as clockwise rotation (positive).
+The compass tracks your clockwise rotation in octants (increments of 45 degrees), starting at zero for east. Full revolutions, each composed of eight octants, also accumulate into the rotation. Turning left counts as counter-clockwise rotation (negative), while turning right counts as clockwise rotation (positive).
 
 With the compass slung around your neck as a makeshift register R, you turn your attention to the map:
 
@@ -170,11 +170,11 @@ b/UEL[udC<)d#eqB]LX]vG#{##oI#(=tRFa4%7KgB3ULzkRFm7w<8*.}K}btU(#wl+L/e)**Uj[)4=
 ###[#][{<=[####}#[##]########(((#}#{)#[({]#[{#]{}#{=[([##{<=#[]R{)[]##[[R{R)R{
 ```
 
-This dungeon contains wall tiles for turning diagonally (marked `{`, `(`, `)`, or `}` on the map), along with getters (marked `r`) and setters (marked `R`) for register R.
+This dungeon contains wall tiles for turning diagonally (marked `{`, `(`, `)`, or `}` on the map), along with getters and setters for register R (marked `r` or `R`).
 
-Your facing direction can now also be diagonal: southeast, southwest, northwest, or northeast. As before, whenever you would step onto a wall tile, stay and turn instead. For a `{` tile, turn 135 degrees left. For a `(` tile, turn 45 degrees left. For a `)` tile, turn 45 degrees right. For a `}` tile, turn 135 degrees right.
+Your direction can now also be diagonal: southeast, southwest, northwest, or northeast. As before, whenever you would step onto a wall tile, stay and turn instead. For a `{` tile, turn 135 degrees left. For a `(` tile, turn 45 degrees left. For a `)` tile, turn 45 degrees right. For a `}` tile, turn 135 degrees right.
 
-Whenever you step onto an `r` tile (getter), get your rotation as a number, then push that number onto the stack. For an `R` tile (setter), pop a number from the stack, then set your rotation to that number, changing your facing direction accordingly.
+Whenever you step onto an `r` tile, get your rotation as a number, then push that number onto the stack. For an `R` tile, pop a number from the stack, then set your rotation to that number, changing your direction accordingly.
 
 After how many steps do you leave the dungeon?
 

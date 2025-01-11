@@ -4,7 +4,7 @@ You have entered the seventh dungeon. You stand at the bottom of the staircase w
 
 The line of credit reconfigures your purse as register S. This register serves as both stack size and stack pointer. The stack now contains many slots, indexed from zero, with register S always pointing to the slot just above the top of the stack. Slots above the top of the stack are hidden away, but still retain any numbers written to them. All slots are initially zero. Register S is also initially zero: it points to the bottom slot, indicating an empty stack.
 
-The definitions of pushing and popping have changed. Pushing writes a number to slot S, then increments S. Popping decrements S, then reads a number from slot S. Even under these changed definitions, pushing and popping still work as before in practice.
+The principles of pushing and popping are revealed. Pushing writes a number to slot S, then increments S. Popping decrements S, then reads a number from slot S. Nevertheless, pushing and popping work as before in practice.
 
 With plenty of challenges ahead, you study the map:
 
@@ -199,11 +199,11 @@ q##<XW4F.c/x.):i{n0X3(4#[C0U1RiuDZq,;7OV)}H6ztke.x::S)9BvYZ-x-}G-%I%-][}KRn###
 {##}QQM1s3=(}]}}({([)}(}#{)0=#[{)#[}[)[{}###=={##({})#{}((({(({}({(}}###])])##
 ```
 
-This dungeon contains tiles with stack operations (marked `:`, `;`, or `,` on the map), along with getters (marked `s`) and setters (marked `S`) for register S.
+This dungeon contains tiles with stack operations (marked `:`, `;`, or `,` on the map), along with getters and setters for register S (marked `s` or `S`).
 
-Whenever you step onto a `:` tile, duplicate the top number on the stack. For a `;` tile, swap the top two numbers on the stack. For a `,` tile, pop and discard the top number on the stack.
+Whenever you step onto a `:` tile, duplicate the number at the top of the stack. For a `;` tile, swap the two numbers at the top. For a `,` tile, discard the number at the top.
 
-Whenever you step onto an `s` tile (getter), get the stack pointer as a number, then push that number onto the stack. For an `S` tile (setter), pop a number from the stack, then set the stack pointer to that number.
+Whenever you step onto an `s` tile, get the stack size as a number, then push that number onto the stack. For an `S` tile, pop a number from the stack, then set the stack size to that number. This effectively only changes the stack pointer, while leaving the slots and their numbers unchanged, except for which slots are hidden.
 
 After how many steps do you leave the dungeon?
 

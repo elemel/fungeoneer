@@ -1,12 +1,12 @@
 # Chapter 7: Cornucopia
 
-You have entered the seventh dungeon. You stand at the bottom of the staircase where you entered, facing east. A gnome sits on the bottom stair, sipping from a flask. As he looks up at you, then to the purse of stacking on your belt, you recognize him as the cartographer from the first dungeon. He leans forward, as if about to speak. With a magic marker and a flick of the wrist, he scribbles a line of credit onto your purse. He pauses for a moment. Sitting back, he takes another sip.
+You have entered the seventh dungeon. You stand at the bottom of the staircase where you entered, facing east. A gnome sits on the bottom stair, sipping from a flask. As he looks up at you, then down at the purse of stacking on your belt, you recognize him as the cartographer from the first dungeon. He leans forward, as if about to speak. With a magic marker and a flick of the wrist, he scribbles a line of credit onto your purse, in the shape of register S. He pauses for a moment. Sitting back, he takes another sip.
 
-The line of credit reconfigures your purse as register S. This register serves as both stack size and stack pointer. The stack now contains many slots, indexed from zero, with register S always pointing to the slot just above the top of the stack. Slots above the top of the stack are hidden away, but still retain any numbers written to them. All slots are initially zero. Register S is also initially zero: it points to the bottom slot, indicating an empty stack.
+The stack is only a window into the bottom of a towering column of slots, indexed from zero. The top of the column remains hidden. As the stack grows or shrinks, more or less of the column is revealed, without any slots in the column being added, moved, or removed. Whether hidden or revealed, each slot retains any number written to it. All slots are initially zero.
 
-The principles of pushing and popping are revealed. Pushing writes a number to slot S, then increments S. Popping decrements S, then reads a number from slot S. Nevertheless, pushing and popping work as before in practice.
+Register S serves as both stack size and stack pointer. It always points to the slot just above the top of the stack. Initially, register S points to the bottom slot, indicating an empty stack. Pushing writes a number to slot S, then increments S. Popping decrements S, then reads a number from slot S. Nevertheless, both pushing and popping work as before in practice.
 
-With plenty of challenges ahead, you study the map:
+With plenty of challenges ahead, you consult the map:
 
 ```
 {=#}({]}(##}#]{}(#)R##](][)]}{=4cO2=}Rc5=#R{((((]{#}{)}}]{(=)[(#R]{([{{#]}([(]

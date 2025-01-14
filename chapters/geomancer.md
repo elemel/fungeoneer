@@ -301,7 +301,7 @@ RvN9U~~YR0=e<Q(gLB"#|"A0]FR(~x^""""y\wnp9a#yOmy~}"#"M3hO}sljC(TF8kl-"Ha(Qi\"eR
 [{}{##{R-ZR{{]})}#[[}RR##]#({=R{(P({]#{{))]]R#=]#}8=##(}{[]R}#(}P#(_R]#(=[)[R(
 ```
 
-This dungeon contains readers (marked `?` on the map) and writers (marked `!`).
+This dungeon contains reader tiles (marked `?` on the map) and writer tiles (marked `!`).
 
 Whenever you step onto a reader tile, pop a number `a` from the stack. Find the tile at position `a`, then get the extended ASCII code of that tile as another number `b`. Finally, push `b` onto the stack.
 

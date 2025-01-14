@@ -1,6 +1,6 @@
 # Chapter 9: Grain
 
-You have entered the ninth dungeon. You scrutinize the map:
+You have entered the ninth dungeon. You stand at the bottom of the staircase where you entered, facing east. Questioning the fabric of reality, you scrutinize the map:
 
 ```
 [][((})]##[{=#][(#R=P][R){##{#[)]#}##}==DOKedR}{(#(k2gR(#=##}(=}=y/&H](]{}###{
@@ -251,16 +251,16 @@ This dungeon contains tiles with bitwise operators: bitwise complement (marked `
 
 The binary operators handle arguments and results in the same way as the arithmetic operators (`+`, `-`, `*`, `/`, and `%`). Bitwise complement is also similar, but pops only one argument from the stack.
 
-Bitwise shift means shifting `a` to the left by `b % 32` bit positions. The shift is circular: bits that disappear on one side reappear on the other.
+Bitwise shift moves the bits of `a` to the left by `b % 32` bit positions. The shift is circular: bits that disappear on one side reappear on the other.
 
-All bitwise operators reinterpret their arguments as unsigned 32-bit integers after popping them from the stack. After applying the corresponding operation, the operator reinterprets the result as a signed 32-bit integer before pushing it onto the stack.
+The bitwise operators reinterpret their arguments as unsigned 32-bit integers after popping them from the stack. Then they apply the corresponding operations to the arguments. Finally, each operator reinterprets the result as a signed 32-bit integer before pushing it onto the stack.
 
 After how many steps do you leave the dungeon?
 
 
 ## Example
 
-Consider a smaller dungeon:
+Consider an example dungeon:
 
 ```
 #}#[{{[]]{{)##{
@@ -270,7 +270,7 @@ Consider a smaller dungeon:
 ##}{[)=}=&9s3~(
 ```
 
-Below is a log of walking through the smaller dungeon. Your location is marked `@` on the map.
+Below is a log of walking through the example dungeon. Your location is marked `@` on the map.
 
 ```
 Step count: 0
@@ -2996,4 +2996,4 @@ Stack (9):
   ...
 ```
 
-You leave the smaller dungeon after 93 steps.
+You leave the example dungeon after 93 steps.

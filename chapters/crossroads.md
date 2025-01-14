@@ -96,7 +96,7 @@ After how many steps do you leave the dungeon?
 
 ## Example
 
-Consider a smaller dungeon:
+Consider an example dungeon:
 
 ```
 #####[#=15]#[##
@@ -106,7 +106,7 @@ Consider a smaller dungeon:
 #[#######]=####
 ```
 
-Below is a log of walking through the smaller dungeon. The stack is shown only when non-empty. Your location is marked `@` on the map.
+Below is a log of walking through the example dungeon. The stack is shown only when non-empty. Your location is marked `@` on the map.
 
 ```
 Step count: 0
@@ -1448,4 +1448,4 @@ Stack (25):
   ...
 ```
 
-You leave the smaller dungeon after 71 steps.
+You leave the example dungeon after 71 steps.

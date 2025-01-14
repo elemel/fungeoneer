@@ -42,7 +42,7 @@ As demonstrated by the gnome, you leave the dungeon by stepping onto the stairca
 
 ## Example
 
-Consider a smaller dungeon:
+Consider an example dungeon:
 
 ```
 #####][#####][#
@@ -52,7 +52,7 @@ Consider a smaller dungeon:
 ############[]#
 ```
 
-Below is a log of walking through the smaller dungeon. Your coordinates are shown as `(x, y)`, and your location is marked `@` on the map.
+Below is a log of walking through the example dungeon. Your coordinates are shown as `(x, y)`, and your location is marked `@` on the map.
 
 ```
 Step count: 0
@@ -683,4 +683,4 @@ Step count: 48
 Direction: East
 ```
 
-You leave the smaller dungeon after 48 steps.
+You leave the example dungeon after 48 steps.

@@ -2,11 +2,11 @@
 
 You have entered the seventh dungeon. You stand at the bottom of the staircase where you entered, facing east. A gnome sits on the bottom stair, sipping from a flask. As he looks up at you, then down at the purse of stacking on your belt, you recognize him as the cartographer from the first dungeon. He leans forward, as if about to speak. With a magic marker and a flick of the wrist, he scribbles a line of credit onto your purse, in the shape of register S. He pauses for a moment. Sitting back, he takes another sip.
 
-The stack is only a window into the bottom of a towering column of slots, indexed from zero. The top of the column remains hidden. As the stack grows or shrinks, more or less of the column is revealed, without any slots in the column being added, moved, or removed. Whether hidden or revealed, each slot retains any number written to it. All slots are initially zero.
+The stack is only a window into the bottom of a towering column of slots, indexed from zero. Above the stack, the top of the column remains hidden. As the stack grows or shrinks, more or less of the column is revealed, without any slots in the column being added, moved, or removed. Whether hidden or revealed, each slot retains any number written to it. All slots are initially zero.
 
 Register S serves as both stack size and stack pointer. It always points to the slot just above the top of the stack. Initially, register S points to the bottom slot, indicating an empty stack. Pushing writes a number to slot S, then increments S. Popping decrements S, then reads a number from slot S. Nevertheless, both pushing and popping work as before in practice.
 
-With plenty of challenges ahead, you consult the map:
+With plenty of challenges ahead, you scan the rows and columns of the map:
 
 ```
 {=#}({]}(##}#]{}(#)R##](][)]}{=4cO2=}Rc5=#R{((((]{#}{)}}]{(=)[(#R]{([{{#]}([(]
@@ -210,7 +210,7 @@ After how many steps do you leave the dungeon?
 
 ## Example
 
-Consider a smaller dungeon:
+Consider an example dungeon:
 
 ```
 )]{(R{=(64sRr2=
@@ -220,7 +220,7 @@ Consider a smaller dungeon:
 [R=9s9{{{[###[)
 ```
 
-Below is a log of walking through the smaller dungeon. The hidden slots above the top of the stack are shown as `(n)`. Your location is marked `@` on the map.
+Below is a log of walking through the example dungeon. The hidden slots above the stack are shown as `(n)`. Your location is marked `@` on the map.
 
 ```
 Step count: 0
@@ -3064,4 +3064,4 @@ Stack (13):
   ...
 ```
 
-You leave the smaller dungeon after 99 steps.
+You leave the example dungeon after 99 steps.

@@ -12,6 +12,7 @@
 - [Chapter 7: Cornucopia](chapters/cornucopia.md)
 - [Chapter 8: Shoreline](chapters/shoreline.md)
 - [Chapter 9: Grain](chapters/grain.md)
+- [Chapter 10: Simulacrum](chapters/simulacrum.md)
 
 
 ## Answers
@@ -25,3 +26,4 @@
 - [Answer to Chapter 7: Cornucopia](answers/cornucopia.md)
 - [Answer to Chapter 8: Shoreline](answers/shoreline.md)
 - [Answer to Chapter 9: Grain](answers/grain.md)
+- [Answer to Chapter 10: Simulacrum](answers/simulacrum.md)

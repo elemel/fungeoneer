@@ -148,7 +148,7 @@ After how many steps do you leave the dungeon?
 
 ## Example
 
-Consider a smaller dungeon with registers A, B, and C:
+Consider an example dungeon with registers A, B, and C:
 
 ```
 [8ABCc1.A739=8=
@@ -158,7 +158,7 @@ Consider a smaller dungeon with registers A, B, and C:
 []##=380.a[####
 ```
 
-Below is a log of walking through the smaller dungeon. Only non-zero registers are shown. Your location is marked `@` on the map.
+Below is a log of walking through the example dungeon. Only non-zero registers are shown. Your location is marked `@` on the map.
 
 ```
 Step count: 0
@@ -1779,4 +1779,4 @@ Stack (16):
   ...
 ```
 
-You leave the smaller dungeon after 72 steps.
+You leave the example dungeon after 72 steps.

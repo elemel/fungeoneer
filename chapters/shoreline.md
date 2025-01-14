@@ -233,7 +233,7 @@ You leave the dungeon when your position is negative after a completed step. Aft
 
 ## Example
 
-Consider a smaller dungeon:
+Consider an example dungeon:
 
 ```
 #=(#=9423S)){(#
@@ -243,7 +243,7 @@ _#S=2PR(s=p6]2#
 [==2R#(}])###_#
 ```
 
-Below is a log of walking through the smaller dungeon. Your location is marked `@` on the map.
+Below is a log of walking through the example dungeon. Your location is marked `@` on the map.
 
 ```
 Step count: 0
@@ -2601,4 +2601,4 @@ Stack (3):
   0
 ```
 
-You leave the smaller dungeon after 80 steps.
+You leave the example dungeon after 80 steps.

@@ -1,6 +1,6 @@
 # Chapter 4: Runecraft
 
-You have entered the fourth dungeon. You stand at the bottom of the staircase where you entered, facing east. You study the map:
+You have entered the fourth dungeon. You stand at the bottom of the staircase where you entered, facing east. You study the symbols on the map:
 
 ```
 ##=8>#[99/+413*06%99=##[.=##[7=]##[[==00.326371]##[#>0*7]]###==#[###>=#][3.=##
@@ -129,7 +129,7 @@ After how many steps do you leave the dungeon?
 
 ## Example
 
-Consider a smaller dungeon:
+Consider an example dungeon:
 
 ```
 #[=+2+682/*92=#
@@ -139,7 +139,7 @@ Consider a smaller dungeon:
 ##]##[]4+*5=#=[
 ```
 
-Below is a log of walking through the smaller dungeon. Your location is marked `@` on the map.
+Below is a log of walking through the example dungeon. Your location is marked `@` on the map.
 
 ```
 Step count: 0
@@ -1727,4 +1727,4 @@ Stack (4):
   ...
 ```
 
-You leave the smaller dungeon after 86 steps.
+You leave the example dungeon after 86 steps.

@@ -181,7 +181,7 @@ After how many steps do you leave the dungeon?
 
 ## Example
 
-Consider a smaller dungeon:
+Consider an example dungeon:
 
 ```
 #R=98Rr={}(8r=#
@@ -191,7 +191,7 @@ R9.1.[54541R<1]
 #[)=[)]([][)R#(
 ```
 
-Below is a log of walking through the smaller dungeon. Your location is marked `@` on the map.
+Below is a log of walking through the example dungeon. Your location is marked `@` on the map.
 
 ```
 Step count: 0
@@ -2460,4 +2460,4 @@ Stack (29):
   ...
 ```
 
-You leave the smaller dungeon after 106 steps.
+You leave the example dungeon after 106 steps.

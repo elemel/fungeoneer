@@ -67,7 +67,7 @@ After how many steps do you leave the dungeon?
 
 ## Example
 
-Consider a smaller dungeon:
+Consider an example dungeon:
 
 ```
 ####]]###][#[##
@@ -83,7 +83,7 @@ Consider a smaller dungeon:
 #####[]##]#####
 ```
 
-Below is a log of walking through the smaller dungeon. Your coordinates are shown as `(x, y, z)`, and your location is marked `@` on the map.
+Below is a log of walking through the example dungeon. Your coordinates are shown as `(x, y, z)`, and your location is marked `@` on the map.
 
 ```
 Step count: 0
@@ -1299,4 +1299,4 @@ Step count: 93
 Direction: North
 ```
 
-You leave the smaller dungeon after 93 steps.
+You leave the example dungeon after 93 steps.

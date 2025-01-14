@@ -1,6 +1,6 @@
 # Chapter 10: Simulacrum
 
-You have entered the tenth dungeon. You stand at the bottom of the staircase where you entered, facing east. You study the map:
+You have entered the tenth dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
 
 ```
 #{BR}##{R()]](==(RsR}R{#[((_#)}))}({]#}({[(#{))[RRozRLKBl""MF*~w]{=KjsEQFRS'[}
@@ -274,9 +274,9 @@ Fgl-LyIN3B-mx8-naA&UXOC[#B2RfTr""L{6'(<5#w8X#k(0FIN9.e563R})BYwJti]N=5p71fj<H{
 {{]##)=##R[]P##<^u9"}(=-oZy/Kb[}"olr(({#(]#({RjtEw=}=#([[[=nqXWo-L8Fe-\""jTwO[
 ```
 
-This dungeon contains stash tiles (marked `'` on the map), mimic tiles (marked `$`), and passage tiles (marked `"`). Whenever you step onto a stash tile, move forward to the next tile immediately, then push the ASCII code of that tile onto the stack. This counts as a single step, and lets you stand on any tile, including wall tiles.
+This dungeon contains stash tiles (marked `'` on the map), mimic tiles (marked `$`), and passage tiles (marked `"`). Whenever you step onto a stash tile, move forward to the next tile immediately, then push the extended ASCII code (0 through 255) of that tile onto the stack. This counts as a single step, and lets you stand on any tile, including wall tiles.
 
-Whenever you step onto a mimic tile, pop a number from the stack. Act as if you stepped onto a tile with that number as ASCII code. For a wall tile, move backward to the tile before the mimic tile, then turn as specified by the wall tile. This counts as a single step.
+Whenever you step onto a mimic tile, pop a number from the stack. Act as if you stepped onto a tile with that number as extended ASCII code. For a wall tile, move backward to the tile before the mimic tile, then turn as specified by the wall tile. This counts as a single step.
 
 Whenever you step onto a passage tile, search for the next passage tile in your facing direction. If you find one, push your position onto the stack, then move to the other passage tile, and finally push your position onto the stack again. This counts as a single step, and lets you pass through any tile, including wall tiles.
 

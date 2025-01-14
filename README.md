@@ -13,6 +13,7 @@
 - [Chapter 8: Shoreline](chapters/shoreline.md)
 - [Chapter 9: Grain](chapters/grain.md)
 - [Chapter 10: Simulacrum](chapters/simulacrum.md)
+- [Chapter 11: Geomancer](chapters/geomancer.md)
 
 
 ## Answers
@@ -27,3 +28,4 @@
 - [Answer to Chapter 8: Shoreline](answers/shoreline.md)
 - [Answer to Chapter 9: Grain](answers/grain.md)
 - [Answer to Chapter 10: Simulacrum](answers/simulacrum.md)
+- [Answer to Chapter 11: Geomancer](answers/geomancer.md)

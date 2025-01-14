@@ -307,6 +307,8 @@ Whenever you step onto a reader tile, pop a number `a` from the stack. Find the 
 
 Whenever you step onto a writer tile, pop two numbers from the stack: first `b`, then `a`. Find the tile at position `a`, then set the extended ASCII code of that tile to `b % 256`.
 
+After how many steps do you leave the dungeon?
+
 
 ## Example
 

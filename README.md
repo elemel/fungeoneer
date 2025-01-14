@@ -1,6 +1,6 @@
 # Call of the Fungeon
 
-> Over winding, withered lines<br>
+> Over cracked and withered lines<br>
 > Under earth stretched far and wide<br>
 > As a starless nether sky<br>
 > I have wandered through these chambers<br>

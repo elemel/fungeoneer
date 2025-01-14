@@ -2,7 +2,7 @@
 
 > Over winding, withered lines<br>
 > Under earth stretched far and wide<br>
-> As an endless, nether sky<br>
+> As a starless nether sky<br>
 > I have wandered through these chambers<br>
 > With the embers of my temper<br>
 > For as long as I remember

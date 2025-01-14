@@ -1,6 +1,6 @@
 # Chapter 4: Runecraft
 
-You have entered the fourth dungeon. You stand at the bottom of the staircase where you entered, facing east. You study the symbols on the map:
+You have entered the fourth dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
 
 ```
 ##=8>#[99/+413*06%99=##[.=##[7=]##[[==00.326371]##[#>0*7]]###==#[###>=#][3.=##

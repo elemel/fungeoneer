@@ -6,7 +6,7 @@ The stack is only a window into the bottom of a towering column of slots, indexe
 
 Register S serves as both stack size and stack pointer. It always points to the slot just above the top of the stack. Initially, register S points to the bottom slot, indicating an empty stack. Pushing writes a number to slot S, then increments S. Popping decrements S, then reads a number from slot S. Nevertheless, both pushing and popping work as before in practice.
 
-With plenty of challenges ahead, you scan the rows and columns of the map:
+With plenty of challenges ahead, you consult the map:
 
 ```
 {=#}({]}(##}#]{}(#)R##](][)]}{=4cO2=}Rc5=#R{((((]{#}{)}}]{(=)[(#R]{([{{#]}([(]

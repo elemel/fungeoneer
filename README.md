@@ -8,8 +8,9 @@
 > For as long as I remember
 
 
-## Chapters
+## Table of Contents
 
+- [Overworld](overworld.md)
 - [Chapter 1: Wallflower](chapters/wallflower.md)
 - [Chapter 2: Staredown](chapters/staredown.md)
 - [Chapter 3: Crossroads](chapters/crossroads.md)
@@ -21,6 +22,7 @@
 - [Chapter 9: Grain](chapters/grain.md)
 - [Chapter 10: Simulacrum](chapters/simulacrum.md)
 - [Chapter 11: Geomancer](chapters/geomancer.md)
+- [Afterworld](afterworld.md)
 
 
 ## Answers

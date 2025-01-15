@@ -1,10 +1,10 @@
 # Call of the Fungeon
 
-> Under earth stretched far and wide<br>
-> As a netherworldly sky<br>
+> Underneath a sunken sky<br>
+> As it stretches far and wide<br>
 > I have wandered through these chambers<br>
-> Over cracked and withered lines<br>
 > With the embers of my temper<br>
+> Over cracked and withered lines<br>
 > For as long as I remember
 
 

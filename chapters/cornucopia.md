@@ -1,6 +1,6 @@
 # Chapter 7: Cornucopia
 
-You have entered the seventh dungeon. You stand at the bottom of the staircase where you entered, facing east. A gnome sits on the bottom stair, sipping from a flask. As he looks up at you, then down at the purse of stacking on your belt, you recognize him as the cartographer from the first dungeon. He leans forward, as if about to speak. With a magic marker and a flick of the wrist, he scribbles a line of credit onto your purse, in the shape of register S. He pauses for a moment. Sitting back, he takes another sip.
+You have entered the seventh dungeon. You stand at the bottom of the staircase where you entered, facing east. A gnome sits on the bottom stair, sipping from a flask of mushroom brew. As he looks up at you, then down at the purse of stacking on your belt, you recognize him as the cartographer from the first dungeon. He leans forward, as if about to speak. With a magic marker and a flick of the wrist, he scribbles a line of credit onto your purse, in the shape of register S. He pauses for a moment, then sits back, taking another sip.
 
 The stack is only a window into the bottom of a towering column of slots, indexed from zero. Above the stack, the top of the column remains hidden. As the stack grows or shrinks, more or less of the column is revealed, without any slots in the column being added, moved, or removed. Whether hidden or revealed, each slot retains any number written to it. All slots are initially zero.
 

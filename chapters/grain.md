@@ -1,6 +1,6 @@
 # Chapter 9: Grain
 
-You have entered the ninth dungeon. You stand at the bottom of the staircase where you entered, facing east. Questioning the fabric of reality, you scrutinize the map:
+You have entered the ninth dungeon. You stand at the bottom of the staircase where you entered, facing east. Starting to question the fabric of reality, you scrutinize the map:
 
 ```
 [][((})]##[{=#][(#R=P][R){##{#[)]#}##}==DOKedR}{(#(k2gR(#=##}(=}=y/&H](]{}###{

@@ -1,6 +1,6 @@
 # Chapter 11: Geomancer
 
-You have entered the eleventh and last dungeon. You stand at the bottom of the staircase where you entered, facing east. On the bottom stair, you spot an empty flask and a magic marker. You pause for a moment, then sit down on the staircase, taking the marker. You consult the map:
+You have entered the last dungeon. You stand at the bottom of the staircase where you entered, facing east. On the bottom stair, you spot an empty flask and a magic marker. You pause for a moment, then sit down on the staircase, taking the marker. You consult the map:
 
 ```
 {]H+ZF=P_#:5#9UL/Z~nUj%8-=\T-&>#)R?P{#}]}(=]][R1)){}[P[)[{[=#{##[_(Lelci1=)){]

@@ -2,8 +2,8 @@
 
 > Under earth stretched far and wide<br>
 > As a netherworldly sky<br>
-> Over cracked and withered lines<br>
 > I have wandered through these chambers<br>
+> Over cracked and withered lines<br>
 > With the embers of my temper<br>
 > For as long as I remember
 

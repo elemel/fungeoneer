@@ -7,7 +7,7 @@
 > As a keeper of my temper<br>
 > And the favors of a stranger<br>
 > For as long as I remember<br>
-> Trailing the tunnels of time
+> Traversing the tunnels of time
 
 
 ## Table of Contents

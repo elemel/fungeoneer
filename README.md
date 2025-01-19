@@ -1,13 +1,13 @@
 # Call of the Fungeon
 
-> Below an underground sky<br>
-> With a calling to go far and wide<br>
+> Beneath an underground sky<br>
+> Called upon by the other side<br>
 > I have wandered through the chambers<br>
 > And across the withered lines<br>
 > As a keeper of my temper<br>
 > And the favors of a stranger<br>
 > For as long as I remember<br>
-> Traversing the tunnels of time
+> By the everflowing river of time
 
 
 ## Table of Contents

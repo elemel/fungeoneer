@@ -127,7 +127,7 @@ Consider an example dungeon:
 =[[=9=]96495067=
 ```
 
-Below is a log of walking through the example dungeon. The stack is shown only when non-empty. Your location is marked `@` on the map.
+Below is a log of walking through the example dungeon. Your location is marked `@` on the map.
 
 ```
 Step count: 0

@@ -12,7 +12,7 @@
 
 ## Table of Contents
 
-- [Overworld](overworld.md)
+- [Overworld](sections/00)
 - [Chapter 1: Wallflower](chapters/wallflower.md)
 - [Chapter 2: Staredown](chapters/staredown.md)
 - [Chapter 3: Crossroads](chapters/crossroads.md)

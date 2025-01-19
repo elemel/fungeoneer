@@ -1,13 +1,13 @@
 # Call of the Fungeon
 
 > Beneath an underground sky<br>
-> Called upon by the other side<br>
+> On my way to the other side<br>
 > I have wandered through the chambers<br>
 > And across the withered lines<br>
 > As a keeper of my temper<br>
 > And the favors of a stranger<br>
 > For as long as I remember<br>
-> By the everflowing river of time
+> In the everflowing river of time
 
 
 ## Table of Contents

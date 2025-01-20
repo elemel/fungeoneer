@@ -5,7 +5,7 @@
 > I have wandered through the chambers<br>
 > And across the withered lines<br>
 > As a keeper of my temper<br>
-> And the favors of a stranger<br>
+> With the favors of a stranger<br>
 > For as long as I remember<br>
 > By the beating of the heart of time
 

@@ -2,8 +2,8 @@
 
 > Beneath an underground sky<br>
 > On my way to the other side<br>
-> I have wandered through the chambers<br>
-> And across the withered lines<br>
+> I have wandered through these chambers<br>
+> And across these withered lines<br>
 > As a keeper of my temper<br>
 > With the favors of a stranger<br>
 > For as long as I remember<br>

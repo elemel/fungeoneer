@@ -7,7 +7,7 @@
 > As a keeper of my temper<br>
 > And the favors of a stranger<br>
 > For as long as I remember<br>
-> In the everflowing river of time
+> By the everflowing river of time
 
 
 ## Table of Contents

@@ -220,11 +220,14 @@ After how many steps do you leave the dungeon?
 Consider an example dungeon:
 
 ```
-#R=98Rr={}(8r=#
-#{.9({76734R#7#
-R9.1.[54541R<1]
-#(8R747r{5#4{R[
-#[)=[)]([][)R#(
+}(2R9.7r=(:R][[(
+#5].4=){3[9.43R#
+[9{](8]#2]R82]{R
+#=3R3R557:64=7:{
+##5RrR{2{{6:{52#
+#:[623)[r]{5}#2{
+[239===6#]<)4##R
+}=)(##(}#]#}#}#}
 ```
 
 Below is a log of walking through the example dungeon. Your location is marked `@` on the map.

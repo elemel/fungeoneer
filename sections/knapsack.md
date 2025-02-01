@@ -169,7 +169,7 @@ uhvb-=4utWG.i*W-eTMw/Kb+HNYT8Uq:OWE1:T[j#H.w=-mJ-.7kU8TZ66%U:[Ty
 ]oM/nkg.Z-C9%vAW*w=]<#[=hexlXFKFg*CDtqz5O*V6IbuftX<#=l4cX-:u+1[]
 ```
 
-This dungeon contains tiles with getters (marked by lowercase letters on the map) and setters (marked by uppercase letters). These tiles operate on a registry of compartments in the purse of stacking. As register names are case-insensitive, both `a` and `A` refer to register A. All registers start at zero. The registers P, R, and S are missing from the knapsack and the map.
+This dungeon contains tiles with getters (marked by lowercase letters on the map) and setters (marked by uppercase letters). These tiles operate on a registry of compartments in the purse of stacking. As register names are case-insensitive, both `a` and `A` refer to register A. All registers start at zero. The registers P, R, and S are missing from the purse and the map.
 
 Whenever you step onto a getter tile, get a number from the corresponding register, then push that number onto the stack. For a setter tile, pop a number from the stack, then set the corresponding register to that number.
 

@@ -181,20 +181,23 @@ After how many steps do you leave the dungeon?
 Consider an example dungeon with registers A, B, and C:
 
 ```
-[8ABCc1.A739=8=
-=A0..][#<5727[.
-=174C9a##]##]#6
-=8c0a67[#a60c2=
-[]##=380.a[####
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 ```
 
 Below is a log of walking through the example dungeon. Only non-zero registers are shown. Your location is marked `@` on the map.
 
 ```
 Step count: 0
-Coordinates: (3, 5, 0)
+Coordinates: (5, 4, 0)
 Direction: East
-Next symbol: 3
+Next symbol: c
 
 Stack:
   [Empty]
@@ -202,884 +205,913 @@ Stack:
 Non-zero registers:
   [None]
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#@3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c@cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 1
-Coordinates: (4, 5, 0)
+Coordinates: (6, 4, 0)
 Direction: East
-Next symbol: a
+Next symbol: c
 
 Stack:
-  3 [Top]
+  0 [Top]
 
 Non-zero registers:
   [None]
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<@a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<@c792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 2
-Coordinates: (5, 5, 0)
+Coordinates: (7, 4, 0)
 Direction: East
-Next symbol: 9
+Next symbol: 7
 
 Stack:
   0 [Top]
-  3
+  0
 
 Non-zero registers:
   [None]
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3@9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<c@792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 3
-Coordinates: (6, 5, 0)
-Direction: East
-Next symbol: [
-
-Stack:
-  9 [Top]
-  0
-  3
-
-Non-zero registers:
-  [None]
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a@[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 4
-Coordinates: (6, 5, 0)
-Direction: North
-Next symbol: =
-
-Stack:
-  9 [Top]
-  0
-  3
-
-Non-zero registers:
-  [None]
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a@[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 5
-Coordinates: (6, 4, 0)
-Direction: West
-Next symbol: c
-
-Stack:
-  3 [Top]
-
-Non-zero registers:
-  [None]
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c@3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 6
-Coordinates: (5, 4, 0)
-Direction: West
-Next symbol: 6
-
-Stack:
-  0 [Top]
-  3
-
-Non-zero registers:
-  [None]
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46@=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 7
-Coordinates: (4, 4, 0)
-Direction: West
-Next symbol: 4
-
-Stack:
-  6 [Top]
-  0
-  3
-
-Non-zero registers:
-  [None]
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a4@c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 8
-Coordinates: (3, 4, 0)
-Direction: West
-Next symbol: a
-
-Stack:
-  4 [Top]
-  6
-  0
-  3
-
-Non-zero registers:
-  [None]
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a@6c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 9
-Coordinates: (2, 4, 0)
-Direction: West
-Next symbol: 6
-
-Stack:
-  0 [Top]
-  4
-  6
-  0
-  ...
-
-Non-zero registers:
-  [None]
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6@46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 10
-Coordinates: (1, 4, 0)
-Direction: West
-Next symbol: =
-
-Stack:
-  6 [Top]
-  0
-  4
-  6
-  ...
-
-Non-zero registers:
-  [None]
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=@a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 11
-Coordinates: (0, 4, 0)
-Direction: South
-Next symbol: A
-
-Stack:
-  4 [Top]
-  6
-  0
-  3
-
-Non-zero registers:
-  [None]
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-@6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 12
-Coordinates: (0, 5, 0)
-Direction: South
-Next symbol: A
-
-Stack:
-  6 [Top]
-  0
-  3
-
-Non-zero registers:
-  A: 4
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-@a#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 13
-Coordinates: (0, 6, 0)
-Direction: South
-Next symbol: [
-
-Stack:
-  0 [Top]
-  3
-
-Non-zero registers:
-  A: 6
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-@.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 14
-Coordinates: (0, 6, 0)
-Direction: East
-Next symbol: .
-
-Stack:
-  0 [Top]
-  3
-
-Non-zero registers:
-  A: 6
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-@.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 15
-Coordinates: (1, 6, 0)
-Direction: East
-Next symbol: c
-
-Stack:
-  0 [Top]
-  3
-
-Non-zero registers:
-  A: 6
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A@c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 16
-Coordinates: (2, 6, 0)
+Coordinates: (8, 4, 0)
 Direction: East
 Next symbol: 9
 
 Stack:
-  0 [Top]
+  7 [Top]
   0
-  3
+  0
 
 Non-zero registers:
-  A: 6
+  [None]
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.@9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc@92[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
-Step count: 17
-Coordinates: (3, 6, 0)
+Step count: 4
+Coordinates: (9, 4, 0)
 Direction: East
-Next symbol: c
+Next symbol: 2
 
 Stack:
   9 [Top]
+  7
   0
   0
-  3
 
 Non-zero registers:
-  A: 6
+  [None]
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c@c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc7@2[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
-Step count: 18
-Coordinates: (4, 6, 0)
+Step count: 5
+Coordinates: (10, 4, 0)
 Direction: East
-Next symbol: 0
+Next symbol: [
 
 Stack:
-  0 [Top]
+  2 [Top]
   9
-  0
-  0
-  ...
-
-Non-zero registers:
-  A: 6
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9@0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 19
-Coordinates: (5, 6, 0)
-Direction: East
-Next symbol: b
-
-Stack:
-  0 [Top]
-  0
-  9
+  7
   0
   ...
 
 Non-zero registers:
-  A: 6
+  [None]
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c@b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 20
-Coordinates: (6, 6, 0)
-Direction: East
-Next symbol: 8
-
-Stack:
-  0 [Top]
-  0
-  0
-  9
-  ...
-
-Non-zero registers:
-  A: 6
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0@8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc79@[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
-Step count: 21
-Coordinates: (7, 6, 0)
-Direction: East
-Next symbol: =
-
-Stack:
-  8 [Top]
-  0
-  0
-  0
-  ...
-
-Non-zero registers:
-  A: 6
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b@=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 22
-Coordinates: (8, 6, 0)
+Step count: 6
+Coordinates: (10, 4, 0)
 Direction: North
-Next symbol: =
+Next symbol: 4
 
 Stack:
-  0 [Top]
-  0
+  2 [Top]
   9
+  7
   0
   ...
 
 Non-zero registers:
-  A: 6
+  [None]
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8@B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc79@[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
-Step count: 23
-Coordinates: (8, 5, 0)
+Step count: 7
+Coordinates: (10, 3, 0)
 Direction: North
-Next symbol: c
+Next symbol: 7
 
 Stack:
-  9 [Top]
-  0
-  0
-  3
+  4 [Top]
+  2
+  9
+  7
+  ...
 
 Non-zero registers:
-  A: 6
+  [None]
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[@###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#@.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
-Step count: 24
-Coordinates: (8, 4, 0)
+Step count: 8
+Coordinates: (10, 2, 0)
 Direction: North
+Next symbol: a
+
+Stack:
+  7 [Top]
+  4
+  2
+  9
+  ...
+
+Non-zero registers:
+  [None]
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..@=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 9
+Coordinates: (10, 1, 0)
+Direction: North
+Next symbol: ]
+
+Stack:
+  0 [Top]
+  7
+  4
+  2
+  ...
+
+Non-zero registers:
+  [None]
+
+]#][:=9]##]###=]
+7]5223]###@..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 10
+Coordinates: (10, 1, 0)
+Direction: East
 Next symbol: .
 
 Stack:
   0 [Top]
-  9
-  0
-  0
+  7
+  4
+  2
   ...
 
 Non-zero registers:
-  A: 6
+  [None]
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3@0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###@..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
-Step count: 25
-Coordinates: (8, 3, 0)
-Direction: North
-Next symbol: [
+Step count: 11
+Coordinates: (11, 1, 0)
+Direction: East
+Next symbol: .
 
 Stack:
   0 [Top]
-  9
-  0
-  0
+  7
+  4
+  2
   ...
 
 Non-zero registers:
-  A: 6
+  [None]
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=@]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a@.C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
-Step count: 26
-Coordinates: (8, 3, 0)
+Step count: 12
+Coordinates: (12, 1, 0)
+Direction: East
+Next symbol: C
+
+Stack:
+  0 [Top]
+  7
+  4
+  2
+  ...
+
+Non-zero registers:
+  [None]
+
+]#][:=9]##]###=]
+7]5223]###a.@C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 13
+Coordinates: (13, 1, 0)
+Direction: East
+Next symbol: 3
+
+Stack:
+  7 [Top]
+  4
+  2
+  9
+  ...
+
+Non-zero registers:
+  [None]
+
+]#][:=9]##]###=]
+7]5223]###a..@3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 14
+Coordinates: (14, 1, 0)
+Direction: East
+Next symbol: =
+
+Stack:
+  3 [Top]
+  7
+  4
+  2
+  ...
+
+Non-zero registers:
+  [None]
+
+]#][:=9]##]###=]
+7]5223]###a..C@=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 15
+Coordinates: (15, 1, 0)
+Direction: South
+Next symbol: :
+
+Stack:
+  4 [Top]
+  2
+  9
+  7
+  ...
+
+Non-zero registers:
+  [None]
+
+]#][:=9]##]###=]
+7]5223]###a..C3@
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 16
+Coordinates: (15, 2, 0)
+Direction: South
+Next symbol: ]
+
+Stack:
+  2 [Top]
+  4
+  9
+  7
+  ...
+
+Non-zero registers:
+  [None]
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9@
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 17
+Coordinates: (15, 2, 0)
+Direction: West
+Next symbol: 9
+
+Stack:
+  2 [Top]
+  4
+  9
+  7
+  ...
+
+Non-zero registers:
+  [None]
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9@
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 18
+Coordinates: (14, 2, 0)
+Direction: West
+Next symbol: :
+
+Stack:
+  9 [Top]
+  2
+  4
+  9
+  ...
+
+Non-zero registers:
+  [None]
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:@:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 19
+Coordinates: (13, 2, 0)
+Direction: West
+Next symbol: 4
+
+Stack:
+  2 [Top]
+  9
+  4
+  9
+  ...
+
+Non-zero registers:
+  [None]
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4@9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 20
+Coordinates: (12, 2, 0)
 Direction: West
 Next symbol: =
 
 Stack:
-  0 [Top]
+  4 [Top]
+  2
   9
+  4
+  ...
+
+Non-zero registers:
+  [None]
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=@:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 21
+Coordinates: (11, 2, 0)
+Direction: South
+Next symbol: .
+
+Stack:
+  9 [Top]
+  4
+  9
+  7
+  ...
+
+Non-zero registers:
+  [None]
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7@4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 22
+Coordinates: (11, 3, 0)
+Direction: South
+Next symbol: [
+
+Stack:
+  9 [Top]
+  4
+  9
+  7
+  ...
+
+Non-zero registers:
+  [None]
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4@[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 23
+Coordinates: (11, 3, 0)
+Direction: East
+Next symbol: [
+
+Stack:
+  9 [Top]
+  4
+  9
+  7
+  ...
+
+Non-zero registers:
+  [None]
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4@[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 24
+Coordinates: (11, 3, 0)
+Direction: North
+Next symbol: =
+
+Stack:
+  9 [Top]
+  4
+  9
+  7
+  ...
+
+Non-zero registers:
+  [None]
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4@[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 25
+Coordinates: (11, 2, 0)
+Direction: West
+Next symbol: 7
+
+Stack:
+  9 [Top]
+  7
   0
+  0
+
+Non-zero registers:
+  [None]
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7@4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 26
+Coordinates: (10, 2, 0)
+Direction: West
+Next symbol: .
+
+Stack:
+  7 [Top]
+  9
+  7
   0
   ...
 
 Non-zero registers:
-  A: 6
+  [None]
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=@]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..@=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 27
-Coordinates: (7, 3, 0)
+Coordinates: (9, 2, 0)
+Direction: West
+Next symbol: .
+
+Stack:
+  7 [Top]
+  9
+  7
+  0
+  ...
+
+Non-zero registers:
+  [None]
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6.@7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 28
+Coordinates: (8, 2, 0)
+Direction: West
+Next symbol: 6
+
+Stack:
+  7 [Top]
+  9
+  7
+  0
+  ...
+
+Non-zero registers:
+  [None]
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6@.7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 29
+Coordinates: (7, 2, 0)
+Direction: West
+Next symbol: a
+
+Stack:
+  6 [Top]
+  7
+  9
+  7
+  ...
+
+Non-zero registers:
+  [None]
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a@..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 30
+Coordinates: (6, 2, 0)
+Direction: West
+Next symbol: 6
+
+Stack:
+  0 [Top]
+  6
+  7
+  9
+  ...
+
+Non-zero registers:
+  [None]
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426@6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 31
+Coordinates: (5, 2, 0)
+Direction: West
+Next symbol: 2
+
+Stack:
+  6 [Top]
+  0
+  6
+  7
+  ...
+
+Non-zero registers:
+  [None]
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b42@a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 32
+Coordinates: (4, 2, 0)
+Direction: West
+Next symbol: 4
+
+Stack:
+  2 [Top]
+  6
+  0
+  6
+  ...
+
+Non-zero registers:
+  [None]
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b4@6a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 33
+Coordinates: (3, 2, 0)
+Direction: West
+Next symbol: b
+
+Stack:
+  4 [Top]
+  2
+  6
+  0
+  ...
+
+Non-zero registers:
+  [None]
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b@26a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 34
+Coordinates: (2, 2, 0)
+Direction: West
+Next symbol: ]
+
+Stack:
+  0 [Top]
+  4
+  2
+  6
+  ...
+
+Non-zero registers:
+  [None]
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]@426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 35
+Coordinates: (2, 2, 0)
 Direction: North
 Next symbol: 5
 
 Stack:
   0 [Top]
-  0
-  3
-
-Non-zero registers:
-  A: 6
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB@.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 28
-Coordinates: (7, 2, 0)
-Direction: North
-Next symbol: c
-
-Stack:
-  5 [Top]
-  0
-  0
-  3
-
-Non-zero registers:
-  A: 6
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[2@[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 29
-Coordinates: (7, 1, 0)
-Direction: North
-Next symbol: [
-
-Stack:
-  0 [Top]
-  5
-  0
-  0
+  4
+  2
+  6
   ...
 
 Non-zero registers:
-  A: 6
+  [None]
 
-##][48=[[3=55B0=
-#]4b8A3@242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 30
-Coordinates: (7, 1, 0)
-Direction: West
-Next symbol: 3
-
-Stack:
-  0 [Top]
-  5
-  0
-  0
-  ...
-
-Non-zero registers:
-  A: 6
-
-##][48=[[3=55B0=
-#]4b8A3@242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 31
-Coordinates: (6, 1, 0)
-Direction: West
-Next symbol: A
-
-Stack:
-  3 [Top]
-  0
-  5
-  0
-  ...
-
-Non-zero registers:
-  A: 6
-
-##][48=[[3=55B0=
-#]4b8A@c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 32
-Coordinates: (5, 1, 0)
-Direction: West
-Next symbol: 8
-
-Stack:
-  0 [Top]
-  5
-  0
-  0
-  ...
-
-Non-zero registers:
-  A: 3
-
-##][48=[[3=55B0=
-#]4b8@3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 33
-Coordinates: (4, 1, 0)
-Direction: West
-Next symbol: b
-
-Stack:
-  8 [Top]
-  0
-  5
-  0
-  ...
-
-Non-zero registers:
-  A: 3
-
-##][48=[[3=55B0=
-#]4b@A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 34
-Coordinates: (3, 1, 0)
-Direction: West
-Next symbol: 4
-
-Stack:
-  0 [Top]
-  8
-  0
-  5
-  ...
-
-Non-zero registers:
-  A: 3
-
-##][48=[[3=55B0=
-#]4@8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 35
-Coordinates: (2, 1, 0)
-Direction: West
-Next symbol: ]
-
-Stack:
-  4 [Top]
-  0
-  8
-  0
-  ...
-
-Non-zero registers:
-  A: 3
-
-##][48=[[3=55B0=
-#]@b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]@426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
@@ -1089,2976 +1121,3276 @@ Direction: North
 Next symbol: ]
 
 Stack:
-  4 [Top]
+  5 [Top]
   0
-  8
-  0
+  4
+  2
   ...
 
 Non-zero registers:
-  A: 3
+  [None]
 
-##][48=[[3=55B0=
-#]@b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]@223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 37
 Coordinates: (2, 1, 0)
 Direction: East
-Next symbol: b
+Next symbol: 2
 
 Stack:
-  4 [Top]
+  5 [Top]
   0
-  8
-  0
+  4
+  2
   ...
 
 Non-zero registers:
-  A: 3
+  [None]
 
-##][48=[[3=55B0=
-#]@b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]@223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 38
 Coordinates: (3, 1, 0)
 Direction: East
-Next symbol: 8
+Next symbol: 2
 
 Stack:
-  0 [Top]
-  4
+  2 [Top]
+  5
   0
-  8
+  4
   ...
 
 Non-zero registers:
-  A: 3
+  [None]
 
-##][48=[[3=55B0=
-#]4@8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5@23]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 39
 Coordinates: (4, 1, 0)
 Direction: East
-Next symbol: A
+Next symbol: 3
 
 Stack:
-  8 [Top]
-  0
-  4
+  2 [Top]
+  2
+  5
   0
   ...
 
 Non-zero registers:
-  A: 3
+  [None]
 
-##][48=[[3=55B0=
-#]4b@A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]52@3]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 40
 Coordinates: (5, 1, 0)
 Direction: East
-Next symbol: 3
+Next symbol: ]
 
 Stack:
-  0 [Top]
-  4
-  0
-  8
+  3 [Top]
+  2
+  2
+  5
   ...
 
 Non-zero registers:
-  A: 8
+  [None]
 
-##][48=[[3=55B0=
-#]4b8@3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]522@]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 41
-Coordinates: (6, 1, 0)
-Direction: East
-Next symbol: c
+Coordinates: (5, 1, 0)
+Direction: South
+Next symbol: 6
 
 Stack:
   3 [Top]
-  0
-  4
-  0
+  2
+  2
+  5
   ...
 
 Non-zero registers:
-  A: 8
+  [None]
 
-##][48=[[3=55B0=
-#]4b8A@c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]522@]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 42
-Coordinates: (7, 1, 0)
-Direction: East
-Next symbol: 2
+Coordinates: (5, 2, 0)
+Direction: South
+Next symbol: =
 
 Stack:
-  0 [Top]
+  6 [Top]
   3
-  0
-  4
+  2
+  2
   ...
 
 Non-zero registers:
-  A: 8
+  [None]
 
-##][48=[[3=55B0=
-#]4b8A3@242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b42@a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 43
-Coordinates: (8, 1, 0)
+Coordinates: (5, 3, 0)
 Direction: East
-Next symbol: 4
+Next symbol: 3
 
 Stack:
   2 [Top]
-  0
-  3
+  2
+  5
   0
   ...
 
 Non-zero registers:
-  A: 8
+  [None]
 
-##][48=[[3=55B0=
-#]4b8A3c@42:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c@3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 44
-Coordinates: (9, 1, 0)
+Coordinates: (6, 3, 0)
 Direction: East
-Next symbol: 2
+Next symbol: A
 
 Stack:
-  4 [Top]
+  3 [Top]
   2
-  0
-  3
+  2
+  5
   ...
 
 Non-zero registers:
-  A: 8
+  [None]
 
-##][48=[[3=55B0=
-#]4b8A3c2@2:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=@A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 45
-Coordinates: (10, 1, 0)
+Coordinates: (7, 3, 0)
 Direction: East
-Next symbol: :
+Next symbol: ]
 
 Stack:
   2 [Top]
-  4
   2
+  5
   0
   ...
 
 Non-zero registers:
-  A: 8
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c24@:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3@]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 46
-Coordinates: (11, 1, 0)
-Direction: East
-Next symbol: 3
+Coordinates: (7, 3, 0)
+Direction: South
+Next symbol: c
 
 Stack:
-  4 [Top]
+  2 [Top]
   2
-  2
+  5
   0
   ...
 
 Non-zero registers:
-  A: 8
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242@3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3@]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 47
-Coordinates: (12, 1, 0)
-Direction: East
-Next symbol: c
+Coordinates: (7, 4, 0)
+Direction: South
+Next symbol: 6
 
 Stack:
-  3 [Top]
-  4
+  0 [Top]
   2
   2
+  5
   ...
 
 Non-zero registers:
-  A: 8
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:@c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<c@792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 48
-Coordinates: (13, 1, 0)
-Direction: East
-Next symbol: 3
+Coordinates: (7, 5, 0)
+Direction: South
+Next symbol: [
 
 Stack:
-  0 [Top]
-  3
-  4
+  6 [Top]
+  0
+  2
   2
   ...
 
 Non-zero registers:
-  A: 8
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3@3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C@34cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 49
-Coordinates: (14, 1, 0)
+Coordinates: (7, 5, 0)
 Direction: East
-Next symbol: ]
+Next symbol: 3
 
 Stack:
-  3 [Top]
+  6 [Top]
   0
-  3
-  4
+  2
+  2
   ...
 
 Non-zero registers:
-  A: 8
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c@]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C@34cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 50
-Coordinates: (14, 1, 0)
-Direction: South
-Next symbol: 3
+Coordinates: (8, 5, 0)
+Direction: East
+Next symbol: 4
 
 Stack:
   3 [Top]
+  6
   0
-  3
-  4
+  2
   ...
 
 Non-zero registers:
-  A: 8
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c@]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C6@4cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 51
-Coordinates: (14, 2, 0)
-Direction: South
-Next symbol: 8
+Coordinates: (9, 5, 0)
+Direction: East
+Next symbol: c
 
 Stack:
-  3 [Top]
+  4 [Top]
   3
+  6
   0
-  3
   ...
 
 Non-zero registers:
-  A: 8
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]@#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C63@cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 52
-Coordinates: (14, 3, 0)
-Direction: South
-Next symbol: ]
+Coordinates: (10, 5, 0)
+Direction: East
+Next symbol: b
 
 Stack:
-  8 [Top]
+  0 [Top]
+  4
   3
-  3
-  0
+  6
   ...
 
 Non-zero registers:
-  A: 8
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca@#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634@b:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 53
-Coordinates: (14, 3, 0)
-Direction: West
-Next symbol: a
+Coordinates: (11, 5, 0)
+Direction: East
+Next symbol: :
 
 Stack:
-  8 [Top]
-  3
-  3
+  0 [Top]
   0
+  4
+  3
   ...
 
 Non-zero registers:
-  A: 8
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca@#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634c@:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 54
-Coordinates: (13, 3, 0)
-Direction: West
-Next symbol: C
+Coordinates: (12, 5, 0)
+Direction: East
+Next symbol: 6
 
 Stack:
-  8 [Top]
-  8
-  3
+  0 [Top]
+  0
+  4
   3
   ...
 
 Non-zero registers:
-  A: 8
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4C@8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb@6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 55
-Coordinates: (12, 3, 0)
-Direction: West
-Next symbol: 4
+Coordinates: (13, 5, 0)
+Direction: East
+Next symbol: a
 
 Stack:
-  8 [Top]
-  3
-  3
+  6 [Top]
   0
+  0
+  4
   ...
 
 Non-zero registers:
-  C: 8
-  A: 8
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4@a8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:@a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 56
-Coordinates: (11, 3, 0)
-Direction: West
-Next symbol: a
+Coordinates: (14, 5, 0)
+Direction: East
+Next symbol: [
 
 Stack:
-  4 [Top]
-  8
-  3
-  3
+  3 [Top]
+  6
+  0
+  0
   ...
 
 Non-zero registers:
-  C: 8
-  A: 8
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a@Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6@[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 57
-Coordinates: (10, 3, 0)
-Direction: West
-Next symbol: ]
+Coordinates: (14, 5, 0)
+Direction: North
+Next symbol: C
 
 Stack:
-  8 [Top]
-  4
-  8
-  3
+  3 [Top]
+  6
+  0
+  0
   ...
 
 Non-zero registers:
-  C: 8
-  A: 8
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]@4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6@[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 58
-Coordinates: (10, 3, 0)
+Coordinates: (14, 4, 0)
 Direction: North
-Next symbol: C
+Next symbol: 2
 
 Stack:
-  8 [Top]
+  6 [Top]
+  0
+  0
   4
-  8
-  3
   ...
 
 Non-zero registers:
-  C: 8
-  A: 8
+  C: 3
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]@4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=@#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 59
-Coordinates: (10, 2, 0)
+Coordinates: (14, 3, 0)
 Direction: North
-Next symbol: 2
+Next symbol: 9
 
 Stack:
-  4 [Top]
-  8
-  3
-  3
+  2 [Top]
+  6
+  0
+  0
   ...
 
 Non-zero registers:
-  C: 8
-  A: 8
+  C: 3
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=@1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#@]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 60
-Coordinates: (10, 1, 0)
+Coordinates: (14, 2, 0)
 Direction: North
-Next symbol: =
+Next symbol: 3
 
 Stack:
-  2 [Top]
-  4
-  8
-  3
+  9 [Top]
+  2
+  6
+  0
   ...
 
 Non-zero registers:
-  C: 8
-  A: 8
+  C: 3
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c24@:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:@:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 61
-Coordinates: (10, 0, 0)
-Direction: East
-Next symbol: 5
+Coordinates: (14, 1, 0)
+Direction: North
+Next symbol: =
 
 Stack:
-  8 [Top]
-  3
-  3
-  0
+  3 [Top]
+  9
+  2
+  6
   ...
 
 Non-zero registers:
-  C: 8
-  A: 8
+  C: 3
+  A: 3
 
-##][48=[[3@55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C@=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 62
-Coordinates: (11, 0, 0)
+Coordinates: (14, 0, 0)
 Direction: East
-Next symbol: 5
+Next symbol: ]
 
 Stack:
-  5 [Top]
-  8
-  3
-  3
+  2 [Top]
+  6
+  0
+  0
   ...
 
 Non-zero registers:
-  C: 8
-  A: 8
+  C: 3
+  A: 3
 
-##][48=[[3=@5B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###@]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 63
-Coordinates: (12, 0, 0)
-Direction: East
-Next symbol: B
+Coordinates: (14, 0, 0)
+Direction: South
+Next symbol: 3
 
 Stack:
-  5 [Top]
-  5
-  8
-  3
+  2 [Top]
+  6
+  0
+  0
   ...
 
 Non-zero registers:
-  C: 8
-  A: 8
+  C: 3
+  A: 3
 
-##][48=[[3=5@B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###@]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 64
-Coordinates: (13, 0, 0)
-Direction: East
-Next symbol: 0
+Coordinates: (14, 1, 0)
+Direction: South
+Next symbol: 9
 
 Stack:
-  5 [Top]
-  8
-  3
-  3
+  3 [Top]
+  2
+  6
+  0
   ...
 
 Non-zero registers:
-  C: 8
-  B: 5
-  A: 8
+  C: 3
+  A: 3
 
-##][48=[[3=55@0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C@=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 65
-Coordinates: (14, 0, 0)
-Direction: East
-Next symbol: =
+Coordinates: (14, 2, 0)
+Direction: South
+Next symbol: 2
 
 Stack:
-  0 [Top]
-  5
-  8
+  9 [Top]
   3
+  2
+  6
   ...
 
 Non-zero registers:
-  C: 8
-  B: 5
-  A: 8
+  C: 3
+  A: 3
 
-##][48=[[3=55B@=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:@:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 66
-Coordinates: (15, 0, 0)
+Coordinates: (14, 3, 0)
 Direction: South
-Next symbol: ]
+Next symbol: C
 
 Stack:
-  8 [Top]
+  2 [Top]
+  9
   3
-  3
-  0
+  2
   ...
 
 Non-zero registers:
-  C: 8
-  B: 5
-  A: 8
+  C: 3
+  A: 3
 
-##][48=[[3=55B0@
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#@]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 67
-Coordinates: (15, 0, 0)
-Direction: West
-Next symbol: 0
+Coordinates: (14, 4, 0)
+Direction: South
+Next symbol: a
 
 Stack:
-  8 [Top]
+  9 [Top]
   3
-  3
-  0
+  2
+  6
   ...
 
 Non-zero registers:
-  C: 8
-  B: 5
-  A: 8
+  C: 2
+  A: 3
 
-##][48=[[3=55B0@
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=@#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 68
-Coordinates: (14, 0, 0)
-Direction: West
-Next symbol: B
+Coordinates: (14, 5, 0)
+Direction: South
+Next symbol: .
 
 Stack:
-  0 [Top]
-  8
+  3 [Top]
+  9
   3
-  3
+  2
   ...
 
 Non-zero registers:
-  C: 8
-  B: 5
-  A: 8
+  C: 2
+  A: 3
 
-##][48=[[3=55B@=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6@[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 69
-Coordinates: (13, 0, 0)
-Direction: West
-Next symbol: 5
+Coordinates: (14, 6, 0)
+Direction: South
+Next symbol: =
 
 Stack:
-  8 [Top]
+  3 [Top]
+  9
   3
-  3
-  0
+  2
   ...
 
 Non-zero registers:
-  C: 8
-  A: 8
+  C: 2
+  A: 3
 
-##][48=[[3=55@0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972@#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 70
-Coordinates: (12, 0, 0)
+Coordinates: (14, 7, 0)
 Direction: West
-Next symbol: 5
+Next symbol: .
 
 Stack:
-  5 [Top]
-  8
-  3
-  3
+  3 [Top]
+  2
+  6
+  0
   ...
 
 Non-zero registers:
-  C: 8
-  A: 8
+  C: 2
+  A: 3
 
-##][48=[[3=5@B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].@#
 
 ---
 
 Step count: 71
-Coordinates: (11, 0, 0)
+Coordinates: (13, 7, 0)
 Direction: West
-Next symbol: =
+Next symbol: ]
 
 Stack:
-  5 [Top]
-  5
-  8
-  3
+  3 [Top]
+  2
+  6
+  0
   ...
 
 Non-zero registers:
-  C: 8
-  A: 8
+  C: 2
+  A: 3
 
-##][48=[[3=@5B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==]@=#
 
 ---
 
 Step count: 72
-Coordinates: (10, 0, 0)
-Direction: West
-Next symbol: 3
+Coordinates: (13, 7, 0)
+Direction: North
+Next symbol: 2
 
 Stack:
-  8 [Top]
-  3
-  3
+  3 [Top]
+  2
+  6
   0
   ...
 
 Non-zero registers:
-  C: 8
-  A: 8
+  C: 2
+  A: 3
 
-##][48=[[3@55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==]@=#
 
 ---
 
 Step count: 73
-Coordinates: (9, 0, 0)
-Direction: West
-Next symbol: [
+Coordinates: (13, 6, 0)
+Direction: North
+Next symbol: 6
 
 Stack:
-  3 [Top]
-  8
+  2 [Top]
   3
-  3
+  2
+  6
   ...
 
 Non-zero registers:
-  C: 8
-  A: 8
+  C: 2
+  A: 3
 
-##][48=[[@=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b97@.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 74
-Coordinates: (9, 0, 0)
-Direction: South
-Next symbol: 4
+Coordinates: (13, 5, 0)
+Direction: North
+Next symbol: =
 
 Stack:
-  3 [Top]
-  8
+  6 [Top]
+  2
   3
-  3
+  2
   ...
 
 Non-zero registers:
-  C: 8
-  A: 8
+  C: 2
+  A: 3
 
-##][48=[[@=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:@a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 75
-Coordinates: (9, 1, 0)
-Direction: South
-Next symbol: =
-
-Stack:
-  4 [Top]
-  3
-  8
-  3
-  ...
-
-Non-zero registers:
-  C: 8
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c2@2:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 76
-Coordinates: (9, 2, 0)
-Direction: East
-Next symbol: C
-
-Stack:
-  8 [Top]
-  3
-  3
-  0
-  ...
-
-Non-zero registers:
-  C: 8
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[@C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 77
-Coordinates: (10, 2, 0)
-Direction: East
-Next symbol: 1
-
-Stack:
-  3 [Top]
-  3
-  0
-  3
-  ...
-
-Non-zero registers:
-  C: 8
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=@1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 78
-Coordinates: (11, 2, 0)
-Direction: East
-Next symbol: :
-
-Stack:
-  1 [Top]
-  3
-  3
-  0
-  ...
-
-Non-zero registers:
-  C: 8
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C@:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 79
-Coordinates: (12, 2, 0)
-Direction: East
-Next symbol: ]
-
-Stack:
-  3 [Top]
-  1
-  3
-  0
-  ...
-
-Non-zero registers:
-  C: 8
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1@]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 80
-Coordinates: (12, 2, 0)
-Direction: South
-Next symbol: C
-
-Stack:
-  3 [Top]
-  1
-  3
-  0
-  ...
-
-Non-zero registers:
-  C: 8
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1@]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 81
-Coordinates: (12, 3, 0)
-Direction: South
-Next symbol: 9
-
-Stack:
-  1 [Top]
-  3
-  0
-  3
-  ...
-
-Non-zero registers:
-  C: 3
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4@a8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 82
-Coordinates: (12, 4, 0)
-Direction: South
-Next symbol: =
-
-Stack:
-  9 [Top]
-  1
-  3
-  0
-  ...
-
-Non-zero registers:
-  C: 3
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA@=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 83
-Coordinates: (12, 5, 0)
-Direction: East
-Next symbol: 7
-
-Stack:
-  3 [Top]
-  0
-  3
-  4
-  ...
-
-Non-zero registers:
-  C: 3
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###@75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 84
-Coordinates: (13, 5, 0)
-Direction: East
-Next symbol: 5
-
-Stack:
-  7 [Top]
-  3
-  0
-  3
-  ...
-
-Non-zero registers:
-  C: 3
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=@5=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 85
-Coordinates: (14, 5, 0)
-Direction: East
-Next symbol: =
-
-Stack:
-  5 [Top]
-  7
-  3
-  0
-  ...
-
-Non-zero registers:
-  C: 3
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=7@=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 86
-Coordinates: (15, 5, 0)
-Direction: South
-Next symbol: a
-
-Stack:
-  3 [Top]
-  0
-  3
-  4
-  ...
-
-Non-zero registers:
-  C: 3
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75@
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 87
-Coordinates: (15, 6, 0)
-Direction: South
-Next symbol: ]
-
-Stack:
-  8 [Top]
-  3
-  0
-  3
-  ...
-
-Non-zero registers:
-  C: 3
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52b@
-[=:==C[#=50.b3[]
-
----
-
-Step count: 88
-Coordinates: (15, 6, 0)
-Direction: West
-Next symbol: b
-
-Stack:
-  8 [Top]
-  3
-  0
-  3
-  ...
-
-Non-zero registers:
-  C: 3
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52b@
-[=:==C[#=50.b3[]
-
----
-
-Step count: 89
-Coordinates: (14, 6, 0)
-Direction: West
-Next symbol: 2
-
-Stack:
-  0 [Top]
-  8
-  3
-  0
-  ...
-
-Non-zero registers:
-  C: 3
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52@a
-[=:==C[#=50.b3[]
-
----
-
-Step count: 90
-Coordinates: (13, 6, 0)
-Direction: West
-Next symbol: 5
-
-Stack:
-  2 [Top]
-  0
-  8
-  3
-  ...
-
-Non-zero registers:
-  C: 3
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C5@ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 91
-Coordinates: (12, 6, 0)
-Direction: West
-Next symbol: C
-
-Stack:
-  5 [Top]
-  2
-  0
-  8
-  ...
-
-Non-zero registers:
-  C: 3
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C@2ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 92
-Coordinates: (11, 6, 0)
-Direction: West
-Next symbol: 3
-
-Stack:
-  2 [Top]
-  0
-  8
-  3
-  ...
-
-Non-zero registers:
-  C: 5
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3@52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 93
-Coordinates: (10, 6, 0)
-Direction: West
-Next symbol: B
-
-Stack:
-  3 [Top]
-  2
-  0
-  8
-  ...
-
-Non-zero registers:
-  C: 5
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B@C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 94
-Coordinates: (9, 6, 0)
-Direction: West
-Next symbol: =
-
-Stack:
-  2 [Top]
-  0
-  8
-  3
-  ...
-
-Non-zero registers:
-  C: 5
-  B: 3
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=@3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 95
-Coordinates: (8, 6, 0)
-Direction: South
-Next symbol: =
-
-Stack:
-  8 [Top]
-  3
-  0
-  3
-  ...
-
-Non-zero registers:
-  C: 5
-  B: 3
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8@B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 96
-Coordinates: (8, 7, 0)
-Direction: East
-Next symbol: 5
-
-Stack:
-  0 [Top]
-  3
-  4
-  2
-  ...
-
-Non-zero registers:
-  C: 5
-  B: 3
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#@50.b3[]
-
----
-
-Step count: 97
-Coordinates: (9, 7, 0)
-Direction: East
-Next symbol: 0
-
-Stack:
-  5 [Top]
-  0
-  3
-  4
-  ...
-
-Non-zero registers:
-  C: 5
-  B: 3
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=@0.b3[]
-
----
-
-Step count: 98
-Coordinates: (10, 7, 0)
-Direction: East
-Next symbol: .
-
-Stack:
-  0 [Top]
-  5
-  0
-  3
-  ...
-
-Non-zero registers:
-  C: 5
-  B: 3
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=5@.b3[]
-
----
-
-Step count: 99
-Coordinates: (11, 7, 0)
-Direction: East
-Next symbol: b
-
-Stack:
-  0 [Top]
-  5
-  0
-  3
-  ...
-
-Non-zero registers:
-  C: 5
-  B: 3
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50@b3[]
-
----
-
-Step count: 100
-Coordinates: (12, 7, 0)
-Direction: East
-Next symbol: 3
-
-Stack:
-  3 [Top]
-  0
-  5
-  0
-  ...
-
-Non-zero registers:
-  C: 5
-  B: 3
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.@3[]
-
----
-
-Step count: 101
-Coordinates: (13, 7, 0)
-Direction: East
-Next symbol: [
-
-Stack:
-  3 [Top]
-  3
-  0
-  5
-  ...
-
-Non-zero registers:
-  C: 5
-  B: 3
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b@[]
-
----
-
-Step count: 102
-Coordinates: (13, 7, 0)
-Direction: North
-Next symbol: 2
-
-Stack:
-  3 [Top]
-  3
-  0
-  5
-  ...
-
-Non-zero registers:
-  C: 5
-  B: 3
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b@[]
-
----
-
-Step count: 103
-Coordinates: (13, 6, 0)
-Direction: North
-Next symbol: 7
-
-Stack:
-  2 [Top]
-  3
-  3
-  0
-  ...
-
-Non-zero registers:
-  C: 5
-  B: 3
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C5@ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 104
-Coordinates: (13, 5, 0)
-Direction: North
-Next symbol: =
-
-Stack:
-  7 [Top]
-  2
-  3
-  3
-  ...
-
-Non-zero registers:
-  C: 5
-  B: 3
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=@5=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 105
 Coordinates: (13, 4, 0)
-Direction: West
-Next symbol: 9
-
-Stack:
-  3 [Top]
-  3
-  0
-  5
-  ...
-
-Non-zero registers:
-  C: 5
-  B: 3
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9@]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 106
-Coordinates: (12, 4, 0)
-Direction: West
-Next symbol: A
-
-Stack:
-  9 [Top]
-  3
-  3
-  0
-  ...
-
-Non-zero registers:
-  C: 5
-  B: 3
-  A: 8
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA@=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 107
-Coordinates: (11, 4, 0)
-Direction: West
-Next symbol: b
-
-Stack:
-  3 [Top]
-  3
-  0
-  5
-  ...
-
-Non-zero registers:
-  C: 5
-  B: 3
-  A: 9
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0b@9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 108
-Coordinates: (10, 4, 0)
-Direction: West
-Next symbol: 0
-
-Stack:
-  3 [Top]
-  3
-  3
-  0
-  ...
-
-Non-zero registers:
-  C: 5
-  B: 3
-  A: 9
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0@A9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 109
-Coordinates: (9, 4, 0)
-Direction: West
-Next symbol: c
-
-Stack:
-  0 [Top]
-  3
-  3
-  3
-  ...
-
-Non-zero registers:
-  C: 5
-  B: 3
-  A: 9
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c@bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 110
-Coordinates: (8, 4, 0)
-Direction: West
-Next symbol: 3
-
-Stack:
-  5 [Top]
-  0
-  3
-  3
-  ...
-
-Non-zero registers:
-  C: 5
-  B: 3
-  A: 9
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3@0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 111
-Coordinates: (7, 4, 0)
-Direction: West
-Next symbol: =
-
-Stack:
-  3 [Top]
-  5
-  0
-  3
-  ...
-
-Non-zero registers:
-  C: 5
-  B: 3
-  A: 9
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=@c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 112
-Coordinates: (6, 4, 0)
-Direction: North
-Next symbol: B
-
-Stack:
-  0 [Top]
-  3
-  3
-  3
-  ...
-
-Non-zero registers:
-  C: 5
-  B: 3
-  A: 9
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c@3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 113
-Coordinates: (6, 3, 0)
-Direction: North
-Next symbol: 2
-
-Stack:
-  3 [Top]
-  3
-  3
-  0
-  ...
-
-Non-zero registers:
-  C: 5
-  A: 9
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7cc@=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 114
-Coordinates: (6, 2, 0)
-Direction: North
-Next symbol: 3
-
-Stack:
-  2 [Top]
-  3
-  3
-  3
-  ...
-
-Non-zero registers:
-  C: 5
-  A: 9
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[@5[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 115
-Coordinates: (6, 1, 0)
-Direction: North
-Next symbol: =
-
-Stack:
-  3 [Top]
-  2
-  3
-  3
-  ...
-
-Non-zero registers:
-  C: 5
-  A: 9
-
-##][48=[[3=55B0=
-#]4b8A@c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 116
-Coordinates: (6, 0, 0)
-Direction: West
-Next symbol: 8
-
-Stack:
-  3 [Top]
-  3
-  3
-  0
-  ...
-
-Non-zero registers:
-  C: 5
-  A: 9
-
-##][48@[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 117
-Coordinates: (5, 0, 0)
 Direction: West
 Next symbol: 4
 
 Stack:
-  8 [Top]
-  3
-  3
-  3
+  3 [Top]
+  2
+  6
+  0
   ...
 
 Non-zero registers:
-  C: 5
-  A: 9
+  C: 2
+  A: 3
 
-##][4@=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4@C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
-Step count: 118
-Coordinates: (4, 0, 0)
+Step count: 76
+Coordinates: (12, 4, 0)
 Direction: West
 Next symbol: [
 
 Stack:
   4 [Top]
-  8
   3
-  3
+  2
+  6
   ...
 
 Non-zero registers:
-  C: 5
-  A: 9
+  C: 2
+  A: 3
 
-##][@8=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[@=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
-Step count: 119
-Coordinates: (4, 0, 0)
+Step count: 77
+Coordinates: (12, 4, 0)
 Direction: South
-Next symbol: 8
+Next symbol: :
 
 Stack:
   4 [Top]
-  8
   3
-  3
+  2
+  6
   ...
 
 Non-zero registers:
-  C: 5
-  A: 9
+  C: 2
+  A: 3
 
-##][@8=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[@=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
-Step count: 120
-Coordinates: (4, 1, 0)
+Step count: 78
+Coordinates: (12, 5, 0)
 Direction: South
 Next symbol: 7
 
 Stack:
-  8 [Top]
+  3 [Top]
   4
-  8
+  2
+  6
+  ...
+
+Non-zero registers:
+  C: 2
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb@6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 79
+Coordinates: (12, 6, 0)
+Direction: South
+Next symbol: ]
+
+Stack:
+  7 [Top]
+  3
+  4
+  2
+  ...
+
+Non-zero registers:
+  C: 2
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b9@2.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 80
+Coordinates: (12, 6, 0)
+Direction: West
+Next symbol: 9
+
+Stack:
+  7 [Top]
+  3
+  4
+  2
+  ...
+
+Non-zero registers:
+  C: 2
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b9@2.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 81
+Coordinates: (11, 6, 0)
+Direction: West
+Next symbol: b
+
+Stack:
+  9 [Top]
+  7
+  3
+  4
+  ...
+
+Non-zero registers:
+  C: 2
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b@72.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 82
+Coordinates: (10, 6, 0)
+Direction: West
+Next symbol: [
+
+Stack:
+  0 [Top]
+  9
+  7
   3
   ...
 
 Non-zero registers:
-  C: 5
-  A: 9
+  C: 2
+  A: 3
 
-##][48=[[3=55B0=
-#]4b@A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 121
-Coordinates: (4, 2, 0)
-Direction: South
-Next symbol: c
-
-Stack:
-  7 [Top]
-  8
-  4
-  8
-  ...
-
-Non-zero registers:
-  C: 5
-  A: 9
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####@[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[@972.#
+=4:75ac63a==].=#
 
 ---
 
-Step count: 122
-Coordinates: (4, 3, 0)
-Direction: South
-Next symbol: 6
-
-Stack:
-  5 [Top]
-  7
-  8
-  4
-  ...
-
-Non-zero registers:
-  C: 5
-  A: 9
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7@cB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 123
-Coordinates: (4, 4, 0)
-Direction: South
-Next symbol: 3
-
-Stack:
-  6 [Top]
-  5
-  7
-  8
-  ...
-
-Non-zero registers:
-  C: 5
-  A: 9
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a4@c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 124
-Coordinates: (4, 5, 0)
-Direction: South
-Next symbol: c
-
-Stack:
-  3 [Top]
-  6
-  5
-  7
-  ...
-
-Non-zero registers:
-  C: 5
-  A: 9
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<@a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 125
-Coordinates: (4, 6, 0)
+Step count: 83
+Coordinates: (10, 6, 0)
 Direction: South
 Next symbol: =
 
 Stack:
-  5 [Top]
+  0 [Top]
+  9
+  7
   3
-  6
-  5
   ...
 
 Non-zero registers:
-  C: 5
-  A: 9
+  C: 2
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9@0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 126
-Coordinates: (4, 7, 0)
-Direction: East
-Next symbol: C
-
-Stack:
-  6 [Top]
-  5
-  7
-  8
-  ...
-
-Non-zero registers:
-  C: 5
-  A: 9
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:=@C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[@972.#
+=4:75ac63a==].=#
 
 ---
 
-Step count: 127
-Coordinates: (5, 7, 0)
-Direction: East
-Next symbol: [
-
-Stack:
-  5 [Top]
-  7
-  8
-  4
-  ...
-
-Non-zero registers:
-  C: 6
-  A: 9
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==@[#=50.b3[]
-
----
-
-Step count: 128
-Coordinates: (5, 7, 0)
-Direction: North
-Next symbol: 0
-
-Stack:
-  5 [Top]
-  7
-  8
-  4
-  ...
-
-Non-zero registers:
-  C: 6
-  A: 9
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==@[#=50.b3[]
-
----
-
-Step count: 129
-Coordinates: (5, 6, 0)
-Direction: North
+Step count: 84
+Coordinates: (10, 7, 0)
+Direction: West
 Next symbol: a
 
 Stack:
-  0 [Top]
-  5
+  7 [Top]
+  3
+  4
+  2
+  ...
+
+Non-zero registers:
+  C: 2
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a@=].=#
+
+---
+
+Step count: 85
+Coordinates: (9, 7, 0)
+Direction: West
+Next symbol: 3
+
+Stack:
+  3 [Top]
   7
-  8
+  3
+  4
   ...
 
 Non-zero registers:
-  C: 6
-  A: 9
+  C: 2
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c@b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63@==].=#
 
 ---
 
-Step count: 130
-Coordinates: (5, 5, 0)
-Direction: North
-Next symbol: c
+Step count: 86
+Coordinates: (8, 7, 0)
+Direction: West
+Next symbol: 6
 
 Stack:
-  9 [Top]
-  0
-  5
+  3 [Top]
+  3
   7
+  3
   ...
 
 Non-zero registers:
-  C: 6
-  A: 9
+  C: 2
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3@9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 131
-Coordinates: (5, 4, 0)
-Direction: North
-Next symbol: c
-
-Stack:
-  6 [Top]
-  9
-  0
-  5
-  ...
-
-Non-zero registers:
-  C: 6
-  A: 9
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46@=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac6@a==].=#
 
 ---
 
-Step count: 132
-Coordinates: (5, 3, 0)
-Direction: North
-Next symbol: [
-
-Stack:
-  6 [Top]
-  6
-  9
-  0
-  ...
-
-Non-zero registers:
-  C: 6
-  A: 9
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7c@B=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 133
-Coordinates: (5, 3, 0)
+Step count: 87
+Coordinates: (7, 7, 0)
 Direction: West
 Next symbol: c
 
 Stack:
   6 [Top]
-  6
-  9
-  0
+  3
+  3
+  7
   ...
 
 Non-zero registers:
-  C: 6
-  A: 9
+  C: 2
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7c@B=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac@3a==].=#
 
 ---
 
-Step count: 134
-Coordinates: (4, 3, 0)
+Step count: 88
+Coordinates: (6, 7, 0)
+Direction: West
+Next symbol: a
+
+Stack:
+  2 [Top]
+  6
+  3
+  3
+  ...
+
+Non-zero registers:
+  C: 2
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75a@63a==].=#
+
+---
+
+Step count: 89
+Coordinates: (5, 7, 0)
+Direction: West
+Next symbol: 5
+
+Stack:
+  3 [Top]
+  2
+  6
+  3
+  ...
+
+Non-zero registers:
+  C: 2
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75@c63a==].=#
+
+---
+
+Step count: 90
+Coordinates: (4, 7, 0)
 Direction: West
 Next symbol: 7
 
 Stack:
-  6 [Top]
+  5 [Top]
+  3
+  2
   6
-  6
-  9
   ...
 
 Non-zero registers:
-  C: 6
-  A: 9
+  C: 2
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7@cB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:7@ac63a==].=#
 
 ---
 
-Step count: 135
-Coordinates: (3, 3, 0)
+Step count: 91
+Coordinates: (3, 7, 0)
 Direction: West
 Next symbol: :
 
 Stack:
   7 [Top]
-  6
-  6
+  5
+  3
+  2
+  ...
+
+Non-zero registers:
+  C: 2
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:@5ac63a==].=#
+
+---
+
+Step count: 92
+Coordinates: (2, 7, 0)
+Direction: West
+Next symbol: 4
+
+Stack:
+  5 [Top]
+  7
+  3
+  2
+  ...
+
+Non-zero registers:
+  C: 2
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4@75ac63a==].=#
+
+---
+
+Step count: 93
+Coordinates: (1, 7, 0)
+Direction: West
+Next symbol: =
+
+Stack:
+  4 [Top]
+  5
+  7
+  3
+  ...
+
+Non-zero registers:
+  C: 2
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=@:75ac63a==].=#
+
+---
+
+Step count: 94
+Coordinates: (0, 7, 0)
+Direction: North
+Next symbol: 6
+
+Stack:
+  7 [Top]
+  3
+  2
   6
   ...
 
 Non-zero registers:
-  C: 6
-  A: 9
+  C: 2
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:@ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+@4:75ac63a==].=#
 
 ---
 
-Step count: 136
-Coordinates: (2, 3, 0)
-Direction: West
-Next symbol: 2
+Step count: 95
+Coordinates: (0, 6, 0)
+Direction: North
+Next symbol: C
 
 Stack:
   6 [Top]
   7
-  6
+  3
+  2
+  ...
+
+Non-zero registers:
+  C: 2
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+@###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 96
+Coordinates: (0, 5, 0)
+Direction: North
+Next symbol: 2
+
+Stack:
+  7 [Top]
+  3
+  2
   6
   ...
 
 Non-zero registers:
   C: 6
-  A: 9
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2@7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+@]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
-Step count: 137
-Coordinates: (1, 3, 0)
-Direction: West
-Next symbol: [
+Step count: 97
+Coordinates: (0, 4, 0)
+Direction: North
+Next symbol: A
+
+Stack:
+  2 [Top]
+  7
+  3
+  2
+  ...
+
+Non-zero registers:
+  C: 6
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+@#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 98
+Coordinates: (0, 3, 0)
+Direction: North
+Next symbol: B
+
+Stack:
+  7 [Top]
+  3
+  2
+  6
+  ...
+
+Non-zero registers:
+  C: 6
+  A: 2
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+@#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 99
+Coordinates: (0, 2, 0)
+Direction: North
+Next symbol: 7
+
+Stack:
+  3 [Top]
+  2
+  6
+  3
+  ...
+
+Non-zero registers:
+  C: 6
+  B: 7
+  A: 2
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+@]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 100
+Coordinates: (0, 1, 0)
+Direction: North
+Next symbol: ]
+
+Stack:
+  7 [Top]
+  3
+  2
+  6
+  ...
+
+Non-zero registers:
+  C: 6
+  B: 7
+  A: 2
+
+]#][:=9]##]###=]
+@]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 101
+Coordinates: (0, 1, 0)
+Direction: East
+Next symbol: ]
+
+Stack:
+  7 [Top]
+  3
+  2
+  6
+  ...
+
+Non-zero registers:
+  C: 6
+  B: 7
+  A: 2
+
+]#][:=9]##]###=]
+@]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 102
+Coordinates: (0, 1, 0)
+Direction: South
+Next symbol: B
+
+Stack:
+  7 [Top]
+  3
+  2
+  6
+  ...
+
+Non-zero registers:
+  C: 6
+  B: 7
+  A: 2
+
+]#][:=9]##]###=]
+@]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 103
+Coordinates: (0, 2, 0)
+Direction: South
+Next symbol: A
+
+Stack:
+  3 [Top]
+  2
+  6
+  3
+  ...
+
+Non-zero registers:
+  C: 6
+  B: 7
+  A: 2
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+@]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 104
+Coordinates: (0, 3, 0)
+Direction: South
+Next symbol: 2
 
 Stack:
   2 [Top]
   6
-  7
-  6
+  3
+  3
   ...
 
 Non-zero registers:
   C: 6
-  A: 9
+  B: 7
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[@:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+@#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
-Step count: 138
-Coordinates: (1, 3, 0)
+Step count: 105
+Coordinates: (0, 4, 0)
+Direction: South
+Next symbol: C
+
+Stack:
+  2 [Top]
+  2
+  6
+  3
+  ...
+
+Non-zero registers:
+  C: 6
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+@#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 106
+Coordinates: (0, 5, 0)
 Direction: South
 Next symbol: 6
 
 Stack:
   2 [Top]
   6
-  7
-  6
+  3
+  3
   ...
 
 Non-zero registers:
-  C: 6
-  A: 9
+  C: 2
+  B: 7
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[@:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+@]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
-Step count: 139
-Coordinates: (1, 4, 0)
+Step count: 107
+Coordinates: (0, 6, 0)
 Direction: South
-Next symbol: a
+Next symbol: =
 
 Stack:
   6 [Top]
   2
   6
+  3
+  ...
+
+Non-zero registers:
+  C: 2
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+@###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 108
+Coordinates: (0, 7, 0)
+Direction: East
+Next symbol: 4
+
+Stack:
+  6 [Top]
+  3
+  3
   7
   ...
 
 Non-zero registers:
-  C: 6
-  A: 9
+  C: 2
+  B: 7
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=@a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 140
-Coordinates: (1, 5, 0)
-Direction: South
-Next symbol: .
-
-Stack:
-  9 [Top]
-  6
-  2
-  6
-  ...
-
-Non-zero registers:
-  C: 6
-  A: 9
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-A@#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+@4:75ac63a==].=#
 
 ---
 
-Step count: 141
-Coordinates: (1, 6, 0)
-Direction: South
-Next symbol: =
-
-Stack:
-  9 [Top]
-  6
-  2
-  6
-  ...
-
-Non-zero registers:
-  C: 6
-  A: 9
-
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A@c9c0b8=B3C52ba
-[=:==C[#=50.b3[]
-
----
-
-Step count: 142
+Step count: 109
 Coordinates: (1, 7, 0)
 Direction: East
 Next symbol: :
 
 Stack:
-  2 [Top]
+  4 [Top]
   6
+  3
+  3
+  ...
+
+Non-zero registers:
+  C: 2
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=@:75ac63a==].=#
+
+---
+
+Step count: 110
+Coordinates: (2, 7, 0)
+Direction: East
+Next symbol: 7
+
+Stack:
+  6 [Top]
+  4
+  3
+  3
+  ...
+
+Non-zero registers:
+  C: 2
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4@75ac63a==].=#
+
+---
+
+Step count: 111
+Coordinates: (3, 7, 0)
+Direction: East
+Next symbol: 5
+
+Stack:
+  7 [Top]
+  6
+  4
+  3
+  ...
+
+Non-zero registers:
+  C: 2
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:@5ac63a==].=#
+
+---
+
+Step count: 112
+Coordinates: (4, 7, 0)
+Direction: East
+Next symbol: a
+
+Stack:
+  5 [Top]
+  7
+  6
+  4
+  ...
+
+Non-zero registers:
+  C: 2
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:7@ac63a==].=#
+
+---
+
+Step count: 113
+Coordinates: (5, 7, 0)
+Direction: East
+Next symbol: c
+
+Stack:
+  3 [Top]
+  5
   7
   6
   ...
 
 Non-zero registers:
-  C: 6
-  A: 9
+  C: 2
+  B: 7
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[@:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75@c63a==].=#
 
 ---
 
-Step count: 143
-Coordinates: (2, 7, 0)
+Step count: 114
+Coordinates: (6, 7, 0)
+Direction: East
+Next symbol: 6
+
+Stack:
+  2 [Top]
+  3
+  5
+  7
+  ...
+
+Non-zero registers:
+  C: 2
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75a@63a==].=#
+
+---
+
+Step count: 115
+Coordinates: (7, 7, 0)
+Direction: East
+Next symbol: 3
+
+Stack:
+  6 [Top]
+  2
+  3
+  5
+  ...
+
+Non-zero registers:
+  C: 2
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac@3a==].=#
+
+---
+
+Step count: 116
+Coordinates: (8, 7, 0)
+Direction: East
+Next symbol: a
+
+Stack:
+  3 [Top]
+  6
+  2
+  3
+  ...
+
+Non-zero registers:
+  C: 2
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac6@a==].=#
+
+---
+
+Step count: 117
+Coordinates: (9, 7, 0)
+Direction: East
+Next symbol: =
+
+Stack:
+  3 [Top]
+  3
+  6
+  2
+  ...
+
+Non-zero registers:
+  C: 2
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63@==].=#
+
+---
+
+Step count: 118
+Coordinates: (10, 7, 0)
 Direction: East
 Next symbol: =
 
 Stack:
   6 [Top]
   2
-  7
-  6
+  3
+  5
   ...
 
 Non-zero registers:
-  C: 6
-  A: 9
+  C: 2
+  B: 7
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=@==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a@=].=#
 
 ---
 
-Step count: 144
-Coordinates: (3, 7, 0)
+Step count: 119
+Coordinates: (11, 7, 0)
 Direction: North
 Next symbol: 9
 
 Stack:
+  3 [Top]
+  5
+  7
+  6
+  ...
+
+Non-zero registers:
+  C: 2
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a=@].=#
+
+---
+
+Step count: 120
+Coordinates: (11, 6, 0)
+Direction: North
+Next symbol: b
+
+Stack:
+  9 [Top]
+  3
+  5
+  7
+  ...
+
+Non-zero registers:
+  C: 2
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b@72.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 121
+Coordinates: (11, 5, 0)
+Direction: North
+Next symbol: [
+
+Stack:
   7 [Top]
-  6
-  6
+  9
+  3
+  5
+  ...
+
+Non-zero registers:
+  C: 2
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634c@:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 122
+Coordinates: (11, 5, 0)
+Direction: West
+Next symbol: c
+
+Stack:
+  7 [Top]
+  9
+  3
+  5
+  ...
+
+Non-zero registers:
+  C: 2
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634c@:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 123
+Coordinates: (10, 5, 0)
+Direction: West
+Next symbol: 4
+
+Stack:
+  2 [Top]
+  7
+  9
+  3
+  ...
+
+Non-zero registers:
+  C: 2
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634@b:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 124
+Coordinates: (9, 5, 0)
+Direction: West
+Next symbol: 3
+
+Stack:
+  4 [Top]
+  2
+  7
   9
   ...
 
 Non-zero registers:
-  C: 6
-  A: 9
+  C: 2
+  B: 7
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c9c0b8=B3C52ba
-[=:@=C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C63@cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
-Step count: 145
-Coordinates: (3, 6, 0)
-Direction: North
-Next symbol: <
+Step count: 125
+Coordinates: (8, 5, 0)
+Direction: West
+Next symbol: 6
 
 Stack:
-  9 [Top]
+  3 [Top]
+  4
+  2
   7
-  6
-  6
+  ...
+
+Non-zero registers:
+  C: 2
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C6@4cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 126
+Coordinates: (7, 5, 0)
+Direction: West
+Next symbol: C
+
+Stack:
+  6 [Top]
+  3
+  4
+  2
+  ...
+
+Non-zero registers:
+  C: 2
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C@34cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 127
+Coordinates: (6, 5, 0)
+Direction: West
+Next symbol: 7
+
+Stack:
+  3 [Top]
+  4
+  2
+  7
   ...
 
 Non-zero registers:
   C: 6
-  A: 9
+  B: 7
+  A: 3
 
-##][48=[[3=55B0=
-#]4b8A3c242:3c3]
-####7[25[=C1:]3#
-[2:7ccB=.]a4Ca8#
-=6a46c=3c0bA9=]#
-Aa#<3a9[=###=75=
-A.c@c0b8=B3C52ba
-[=:==C[#=50.b3[]
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7@634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 128
+Coordinates: (5, 5, 0)
+Direction: West
+Next symbol: A
+
+Stack:
+  7 [Top]
+  3
+  4
+  2
+  ...
+
+Non-zero registers:
+  C: 6
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A@C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 129
+Coordinates: (4, 5, 0)
+Direction: West
+Next symbol: :
+
+Stack:
+  3 [Top]
+  4
+  2
+  7
+  ...
+
+Non-zero registers:
+  C: 6
+  B: 7
+  A: 7
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:@7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 130
+Coordinates: (3, 5, 0)
+Direction: West
+Next symbol: C
+
+Stack:
+  4 [Top]
+  3
+  2
+  7
+  ...
+
+Non-zero registers:
+  C: 6
+  B: 7
+  A: 7
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C@A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 131
+Coordinates: (2, 5, 0)
+Direction: West
+Next symbol: ]
+
+Stack:
+  3 [Top]
+  2
+  7
+  9
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 7
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]@:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 132
+Coordinates: (2, 5, 0)
+Direction: North
+Next symbol: A
+
+Stack:
+  3 [Top]
+  2
+  7
+  9
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 7
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]@:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 133
+Coordinates: (2, 4, 0)
+Direction: North
+Next symbol: =
+
+Stack:
+  2 [Top]
+  7
+  9
+  3
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#@#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 134
+Coordinates: (2, 3, 0)
+Direction: East
+Next symbol: :
+
+Stack:
+  9 [Top]
+  3
+  5
+  7
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#@:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 135
+Coordinates: (3, 3, 0)
+Direction: East
+Next symbol: c
+
+Stack:
+  3 [Top]
+  9
+  5
+  7
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=@c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 136
+Coordinates: (4, 3, 0)
+Direction: East
+Next symbol: =
+
+Stack:
+  4 [Top]
+  3
+  9
+  5
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:@=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 137
+Coordinates: (5, 3, 0)
+Direction: North
+Next symbol: 6
+
+Stack:
+  9 [Top]
+  5
+  7
+  6
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c@3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 138
+Coordinates: (5, 2, 0)
+Direction: North
+Next symbol: 3
+
+Stack:
+  6 [Top]
+  9
+  5
+  7
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b42@a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 139
+Coordinates: (5, 1, 0)
+Direction: North
+Next symbol: =
+
+Stack:
+  3 [Top]
+  6
+  9
+  5
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]522@]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 140
+Coordinates: (5, 0, 0)
+Direction: East
+Next symbol: 9
+
+Stack:
+  9 [Top]
+  5
+  7
+  6
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 3
+
+]#][:@9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 141
+Coordinates: (6, 0, 0)
+Direction: East
+Next symbol: ]
+
+Stack:
+  9 [Top]
+  9
+  5
+  7
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 3
+
+]#][:=@]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 142
+Coordinates: (6, 0, 0)
+Direction: South
+Next symbol: ]
+
+Stack:
+  9 [Top]
+  9
+  5
+  7
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 3
+
+]#][:=@]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 143
+Coordinates: (6, 0, 0)
+Direction: West
+Next symbol: =
+
+Stack:
+  9 [Top]
+  9
+  5
+  7
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 3
+
+]#][:=@]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 144
+Coordinates: (5, 0, 0)
+Direction: West
+Next symbol: :
+
+Stack:
+  5 [Top]
+  7
+  6
+  4
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 3
+
+]#][:@9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 145
+Coordinates: (4, 0, 0)
+Direction: West
+Next symbol: [
+
+Stack:
+  7 [Top]
+  5
+  6
+  4
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 3
+
+]#][@=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
 
 ---
 
 Step count: 146
+Coordinates: (4, 0, 0)
+Direction: South
+Next symbol: 2
+
+Stack:
+  7 [Top]
+  5
+  6
+  4
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 3
+
+]#][@=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 147
+Coordinates: (4, 1, 0)
+Direction: South
+Next symbol: 2
+
+Stack:
+  2 [Top]
+  7
+  5
+  6
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]52@3]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 148
+Coordinates: (4, 2, 0)
+Direction: South
+Next symbol: c
+
+Stack:
+  2 [Top]
+  2
+  7
+  5
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b4@6a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 149
+Coordinates: (4, 3, 0)
+Direction: South
+Next symbol: c
+
+Stack:
+  4 [Top]
+  2
+  2
+  7
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:@=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 150
+Coordinates: (4, 4, 0)
+Direction: South
+Next symbol: A
+
+Stack:
+  4 [Top]
+  4
+  2
+  2
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 3
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#@<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 151
+Coordinates: (4, 5, 0)
+Direction: South
+Next symbol: =
+
+Stack:
+  4 [Top]
+  2
+  2
+  7
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 4
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:@7C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 152
+Coordinates: (4, 6, 0)
+Direction: East
+Next symbol: 6
+
+Stack:
+  2 [Top]
+  7
+  5
+  6
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 4
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###@6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 153
+Coordinates: (5, 6, 0)
+Direction: East
+Next symbol: [
+
+Stack:
+  6 [Top]
+  2
+  7
+  5
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 4
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=@[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 154
+Coordinates: (5, 6, 0)
+Direction: North
+Next symbol: 7
+
+Stack:
+  6 [Top]
+  2
+  7
+  5
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 4
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A7C634cb:6a[
+6###=@[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 155
+Coordinates: (5, 5, 0)
+Direction: North
+Next symbol: <
+
+Stack:
+  7 [Top]
+  6
+  2
+  7
+  ...
+
+Non-zero registers:
+  C: 4
+  B: 7
+  A: 4
+
+]#][:=9]##]###=]
+7]5223]###a..C3=
+B]b426a6..7=4:9:
+A#=:c=3A]#4.[#2]
+2#A#c<cc792[4=C#
+C]C:A@C634cb:6a[
+6###=6[[#[b972.#
+=4:75ac63a==].=#
+
+---
+
+Step count: 156
 ```
 
-You leave the example dungeon after 146 steps.
+You leave the example dungeon after 156 steps.

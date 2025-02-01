@@ -1,4 +1,4 @@
-Chapter 5: Knapsack
+# Chapter 5: Knapsack
 
 You have entered the fifth dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
 

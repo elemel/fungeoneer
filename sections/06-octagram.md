@@ -210,7 +210,7 @@ This dungeon contains wall tiles for turning diagonally (marked `{`, `(`, `)`, o
 
 Your direction can now also be diagonal: southeast, southwest, northwest, or northeast. As before, whenever you would step onto a wall tile, stay and turn instead. For a `{` tile, turn 135 degrees left. For a `(` tile, turn 45 degrees left. For a `)` tile, turn 45 degrees right. For a `}` tile, turn 135 degrees right.
 
-Whenever you step onto an `r` tile, get your rotation as a number, then push that number onto the stack. For an `R` tile, pop a number from the stack, then set your rotation to that number, changing your direction accordingly.
+Whenever you step onto an R-getter tile, get your rotation as a number, then push that number onto the stack. For an R-setter tile, pop a number from the stack, then set your rotation to that number, changing your direction accordingly.
 
 After how many steps do you leave the dungeon?
 

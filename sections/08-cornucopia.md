@@ -1,6 +1,6 @@
 # Chapter 8: Cornucopia
 
-You have entered the seventh dungeon. You stand at the bottom of the staircase where you entered, facing east. A gnome sits on the bottom stair, sipping from a flask of mushroom brew. As he looks up at you, then down at the purse of stacking on your belt, you recognize him as the cartographer from the first dungeon. He leans forward, as if about to speak. With a magic marker and a flick of the wrist, he scribbles a line of credit onto your purse, in the shape of register S. He pauses for a moment, then sits back, taking another sip.
+You have entered the eighth dungeon. You stand at the bottom of the staircase where you entered, facing east. A gnome sits on the bottom stair, sipping from a flask of mushroom brew. As he looks up at you, then down at the purse of stacking on your belt, you recognize him as the cartographer from the first dungeon. He leans forward, as if about to speak. With a magic marker and a flick of the wrist, he scribbles a line of credit onto your purse, in the shape of register S. He pauses for a moment, then sits back, taking another sip.
 
 The stack consists of three consecutive regions of persistent slots, indexed from zero. At the bottom is the fixed stack, with registers A through Z, indexed 0 through 25. Above that is the dynamic stack, indexed from 26 (inclusive) to the current stack size (exclusive). At the top is the hidden stack, indexed from the current stack size (inclusive) to the stack limit (exclusive). Numbers in hidden slots are still retained. All slots are initially zero.
 

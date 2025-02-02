@@ -1,6 +1,6 @@
 # Chapter 7: Shoreline
 
-You have entered the eighth dungeon. You stand at the bottom of the staircase where you entered, facing east. In a haystack by the staircase, you find a needle: a wayfarer's pin. Out of concern for any beast of burden that may stray here to feed, you decide to keep the pin. You press it into the symbol of the staircase on your magic map.
+You have entered the seventh dungeon. You stand at the bottom of the staircase where you entered, facing east. In a haystack by the staircase, you find a needle: a wayfarer's pin. Out of concern for any beast of burden that may stray here to feed, you decide to keep the pin. You press it into the symbol of the staircase on your magic map.
 
 With every step you take in the dungeon, the wayfarer's pin mirrors your movement on the map, reflecting your location. As register P, the pin also reveals your position as a number, starting from zero at the top-left symbol, and increasing with each symbol in left-to-right, top-to-bottom reading order. Blank spaces are ignored.
 

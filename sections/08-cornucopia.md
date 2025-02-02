@@ -11,276 +11,276 @@ Register S serves as both stack size and stack pointer. It always points to the 
 With plenty of challenges ahead, you consult the map:
 
 ```
-#}=}[({[{R[=]#)#]#}R}RI][))=][#){})]}#){R]](#[fRR=)}R}#R[{}{#]{{
-(7}Vn].5j9N;shh3Tqbw5bx05u*aWQGN4*)T}7,x3}h2vf23eaYfQm;3)4M};>*#
-(9aM(z]20L>wOv6W;%zuI0R)n;r%t;>W2bw6d9>oOdW7)wi1)6zOXFcAE}.j8F-[
-}}[*vok%V7mnm;>5j;KjYGJYEV(9eHI{jpmn96>#*((on26d4pRjva4FTZ+=admR
-(6O=b.g,gqr9Yom,;Kq+mDbXOICJ9OpUTNy>W]tdpRQNv}p=I2}IV[cE[+E]>=9(
-=#pE]j9Kdy7miKc;6vj>lbYfYD%Cf.63JJVdcgoh>XJ[#PvBa]y*avhD%ZFwQK-]
-=Zm9:tnK>4>Eh,c2YWe,YxYY/D=R1cEv3I2hP=OkA1Iq##ltRR#UUG)d#[s(h#1#
-(O<okNL.]dl2kg:DeEsa}b*wJ++%cyx=vTr#X%Dl=+P*bQ=K+xeH5-9G,YOIoTD=
-RY1eYO>nWf.Zrlv/lR,,d=2la{)x4]8%j>>cRKq.2x,EAY=6=6X]d.pf{Ss*wzBX
-V:3;VdZ,0M1zKJYRf7{x=T[GX=wj[+4joCVazx2R[1}dR[kA({qn5_wYH[V#Khm]
-[x)2w+xHRH3B:eiGuaM6QBn6qF93{ahcH]G]ysWI)rAKUrl*AN9noaEItmsRc6c)
-{R7lH2[dfx)K(-w1q)MV=,{awwjq;}Rv-{+%bVFogkGoUZt=Y}NJU=[y#Fg+Q[h}
-[Hm7-2v[/We,x{G3CfCl3QT}U.*xk2=+Vnzrh(IceoUc0H%zi:;rQs4Q>Xr(r8B{
-Rq8HcO6w[WKT]]VgK4nF.H[]ABa6c8nHs%XV408h8tLXR90(deOsZ3XQ=,=.Fk>}
-#d)6HvhR>K]+,.34W:dX5Na-3=9bD)gWMp=)x:HiL+#z#{(C}lLxl.}W:*=*mC;#
-{4yDj=HiqC]}5:{#Zt8on(:k#:Z(/A>6]j;3sB-+opW,*eTiOnRd71+ID.Rffo({
-{7]OIJ/2daLjIjyk+11=>.+/75ml:E0{%Ews0+X-)-CC#T22YCoUBy)FiL#ex#))
-]ebaa2ZD=K{]7=cZ+LBweR]#O90#F2DI]FK4>D*f,(Gu4(i}x]E8LiR7UIQeY=j)
-VtoORHjsVy%YZlcsyT72dC(..+*#M#k(,Q}a+Oq4RoN/-j}xB=+Y7-:.>L]L(p:]
-=3D#l[5{(mdgk1)Db-,>n5w0/iexkA(ng0M5ge0xg(],F+dJ5.4RMiQ3HlcqQid]
-#]y62:#{qntaNrq>=suRybgRb/yVs;NV2Hn7UutE5smgYK*k=kB#f[}ZO3h/J)e}
-#8R06JK}n[#vW)=0;=yud=(L4t4J;X-Oc+G9jc:=}vh[Ox[mp#>Zw]Zz#uDwTME(
-{g(Lt7=#K5-lmgZ/}f3x4l0wY}Fdbl6)DZ/Q>aHx+i*bIR[0RJre=)FDoLz,rNx[
-)NgZ7r#hsB#(D9e*{lk}n-KgoQUoN(eg0;-p{8N#oE+p()5Qx=+]K:(O(o-GZZ]#
-{M#]mr##>#*{J])78{-qv>EOFTW,Ka[U8{qlU>o[]T}W1Gr]FuoJ3=apR/(v1tj#
-)Gg#{:14x3zJw4Rp)Zsbr=q2Uc5oEywmhEUTxa*fH])QcZ8U[UuMKLA%X4HrAe{R
-]=M9oAv{[[/OA6E102i/Ki,mCH[BANvDU]KH(up8F3vn.]dR{N=)f>>/]6>X]lI#
-#u#(ua9)#5nr3/#X]NZ(U)JgKJr)1Y)sD{>2(Nz:fsZ#9aR%[+R5}IcCVrT5uw-[
-(NMM7I(57#+]Z)ibpzdVb9OZ20*%TXyBQU9KO%C+g2;(f2Rco85n1:(,+K>B[#{#
-[mmN}q+/YkM7]H#.H#u-(;}uz.apXG71>%TR37eX)LR7H{+]p+pQf>>}}Ri.#]#}
-#g+P(evWruUCrXUx;]74*a5xR2:(*=6O{Q8+7J*[(MdR(Cbw+=YOUxUQZzoXO43)
-#RC>}((=(R](}[})RhwR8{)]##[[{(((=}{#{]##])#R({(>i>O=]>.CYpXRR]]]
+(=](RmIO:=][(}R=}#){R}>e3LN*d1jnWg9bKwfu7>#]#}R[([#]}}#{9ny,Ie={
+_iHasicsZ=6qc_>WI[#sc1U}({{}#=}[(]{)[[*up1pjfKmgesbU77}c{.]({(V;
+)k*>#gN[g#cQE(]tL}YUNF.WVXXyqEge6[K*t+/ZY4)z}#yM[C9QlJJK4OZG9=6R
+Rf5hO%yba}QIUZa+3YqF8y:b2*]ZKmoeWg*i4c=H)-Q>#B/]L.#xbZXrI-aK]D,#
+(n4s+Cv5}m].*)=O){>hXB=EqwHgqyzyAYX>Zah]uD=oH,(B/dajOo-UxqgrFg+[
+[hE##q)[guqqRDw.IRK#9c>9)hVg#8kfIRs{>TdOHDvHLghay7Z)UT,yM{#odAD#
+]1T.ty0AsnjiN{NT[.l#F3#d]=yqAyjZF3;=RWAR}[6(Zt#,fmpu/{ieQW;>}dK[
+{M;,Ml]>Ky)RQD*DpVsD0ogp9+AM+{3fb(RleaOgub4vFnw.8U>=27.4KJhY*IV]
+#0z-/acm(Tan]BF.)}=i)2]Dn.Q*+ifqgoz:}gkvx4#T5#y1#Afmo[{#eX=E.I9[
+}[R2>L2qN)Vu6MJQcW5*hWKJiI%EX)IT(uQbYpAGfg,+4CbvRpp5{aZ;l5um+{o#
+)TgQ9qz(s[-[RFzO,Be2JCyGO-1;fzG;4=;+N-uJRFJW=D]I+b2e=1zjMIp5RqO[
+):jrzTHrT84iHo6v/{gs#V(+#IF*h#>)Pn1sUhYrsHvMpadp>=.;LT{(hZFId[z#
+{1{)%X/L)g#}LDJHJfah6#mFFs/=Tv-EbhmGhlQl[v]5=](JO{nUo{1BEiQ93wa#
+(]r;A8bYqvy)TwIrS8)=)tIG>=Y}03=GzCZDm8j0vmhGm4gdHQ.VhRJQ4)m-hau#
+}VzV=]04Yrm0DxI+3sus7)m(C61#1;MrB.Nf(wh9.Jae5H/K.wCuvNd[KoZM]fi}
+]sfN,*Rt#LRYa#AwO{=4{b%KV0-#{Ir*H73RF6[=TXiWqzOhYJ6pd(p.ahCR(K)R
+{ODHYCV21b_Rw2*=TN;VETxcXx3;tdNE8zs;8>}z67jAe/EHpgWd9Qcyk-%u67)V
+{(CE9>oXbDRls0OHV2BX;zlao*Cq,TCpuCLnlu{3>1CuDz4ml#+hV}6k5B0K.G]7
+RFk+D3I5ele+2y,>oKqAix61Vc6h:1FAJ1d8LANKCF#kzZAqIx4./Uex=i=Amr}2
+)xDd%>C)R0Vm(woM2ldQoR>W)IkC#M))w(8D6wN5n%#EhrYiZ/VN9Li}Dtl9=w]N
+RwVu+z8ww/DnrsRAqg4-H1Jdj%9g>of.Wd+qIWc4M2JeacR(tg49y=o[+ZRwk/]Y
+[g#z)9[NE{D#b45WZDF]3-5;;c9zXDvW/3.dE.oNdbx1:+HvJ6JMt=:XZrvbYc{%
+=xkcZo+Yp1]ou#;O2W0tiw5%>#m,BU#)zKN{hwrjhVR%M##qVtE/xZEoI[u6M)>O
+{ODQFR5}Bw#=7kV4>s6b#>w7m<.p7zuXV>:xH/Iw5:N%mvWHKMF1X.WWN=>(,=]u
+[}{5zfYiHfirZIH>uZV9]Xn0LFaL2xp.#RJ1chauAjxReHw5Wn5x:y9mzty/Zn{O
+RHf96Kj)g(zRdwZ#.tDUDi+V>Xo#Tve}NbJ*FK+>wA-L0]Rcr#qs/YGDq#U%=A[D
+(=F49QIXu.;n9]gWTk2{;,>pfCY{tJL(wCjNO>Gk/aZvYjG}Z]aF*%lRsQiiL:=t
+]8Rmoipmk/k>zwF16YLK[nB())Ebt5cCYVY,kgzZaNvHi/zK7=ok9a;RIknWAzt*
+(ZVJxm/40m/NEtitY1y(%vjo:kOrDwVan7n,kcbctl{)Eb)#k95Iy}MdF(Xh[x}Q
+}=N#[Ev[WQ)G=R[7]R8x{U)gT=6qRJyaD3IoE+rtD=4Za[vK+jyiocVc>{Pj7N]G
+}HnrxFVY1F**86rqZ-z,Js8yvq{}HY{X9]kdmv3[w51ri:+;8MrD.=Fa4}V]J)#2
+]FpIR#([[}=()dm2=)#{#(R4d-[)}(R[{}##{[#}R={{}#](({{({{)]({{RPik=
 
-]#}R]{(#()}[}{=(##{}[)[RR({)P]}}}[#)}#[]#){=#R#[(()}#[}[#{{P{#]]
-#h{0lkyL(ykRnH6NFRPun8a;1T/V9ioftl8kqyv,I7niDMwk9Omws:=3b.QVL<Q(
-#bVK=(R5wH<me[wB((6nB%}J#wVV4D<FihuQvA<)LViu#p#w7)C+C5V[{W;G/du]
-#1)LgI[8*lzel]<H=q[U#Z3>R)C0#aEQFW##N5<Vt>p(4pu=0)z;%FxJ75uRI#d#
-#RM4k}ifR5i>]v0]0u7=0AjZ,V2GIJcq-t)<xEV6N-O.Z-IWO[>(XbJ.m)au<ed[
-}I4vcDsV.](EuyIotie<rI7J3IJ=LTgeCg}>.yxh<F8:=t##{]DR+hYhH5/aF;I(
-{f0DcQgj<p<k.TAAI)gnJfyD%M*fapq0gA#ax67l{.oqBU[6O1KFJGECBZ8mhW5=
-{OhMi>>,=Rju9Dl.G*IHDAa-LO.z]]U7#1R=/#p#}}>Tzy2h#]T(]{v20>dGRlh>
-(j)pE><7yu}uOx8C,,N;]B))]M)m#3YOB<<o(Kdv{971,sstw%fHsoxR>2XuUqO{
-{k[Os[LUXWaJxmZkyX08]fRe]dga,yv.aZV>Y+x8%}H[>c#,(>K;t=O=Inyw[)*o
-)},qn5(.]7c2xG7AwQ}}](+A2gIMYB=E#p>n=}7c.5w2MoZ=O;wu%%%{=)a3;}ue
-#eFfZ>8q)qh2ae+*%X.74R*t={#0#Rthuvwq,cEWrL*2/}eeyUHEP4iN4qYJ0YM>
-#}B%O+{X)5iEY2(hWeXFV8E6RU#s##BF>#G5Kp)R3iU0Jj9Tz/zE*=4j<h/+qi+[
-(6z,8;X}Bb0[hZf1AevFRE;lWT>Y##3v{fXVg08yCUZM0.2dwitHw;DRZhcubR<}
-[NHN%=%E<oXg)x>U+d4V2ohGD1,bZ.I>Ul[E;mKVRVznIu+y-=Z#>(-ZfzC*yl8[
-}MUg9z>ECM0#2{0Om)kb1*Wd+a=yd#<u7g9hm.zrl3]zr1Ts+Z;Ht;>6rs]WH[a#
-):r4iuCg7LJm4I:j>tTo<,d.0WQ:ln{V*aZdQ.iHdtMn3F5mF4tGj9=%3rhuiYh[
-)t]4,o{4>W,DuH[M>iV+X5;twYIgx=Gl,{(*<da}Y1iDVM6A,={AfVCOZ=;X8(9(
-=y-*NEsQ4}V,ewRAqh,J7sGIbVqlas4Ge8ZCqUR[cCA*LXejRs/vZ+vE<z[yaTk#
-Hry)I=.arva3=R3NDli<9bSDjp;ipU2H[ERDVqd3Vlx9nBZ%mQ:Rl}geIV0gHBR]
-n(ToW)we)]=F3m=<mrM3bpj7evR:]e7bm[ct4YYRCRtBOZLhtc;Ci5y26:k9=[o{
-c=Eu(M]V;iAzlA9bX90lon3/DZcZ+A*E=LA>k+cr-a3ILSn;s=<#WR:>Rj#nx6((
-XCiQB_2ygD6ijAjMsLwO)*}tdolac=X/6lzD<B0wLRC#c:IQ*a>}gr2#nA%7c(;#
-[7/e7-x3pWlAfTjL8qJYQ8H=A=;f#==iX08qLDv%cWe]RvcytUn/ou3:}Xp=R(Z[
-#k[v}LMg<}B-)6=,aMR+5<.Fd[.rE>;vnCm,f<F(2LwSBV#jXZ=p](6Mv=Tf4Cd#
-(s;2yAt>l(mTLk9}r9(xYiMBgC)9dL-K45>rBMG>,X==i(#}NGV{Dl)0K>vK:%;[
-(Hl3;%HT5Ag:mij+CtRlo:[hH.kfIOi-J)1eKv1(l_>5%m+e9cq0{<<(:Y<Uz:[}
-[9%3C[OyAvaGIc*,eJbYp6VM)XRn0[,Q=*<W[))o}=W=G>E23>J}RoJ(T%cK9gF{
-)qQt#m1Dx6A2]#j6Z#Ih(H}yRL+H{FR}y9o2jXivmVokC%3z-LvnKvlF4p<o(=x{
-=Nv4yz2ywI7Y-ieBhXLkcAU-ts1IGl3=<zF59aZ7.(#{##(({#}=i<<]h=hXy*o}
-Rk[i(]Q:=yRSeDc}HT)9[tW4J4[:+RbkCr4D6XABoOJGCF./LU+vq2ITf.xUfan=
-{_}<wm{[)[}##)[={]R[}(]{[#=(([}9sj6MH8TTDzyxV5a<><,mM<{RRm{=}})_
+#]=}##](=z*,crymzws%CR<##}(}=#P}(=[[#[][(<BA+BJroJVzt){})#{###{(
+]cLQl>i=Ri1;.X<F=fnavb0mUZWY[nn/WX4x[vWMYv]#]#{)>=[}#N,*VH)=H4I)
+[Dy<+R#Lqp(R[R>Ey8Rvpftvo8K];Dl>RF}d=L0r=C#e#[>Jnd7#7RDTN4u[(v][
+)QDZw87=G=VG{TC=oJFnk11EWCu[0Kh7Cv#Hl/wCj3]<ts027/bb}IehM3jV/-Q}
+}]Gr[}/{G_,[g2TeRa<{s6X3>(DuYAmF{wM<Ces[[Z#=0FIo5OYZc=Iz8=Hy+[)=
+(4H=.UKu/xRd/bv+{Q6Ar=<}gMkRAp.bEne.<YF:%+0{CgNKGGob/Zs8rB*D+W5=
+}Ln#H0]]=SX*8uZ0VZ9LZH;,}DX{z}1#Q-(R{=#jL[ki>rZ((gln9DDF5up<qU)t
+#:7vL7+<HbGIOp[[(R]=er=c9[8/=/=dj6lGFze:Z:k8z]9N4m<+ab)g9GN%-,{5
+#oYJ1D,/A{%qfrUa(HyTg+,=4A+K3e=g]Y2abAuao1+[R:}q)V)rG:jtW}ftB;(F
+#p5+<QsieLo;sjQ)nxQX:Zq]chxdgmv/3]2v+v>h}R2u{jVYkbGAqNe+td3KzTRj
+(og{Ly/[T%)]:LJ.V0>=-[TkrNHn.87LiC5N2BU7E5odg2T2>/5Jw[TKjL(cspzn
+]:L,)HkrMt*YFp>%XRT6{=JxH}yU8s<V#Qyk}q#w#_/ns+[f<XJVZ8cy/uyVrfw]
+]Lq+3c{4fhEzgf14cD:Uk/,(1NY(C95TIp7)Y5VHE){1Cl>uU8qws+Rw=b9(9*T]
+#%X:]SpLbKO1ZJYX3/.,HZj{<,rz;E-zlhFykcsZM:y6R#/wLZV8)NnZOrJ0_o}#
+{}:W=tch:EqR9Uo;q]YHZ8Cjn#2X2#08Yi7(z#]:9[Mf*j5lw8v#Vlc:A=e:}Ug#
+#tAj8u)v4I3.t)rzC6cLO,1:sAaGZVBN5uLvh+CZ0znb{)ZjE:#B4q1L3*)hQdN]
+(o3;%88lEyqaxi8itW)R8r:CMwg}rBluSK/1l<v27QYOn081>48mL;T%2o)G4*O)
+)6hmd<d=>GXi=Y-nFQx,w1z>jRj8M]nV#D,-(L#n<#YsNOlR.X96eic=Bg)uCmd[
+=8nN/O%9xBIVVvr<>f>x[cWQJR)tm]W>(1bZF(H#hBlNqR{Hl7Oqw4*(*+C{}T{[
+tG3Un<8b9fwmIz*XM0-7//<hH]%(DgUc]cr)),]3LW:2kT#m-G8(KB03+DZ.A18(
+Cq{1ov;G}zyfQ)Mm=M[tRcytu]I}<V7Lqm=8VifJ2+qai6;V9oITamV]t-(_v,c[
+ap]4b8[}cf4)w.Wh>aRv(OEwhkQZwQq2IJDN[;p7sTJgpMsmO5sA+o8b:gZYelf(
+Go==jbz7jGUj+i-ObZRMwyRz<5sT#q:32RWU0TZ9Fl%AGw[H%e#+-]9(}ZXOKg<}
+b+#3([#5.>-8.}d}<2Q--<t#9qNwFD(C-<e*[1A;E=a7d=XzEi{nKn.[M/<0x]u)
+mR#RVdwRt619nv=<*9I.+VRkaTBILHb[-X%-,Y:T{B>wH1aM3Iqwfnc.6e84G6f)
+qmOgH50#]rRc6TNif>oV{B#r<6KhFDMG,dzDNo)<E#8(U%WQ)IqNw1W{XsQ*Rlh}
+MXN%U-1%vCgvoRYUh]-(FY<kjfYivZRg5ZJxg<%9#:bL3j(++8]WL;ZCw8[,rU.{
+[9]w.##k[=4<V+iqadZU1XYbL8.73WMbUuXkDsy}{7Fj*=fjC](IURC}t](%cM=}
+}B)}{Z=q1RFCu3;(FWo,}W[wc=G#)h)sY7X]uK]nCz#+#l}MM{u#]h7{E][cu]+#
+(UEQrnwe6d).G)Ar[)qkrO,Md8vr1;5OVlp,3/WaXa;7%H.xE(=FE)H2<XnJj0>=
+]kG2ZoFYAMyx=Qn9p}UWZRp]1h;*(To7p=mqU}r.f,T=>GyyoIDwMgwz;+DRX(hR
+)=QjuR[]}({][({})#{{({{{{=)}=R{R(]]Rm[)([}R7=}=#==(=Cl{#(]#]##[[
 
-#{R5}[(###]}}#{7wa%cK=#[N+HK1uK9q-,>U=6){[}{({{#=b8}{JR:0=[(=*})
-{c;>{a###{AFQRqLzZAQ)#+#z}})){F.n=>FgD6*76skz(I4=z7ZUWqIQj=>/m>}
-)Ex+G/3/Uoq=xt%RQL0s:RrU1DI:1gZ;mkJ8F>[5h}#KYY#Zm{=U9v0F=w>2H={#
-[5qt{Q%9Wun.vBU,oZtVhuw<LiMz##]ERc2*U{szC<+emO4g*G4>zH[q=Yy2=,H#
-#.h%OgGp[*h<;Uezo*wfzDqpyphrs]UD{l>{8Ja=sOv8}2QrGZ<8p=idGRJnZmE]
-)7No6CdWrn2[)-#rjs#>l>}Fi=hOJDl.t}9<*3V)h/o=q(T,tUid7cuH}UZz]))>
-pwwd#9b[T29e[f}cv#VJz7R0-5J3CQEkK6R(5#E9r7y0=%nQa#[)b]h]2{m{h##*
-G7BVQ<<T=>CA]KMX)W]Cn7OaQ}DD6C>m#z=4W=:jsa<5EWq5e.0GA:]u[<}Z#]]<
-3>m*d<kYcGi2q;v[%#D(Y7u}8]In+YhclE*Z%c/55,mV2wU.tDd/,lBN<DA1e;%]
-sr8Q#{G#W)9)o2RhNI=A#*G=Jj#LK[+,eOV<G2XM=mD)<Fd=N<m)hg#xi2oQ]bd[
-rR0cCTnRaJ8)#oj/2[r4FAh#;##u5%D5%h<];}>R(1HKq(7H2-;_nz#(p[2ZR]W(
-B;9Z{<79A).nWcrf4XuRlZA8fX:j=wA=K=d>6A7=x:bVfeQBL)awIbk/gZu7l)[<
-h0Ra[5=/hI9I;5}-xwRV+l.#d(64Ez1,<;[+D#oLJ)D>:Ve.WZ.9RH[#y.v]c0#-
-p.*;]{n)O>5#Y,##dCC%R>,2/6<p(R.1aT2yh%r670l=)=HA15vxzl(aEV/KJ%]H
-8ftP{;Loj*VEQz<bF2VMnyS#,]t8{#><NlQy;FbToM=%QMs9;C%N<NFCGMpZTK(i
-DyGskN<%GW6YMG;V5KfTh.YsZ>CLJ32h)M)xJ2ozp:a}xTM2Nf#zEB<hIO4T)6#e
-:{iXjRblfruA;3K2<NCU7iELp{q9.==QOw;Xmj+Vvr.jgrqkuWIZGT*W6/=yTL>V
-9]E+#xm#<(4j.3Ir<>r*h:i5LVy4IR4M6Cf({3NJy[}vpXosU(oC]R6wzBm]n)}g
-=R-t[L,B0u877d%)ftH]/]:3m%vl+#>(NCW#+{a.(YOeuuL/xM/fa4nW+e1Tv9Z>
-RYVW>RtMoX;9L]YX1{v+s*x-H[8xe9E=ZqM*C}5*8YsWR{eexWZR;j%#%lM=J62}
-]1e#{h5[[Kob/ac#s(5]g={25x[0mvWmiVV}Rw>0f(Nkej)hpG);#[m42QX6f57#
-)YbqGwNZ%d+=K9W6XHF1sF[Z/y+G,Q=n#mV<P{a.R28z>7ElgaosVzi<0tI74#c(
-(qEOurHLH%:jmtemT*uoklaF4..,[JB=TuD.+>R7Wwo)fUqN{{<>>;*cs9wY=uLR
-](4#ZEjui)AFa)Dlc,*y]}E9[8}um[/Xx2o8at*Wk8Lt0%5c}(2#m[fIJvA39Bnv
-=lz%(NCNC8B(ppGl5qF[{ZN)Ea}}1</o/yl{m#g}v].p;kTea9Z>wgoZuKATY2#B
-)%eW-4N<;b>xMg2g42-Dn%>kjzQ6hR+zC:<l=Dj<nJz9Nd>FDrsYON:V:<}WXv=l
-(#y64Ky]yqVdLCMKYVnj=Mf)R7i+NX8fB:F2mp.Hun<n6Mn>tl(02AsscVAhiBa)
-=z-=0L;{sF>l.:pEBkT[fnF=Uo,cKZGjvq2EiD[NAvv/)<4:[<Bb6U.mf=yy429{
-*{ZY[c[{1UHXDLp>KgTFbg;.Xf04c]/RUzmJpZTdDk,-dIj7ItAfk>rvm+}7t8[=
->}*V-akxoO[clO(={0cY=v]{#4*O%V+##mZ{vaB}g;Z8)sc)r=#*2{;VX;4jWpZ[
-]#;[#][q=r9tz>U7>qGQ*xr8fze+9Zrekq+K;,rYm7V]):=Hls9*[yWb[zTo#]Q(
-),DLN>]##[#[[[}({]}[R=EQ/={}}]}R#{=+R)]]{P)ed*tA<)EUJJ=[)}##{##(
+#})]{R]Rv;cW8*axQ=7RR[8=}(]R][=}}[##)=]{(RRA}][}}[QtqqcYR}({{}}[
+#]b=V<a}(tXtiG8dWw:-pZs3E4cizsv9U/F:q6vc>/g23(T(<#J]=#}})rwkgLD.
+=sJW:9g6orvApV<i1N)7{(cV}s#}wo(<;g}8;;s)2vnk[:<4(FKjjoYbT>+%%M>h
+4.Ztj.4]x]D{({m[E6H>tz/kZs3ihlaE,*1w0uGY4:Ed/kp>fggehf1{Lv}=-E#5
+,(qE1iylnaAHum5tA6)}Ra{2<R*pjzi}og8]wY}XguyxRg*baIg0(6ivjCdkyU[I
+v{d9kA:JFBXo6nHhiFG,IjU60Jx)-[leC5]Nq[t]{:q>dgVZ/=:jo=#Cf)ywK/[e
+e+6QK#RX(s9yYxwMTv84DW#zal#bez.dr>d=Y6zdZ}kV<kAof3KNvnm(wR/#GV[n
+(kd/qbCpY(+WrIt]Y/=E>c)av>,>lndJ#o7k(W#%:>H)es].ybGR#bTDO#},e/#,
+{>6bSC=8yo2KqkG8ZF447DjAT6;Eb8=;:={yh:J(Zkpk=U)>VQV8]x/bs#[TJJ}q
+(iN1q>2m0KblkE[F8w*#,xs}aL2G4[%D)v{YHN<;dIJls(8wtR(okLG*XO81N*{6
+}{BE;RrIm0X)tF1tUB<Hy1e)[iAuF=fxDU.Rp8gwC[l.5mG)<pDVEwwyWKpBSv{x
+#mBqWdu5kQxlWV<CKmeTcynV7-67Fk-:yAO44sKtGB{FG(DFYu3u4RBolZA]T(IR
+[6:Q9jpplOyeZ9.1BNpajB;m+aE,cT0wB]ZDwhNsG=k=9y<LF.U,I(.By}#i,yW]
+#H*qAlWC#Bw=FQf#8u>*IW]hJo5s4sso2wadiI%Uhf63,H:8{tOw6jvVw#F2O80]
+[1.jt{-CN0Xc8=*KCCObAYkEq1ieY5.;q)]rB+##U})YWrY]*Xx#j9N#k[p86D>}
+}bOCWytjqWYcwDdZHai{ARL=6)=fQq2u6#c4Es}cZ=%t]}{5gb]Gg6}oLqr7GYA#
+#mA[Y)vwp%:udc5q0DKiJyJ/G>YT2nx5>A}K3x=6Ig1FlKTF<oiT0VD}WhK#R=J[
+]Fh0;CAm<R72Jlo7aUfwzUC<4v(=7{fT2#c=;[CqD0#Y{3atDaaydTV4DvRDnVa=
+#YRkra68Epd.]DI[<+<Oll#}(lN##24<NoxK1KdquQ{7(/FCnHG#1oEyKOkw3tKY
+}cJ3zoOdBrHIab2#DU,b%R}VRt01e+zFRFyYIxJQbta)R38H2;wK0,v3GjtRH)C)
+}Dwhs[bxJRBb>B*(rQ>+zDY#qxq0#}gw)oM>vBa]Y6v:0f/Q%iB(W%wLk1/iIaYR
+[%L(v3BVH*Jx[}CW<X}[X/LK#pC{MI9>0YQ7>ZI}u8RWBQ-7]/o/4yC6ca%Kc(h#
+}.C3Y6KXMjCNKLKmp(1hKv=0#f7g);r88wUvxjw;]a=jRG)n3=o}RQLIJjkIZ+NP
+=Ez9Q:>Ue</5/(Jf{pVl]TB#+(ibybmiK)m0pfN(v(8j]uTvrxp>THBmc.3s]O;#
+haE+)Bd=FzV13Hv0(3QjV8#W#8v;TY]0Z6g:h6DAdC<#7+gp.})sGiawdnIOP[]#
+NvfKvrf]0Xl)MTlYy<[79F/yeKFKyV77I+xxIN,Bo*xj=1FYw6#)E}yyrU)9>(D]
+5{(]-=s/FR0])RvNB;L{Tyz[#-U[kCKo:;yhlE*%(K+:UMVDQQl.Ej6%+QlFrsv(
+,}5C{nreJm}UGs78Kt{DGWM*{:Y#l9J]T#ccY/k4V.+w9nnvQu5a6)y{KJ>=+=z{
+W#qnYN2#dZ({)6v/6h#Sm]Rt1Fm4V6:8Gq/[[Td)gn(32aE3m1#ia{[(Iz8}%hA(
+ux#MGWB(+Fg,GMfc#R{#Gn+HEpJ}sq6ARiz,Wp[Wuoi>i{]JlA{[z46KA(5}((<=
+W}OC=ztp=ji+uG]h+IVN>D8hN9Az*cnaX##B}hf>ovQW<(TQcpyqK4Ag8r0z,7C=
+([##})}#))#{[=-8FriDA63[]GR=]#{##}]###}}}][R)({{}lVz=})#{})#(#(}
 
-#(>}}}(}](}=R#=Rql3R#{{RoW}[R)]#R)=<T*ZTcK6I/F9CaFe*HkO:7hmkuu=(
-[C7<=0HD{%lff2]*pnZ-yuMHo:j=jg,NOq<R#[#]{>#{#[({[}[LuER.u=_<_)<M
-R5W+ygeHW,aKgQsJTDUBzlirzuF=fQ,o-dKN[<sVME+(RZ*t7oQqtZLR}s<z/4:;
-#x:#yw9>N:#mmDxheww)0}-5MEKR8]2rd#);}G[I.Rscd6e}tB(<29)4f6BgHy]u
-#D=*DBTbH]{Xu{#z(wY0r8*R#W9[BV6#u(<#E/0)di:y(dB;T#:w)]%WHAUn[/=e
-{o8qN}4W;0O/-=m#i[><4<yGJK.9euj{uR#u-mRdBF>IdzZ,=RnW}F.cLFoQ)v(<
-)rM{yIbTLUbN44C>IF5j[u9:NY+B7p-fe]+W{[m:cZgBJWkfD9yt7Rd+gn(4:[[#
-OZ#guWtoc<M01)>.X;z_8)F](}g4MS<f]339R+0-70LXMcWp,)Ay3kRw{UtM8=>#
-=<{wmRiDX;qC5k>qkTEvRt9RY%[/g%H[mH,d>;36u7N.6}Jypf0Uoy.4Hv7GB70(
-{Mq8l[v1R*Im1}}3o-8#1#j}s}>Xr]VLJfidnAz.8waOg:a];]Fgd)Ug0Y[k,]e]
-=iWr=A),6J}8va[zpdWLbtnf>3#9t7MCRK8}j)<YYvICD)h#-di0h>RJ]fuM}Ot[
-[Uy(g[sx}wBR6bv=X%8io#%H-3/+=F=E:]R<KUrQ6-[fp)tJJGWznMKFFKquF0k(
-]GXLw%}[0yoA8Z,ol*js1uyw)DltvH1tD2En6/eh7tr<B]JXYy{q;QIlM,L%#y>[
-[1W};2#,H<b]*)ujAnFE:<Ngvy59UyT2dA;kCLsy/EB]hutNjVAk+RNp.OMbIl7=
-]:m7;oReu[,mS8#ciu{R*igB(8MUC]<:z2(G>>}Ts)d4)x[6C[cV:=y;ui:[Ox+#
-{D8#5#{o7pEI==A)I1a6[lzNw<YZ1#B=e4Ycg#-Scukfm/q}1w)rL[gVBbR07U9{
-Ro.+ZgIAcDUhU8:s+WslsDu/G4HNFhZly2[f]Md%08}>(G#[A2-6A(*eZpNF{B<[
-R0W55WU1eO8e9d%W+<[=u.)kbZ{>fax]6>}q+bD}a=1{CO{E[E-z6f=nl]Y)}Y)}
-Rlu[R##m#-l}[wFZuK8#e6U(nc9=Y)<{=95bxkhOBl,=d[yB>*-RoMT06y,LDdR<
-oEI9<}:#,dV(eQVdg-0,wbOErsEpTNXmdQJy5[j#U5l]p(j%)sM)iapwjTzv{dd:
-Tlrt/*#3%jqW#q(rXRF9K.f5Ou0]>k(T3zo5JQ<77:}*4AftfCFex-(2y>UUI%vc
-(.TM%hRN##d##}ou{1HW-N*0v1}g7j]h::.;2Ts2Y5/x<-;F4lD(R#QG3}pbC(]-
-}5qW8h-V#;25=;yJ4sT{o0B2}}(Fiu5Y=B)Lj<N}#T]f[gO30Da<<Rhsq:eh68(Q
-)iE2/L,sd89gG*7RAF*GTO5He1l=r[GcjOO*W#%h(j]sFeno5>cM#gt{5pup=k]j
-M1w},#+]X#y,,J7}B9aTq0{yMCNg/.fBM8Bd{R3pxTG*{+3M3K8<vC,MOy;d={[j
-RcyLQ[7M[j<(oZV.xIaY;K<hyu(96cp(bC{w(o2Zf6Rx7h<y4FaFDcuIu-NHqO>Z
-ri=t%9ft>nE24v>]3RbwTXxW[vM4K%m6hp:){aUI#;w=8wN<#mx>OQw}siJY{e#h
-,eEa;#DM>(<xKsiWRe,##4vvj#qgf_mC#myJ,Kn/*mp-c;lzr/Wv:=x.=}>c})=.
-RFJYl;37lUe,c(K<u46BBON%Z+(a0AYrR->B3{{W]6Rk0.lkR]av1<7c8>l(5d)0
-<(h#[R([#R=)}_n={JT2/XsrCD-R[R+jL{9#}=goqjnl0aAJ7vGGA-dx5RD1fi:=
-9I>+YTAE-IthC<4%<J-opGsrM7p>.AzJcXEeCq)[hIEN}F:zj4iU*n;{G6Ya(Wt}
-((#)(<K5ccu4H>[###]{#{##(}[{{}))Rvs[{{}#}])#][)R]]R#]R)({]{]}##}
+#]}#{{NYmofMvNgUh==({(][R[[})]}{](}#[)[)}[#]#]#{([###()[=#})}}(_
+}Z2+N:Te4m9R-l,d4B8+8U,RwFUNsH8K/*zo5us;<W[q2S+QEOt(/hT2I3mi}{j)
+)G#RvQwrXnUGKH5o/v.v=6U-=>-*FH]F=LbpvO[A(7I7.G+*7DRB2A=}2<x9b}<[
+]rj=KO2HimOrebo51jw<orHQ{b]]9JnFBZ],k{BQv9](j)H<ORe9Vhb=L/%j1>}[
+{y*{my####z##h)1>mmrx9.*L0])JdUxF*[>9c=Q#M5{]R(=Z)YgaH6Rt#sG}1:#
+)}GJJ#;####9*/z#=#[)Xpiy#pCRY){Q+n}#BO;j,#a<mKR9UNE0icmTsgEf>i7[
+[/tmWeC-3pqwBL8e7I6QIeW.A6FmF53OM<=eiGRx]7%86QwY9nh#jgsJ*ju9[C({
+[D=Q6noL]#o##Q:###tf<Q##/<[<NElFUe#JQRAOq<1#EB#)Kk3{p],Nqb3mYXN(
+[<exs(dxlYo:IYp8]}Jk0QEc8V1KL3j.on=]Eo{TTmM*v{+<A-irp)xNXNUvx(H[
+[gQ0/<m0e%j)#Zrj6#of2]A##_xtY=OE=MH}#I[A8uA_r#}0pYcpeA##OXKR};#}
+#-#9W{[];}[+#(pbgO.n}i#k#=5ywv}:DS#g#.6T(DR:s.=]yoJ{:>QU1ikdk#}(
+=G6#Oi[l8xN]W}5J[8P6o#6#6)vlJ.rjx+#yxtjTfhc#mF=]Ts{6QYn]V)KC;fM#
+#n#hi/;K9#ZFm9.tJRruVJ}VluO[a%);uqFFeFg8b(#uRr4{/1bJKdaV-;Mw=e=)
+[:fAu(zmRc8#fAuX8v<;],htWGO3e5LL[3n9n9n7Z}/>6C1)5wz*>L%FO(RM]{=}
+#e=0dDgpi{Q]}WiV{2+BKxG>nEfa4c#Q#G#mH4No##-9xn9;g,QXx6I2.j.}Ot<[
+=-mKiewK-wQ4q*z0VR,CVU2Z;FH7goXineRoT9eUr6to}eJm6AS:F4/a5pk}e{>}
+ix#TZdvZ#5k/;=MB0%bc+9D6c<TI6:[F<0i=BQeyYyjqFagYNGr*BqC1*eECFnWR
+{zoA>#x3c#p5)Xfu)e-8VOYR{7=#0)qZnMEWndkKB69##GWaTTs=>Tu9mj)5JCch
+(lhytAKo3BhF7[X3XfZ+TwRD{*>K9:3Rb8t6TE}co##5[JRs(iOlGZ[B-=Dop(f>
+=Rp#L(n5bNn=W}Wtx/6.{vjpnM1{EnKz8guXQLy3>i#)MkA]]6{#a}.UN>A%1I+[
+#t(#{C{k[WVx<KH}qg<cy)DVGK.TwU#oXX]<)H[If}+fMEs;MfNL%y-tVw.LC6z(
+RQFWJIzQg{2RaTjSx}Z503%Ob.T;*ug<92n=<H0DWmcaX+/309jA2Vj[A.H>m}LR
+dqh(=;9tTRwwwCp{c[Nw#%}mD3I7RU}z;Cc.=2}:(Jx)F8a(6R9)J>jgbcZ6C}Wg
+e)qRUg<*fd0nNQy5=x)Rjadi4hxd*}E+oBp>Gil3A5LoahgK-R[<L;f>o8=RY}HL
+FRXRQA8eU{29o%l9WOwM,L2JF>shUo-VQdlF]Z,Z3#)jfnX[Ie}RyhDTkd551=so
+8Rf:nijxC}+gBk=GUO>x:ZXMlYnPbj(l=A*8bQXZZ-;o)/=ZYBUGmA%pqEB*<wq*
+jXBzQI1s##RG[aNn=;F2)qv48r+=i]Oi%Fa:AdQ}]#i#3s9Fr)dveIj4)x-T(mhC
+L0PIt;aD}6ZbcdJ1xiT6s05UM#{pN1p6}{XM>mcn:FYtfvrvX0Kln>Y}Xm<d3.ef
+hURoTE2r[#NXkA#oQ>tZJQv]a4j4bMUXr#e}BD[7]##)mgY#[r-9rtK*kfP]H.L1
+1UG6)*dkj#D(=,7h7[tvlnN###k=(1(O=I>.zY]y}##<t]Jf:>.4{EdV1y7ibH0=
+=2bz67DbY/M0wd-U[.)c<nHrXdO1o=rk3}>{#g(<UAg2a6c*jJ1jfN1CXdc.,)h{
+#([)}R}}]#=x*GnxyJW{{}]]]##({Rd[{{_}}(][#R({##[}R[#=_{})]R[})}{}
 
-{=<[()=]#P##}](]####}}{X4=#]=R)[##[}[#{{[{}]{]}{MR(#_]#=)[[#{#]{
-)E(rK#voq{}%k0XA8Bw7aAZ47fc+--wcZN)BZQ}xU<#)v>>eVH4XuGyeeLE4085=
-#.99}-*U##7X-qgR8gl(=4k[#x#YQZ#DREIEHtX/yOMu*wJY>[/mq95u2v(ZD%N{
-#Rg#W{:<1[n-O(/{*j0YQt]WlalE7d}KJf]h>[xQ6dt:xo6iR}Mam=rjM8}[-fb}
-RKO+J73GNp4KC>,/D)}##o(u)zc7tGIrfmm+hIt>:C=N>YZKVnFJ25jOc631fTg(
-[xjTQl2G;wIG)I-z:/<DyZ;Q)GZa3f>X0]BNrBY)rO<=wv}iu(E#>pZ5::>K[>lB
-}{{(chy/RTc3o{r<4F}+VgCcn3}ZhE+=#9{kWWN[q}om/C#qRbChI0//pIJMc)b2
-U#loH*YHWqR3Bt<N)r}wWAl/Iu{Nk[15;[0NnbjrB-BGrJZ2=KC[}tWIh[NNy[<z
-ihIIWF[v,wV.>9<#7A#rCoxc(=6t/KyUHDGf<V3HnR1R:RXf)u21Qg*Ou,J7=ftR
-e*zUD3#z2[]a*#f#}jm{viiR#0<0+z)[4tDk9MXBM}x#Z*NxG5HKeH+#%nA*1#=)
-=qNj.ZBcAMBu:,OX/-IL=pxV<5w;WgaO4e72-4iwAo*lo(>)+8/RB<R8DD.)1]l=
-}(kstqud##C([#,1i7#]=%tT)GYnl>bycH-NyEQeV>G+xLWJ*>z{#nR[7za2;LD=
-)Ub>pA=J{=2WNXNhmM{]gHO0Vni,(D]Xjw=v1ii%tk4QoR}NUJZ]xQ+2vQeH,q<)
-(KlCRu(/(K=R.#[3eWPgR-EO3TWY-Xjjxj;R6ge(UCGG#oz>cLmD7.7ba,R{Fit{
-=2)}ehR2G:HKN+1+zBq)[//y)Ql3[;09(Rv=<<Ke{Be+>0rQc=m[]9R#7{l%wmh)
-(V#6TrI7=5wW(MMpK}+tH5H[-Gj3CZMgEZ}49MTF,xpvGuye8INAtu0:66exp=Q}
-}}C>E(yW.Ni7+GF7Rv#vWz=(s,#Orq](58(IR6[4l)}<0rf)RGoIZ{[-[(f1*E{=
-}Y5Jbe7enk8Da0c19}kF:c1DT}8<b>y=R<tvSjk[mtC]w;HFBqGV(3[:Ke/X*)l]
-}v,G>(-E8hT:n{D))816nRFZ{OQO*ijLCa>Ese)9{%5[,[=O<=9p-:K#=6A[t>3(
-}%a:jtp/k6yq*>XY=Vo#T6CbJ#AF9ho>VHlgkWl11Tlsl0bEHh:zp%,EN9Ne*+R)
-}6xwwAYsdpUl{..}>BIaoG[AR.7d<a[cArplEl)6R9DFpVY:CIp#j[{k2<l:49J}
-[fiKq1I=DKpZhT:,D-QJfn*kJDx/::a{fwv#bVc=Ay(*//ysk;26yLYa+Rp#Xd#[
-_6Aj]y]Esu])OQ*cK=3}2dRop*]X0+TZ%ZvT/d;=).;p>61H+Z85.4RO1L/W4#;#
-[oeDTKKELAE;k}Lp2c[kzmAgibQ>+O[7Ugl8x%=CXe-itKy{#<hy1,LNKq9xRY##
-}A}DZ+08#4KRAy[K*E46#+>e#%VhH#b4,vNd,,])f;{0y=8#{ngMswEg2OqfHQH_
-)))AMh2}2.IAuub;,[9F>0k)9}EKuLq3}qEeLcz4Y4lyfrH3dRFq]1d[qVq1Z[<]
-#9Ghxl5W<X[U(-<]BKRwe(0=(NQ},DvR]rsRjbVpEMiu>1Tfijg<#:#iF#g#,)L#
-#+z(DzRN<jDUpn(F3y:yd}i[v:2k5q4wu=UU)RX*j[b)Fzv6+dAMXg>ko1<;)===
-[,>N(A{(+e*C2#/N)BcxlRE}eCUNpyn:2t<.aKOovrq/m{(oX8FQ=-;##<s.J,Y]
-[f={be0_kc[e=WD8iOaqZ=mY=].)Uf},=Y=wz.BJR0,KFfxo+[5Gj8{##OsKE==(
-]G<5CV(cuUttYj+({(}(jE=fJbG<L,N0LjnC{m}L[DEl[tTLwgE6bdBtpDfulAK)
-[}=#}#(}=(}]{<C9Zpv3R=#R=R{#{}R(RZ{{)[=)YpRf={###})]#{#RXr({])][
+=I.sz2>)}}(=0D][R){[#]){#=]#R9}=){_#[(([#}{(##{]#{{{=#}}R][LZER#
+.#R}##O;)TcDu0A,s37g1(n>9j=g:AHWT:E-{Xg#]a0%>;V1Ah:CbrfEHuIK3o4=
+y#ZU#o##4{iU#T}aR+NDccl44<aqrX>=nq)#b5K##D)m)iez#>A33,5rT>orX{-l
+h)Ca>iiXU0->:Xwc%[e.Fr-Rc{LuY[Y[6rv>#{c2#8=5:(/#1#f[0z3]Yd+ia<kh
+z).4L[dOFKZ4U73H<b>X/4)j#)4>].a)f}O<###YOpGb)>8R:][e;uYOhMKTiRYM
+N#s9]ND#[#A)gtm#+#7)dq4n_W7ACElT:U0=###3My6>GRktfTxuH(,8%(4{<m%]
+=.NJt9Lfu]wA:fFnEsOEdckMfqZxDkdQNe,}##w#GeN{A#*#FQRNNRb6]2y*n(C#
+}))i]#i#%#[7ZlH[>>5L51DC-Y0q3c,,KzU>{jDO:*a4z7f#Rn{Ejb:%=Ol{wc9}
+4]-+#wAbw]/G#Hnxr;6-#/F*c0ERd2RZ:Yp:J(0x),)FIJQ/i%Lb2pa1Fm4awuN)
+CIaspexk,TTmLo7Bsvk6;-Jp*q9+;TeBJiQ0eKq5lXHck+/Mrf)galmzle+szE-[
+9*d*-UF#jT#7+)V[Ow#2txJKdHF#z#+>E(]d0((Y;k##4[cz23w:a<2nX7s]#/F}
+LLeL.T7W2#(=yoS2Or9rp+950TfXX.KtIkh25chpWG2Z9;N={i#6p#B53BjT*#5]
+D>[>QEZu0=Tt6HiU}op5FW0,##If6#M#>GBa+NLhdX]#=lvQEcA(M+cQL3AU:Yn]
+7{G##wIwwpER#V2#/0{rBQ.,h#4,7w:l{.#[#f;)UVT<h6Xt3wUB<QkiWf6#DR0}
+C#5f(se1U.#91w42V+TTsLN<:BdurfmRR:7kG*IC;[#zs93Y9t82ynBuWJ-65x{]
+X[=TK7616mvRtAvkd6+z:nh#A3q#,rapFZ[F#c##Q#/{q95s)R0a;xWq>5FDR6<{
+u#Y)=CzsgUNky=aIwzr=#F2y]46/kY)ZuB0FAYp8/h4e%(zW>Vx%[)5X9ohX5bz)
+h}b#<dg#MdOzym8XqmXi#yv#Q#urY###Hd#l#QJ#Zr*zW)6y(xzj<In]1KQ#n(Z[
+bvu3QUtHgzKr=8flVdaO-0g>rz<vUX[,#zq(%pc/g/W1jkIOCAXo.J-#Vb9lm=G<
+E;eUd}+OU#Zcy6sYh=#(zml;TaeVT1l1#6#-Ban*<;dnNA}tXh{)i2:)-<md0]Nd
+E=WIv#uR;X,bNl3[Xd#H#q5G#}[764yFqTIV89rHucL9:gbfRij91]Vx0eh{b(T4
+a)VEKt/#aqpE#o7p2#r{#e0z#G#;1lz5IArU7s#E+S]qe0_{4LW#(57(ti/<p]ZM
+z[,[1=j[LiEiU#Y+-L#vAhO,#HyLZ{.{5>VcGKI4V1jf0La=cX:47<Ff([r(w>dW
+2#1mF*pG+AHDi=#j.Z##-e-ED31x#9l4#>)<[8[#WqbN->]KH)pq9A*<zN4ERUAb
+I}b41)=;mFUl3KM+A6.5sru*W<FqHA02pKBDo,wZkkM(vt_o{{qsJQ>o)RHUx:T=
+m#{#R7}vY4##s#5j/l<WHG>IGQ#u8sclX--)=vN*-0]2:Kh[#(kv((fss+oRXx.(
+p###]vRA2>1bW5Aez5oT.e#uw-[L(Bg#WUd)#ufb(z[Wu:JjqW.bX02c-}}#qq6{
++####436d%##8#=#vQH2]C6f4Wwj0*CsTHZW<6{]3}4=yj{{2gR==<Z-bC/2ox6)
+i###6#E==*g9T2H0d<(>pLFr.T_(R6O.eN}2p8>:.uY6X>wwCk7b]}%{109fwR2[
+W##+#(C##>5#V#[GdEQWCQ-mdtt+/44ZMZ<duhYiDKfep[c({<pRqmzVf](z}(m[
+=37Qz44iJfRAjN2y>[#X)#(>[URbR({[]R<#(P]5VIhgShO[bvQzj4uUCNrnVzY}
+}cWnRZRJ(P(}##[]([RQJ+:6MRotpA*ukK0OJ:z({=]#({##(RY-({[#{{#=>={#
 
-]{)R[C%=]}(}{#{(}}}({{]{{{###{}[R]##){#R-7m}[(R)}[)]}(##P{qZu%v=
-)a3lmcUocxcxzD6(JbCf)VIeE8{r2TjNO4rz*Ya8IWi9e<<s80.7)ros-6tno*GR
-]#7k:;]r)MYpGE}M+8Kzry4hLp+B8C(;r0q#v{qE(,9#.#4T<NYTM;GUMoOy;}(#
-#m1]r:>e={Z;aIU>mTDhs[9}*Uqr]A52cw-1<7)j:pII]fuI7BkEGy{#==HX9Jf}
-_}M7Rvwcj)[f9<tjawbInI;FzL;B>hfkdV%rpj}<Zvv9<:IZqKocxc{F=R.>{oY#
-[eHVqs4dBdUNN1D7=E{[koc[Vuv)eu<VmeMcBiCXGexY4Wk9G=vr<(5=OM<39<>{
-=E1=k);q*X{1.C9Fls#:Rir}2d>o%4=Np#>5YU7+3}t/#]Q=4eGetmXoVha;_uGB
-=B=NRG;9KWN7k[O09VEE:B%ZV}*v}sF/yEq#oa=+-w/2UChVEV0AZx9v24T=0>:R
-PEv[f0Bf%JTg<>Jk+l15i)I8LD##f4b21)1(}X/+wabTTb(:/Y:T#w;.-U[h(.2]
-[f#Z}mgxuOgZyKyzU78x+-rvrU8Z8kd*-g%VfpyGI*kU(]HBJ>>mDt9Jf2>]yLa(
-]FL#n[2vJ+%3gD#,l/m{/K(X[hxWRUc9cba]kNyTwbHB4#<M]X#Q}Rkn#4EXc{;r
-Rkf#F9}iVWy5/:o{h*vQfbF#JW9fo<R1BBHEmADlj<qrI2lN;<;{}K(}[z%3Cl8.
-Qcx<u(ZmnoW:k.n>:w>m)LmJvu=eT4,NI#kKK#(L#}uShy;RjY,Vv*VYm>=7p*Ae
-RL4WfCxWmu5CVd:1}d.Nrtmy6>f{+zAIft(D-d#+[R-#)s}<h-ualb#Z1z)oZGrr
-)Oxw+b##eXm5e{.kaLrtok8#ho%,qOD),9x]fhaBqVzq<io=7Ju)Rco6ytBH,,y=
-=C]]jQ:wVvmbeOLfJY=J%tdeq)1Asa0:Mm.{{=oRQ}e8*5]Op4]k2NFxYjT#e#H}
-]6c<)#OI#,,++Qd%=8Q[%mVL8zRHO{DIoWyMLc0Rg{JR)a-xdG.{Tt(GQV#o>:c]
-)jq%E*5,dB,NjLIMe/x+JgRA4Rli%<nk8:WRdF#>5*-QN-fJOq}0[-Ynk8YN=)T)
-}2#1<DYg2b68oKtT>Dnck}3zMBU]oHDm)H<6;gs)=Bs#{{L[-#i}5.=M=cC##<T}
-#])O6WJN#a6gZ<e=]pOA9T5%3w,8XcI<i}W+jNDsR1yvZ85cX-Vo+MzIvQYL-D%#
-R#;O[QZ5x#v4T+nf<)b:OwirCgK]LxId7#>IXw#f*F-=m}v#wvoQ0(j3/.(>==1}
-[nf)0jI:n#jDO{,nq,-(QB%Mk=.4EjO*wlmIjyl4[K::5ddfZnNnhN]crW>sY)q#
-],FU*#Q)n0ai#CzQjQ%G+Km7a#[{O52{5;;)28PeeLz5<]Ln5%%4oN>iqX)ch=H)
-({dDc4kxiZYJw20H/+k8,endW%B</g3=W+nVqce]e6BIAsl)d];IKY]=0Ezi>=I=
-}cB3:P*HZfAL([:X(L[-6]<),loe2ZDbid,-dvuj;.=]9Ig9c;7aH}:k;c3krlk{
-)5>,Vbud)(lL[wy5Q9iw<h#4W[rH*MhaI(DFlBy.qvn8VU[-F=Rvedzi,g}09HR}
-=3XWwpI-Qkz([V8HuX+RCe,=Y2TaZ%:0,}(iBtd=)7O}<]FQI{87dTn}V;rhmYu[
-{M{##a4RoRh*OQ{txdLz4/;4bdOeZe7W,2CMZn:jBI+W*E{pR/IyBm<=(w]Uqm.(
-)n<BK,nb9D>GxCO%72ssAQpLcd9)0gsv=uaY%=1MK{gw%#]UZ#b*DU#l}.>[xt9{
-RX)G#.)m7(t0KuqAElH/./+n4}JwofBuC}7z=ig2%d#7,Z[9Fd}EhiTDx8y5er-{
-)>0:Dx2FM.(t#[)O]c=;zp}X>>;[:Qn2{#(=y37xR+1iOeiLNRapu7zAl1ztZC*]
-#],R#(=}RT{R:F9=[(](({R]R[#[}}=)1:TIE=}{(_][R(}(]}[)[{})#}##R[}#
+##]#)]<LyrRwOauZEC4)(##P[[4wT8=##](}#R{{=#)#}(]{)[{{[[][_}[6MBR#
+=IA>R+V9}kUu*MF8sh3aOgJ<V{-g5qVhFawZiEHILfCX<C>baExw05>Vry28j04R
+u###U.q{RC+2k+v7Ci,:cmnoTZd>##<E>7v-t9Dsv(Q##=}J6<8vhGMJj<]a#(t}
+=kud<Q##8h=<u5eBBNeD:XUdvjr9fk)I#]><D;[z(/V81=NNc.)G]HU+jQmdNce(
+T{TwIU7l0EI,jB;bdd<c#=xyUBl<[#/#*RLiNsNOxo.B2<+v9gKI)->h9U4/Q2N=
+a/AwHg.Q6)gX(p#-##C)Q=U9HCAep0j3#=im#[O3-[z<)J6zwFZFK74:zw=Knt)}
+[wn#GI#.EHt3+#x#u2#w#:#8a[p:>}h(U*1mquedrl%hc;hCNHqbj{Nv4[wx.5W#
+=,#;#n##+#K,%-#/<<{3cVm#z0MQ=+m(3d3<6RidNfUGTt=g5m:*8-upWRI>##Z}
+[30Y5aL4mp#j*I*(6F#I#3#(A(d.hYc%jWEizcmGe5LEXQRlKX=eJw.#yJ8###Z{
+(+m;awdjAWaUxj:4juNrHGka3{p]>8][/[:*)1U*7e]*n.pvd2xRQFNDFi-[*J*#
+R5#Ef4f*l>c)#5l:rcRo([XM}#u7l)*<;[tYfRK+fgxw{[>9:=U)D)mGjJBML1>#
+):##4op,-OTcCc6t;LXGJend=re4H]K5c,-nCR=t#Fg),I%>qtn:bj*1bmZxuF4}
+(<V<)y%#N;u#TI#]8#=DjMAz4W)u}C[O<#.#+o]2:V6:9Mkum8nXV>AYQ069IBG#
+{C8s4g#}NkJmva##U3(173#;tw,H5dweQIoG)V_g)L[xCW;%}{sRf%[]4]2x)]R]
+[IU%InyIgUYFiH>2HeEV,5,tryDW4*9vrD*Ur8nVd0N*q}e1G>-z(*Y}JWAK6Zs(
+==4t#Cz#4slR0K(*)fDj#]w8:##)}lR=t71#*)T3q:uZ6T/1aZ+I{T.T<1,Lrqb)
+)w*T;JUZszqxKWAIg*oq,opG=#-ZsoZ-CfrHH91c4{Ewncp]<}>;3LD3u/i/=50[
+=Ys7ZucEdI-8DpIGGy=DCA#0Eh[e[JnXhk3I./v/QmMHIQ4g=Z])]nU01b}(g(C=
+#-#*#vu9E8DS5t}FF#Ap]E.<z{Wh]}YRf*MOAn{Rvb%C27{tj(Nd)qw5ajBWk:W{
+]Ym#{Xcs>[%Gxf-z7lejvoMpn.qmOrJ+Bbxl38l}.{,%rATO:mY-kFR6=#=(2hr#
+#j##OA{#f;tPW:>(hm1RU/Q>.gmIR+h}Et0[*t9dw]{;[MG#iG)=HHFb+g{QUe=#
+#Q1[m9R##INyC(g(>c#{C0#I8ztiAlE)kqEJ8jn,V7oIehxyk-wwRZED9IftQGD_
+#>z=[vfa%R=*UHQm:jLAgHNWsF(F:C1xp<MqD/X)h[/TqI(0Nd+pHXgcUjX={<{#
+{H#zXD)Vb+e#C#8zc#GD-)bXgXMvLG[KL<[k*zLEq7.j{<O]tLGmK=J/W/Ds8.#]
+#X#;#uDAj7J##QW#P5TQQN{j[B#b>ly5D;pwpMwGC6=E(-#[v-e7a;<b::GDYRM#
+}u#;#}C>hk*Lwb4OHTDWgD<-(n]vC;9]-OmDozkp[.DD8>#g{HR6NIBW-:BgNzy}
+#ccxDl}nb<)M.od8gMmp-OR64Xm/[wxW2p0-ye=ssv1Rs:Yc}YKimW{}#{284[3)
+[hNX9B4qrh%jm#YN/})oU#q}BB72usL09KjCopBXxfF[#CI(YzxXnR{s}9%dUdR#
+#E#O#J#E#)UT%)m#1Dr<U-#5aw#d)DVJ2z6)lE<EA3tmX<-a7GZd=m}oyCcx[91}
+[Oi%>X##w<#]X*.t8#N(C5)qHt0YX(M8-z9wf%#6(=Ak[bMVs8}]5u#reZm76[i}
+]o#p#J###;7MOomg<aQ8x[R<{=RRoV}oUIwR2={=wY](#NX(Ahp3k)=(+=W1o=x(
+[{}}[=-9.=(#}*R4*8=)msDR{#[(=#{](}}_[RU6Fm;{}((=}=[R{REy+{}(<>-(
 
-]}}[v>#{##[#[#[([[})}##=}#=#R#})[{}P{[)Ru74*)}{R]]#}#]}R##}(}()[
-#JA4FNCvXEJ1]x}3i)>:XWcAnxMp](ArJxu]blRlRf8}=b6DJpKDoijyU]#0)fr]
-_+V6MRL33-tH,l;Y(}QT#VR)G5lgF8Bm()chN}Dk}N(xCn,[L>JWZ(o8Go6J+y3=
-(XOEY.<UcCWr3))<UD73BM:3m>N,XWRxeml:RVm6d-,4ua/[jnRwb}o;nr]p#]*8
-{*V]:E)>+uiT-j4d:+u5QZl90f,s<[y8#y0*-9*+(s:CRH96{h>Q#QaWnt(<H]/1
-(>4eJ13HN8Rjd#F##lJt#V7ji/heaN,=B3(-TR7+Dvw8>QxArwj=[mpbg+2KyR<L
-(BhX2>H=W{%gFM#*#8dR-#l2op<W6V#i(Q<R3q=Y7N6ybKm7]]7X68xN.E)r;#va
-=5dG%T/.{RB+t]l#++(r#m#=hgGxI}hZ6yab[OQ[[#L#Nd)A7sG2TIv0GwBgE<>;
-{NVrlw[cv5kdV<-a61(Y[o=;a6Ku}cRd)r}o6o34Sy[4#h#orH}9Cjm(57B=)%#}
-{>emH#V2:YFgY7kY7#}0;RxG=r:}:,>{C(.mu{nis=0#8L#[U<<=xg%7uw<#}Q6(
-(DF0ec7TsQcOD4J1rv84DE7FkbGV>6Qt2d}E}}]H7Ij.):{tVwQ)Qzc(m;u2#o#R
-Pv4[*=;{>,L{Maj(%]HW%7eM)+06h#tZZ8,Wf[1]yO8CJ6QNO}L0:n-DcxOhDrL]
-[oO{{by-WO}>Ah#<nD<sx)4Y[MI}gpDxFJbDaIk4B)jG{q}:izb;81t2%<,4-]o#
-]5577-hRe*KA.PU%M5xmJdDGO<B[QY*=>LsCmxK{A9*(kUIDZRwc3Xj#8Im}qnr=
-}kr[YJr:{Ni>qaF%269(Zz(nzl([1:C(+7NT4Hc}Q+}c#h(z%Ir[yx5X/dFU5pwc
-=Ee+MzEW856W9h0CdHKKGzXkqgMZe)MkPu}05*XIRuoVC6app],*4L%aa,:iEl,m
-x0tI}m:Z.=zgyZ.kF}(=mtc)49ee=su5nV{Gb)4XGoLI8J+86;c8VT0DvRU[<Dx]
-F}Y>zeD5+l)/5;Drd;M-}pB:#C2[#niR3*]pXZB<7cURr%aOk{EJHT2#na8#blm#
-L)ilBJq=b6-8v5N><QZ#R#.HZlHW{%B==Aig#3L{pK.(QQdnmr>=9o]zL4#R8C+=
-Q[.4XGmkt+D0mXi4w>scW)C-k(iR)u}Czj]1=obK*OiNH2B4z70iliODqtfOt*a)
-:{C}cvDcKTz/*p}I=,F(p}.]{)YA*y#s.b<icC1-W97G0y}i_c#}Oxj)rG(<Ubo]
-%]sEui-a4cX;+fyTspsTnYH[)l,x#(D(=3w6.ma.>r+VX-L6p55##+TyjN<}z/={
-YR6J][n#cW7}Fjj)WZ#:YMsQxrek[1CA>+RqLZ;MV}JhZeDwq.F%m5<rq/l{5d*{
-1)tiuiMs/-3n-}VKUAqe+6zrW.GuE0mO8+OY/>pw%b}WMh,R[[I7W]69}KN#<ElR
-;(,ClbV1n>;An%)IT#MwZ/Q>w9gW]m=g1i#3d])}q*7bYmXDR1I*)L=#U33{537#
-g[</wV5uAp23Z6[IRQC.r0wIa-g(tf=8Vm[qh#ORsB=/a4zsNzUJ%Gi*ade7vJ.=
-E}O{o{;-#xxCYyq(.Yl#;d)IdV>IisMWR]fkaAujZG%t6[[f96rXl{R/]QRy.jXi
-V)3NO:iTip7J{BXQlz#;n[Q-+31Z9{m>xD:+/jhZxxxX=d]Vmxg5#]tZb7k}vJGa
-Y}sfONw7gu<16}c7>TbYZR%EAZL>yw6QGA)2A]{Ia3,OhgOvxoqQA>3tRl<xq3O=
-:PB;/>2](O6>#s-Q{)#B[j][f}AnppmNUMkW8:zu1[_WRX)[RTy.1Q0=pMRs(8MF
-J<;Bp1Dge8,*}w9)cHaM>Un.<<0NW{WvN.[]K)3.=9i/89z{IYqfw26ME]cb]>ou
-[{R})#>CK{]###])###[#[)[[#(R])RR{{))(]]#]})RR]#=#]{}T==[])[)P_}]
+#=ORK](#=(n=(###R#}R[##R##{#)}{][]]}}){)){###{448R{}###{#[{y==)[
+]Bz<.GU;#H}T[(#s)lqxF-J91Vg-FZbf%2*m*>g5S#X#RV<J=xn0Bu<QfY9JJ=9]
+]0Z5o9]#}y.Qa#Q###,H0#e(#V)<N7Gu<wxccIu0AsMvusui.Zf6WQyI5e9jr3C(
+#Rj#RL}]#>#K#n###j>W###r#VjHTp{w+]<]qL[HL9N)=#u#iLwJ[InHKx%jsTE)
+#t;>x1n#0}7#d###tvtw###yI#X,{BeHakra)zC%(>l7:yK1w;a40g<((x(E0eK}
+R6wzO]Zr)A-amvZgUOb1QiBO0:cII{n{LtDKp>EoP,S=e(]#[aVjyBef1#A#q[w}
+#V3]y.Q1penq)[E89##F##DYy###<}=hZ8.{ed:r-q67FV8eHUFV>j(7iI#F4(/(
+#Ce#nn#>EWZ}BHKe###a#+#-###a##(wV#}=H)R6WO(42s.2Ae2fk:oj,#}<1dw=
+(X#*Q#M#/>hz/GCbx0BhUTBWzYsfYiTvCa.)V_M,-]T+L{o3#hJyWQ#]Y=zgE(K{
+#s##/##v#;{l/{#####/#W#b#c##<#-v}>Ny92}2GzzNNIMaTRlL:yVvF.8VH7n#
+#h##yoIeB<;Fjrb###1nQ##GD##W#1#R###:ApVuqmDFbO<;(FWn06y7TX3v#4<)
+)p##a{q##0/#b*Ms#Z#t###9##5#I#iZb#[8Y(#y:V{#]Ox<R1nMbF#F0]]xt][]
+(w.lhT#HO2Kg9sp2Z#pN#{/s0goBrv1h9-y(qW5Uf#5#RC6xybC1;<DKkpGo{EQ[
+=u:3)A#QM(gtHR)c.Y#o{opI((d>LVx=fda*oVW]#]8#],(EJKDw77zFcE23)Q[)
+#f,K#KmX]Y=*ac<2FIUeftK7}4#k##{c5#:#4e3Uz/.[dr,b><B(mp(O;;J434x{
+#4qJY9(oB6D)DL#.#Q:x>061[6GtEV2Di2lgcrV=B0Ya>lR-hl]Iee5]YhRmetM#
+{8#=HgbMK[%BiFg+d+WW6[)qk7#L=Dah-)GV3#T+)sn*:=a]M4<8kT7hf##=Tbe[
+}lLAx#=C#Fe#xE#GDV#iQJ#}Dk##w%}7#G+DTb#Y#;%Yvbj#{lRcn{YH3p(G38;#
+#:IA[3}7*#g{6gy:v5XIbAN1LUD*8H38}ez#/##M>WhwTxqO-g%aCK+{]{UE#v-]
+]gh{h#4f<w9jT3tGTqkcDps2/ch}t[VJmcls5##h#e#X{M=5rC>-[,u]]t928gj#
+R*I9qts2O;%w=E<1##y._AX<Fb4zU2jE-#x#I##pp#N##C>7vI{KT#uLUn{*W0v[
+R(h#02LpJnC#W##l<##zt[#5eIE#g*#F[Mb#tZ#1#z##>gDfZkUKT{Lwy#Y{/oBN
+*<>rq(o0,]1n###d9E#in#w+F{f-DsL/U#H#O#cFx##T[%###5*C(coG(5#[#UC4
+uw##E#Eza#d###gBsW6Q[x/VIvOlUR}Y#HanEp#k##a##2f#ZsQu+ozR646nJEaR
+3E{,=da{%d9##{8XUgFlEC8hb+zx<T%x#]*3n>dzV0G%qu[qPls+MC04zvOV[;-]
+:d)w3N9<FhN[###37#=Dg##V:4J;74H3zUd1TtR%{v]R#<R]-F=B}wd#e7UC2bd#
+xm#h]f3Cq]xO[BLsoxx8j[rBthpe7lz.o-*#A#jn##Z32osDE43gDaU2/H::E3GR
+2u;L#ntRaN(S#w2#Z)Mss26G,8swD7b{kk}X28#j8]Kv}bw=(y3#toX#mKxx#+4C
+(-:zc20(Us(a#Z#]=XAuAAbfoge.laYvVX*f%s7HZCs9*Jc1Vb7thxje+Z=rCoEk
+}E[;<YSFLF>Ij5>#B##(c{Owpg{k)8+2>G{%R3k;{kw-#yyd#]-]JBb9,8EB1V-G
+=>ox)s5F28L:h+utUmoT8p}aL[83XQ-JwC+Y%/b>Nv0icDT-scGe]6+[[hB##}2>
+#[#P=##=}}[]{([#[###)#=_#=((#}#]####})(({}#]{{][R.R(]3RR44Rp*<d[
 
-(}[)[<R}##{(({uvE*=[}[#{#)}[)=)}}(}((({(###)R5,Q]#)##{#{##{#{{R{
-RB_%m[8*TD3/qyZq3*<1GQDC:Y5F:YUT]8}9GaX9Mj7/8{]c)v7:GX,}y]kU#uwv
-pu=#qdN[5gj]}RO3F[{2#C8T)vN5hNw0KC=;iY({)##]#RqL8<]A#h;Ol=poOq-z
-R24JZE%w{jFw/Qx.a:mG7ZczR<IqB]z9A;i(c[nMN;.E)kjs}#Q5nLbDJCFH(u]I
-pillH9f<,)IMo9C0=mMRAs#O:#{#OQwUCwf2#UR(GRAc,g/RBA<9#[)1ufV]ec}+
-U<mD:9)YZ}ar6:GU61Lt-WRm87=Q(iFn2qQ[df;,8=dI<8(:iu))i]5Z[LIo2D(J
-f([*G<U7[4[(AQ[}B9rK];ZCOm2x%QylYgOIJUJ%tc;p{v}5f3Da]jJF*Qt,y8)%
-n}7Y7Nn{XJ0i*:X}zTmTtG,1HrNhbXjC961T[)E#IwJ#{{[*iB8T4Qym=YU#Or<,
-;CG##%6+(yNUXC]j;jTzk=%HR%):bK-*Mn{nQ5Z:1sS*yh-O(D4=wF(f:GEb}TuY
-X<Uuy0dk=]ezVXy+owfyk0pOu#=]6=<FN2TgM8H-p)=sKd#7H]=:+Znp.}[x)9iN
-J]/G=)zswoNd[d(HZ5Lw8nXH/s#s<}tU(cC60e]eiiabxoFsf(x{a8x:(B27=b}U
-w#)BVrv#<:GdCc,jdUmf:xBFRGNroY]8]Np]r#UrzXJ19O4yo)}-]RuZlx38*=RK
-t=ADJ%hrgY(<#1Tine#H#ei.BbKF#ml{xfGLZMEJZcwNc181p7KWHbL,Q2}b8Hpm
-4}QPUwm-HIc5.3y*RfJrZG2vEq(/AuQ8<%#/1QD0d;V#w7=}f))HTfbK%9#25(C+
-p[Ep+%Fb:qK<FyAzHIFx=9YQ=[Vh2[H7vc1;4xZ+%FLqcl4l[IgJ-j4N5-pmH]%7
-4)lMqQxBaCvG4T(j%FD/pJ9{ezYj-MK#falAlhEyr,c=mb}}F#w]n(jm#9nZ*k)R
-2(Z{pnS)MD=(}UjX)eRA]RW211,7YcZ{-0*HNEMPHq5bKY}4(AzT{r)z.ZiRO]6#
--[A<7F.]ygMz+(s;KDh}ryOIT-ARWdYOb9fyz+i=KG;K=RnU;Q%7.r;)OnV3Di0#
-2)2Qt7sD.0oMOp]<8V;Dw)QRMdvs}gzkMKVNxfeU}{LYDY]=L*<.+Tb5f1ForRa{
-eej+2yl=Ma6W=Tn(O<EIZaCHQNRFUav=(1(}}=v{)%hC/Q(Zl]z=Jxy6={)Y9EY[
-[)*#C-2B[Z#.5DvI#c8r/%Vb(fUC+.QvR23{a1B.ZT-;y63Ak:q4i8+tx9)d([0}
-RT8XXd4:a1B6xg+8sA47Thq+;OQA2wlNzy:[%t#s<ka(y{dj[BICXT2JCudO=Ob)
-):JGWhhmwaGyFa4H4KtLx4ckuy=6M#Dc<.U[)ke#XR[aLyn.#LU,R-[L[[R/G3y(
-]K7]TMgWR=VRyE1}WhW{,9QUu)s*5bB8X:,Rc<zG5upMz;c,bnw:bbkrgEvq-pQ(
-#m8RR}Y3%<XHGZsNdKf8Zd2<EEat#]M3Z7(c]/w1Kwpzsv=5MzhCWv]WkR=g;=oR
-#x:)j]C=q-IaHprOai6guZZA5rmr3sAo,57M}r;t+=tcOA}[9lV#iu1,w-og8]I{
-#2Q=)g:)HC[]zpgZgEx2fr7l*R<qB}:OD}60q(C)+KZ:]RfQ#lToFlR58iI7+Bj)
-(/9vv-e;wxp,tj{vTd1F)YEcmMmR%=c<_r{;8rn(7Y[I#%I7r#hKRq]g:mRWbNx{
-{c=j5xfn47I[}]9o<xTsWj7}iq:<uHB9W#VJ:ZMG:oM1oI9/zVKW6<[##I7(dtr#
-R=gJ2<7s*(K<R-Z#mRI=m4J}h}RD:RdJ(e{)#[}j=k8glx[e01R#w2[XU1XafNE=
-#DZ#)]]yRfvkhdX-Fiuz<8duCm,UC5WmZ-%aw.Ykb-kY9smbeCcaypR,[Z,MU<v}
-]Rx*q9<}(]#}{#]#}(]{R.{](]R#}}{}[RvCbOlb0R[}{=u=)))#[#=)#({#[R)}
+#######{G=#[##R4]#R}{)](R##=#){[{{[[=)R)]#}{{{qnnR#}]=]=}{}[]##)
+#########D8/KyU0LDz4V=iea0y.It06iV[)E<9=arpkVq2)#4n)Zlr]7X4(0)7]
+#########,(d{,%G2RTwed)bn.A##n#rJv6xm9zWt,QwWLKTy0sU{2IsYcr{*4,{
+#########<Q###7]0#<yVr]2)##40#BQTY=)b1_xmJE(XuQit1Oic[;9Qo2#X#6n
+###<####sE#####f###fYK#a}#R5y]h#w+myx[mW)<(BA(t7yqqq{=RKfk{fm#lR
+####J##miL####2#o#r#qa#Djevnbo#/#CK],<=wgMW7T+om;xk*6).CR=p+eFk1
+#####T8%#W}##C###d##Lcittf7B%f;##NLHmmmM(=#Ih-C):cZR<V7XMDJ2/M{Y
+#####U+<#2X#G###p#-#w+#%o#zF#172#6ZwFgcKIP9gO#+XUwr*{Mju,LH],Zxh
+####M]o##<Gz###3###Guxkvhyh:S#+p){h{vyi7=[]%Za=3*r.8OQ8L(]/RaU2)
+###t#e##=#b#;#H####}3x[vHn=sMfkp%<b3p*b{euO#v]+g72jCAvh7{a24[rsP
+##a#6##1#=#{#G####RWseW8b(A##%#yD]-lkL/.xN1dQ]T((Q]#s/W}n/m#Q#R=
+}lWIN*G8Q2*#ERuF8gi,R{fNa#{5##E6Tld26Cz}pt9txa;0kXoze68TQEL-Zhk)
+##Z#)0###m#RR/xIXcd=)B}Z#:#[vB#.Q7(nTi_{=zu=%-G}{j9(Xwvz/emiZLV{
+#K#WJh1Y7Vtj77:R9C}*x#0#[.4<;dX+an)#Y#f#b(URqv4wsirwx]*2dwRi;k]]
+(%3d###k#+#:##V#C(#g[TflmW#b{XvRDTqMMcXN{,ZG5(rr<tlN)cv3Y*JL2GH)
+}Z-##}3#v##s##}6w8,R<hw#KG.#0Zr+#9t#F#L#{xj9<x}I}+h##{FW]*A93LJ}
+#4F#8A#Z###8##5#8N#x#a#D-I=Vb.8N5tOCN4QU]U:IO1EJ0;UFp(BoaVIkwRn(
+#{#jv%K##]#q#Z##H*##mD/#Nr%N####+T##d[i#9RaB-o{ZNq##B}w7Ge#{C(U(
+##=58W#MB##%(b#D##r##d#McXrOF##txX*R;Oa*<Gk0OI8%svj#w#5N]ctZ#r[]
+]#;C}##X,N#7#9;####0H}ukw6f#jL{##gpQbow1}(4A-wd+iF<yYWzUXU301Vk{
+#H##pgNICqfqWgumjIpaY196R{]%#EX##i#RT[:6:H,He9<p#F}#H7wl{rrkv=#:
+##=##+1###x[Y{+equBzAeOk.0*LnLVKZY9Ziq]#Ka(/<R.}8i8hd7jO]OT+spY*
+R7<Az#NZ##{p##G0#FKf%vD#m#W*Z]7/Ahz/U+iR-kC#c;6Kjiv),#5k#dhVu/)h
+=L#cX##mj#2lVs:8L:(16##6##*OJ8/bEAbHQ({*r-{b#(wXdTI:FY}ja1}lUV{J
+[GH{+r-Rx1{[Z1)#B[rvp#K#3jI#H,_#[7rJN<G*QsCLeqD#,zT)(T#Gl[[64e(a
+#R57Bmj.FKa*VTt##Yty)d##9sP##cN(},00U##}{9#[C*J7#Kf##=lLcK57)z(B
+[70jL(9tpBC1HI,eOuMUdtnLoomK9:x9DZz]*(3%U}q,##m#JVd:#AoT](XJn;L=
+[A2psF[b=#A:[##4VI#M##3l###m#x#*1}]jwYolkxMgQkmvnbl+L{#nF55X[(#=
+#B##}MvwH2lzi#dVMl#{Rf+####[rFsI)sg,oH86ltwaH(RkztF)c+;%W.fl/B7#
+#b####g0,R<I[a<O#tI#==#####.)%6]<N3wZ:MIrH-v/ZaTmk58y9dQKJ9=+tXR
+]<NwJLOykfExdrov*tv56XAqu:OjLj9r]Xd=b.0<+uV*syY]06x)/##V#lj}zw6<
+#(}###_#{##{{[})##(R]####[{)[#{R{(]{}yf=#R#]))({]=}]#}[){=R##R#]
 ```
 
 This dungeon contains tiles with peekers (marked `,` on the map) and pokers (marked `;`), along with getters and setters for register S (marked `s` or `S`).
 
-Whenever you step onto a peeker tile, pop an argument `a` from the stack. Then read another number `b` from slot `a % S`, where S is the current stack size after popping the argument. Finally, push `b` onto the stack.
+Whenever you step onto a peeker tile, pop an argument `a` from the stack. Then get another number `b` from slot `a`. Finally, push `b` onto the stack.
 
-Whenever you step onto a poker tile, pop two arguments from the stack: first `b`, then `a`. Write `b` to slot `a % S`, where S is the current stack size after popping the arguments.
+Whenever you step onto a poker tile, pop two arguments from the stack: first `b`, then `a`. Set the number in slot `a` to `b`.
 
 Whenever you step onto an S-getter tile, get the stack size as a number, then push that number onto the stack. For an S-setter tile, pop a number from the stack, then set the stack size to that number. This effectively only changes the stack pointer, while leaving the slots and their numbers unchanged, except for which slots are hidden.
 
@@ -292,5807 +292,5984 @@ After how many steps do you leave the dungeon?
 Consider an example dungeon:
 
 ```
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 ```
 
 Below is a log of walking through the example dungeon. The hidden slots above the stack are shown as `(n)`. Your location is marked `@` on the map.
 
 ```
 Step count: 0
-Coordinates: (1, 6, 0)
+Coordinates: (10, 6, 0)
 Direction: East
-Next symbol: 3
+Next symbol: 4
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
+Dynamic stack (0):
+  [Empty]
 
-Non-zero registers:
+Fixed stack (26):
   S: 26
-  P: 97
+  P: 106
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)@3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:@48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 1
-Coordinates: (2, 6, 0)
+Coordinates: (11, 6, 0)
 Direction: East
-Next symbol: (
+Next symbol: 8
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  3 [Top]
+Dynamic stack (1):
+  4 [Top]
 
-Non-zero registers:
+Fixed stack (26):
   S: 27
-  P: 98
+  P: 107
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<@(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<@8{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 2
-Coordinates: (2, 6, 0)
-Direction: Northeast
-Next symbol: [
+Coordinates: (12, 6, 0)
+Direction: East
+Next symbol: {
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  3 [Top]
+Dynamic stack (2):
+  8 [Top]
+  4
 
-Non-zero registers:
-  S: 27
-  R: -1
-  P: 98
+Fixed stack (26):
+  S: 28
+  P: 108
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<@(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<4@{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 3
-Coordinates: (2, 6, 0)
+Coordinates: (12, 6, 0)
 Direction: Northwest
 Next symbol: 2
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  3 [Top]
+Dynamic stack (2):
+  8 [Top]
+  4
 
-Non-zero registers:
-  S: 27
+Fixed stack (26):
+  S: 28
   R: -3
-  P: 98
+  P: 108
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<@(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<4@{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 4
-Coordinates: (1, 5, 0)
+Coordinates: (11, 5, 0)
 Direction: Northwest
-Next symbol: =
+Next symbol: )
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
+Dynamic stack (3):
   2 [Top]
-  3
+  8
+  4
 
-Non-zero registers:
-  S: 28
+Fixed stack (26):
+  S: 29
   R: -3
-  P: 81
+  P: 91
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#@#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p@};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 5
-Coordinates: (0, 4, 0)
-Direction: Northeast
-Next symbol: r
+Coordinates: (11, 5, 0)
+Direction: North
+Next symbol: p
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (2)
-  (3) [S]
+  (0) [S]
 
+Dynamic stack (3):
+  2 [Top]
+  8
+  4
 
-Non-zero registers:
-  S: 26
-  R: -1
-  P: 64
+Fixed stack (26):
+  S: 29
+  R: -2
+  P: 91
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-@]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p@};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 6
-Coordinates: (1, 3, 0)
-Direction: Northeast
-Next symbol: .
+Coordinates: (11, 4, 0)
+Direction: North
+Next symbol: )
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (0)
-  (2) [S]
+  (0) [S]
 
-  -1 [Top]
+Dynamic stack (4):
+  75 [Top]
+  2
+  8
+  ...
 
-Non-zero registers:
-  S: 27
-  R: -1
-  P: 49
+Fixed stack (26):
+  S: 30
+  R: -2
+  P: 75
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{@]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)@#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 7
-Coordinates: (2, 2, 0)
+Coordinates: (11, 4, 0)
 Direction: Northeast
-Next symbol: {
+Next symbol: R
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (0)
-  (2) [S]
+  (0) [S]
 
-  -1 [Top]
+Dynamic stack (4):
+  75 [Top]
+  2
+  8
+  ...
 
-Non-zero registers:
-  S: 27
+Fixed stack (26):
+  S: 30
   R: -1
-  P: 34
+  P: 75
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2@s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)@#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 8
-Coordinates: (2, 2, 0)
-Direction: West
-Next symbol: 2
+Coordinates: (12, 3, 0)
+Direction: Southwest
+Next symbol: p
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (0)
-  (2) [S]
+  (75) [S]
 
-  -1 [Top]
+Dynamic stack (3):
+  2 [Top]
+  8
+  4
 
-Non-zero registers:
-  S: 27
-  R: -4
-  P: 34
+Fixed stack (26):
+  S: 29
+  R: 75
+  P: 60
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2@s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)@5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 9
-Coordinates: (1, 2, 0)
-Direction: West
-Next symbol: =
+Coordinates: (11, 4, 0)
+Direction: Southwest
+Next symbol: p
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  2 [Top]
-  -1
+Dynamic stack (4):
+  75 [Top]
+  2
+  8
+  ...
 
-Non-zero registers:
-  S: 28
-  R: -4
-  P: 33
+Fixed stack (26):
+  S: 30
+  R: 75
+  P: 75
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=@.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)@#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 10
-Coordinates: (0, 2, 0)
-Direction: South
-Next symbol: {
+Coordinates: (10, 5, 0)
+Direction: Southwest
+Next symbol: :
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (2)
-  (-1) [S]
+  (0) [S]
 
+Dynamic stack (5):
+  90 [Top]
+  75
+  2
+  ...
 
-Non-zero registers:
-  S: 26
-  R: -6
-  P: 32
+Fixed stack (26):
+  S: 31
+  R: 75
+  P: 90
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-@2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#@2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 11
-Coordinates: (0, 2, 0)
-Direction: Northeast
-Next symbol: 5
+Coordinates: (9, 6, 0)
+Direction: Southwest
+Next symbol: [
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (2)
-  (-1) [S]
+  (0) [S]
 
+Dynamic stack (5):
+  75 [Top]
+  90
+  2
+  ...
 
-Non-zero registers:
-  S: 26
-  R: -9
-  P: 32
+Fixed stack (26):
+  S: 31
+  R: 75
+  P: 105
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-@2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#@<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 12
-Coordinates: (1, 1, 0)
-Direction: Northeast
-Next symbol: }
+Coordinates: (9, 6, 0)
+Direction: Southeast
+Next symbol: P
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (0)
-  (2) [S]
+  (0) [S]
 
-  5 [Top]
+Dynamic stack (5):
+  75 [Top]
+  90
+  2
+  ...
 
-Non-zero registers:
-  S: 27
-  R: -9
-  P: 17
+Fixed stack (26):
+  S: 31
+  R: 73
+  P: 105
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{@]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#@<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 13
-Coordinates: (1, 1, 0)
-Direction: South
-Next symbol: 2
+Coordinates: (11, 4, 0)
+Direction: Southeast
+Next symbol: }
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (0)
-  (2) [S]
+  (75) [S]
 
-  5 [Top]
+Dynamic stack (4):
+  90 [Top]
+  2
+  8
+  ...
 
-Non-zero registers:
-  S: 27
-  R: -6
-  P: 17
+Fixed stack (26):
+  S: 30
+  R: 73
+  P: 75
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{@]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)@#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 14
-Coordinates: (1, 2, 0)
-Direction: South
-Next symbol: r
+Coordinates: (11, 4, 0)
+Direction: West
+Next symbol: )
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (0)
-  (0) [S]
+  (75) [S]
 
-  2 [Top]
-  5
+Dynamic stack (4):
+  90 [Top]
+  2
+  8
+  ...
 
-Non-zero registers:
-  S: 28
-  R: -6
-  P: 33
+Fixed stack (26):
+  S: 30
+  R: 76
+  P: 75
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=@.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)@#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 15
-Coordinates: (1, 3, 0)
-Direction: South
-Next symbol: ]
+Coordinates: (11, 4, 0)
+Direction: Northwest
+Next symbol: :
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (0)
-  (0) [S]
+  (75) [S]
 
-  -6 [Top]
+Dynamic stack (4):
+  90 [Top]
   2
-  5
+  8
+  ...
 
-Non-zero registers:
-  S: 29
-  R: -6
-  P: 49
+Fixed stack (26):
+  S: 30
+  R: 77
+  P: 75
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{@]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)@#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 16
-Coordinates: (1, 3, 0)
-Direction: West
-Next symbol: {
+Coordinates: (10, 3, 0)
+Direction: Northwest
+Next symbol: 7
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (0)
-  (0) [S]
+  (75) [S]
 
-  -6 [Top]
-  2
-  5
+Dynamic stack (4):
+  2 [Top]
+  90
+  8
+  ...
 
-Non-zero registers:
-  S: 29
-  R: -4
-  P: 49
+Fixed stack (26):
+  S: 30
+  R: 77
+  P: 58
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{@]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.@)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 17
-Coordinates: (1, 3, 0)
-Direction: Southeast
-Next symbol: {
+Coordinates: (9, 2, 0)
+Direction: Northwest
+Next symbol: ]
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  -6 [Top]
+Dynamic stack (5):
+  7 [Top]
   2
-  5
+  90
+  ...
 
-Non-zero registers:
-  S: 29
-  R: -7
-  P: 49
+Fixed stack (26):
+  S: 31
+  R: 77
+  P: 41
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{@]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s@639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 18
-Coordinates: (1, 3, 0)
-Direction: North
-Next symbol: 2
+Coordinates: (9, 2, 0)
+Direction: Northeast
+Next symbol: .
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  -6 [Top]
+Dynamic stack (5):
+  7 [Top]
   2
-  5
+  90
+  ...
 
-Non-zero registers:
-  S: 29
-  R: -10
-  P: 49
+Fixed stack (26):
+  S: 31
+  R: 79
+  P: 41
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{@]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s@639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 19
-Coordinates: (1, 2, 0)
-Direction: North
-Next symbol: 5
+Coordinates: (10, 1, 0)
+Direction: Northeast
+Next symbol: )
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  2 [Top]
-  -6
+Dynamic stack (5):
+  7 [Top]
   2
-  5
+  90
+  ...
 
-Non-zero registers:
-  S: 30
-  R: -10
-  P: 33
+Fixed stack (26):
+  S: 31
+  R: 79
+  P: 26
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=@.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3@5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 20
-Coordinates: (1, 1, 0)
-Direction: North
-Next symbol: [
+Coordinates: (10, 1, 0)
+Direction: East
+Next symbol: 5
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  5 [Top]
+Dynamic stack (5):
+  7 [Top]
   2
-  -6
-  2
+  90
   ...
 
-Non-zero registers:
+Fixed stack (26):
   S: 31
-  R: -10
-  P: 17
+  R: 80
+  P: 26
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{@]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3@5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 21
-Coordinates: (1, 1, 0)
-Direction: West
-Next symbol: {
+Coordinates: (11, 1, 0)
+Direction: East
+Next symbol: ]
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
+Dynamic stack (6):
   5 [Top]
-  2
-  -6
+  7
   2
   ...
 
-Non-zero registers:
-  S: 31
-  R: -12
-  P: 17
+Fixed stack (26):
+  S: 32
+  R: 80
+  P: 27
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{@]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.@]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 22
-Coordinates: (1, 1, 0)
-Direction: Southeast
-Next symbol: .
+Coordinates: (11, 1, 0)
+Direction: South
+Next symbol: 3
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
+Dynamic stack (6):
   5 [Top]
-  2
-  -6
+  7
   2
   ...
 
-Non-zero registers:
-  S: 31
-  R: -15
-  P: 17
+Fixed stack (26):
+  S: 32
+  R: 82
+  P: 27
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{@]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.@]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 23
-Coordinates: (2, 2, 0)
-Direction: Southeast
-Next symbol: r
+Coordinates: (11, 2, 0)
+Direction: South
+Next symbol: )
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  5 [Top]
-  2
-  -6
-  2
+Dynamic stack (7):
+  3 [Top]
+  5
+  7
   ...
 
-Non-zero registers:
-  S: 31
-  R: -15
-  P: 34
+Fixed stack (26):
+  S: 33
+  R: 82
+  P: 43
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2@s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s76@9,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 24
-Coordinates: (3, 3, 0)
-Direction: Southeast
-Next symbol: [
+Coordinates: (11, 2, 0)
+Direction: Southwest
+Next symbol: :
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  -15 [Top]
+Dynamic stack (7):
+  3 [Top]
   5
-  2
-  -6
+  7
   ...
 
-Non-zero registers:
-  S: 32
-  R: -15
-  P: 51
+Fixed stack (26):
+  S: 33
+  R: 83
+  P: 43
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]@]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s76@9,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 25
-Coordinates: (3, 3, 0)
-Direction: Northeast
-Next symbol: }
+Coordinates: (10, 3, 0)
+Direction: Southwest
+Next symbol: 4
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  -15 [Top]
-  5
-  2
-  -6
+Dynamic stack (7):
+  5 [Top]
+  3
+  7
   ...
 
-Non-zero registers:
-  S: 32
-  R: -17
-  P: 51
+Fixed stack (26):
+  S: 33
+  R: 83
+  P: 58
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]@]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.@)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 26
-Coordinates: (3, 3, 0)
-Direction: South
-Next symbol: r
+Coordinates: (9, 4, 0)
+Direction: Southwest
+Next symbol: }
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  -15 [Top]
+Dynamic stack (8):
+  4 [Top]
   5
-  2
-  -6
+  3
   ...
 
-Non-zero registers:
-  S: 32
-  R: -14
-  P: 51
+Fixed stack (26):
+  S: 34
+  R: 83
+  P: 73
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]@]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#@)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 27
-Coordinates: (3, 4, 0)
-Direction: South
-Next symbol: [
+Coordinates: (9, 4, 0)
+Direction: North
+Next symbol: .
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  -14 [Top]
-  -15
+Dynamic stack (8):
+  4 [Top]
   5
-  2
+  3
   ...
 
-Non-zero registers:
-  S: 33
-  R: -14
-  P: 67
+Fixed stack (26):
+  S: 34
+  R: 86
+  P: 73
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{@[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#@)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 28
-Coordinates: (3, 4, 0)
-Direction: East
-Next symbol: [
+Coordinates: (9, 3, 0)
+Direction: North
+Next symbol: 7
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  -14 [Top]
-  -15
+Dynamic stack (8):
+  4 [Top]
   5
-  2
+  3
   ...
 
-Non-zero registers:
-  S: 33
-  R: -16
-  P: 67
+Fixed stack (26):
+  S: 34
+  R: 86
+  P: 57
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{@[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4@:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 29
-Coordinates: (3, 4, 0)
+Coordinates: (9, 2, 0)
 Direction: North
-Next symbol: r
+Next symbol: 3
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  -14 [Top]
-  -15
+Dynamic stack (9):
+  7 [Top]
+  4
   5
-  2
   ...
 
-Non-zero registers:
-  S: 33
-  R: -18
-  P: 67
+Fixed stack (26):
+  S: 35
+  R: 86
+  P: 41
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{@[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s@639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 30
-Coordinates: (3, 3, 0)
+Coordinates: (9, 1, 0)
 Direction: North
-Next symbol: s
+Next symbol: =
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  -18 [Top]
-  -14
-  -15
-  5
+Dynamic stack (10):
+  3 [Top]
+  7
+  4
   ...
 
-Non-zero registers:
-  S: 34
-  R: -18
-  P: 51
+Fixed stack (26):
+  S: 36
+  R: 86
+  P: 25
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]@]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]@.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 31
-Coordinates: (3, 2, 0)
-Direction: North
-Next symbol: {
+Coordinates: (9, 0, 0)
+Direction: East
+Next symbol: p
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
-  (0) [S]
+  (3)
+  (7) [S]
 
-  34 [Top]
-  -18
-  -14
-  -15
+Dynamic stack (8):
+  4 [Top]
+  5
+  3
   ...
 
-Non-zero registers:
-  S: 35
-  R: -18
-  P: 35
+Fixed stack (26):
+  S: 34
+  R: 88
+  P: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.@}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###@p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 32
-Coordinates: (3, 2, 0)
-Direction: Southwest
-Next symbol: ]
+Coordinates: (10, 0, 0)
+Direction: East
+Next symbol: )
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (0)
-  (0) [S]
+  (3) [S]
 
-  34 [Top]
-  -18
-  -14
-  -15
+Dynamic stack (9):
+  10 [Top]
+  4
+  5
   ...
 
-Non-zero registers:
+Fixed stack (26):
   S: 35
-  R: -21
-  P: 35
+  R: 88
+  P: 10
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.@}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=@)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 33
-Coordinates: (3, 2, 0)
-Direction: Northwest
-Next symbol: ]
+Coordinates: (10, 0, 0)
+Direction: Southeast
+Next symbol: 5
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (0)
-  (0) [S]
+  (3) [S]
 
-  34 [Top]
-  -18
-  -14
-  -15
+Dynamic stack (9):
+  10 [Top]
+  4
+  5
   ...
 
-Non-zero registers:
+Fixed stack (26):
   S: 35
-  R: -19
-  P: 35
+  R: 89
+  P: 10
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.@}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=@)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 34
-Coordinates: (3, 2, 0)
-Direction: Northeast
-Next symbol: 7
+Coordinates: (11, 1, 0)
+Direction: Southeast
+Next symbol: 9
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  34 [Top]
-  -18
-  -14
-  -15
+Dynamic stack (10):
+  5 [Top]
+  10
+  4
   ...
 
-Non-zero registers:
-  S: 35
-  R: -17
-  P: 35
+Fixed stack (26):
+  S: 36
+  R: 89
+  P: 27
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.@}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.@]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 35
-Coordinates: (4, 1, 0)
-Direction: Northeast
-Next symbol: =
+Coordinates: (12, 2, 0)
+Direction: Southeast
+Next symbol: 5
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  7 [Top]
-  34
-  -18
-  -14
+Dynamic stack (11):
+  9 [Top]
+  5
+  10
   ...
 
-Non-zero registers:
-  S: 36
-  R: -17
-  P: 20
+Fixed stack (26):
+  S: 37
+  R: 89
+  P: 44
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{@=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s763@,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 36
-Coordinates: (5, 0, 0)
+Coordinates: (13, 3, 0)
 Direction: Southeast
-Next symbol: 8
+Next symbol: 9
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (7)
-  (34) [S]
+  (0) [S]
 
-  -18 [Top]
-  -14
-  -15
+Dynamic stack (12):
+  5 [Top]
+  9
   5
   ...
 
-Non-zero registers:
-  S: 34
-  R: -15
-  P: 5
+Fixed stack (26):
+  S: 38
+  R: 89
+  P: 61
+  Others: 0
 
-#[}}#@#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R@r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 37
-Coordinates: (6, 1, 0)
+Coordinates: (14, 4, 0)
 Direction: Southeast
-Next symbol: p
+Next symbol: )
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (0)
-  (7) [S]
+  (0) [S]
 
-  8 [Top]
-  -18
-  -14
-  -15
+Dynamic stack (13):
+  9 [Top]
+  5
+  9
   ...
 
-Non-zero registers:
-  S: 35
-  R: -15
-  P: 22
+Fixed stack (26):
+  S: 39
+  R: 89
+  P: 78
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=@]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{@{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 38
-Coordinates: (7, 2, 0)
-Direction: Southeast
-Next symbol: ]
+Coordinates: (14, 4, 0)
+Direction: South
+Next symbol: =
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  39 [Top]
-  8
-  -18
-  -14
+Dynamic stack (13):
+  9 [Top]
+  5
+  9
   ...
 
-Non-zero registers:
-  S: 36
-  R: -15
-  P: 39
+Fixed stack (26):
+  S: 39
+  R: 90
+  P: 78
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6@s;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{@{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 39
-Coordinates: (7, 2, 0)
-Direction: Southwest
-Next symbol: r
+Coordinates: (14, 5, 0)
+Direction: East
+Next symbol: )
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
-  (0) [S]
+  (9)
+  (5) [S]
 
-  39 [Top]
-  8
-  -18
-  -14
+Dynamic stack (11):
+  9 [Top]
+  5
+  10
   ...
 
-Non-zero registers:
-  S: 36
-  R: -13
-  P: 39
+Fixed stack (26):
+  S: 37
+  R: 88
+  P: 94
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6@s;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};@)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 40
-Coordinates: (6, 3, 0)
-Direction: Southwest
-Next symbol: 5
+Coordinates: (14, 5, 0)
+Direction: Southeast
+Next symbol: )
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
-  (0) [S]
+  (9)
+  (5) [S]
 
-  -13 [Top]
-  39
-  8
-  -18
+Dynamic stack (11):
+  9 [Top]
+  5
+  10
   ...
 
-Non-zero registers:
+Fixed stack (26):
   S: 37
-  R: -13
-  P: 54
+  R: 89
+  P: 94
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6@}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};@)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 41
-Coordinates: (5, 4, 0)
-Direction: Southwest
-Next symbol: ;
+Coordinates: (14, 5, 0)
+Direction: South
+Next symbol: {
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
-  (0) [S]
+  (9)
+  (5) [S]
 
-  5 [Top]
-  -13
-  39
-  8
+Dynamic stack (11):
+  9 [Top]
+  5
+  10
   ...
 
-Non-zero registers:
-  S: 38
-  R: -13
-  P: 69
+Fixed stack (26):
+  S: 37
+  R: 90
+  P: 94
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[@4[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};@)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 42
-Coordinates: (4, 5, 0)
-Direction: Southwest
-Next symbol: (
+Coordinates: (14, 5, 0)
+Direction: Northeast
+Next symbol: {
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (5)
-  (-13) [S]
+  (9)
+  (5) [S]
 
-  39 [Top]
-  8
-  -18
-  -14
+Dynamic stack (11):
+  9 [Top]
+  5
+  10
   ...
 
-Non-zero registers:
-  X: 5
-  S: 36
-  R: -13
-  P: 84
+Fixed stack (26):
+  S: 37
+  R: 87
+  P: 94
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[@78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};@)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 43
-Coordinates: (4, 5, 0)
-Direction: South
-Next symbol: p
+Coordinates: (14, 5, 0)
+Direction: West
+Next symbol: ;
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (5)
-  (-13) [S]
+  (9)
+  (5) [S]
 
-  39 [Top]
-  8
-  -18
-  -14
+Dynamic stack (11):
+  9 [Top]
+  5
+  10
   ...
 
-Non-zero registers:
-  X: 5
-  S: 36
-  R: -14
-  P: 84
+Fixed stack (26):
+  S: 37
+  R: 84
+  P: 94
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[@78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};@)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 44
-Coordinates: (4, 6, 0)
-Direction: South
-Next symbol: R
+Coordinates: (13, 5, 0)
+Direction: West
+Next symbol: }
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
+  (9)
   (5) [S]
 
-  100 [Top]
-  39
-  8
-  -18
+Dynamic stack (9):
+  10 [Top]
+  4
+  5
   ...
 
-Non-zero registers:
-  X: 5
-  S: 37
-  R: -14
-  P: 100
+Fixed stack (26):
+  S: 35
+  R: 84
+  P: 93
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(@p{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2}@=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 45
-Coordinates: (4, 7, 0)
-Direction: West
-Next symbol: R
+Coordinates: (13, 5, 0)
+Direction: Northeast
+Next symbol: 9
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (5)
-  (100) [S]
+  (9)
+  (5) [S]
 
-  39 [Top]
-  8
-  -18
-  -14
+Dynamic stack (9):
+  10 [Top]
+  4
+  5
   ...
 
-Non-zero registers:
-  X: 5
-  S: 36
-  R: 100
-  P: 116
+Fixed stack (26):
+  S: 35
+  R: 87
+  P: 93
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SR@(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2}@=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 46
-Coordinates: (3, 7, 0)
+Coordinates: (14, 4, 0)
 Direction: Northeast
-Next symbol: p
+Next symbol: (
 
-Stack:
+Hidden stack:
   ...
   (5)
-  (100)
-  (39) [S]
+  (9) [S]
 
-  8 [Top]
-  -18
-  -14
-  -15
+Dynamic stack (10):
+  9 [Top]
+  10
+  4
   ...
 
-Non-zero registers:
-  X: 5
-  S: 35
-  R: 39
-  P: 115
+Fixed stack (26):
+  S: 36
+  R: 87
+  P: 78
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),S@R(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{@{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 47
-Coordinates: (4, 6, 0)
-Direction: Northeast
-Next symbol: 7
+Coordinates: (14, 4, 0)
+Direction: North
+Next symbol: r
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (5)
-  (100) [S]
+  (9) [S]
 
-  100 [Top]
-  8
-  -18
-  -14
+Dynamic stack (10):
+  9 [Top]
+  10
+  4
   ...
 
-Non-zero registers:
-  X: 5
+Fixed stack (26):
   S: 36
-  R: 39
-  P: 100
+  R: 86
+  P: 78
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(@p{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{@{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 48
-Coordinates: (5, 5, 0)
-Direction: Northeast
-Next symbol: 4
+Coordinates: (14, 3, 0)
+Direction: North
+Next symbol: ;
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
+  (9)
   (5) [S]
 
-  7 [Top]
-  100
-  8
-  -18
+Dynamic stack (11):
+  86 [Top]
+  9
+  10
   ...
 
-Non-zero registers:
-  X: 5
+Fixed stack (26):
   S: 37
-  R: 39
-  P: 85
+  R: 86
+  P: 62
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;@8#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5@(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 49
-Coordinates: (6, 4, 0)
-Direction: Northeast
-Next symbol: }
+Coordinates: (14, 2, 0)
+Direction: North
+Next symbol: 3
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
-  (0) [S]
+  (86)
+  (9) [S]
 
-  4 [Top]
-  7
-  100
-  8
+Dynamic stack (9):
+  10 [Top]
+  4
+  5
   ...
 
-Non-zero registers:
-  X: 5
-  S: 38
-  R: 39
-  P: 70
+Fixed stack (26):
+  S: 35
+  R: 86
+  P: 46
+  J: 86
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[5@[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,@[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 50
-Coordinates: (6, 4, 0)
-Direction: South
-Next symbol: 8
+Coordinates: (14, 1, 0)
+Direction: North
+Next symbol: {
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
-  (0) [S]
+  (5)
+  (86) [S]
 
-  4 [Top]
-  7
-  100
-  8
+Dynamic stack (10):
+  3 [Top]
+  10
+  4
   ...
 
-Non-zero registers:
-  X: 5
-  S: 38
-  R: 42
-  P: 70
+Fixed stack (26):
+  S: 36
+  R: 86
+  P: 30
+  J: 86
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[5@[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]7@{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 51
-Coordinates: (6, 5, 0)
-Direction: South
-Next symbol: {
+Coordinates: (14, 1, 0)
+Direction: Southwest
+Next symbol: ,
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
-  (0) [S]
+  (5)
+  (86) [S]
 
-  8 [Top]
+Dynamic stack (10):
+  3 [Top]
+  10
   4
-  7
-  100
   ...
 
-Non-zero registers:
-  X: 5
-  S: 39
-  R: 42
-  P: 86
+Fixed stack (26):
+  S: 36
+  R: 83
+  P: 30
+  J: 86
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;7@#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]7@{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 52
-Coordinates: (6, 5, 0)
-Direction: Northeast
-Next symbol: [
+Coordinates: (13, 2, 0)
+Direction: Southwest
+Next symbol: R
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
-  (0) [S]
+  (5)
+  (86) [S]
 
-  8 [Top]
+Dynamic stack (10):
+  0 [Top]
+  10
   4
-  7
-  100
   ...
 
-Non-zero registers:
-  X: 5
-  S: 39
-  R: 39
-  P: 86
+Fixed stack (26):
+  S: 36
+  R: 83
+  P: 45
+  J: 86
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;7@#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639@;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 53
-Coordinates: (6, 5, 0)
-Direction: Northwest
+Coordinates: (12, 3, 0)
+Direction: East
 Next symbol: 5
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
+  (86)
   (0) [S]
 
-  8 [Top]
+Dynamic stack (9):
+  10 [Top]
   4
-  7
-  100
+  5
   ...
 
-Non-zero registers:
-  X: 5
-  S: 39
-  R: 37
-  P: 86
+Fixed stack (26):
+  S: 35
+  P: 60
+  J: 86
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;7@#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)@5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 54
-Coordinates: (5, 4, 0)
-Direction: Northwest
-Next symbol: ]
+Coordinates: (13, 3, 0)
+Direction: East
+Next symbol: r
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
-  (0) [S]
+  (5)
+  (86) [S]
 
+Dynamic stack (10):
   5 [Top]
-  8
+  10
   4
-  7
   ...
 
-Non-zero registers:
-  X: 5
-  S: 40
-  R: 37
-  P: 69
+Fixed stack (26):
+  S: 36
+  P: 61
+  J: 86
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[@4[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R@r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 55
-Coordinates: (5, 4, 0)
-Direction: Northeast
-Next symbol: r
+Coordinates: (14, 3, 0)
+Direction: East
+Next symbol: (
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
-  (0) [S]
+  (9)
+  (5) [S]
 
-  5 [Top]
-  8
-  4
-  7
+Dynamic stack (11):
+  0 [Top]
+  5
+  10
   ...
 
-Non-zero registers:
-  X: 5
-  S: 40
-  R: 39
-  P: 69
+Fixed stack (26):
+  S: 37
+  P: 62
+  J: 86
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[@4[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5@(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 56
-Coordinates: (6, 3, 0)
+Coordinates: (14, 3, 0)
 Direction: Northeast
-Next symbol: p
+Next symbol: [
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
-  (0) [S]
+  (9)
+  (5) [S]
 
-  39 [Top]
+Dynamic stack (11):
+  0 [Top]
   5
-  8
-  4
+  10
   ...
 
-Non-zero registers:
-  X: 5
-  S: 41
-  R: 39
-  P: 54
+Fixed stack (26):
+  S: 37
+  R: -1
+  P: 62
+  J: 86
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6@}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5@(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 57
-Coordinates: (7, 2, 0)
-Direction: Northeast
-Next symbol: 4
+Coordinates: (14, 3, 0)
+Direction: Northwest
+Next symbol: ,
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
-  (0) [S]
+  (9)
+  (5) [S]
 
-  39 [Top]
-  39
+Dynamic stack (11):
+  0 [Top]
   5
-  8
+  10
   ...
 
-Non-zero registers:
-  X: 5
-  S: 42
-  R: 39
-  P: 39
+Fixed stack (26):
+  S: 37
+  R: -3
+  P: 62
+  J: 86
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6@s;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5@(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 58
-Coordinates: (8, 1, 0)
-Direction: Northeast
-Next symbol: {
+Coordinates: (13, 2, 0)
+Direction: Northwest
+Next symbol: ]
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
-  (0) [S]
+  (9)
+  (5) [S]
 
-  4 [Top]
-  39
-  39
+Dynamic stack (11):
+  0 [Top]
   5
+  10
   ...
 
-Non-zero registers:
-  X: 5
-  S: 43
-  R: 39
-  P: 24
+Fixed stack (26):
+  S: 37
+  R: -3
+  P: 45
+  J: 86
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]@)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639@;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 59
-Coordinates: (8, 1, 0)
-Direction: West
-Next symbol: ]
+Coordinates: (13, 2, 0)
+Direction: Northeast
+Next symbol: 3
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
-  (0) [S]
+  (9)
+  (5) [S]
 
-  4 [Top]
-  39
-  39
+Dynamic stack (11):
+  0 [Top]
   5
+  10
   ...
 
-Non-zero registers:
-  X: 5
-  S: 43
-  R: 36
-  P: 24
+Fixed stack (26):
+  S: 37
+  R: -1
+  P: 45
+  J: 86
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]@)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639@;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 60
-Coordinates: (8, 1, 0)
-Direction: North
-Next symbol: }
+Coordinates: (14, 1, 0)
+Direction: Northeast
+Next symbol: {
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (0)
-  (0) [S]
+  (9) [S]
 
-  4 [Top]
-  39
-  39
+Dynamic stack (12):
+  3 [Top]
+  0
   5
   ...
 
-Non-zero registers:
-  X: 5
-  S: 43
-  R: 38
-  P: 24
+Fixed stack (26):
+  S: 38
+  R: -1
+  P: 30
+  J: 86
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]@)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]7@{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 61
-Coordinates: (8, 1, 0)
-Direction: Southeast
-Next symbol: ;
+Coordinates: (14, 1, 0)
+Direction: West
+Next symbol: 7
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (0)
-  (0) [S]
+  (9) [S]
 
-  4 [Top]
-  39
-  39
+Dynamic stack (12):
+  3 [Top]
+  0
   5
   ...
 
-Non-zero registers:
-  X: 5
-  S: 43
-  R: 41
-  P: 24
+Fixed stack (26):
+  S: 38
+  R: -4
+  P: 30
+  J: 86
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]@)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]7@{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 62
-Coordinates: (9, 2, 0)
-Direction: Southeast
-Next symbol: [
+Coordinates: (13, 1, 0)
+Direction: West
+Next symbol: ]
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (4)
-  (39) [S]
+  (0) [S]
 
-  39 [Top]
-  4
-  8
-  4
+Dynamic stack (13):
+  7 [Top]
+  3
+  0
   ...
 
-Non-zero registers:
-  X: 5
-  S: 41
-  R: 41
-  P: 41
+Fixed stack (26):
+  S: 39
+  R: -4
+  P: 29
+  J: 86
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps@R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]@3{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 63
-Coordinates: (9, 2, 0)
-Direction: Northeast
-Next symbol: p
+Coordinates: (13, 1, 0)
+Direction: North
+Next symbol: =
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (4)
-  (39) [S]
+  (0) [S]
 
-  39 [Top]
-  4
-  8
-  4
+Dynamic stack (13):
+  7 [Top]
+  3
+  0
   ...
 
-Non-zero registers:
-  X: 5
-  S: 41
-  R: 39
-  P: 41
+Fixed stack (26):
+  S: 39
+  R: -2
+  P: 29
+  J: 86
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps@R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]@3{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 64
-Coordinates: (10, 1, 0)
-Direction: Northeast
-Next symbol: )
+Coordinates: (13, 0, 0)
+Direction: West
+Next symbol: R
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
-  (4) [S]
+  (7)
+  (3) [S]
 
-  26 [Top]
-  39
-  4
-  8
+Dynamic stack (11):
+  0 [Top]
+  5
+  10
   ...
 
-Non-zero registers:
-  X: 5
-  S: 42
-  R: 39
-  P: 26
+Fixed stack (26):
+  S: 37
+  R: -4
+  P: 13
+  J: 86
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)@5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R@{{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 65
-Coordinates: (10, 1, 0)
+Coordinates: (12, 0, 0)
 Direction: East
-Next symbol: 5
+Next symbol: =
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
-  (4) [S]
+  (3)
+  (0) [S]
 
-  26 [Top]
-  39
+Dynamic stack (10):
+  5 [Top]
+  10
   4
-  8
   ...
 
-Non-zero registers:
-  X: 5
-  S: 42
-  R: 40
-  P: 26
+Fixed stack (26):
+  S: 36
+  P: 12
+  J: 86
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)@5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)@={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 66
-Coordinates: (11, 1, 0)
-Direction: East
-Next symbol: ;
+Coordinates: (13, 0, 0)
+Direction: South
+Next symbol: 7
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
-  (0) [S]
+  (5)
+  (10) [S]
 
-  5 [Top]
-  26
-  39
-  4
+Dynamic stack (8):
+  4 [Top]
+  5
+  3
   ...
 
-Non-zero registers:
-  X: 5
-  S: 43
-  R: 40
-  P: 27
+Fixed stack (26):
+  S: 34
+  R: 2
+  P: 13
+  J: 86
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p@;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R@{{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 67
-Coordinates: (12, 1, 0)
-Direction: East
-Next symbol: (
+Coordinates: (13, 1, 0)
+Direction: South
+Next symbol: ,
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (5)
-  (26) [S]
+  (5) [S]
 
-  39 [Top]
+Dynamic stack (9):
+  7 [Top]
   4
-  8
-  4
+  5
   ...
 
-Non-zero registers:
-  X: 5
-  S: 41
-  R: 40
-  P: 28
+Fixed stack (26):
+  S: 35
+  R: 2
+  P: 29
+  J: 86
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5@(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]@3{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 68
-Coordinates: (12, 1, 0)
-Direction: Northeast
-Next symbol: {
+Coordinates: (13, 2, 0)
+Direction: South
+Next symbol: 5
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (5)
-  (26) [S]
+  (5) [S]
 
-  39 [Top]
+Dynamic stack (9):
+  0 [Top]
   4
-  8
-  4
+  5
   ...
 
-Non-zero registers:
-  X: 5
-  S: 41
-  R: 39
-  P: 28
+Fixed stack (26):
+  S: 35
+  R: 2
+  P: 45
+  J: 86
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5@(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639@;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 69
-Coordinates: (12, 1, 0)
-Direction: West
-Next symbol: 5
+Coordinates: (13, 3, 0)
+Direction: South
+Next symbol: {
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (5)
-  (26) [S]
+  (3)
+  (0) [S]
 
-  39 [Top]
-  4
-  8
+Dynamic stack (10):
+  5 [Top]
+  0
   4
   ...
 
-Non-zero registers:
-  X: 5
-  S: 41
-  R: 36
-  P: 28
+Fixed stack (26):
+  S: 36
+  R: 2
+  P: 61
+  J: 86
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5@(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R@r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 70
-Coordinates: (11, 1, 0)
-Direction: West
-Next symbol: p
+Coordinates: (13, 3, 0)
+Direction: Northeast
+Next symbol: ;
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
-  (5) [S]
+  (3)
+  (0) [S]
 
+Dynamic stack (10):
   5 [Top]
-  39
+  0
   4
-  8
   ...
 
-Non-zero registers:
-  X: 5
-  S: 42
-  R: 36
-  P: 27
+Fixed stack (26):
+  S: 36
+  R: -1
+  P: 61
+  J: 86
+  F: 9
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p@;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R@r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 71
-Coordinates: (10, 1, 0)
-Direction: West
-Next symbol: )
+Coordinates: (14, 2, 0)
+Direction: Northeast
+Next symbol: {
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
+  (5)
   (0) [S]
 
-  26 [Top]
+Dynamic stack (8):
+  4 [Top]
   5
-  39
-  4
+  3
   ...
 
-Non-zero registers:
-  X: 5
-  S: 43
-  R: 36
-  P: 26
+Fixed stack (26):
+  S: 34
+  R: -1
+  P: 46
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)@5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,@[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 72
-Coordinates: (10, 1, 0)
-Direction: Northwest
-Next symbol: {
+Coordinates: (14, 2, 0)
+Direction: West
+Next symbol: ,
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
+  (5)
   (0) [S]
 
-  26 [Top]
+Dynamic stack (8):
+  4 [Top]
   5
-  39
-  4
+  3
   ...
 
-Non-zero registers:
-  X: 5
-  S: 43
-  R: 37
-  P: 26
+Fixed stack (26):
+  S: 34
+  R: -4
+  P: 46
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)@5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,@[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 73
-Coordinates: (10, 1, 0)
-Direction: South
-Next symbol: R
+Coordinates: (13, 2, 0)
+Direction: West
+Next symbol: 9
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
+  (5)
   (0) [S]
 
-  26 [Top]
+Dynamic stack (8):
+  0 [Top]
   5
-  39
-  4
+  3
   ...
 
-Non-zero registers:
-  X: 5
-  S: 43
-  R: 34
-  P: 26
+Fixed stack (26):
+  S: 34
+  R: -4
+  P: 45
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)@5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639@;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 74
-Coordinates: (10, 2, 0)
-Direction: South
-Next symbol: [
+Coordinates: (12, 2, 0)
+Direction: West
+Next symbol: 3
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (0)
-  (26) [S]
+  (5) [S]
 
-  5 [Top]
-  39
-  4
-  8
+Dynamic stack (9):
+  9 [Top]
+  0
+  5
   ...
 
-Non-zero registers:
-  X: 5
-  S: 42
-  R: 26
-  P: 42
+Fixed stack (26):
+  S: 35
+  R: -4
+  P: 44
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;@69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s763@,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 75
-Coordinates: (10, 2, 0)
-Direction: East
+Coordinates: (11, 2, 0)
+Direction: West
 Next symbol: 6
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
-  (26) [S]
+  (3)
+  (0) [S]
 
-  5 [Top]
-  39
-  4
-  8
+Dynamic stack (10):
+  3 [Top]
+  9
+  0
   ...
 
-Non-zero registers:
-  X: 5
-  S: 42
-  R: 24
-  P: 42
+Fixed stack (26):
+  S: 36
+  R: -4
+  P: 43
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;@69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s76@9,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 76
-Coordinates: (11, 2, 0)
-Direction: East
-Next symbol: 9
+Coordinates: (10, 2, 0)
+Direction: West
+Next symbol: 7
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
-  (0) [S]
+  (7)
+  (3) [S]
 
+Dynamic stack (11):
   6 [Top]
-  5
-  39
-  4
+  3
+  9
   ...
 
-Non-zero registers:
-  X: 5
-  S: 43
-  R: 24
-  P: 43
+Fixed stack (26):
+  S: 37
+  R: -4
+  P: 42
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R@9R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7@39,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 77
-Coordinates: (12, 2, 0)
-Direction: East
-Next symbol: R
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  9 [Top]
-  6
-  5
-  39
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 44
-  R: 24
-  P: 44
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R6@R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 78
-Coordinates: (13, 2, 0)
-Direction: Southeast
-Next symbol: 4
-
-Stack:
-  ...
-  (0)
-  (0)
-  (9) [S]
-
-  6 [Top]
-  5
-  39
-  4
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 43
-  R: 9
-  P: 45
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69@9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 79
-Coordinates: (14, 3, 0)
-Direction: Southeast
-Next symbol: [
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  4 [Top]
-  6
-  5
-  39
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 44
-  R: 9
-  P: 62
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}64@{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 80
-Coordinates: (14, 3, 0)
-Direction: Northeast
-Next symbol: )
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  4 [Top]
-  6
-  5
-  39
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 44
-  R: 7
-  P: 62
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}64@{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 81
-Coordinates: (14, 3, 0)
-Direction: East
-Next symbol: {
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  4 [Top]
-  6
-  5
-  39
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 44
-  R: 8
-  P: 62
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}64@{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 82
-Coordinates: (14, 3, 0)
-Direction: Northwest
-Next symbol: R
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  4 [Top]
-  6
-  5
-  39
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 44
-  R: 5
-  P: 62
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}64@{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 83
-Coordinates: (13, 2, 0)
-Direction: West
-Next symbol: 9
-
-Stack:
-  ...
-  (0)
-  (0)
-  (4) [S]
-
-  6 [Top]
-  5
-  39
-  4
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 43
-  R: 4
-  P: 45
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69@9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 84
-Coordinates: (12, 2, 0)
-Direction: West
-Next symbol: 6
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  9 [Top]
-  6
-  5
-  39
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 44
-  R: 4
-  P: 44
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R6@R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 85
-Coordinates: (11, 2, 0)
-Direction: West
-Next symbol: R
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  6 [Top]
-  9
-  6
-  5
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 45
-  R: 4
-  P: 43
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R@9R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 86
-Coordinates: (10, 2, 0)
-Direction: North
-Next symbol: p
-
-Stack:
-  ...
-  (0)
-  (0)
-  (6) [S]
-
-  9 [Top]
-  6
-  5
-  39
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 44
-  R: 6
-  P: 42
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;@69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 87
-Coordinates: (10, 1, 0)
-Direction: North
-Next symbol: }
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  26 [Top]
-  9
-  6
-  5
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 45
-  R: 6
-  P: 26
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)@5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 88
-Coordinates: (10, 1, 0)
-Direction: Southeast
-Next symbol: 6
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  26 [Top]
-  9
-  6
-  5
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 45
-  R: 9
-  P: 26
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)@5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 89
-Coordinates: (11, 2, 0)
-Direction: Southeast
-Next symbol: 6
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  6 [Top]
-  26
-  9
-  6
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 46
-  R: 9
-  P: 43
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R@9R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 90
-Coordinates: (12, 3, 0)
-Direction: Southeast
-Next symbol: ,
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  6 [Top]
-  6
-  26
-  9
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 47
-  R: 9
-  P: 60
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}@44{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 91
-Coordinates: (13, 4, 0)
-Direction: Southeast
-Next symbol: R
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  0 [Top]
-  6
-  26
-  9
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 47
-  R: 9
-  P: 77
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.@p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 92
-Coordinates: (14, 5, 0)
-Direction: East
-Next symbol: ]
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  6 [Top]
-  26
-  9
-  6
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 46
-  P: 94
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:@]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 93
-Coordinates: (14, 5, 0)
-Direction: South
-Next symbol: )
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  6 [Top]
-  26
-  9
-  6
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 46
-  R: 2
-  P: 94
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:@]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 94
-Coordinates: (14, 5, 0)
-Direction: Southwest
-Next symbol: s
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  6 [Top]
-  26
-  9
-  6
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 46
-  R: 3
-  P: 94
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:@]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 95
-Coordinates: (13, 6, 0)
-Direction: Southwest
-Next symbol: ]
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  46 [Top]
-  6
-  26
-  9
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 47
-  R: 3
-  P: 109
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4@)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 96
-Coordinates: (13, 6, 0)
-Direction: Northwest
-Next symbol: {
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  46 [Top]
-  6
-  26
-  9
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 47
-  R: 5
-  P: 109
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4@)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 97
-Coordinates: (13, 6, 0)
-Direction: South
-Next symbol: [
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  46 [Top]
-  6
-  26
-  9
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 47
-  R: 2
-  P: 109
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4@)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 98
-Coordinates: (13, 6, 0)
-Direction: East
-Next symbol: )
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  46 [Top]
-  6
-  26
-  9
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 47
-  P: 109
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4@)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 99
-Coordinates: (13, 6, 0)
-Direction: Southeast
-Next symbol: [
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  46 [Top]
-  6
-  26
-  9
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 47
-  R: 1
-  P: 109
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4@)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 100
-Coordinates: (13, 6, 0)
-Direction: Northeast
-Next symbol: R
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  46 [Top]
-  6
-  26
-  9
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 47
-  R: -1
-  P: 109
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4@)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 101
-Coordinates: (14, 5, 0)
-Direction: North
-Next symbol: p
-
-Stack:
-  ...
-  (0)
-  (0)
-  (46) [S]
-
-  6 [Top]
-  26
-  9
-  6
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 46
-  R: 46
-  P: 94
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:@]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 102
-Coordinates: (14, 4, 0)
-Direction: North
-Next symbol: 4
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  78 [Top]
-  6
-  26
-  9
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 47
-  R: 46
-  P: 78
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,@[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 103
-Coordinates: (14, 3, 0)
-Direction: North
-Next symbol: 9
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  4 [Top]
-  78
-  6
-  26
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 48
-  R: 46
-  P: 62
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}64@{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 104
-Coordinates: (14, 2, 0)
-Direction: North
-Next symbol: .
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  9 [Top]
-  4
-  78
-  6
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 49
-  R: 46
-  P: 46
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R@)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 105
-Coordinates: (14, 1, 0)
-Direction: North
-Next symbol: ]
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  9 [Top]
-  4
-  78
-  6
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 49
-  R: 46
-  P: 30
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(@=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 106
-Coordinates: (14, 1, 0)
-Direction: East
-Next symbol: =
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  9 [Top]
-  4
-  78
-  6
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 49
-  R: 48
-  P: 30
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(@=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 107
-Coordinates: (15, 1, 0)
-Direction: North
-Next symbol: {
-
-Stack:
-  ...
-  (0)
-  (9)
-  (4) [S]
-
-  78 [Top]
-  6
-  26
-  9
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 47
-  R: 46
-  P: 31
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.@
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 108
-Coordinates: (15, 1, 0)
-Direction: Southwest
-Next symbol: 9
-
-Stack:
-  ...
-  (0)
-  (9)
-  (4) [S]
-
-  78 [Top]
-  6
-  26
-  9
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 47
-  R: 43
-  P: 31
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.@
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 109
-Coordinates: (14, 2, 0)
-Direction: Southwest
-Next symbol: 4
-
-Stack:
-  ...
-  (0)
-  (0)
-  (9) [S]
-
-  9 [Top]
-  78
-  6
-  26
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 48
-  R: 43
-  P: 46
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R@)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 110
-Coordinates: (13, 3, 0)
-Direction: Southwest
-Next symbol: .
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  4 [Top]
-  9
-  78
-  6
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 49
-  R: 43
-  P: 61
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}6@4{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 111
-Coordinates: (12, 4, 0)
-Direction: Southwest
-Next symbol: :
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  4 [Top]
-  9
-  78
-  6
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 49
-  R: 43
-  P: 76
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp@,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 112
-Coordinates: (11, 5, 0)
-Direction: Southwest
-Next symbol: 7
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  9 [Top]
-  4
-  78
-  6
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 49
-  R: 43
-  P: 91
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#@{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 113
-Coordinates: (10, 6, 0)
-Direction: Southwest
-Next symbol: (
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  7 [Top]
-  9
-  4
-  78
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 50
-  R: 43
-  P: 106
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;5@}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 114
-Coordinates: (10, 6, 0)
-Direction: South
-Next symbol: ]
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  7 [Top]
-  9
-  4
-  78
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 50
-  R: 42
-  P: 106
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;5@}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 115
-Coordinates: (10, 6, 0)
-Direction: West
-Next symbol: 5
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  7 [Top]
-  9
-  4
-  78
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 50
-  R: 44
-  P: 106
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;5@}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 116
-Coordinates: (9, 6, 0)
-Direction: West
-Next symbol: ;
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  5 [Top]
-  7
-  9
-  4
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 51
-  R: 44
-  P: 105
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;@7}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 117
-Coordinates: (8, 6, 0)
-Direction: West
-Next symbol: r
-
-Stack:
-  ...
-  (0)
-  (5)
-  (7) [S]
-
-  9 [Top]
-  4
-  78
-  6
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 49
-  R: 44
-  P: 104
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r@57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 118
-Coordinates: (7, 6, 0)
-Direction: West
-Next symbol: {
-
-Stack:
-  ...
-  (0)
-  (0)
-  (5) [S]
-
-  44 [Top]
-  9
-  4
-  78
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 50
-  R: 44
-  P: 103
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{@;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 119
-Coordinates: (7, 6, 0)
-Direction: Southeast
-Next symbol: P
-
-Stack:
-  ...
-  (0)
-  (0)
-  (5) [S]
-
-  44 [Top]
-  9
-  4
-  78
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 50
-  R: 41
-  P: 103
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{@;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 120
-Coordinates: (12, 2, 0)
-Direction: Southeast
-Next symbol: 4
-
-Stack:
-  ...
-  (0)
-  (5)
-  (44) [S]
-
-  9 [Top]
-  4
-  78
-  6
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 49
-  R: 41
-  P: 44
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R6@R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 121
-Coordinates: (13, 3, 0)
-Direction: Southeast
-Next symbol: p
-
-Stack:
-  ...
-  (0)
-  (0)
-  (5) [S]
-
-  4 [Top]
-  9
-  4
-  78
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 50
-  R: 41
-  P: 61
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}6@4{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 122
-Coordinates: (14, 4, 0)
-Direction: Southeast
-Next symbol: ]
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  78 [Top]
-  4
-  9
-  4
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 51
-  R: 41
-  P: 78
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,@[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 123
-Coordinates: (14, 4, 0)
-Direction: Southwest
-Next symbol: :
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  78 [Top]
-  4
-  9
-  4
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 51
-  R: 43
-  P: 78
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,@[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 124
-Coordinates: (13, 5, 0)
-Direction: Southwest
-Next symbol: 4
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  4 [Top]
-  78
-  9
-  4
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 51
-  R: 43
-  P: 93
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{@R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 125
-Coordinates: (12, 6, 0)
-Direction: Southwest
-Next symbol: )
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  4 [Top]
-  4
-  78
-  9
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 52
-  R: 43
-  P: 108
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}@s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 126
-Coordinates: (12, 6, 0)
-Direction: West
-Next symbol: }
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  4 [Top]
-  4
-  78
-  9
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 52
-  R: 44
-  P: 108
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}@s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 127
-Coordinates: (12, 6, 0)
-Direction: Northeast
-Next symbol: :
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  4 [Top]
-  4
-  78
-  9
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 52
-  R: 47
-  P: 108
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}@s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 128
-Coordinates: (13, 5, 0)
-Direction: Northeast
-Next symbol: p
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  4 [Top]
-  4
-  78
-  9
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 52
-  R: 47
-  P: 93
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{@R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 129
-Coordinates: (14, 4, 0)
-Direction: Northeast
-Next symbol: {
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  78 [Top]
-  4
-  4
-  78
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 53
-  R: 47
-  P: 78
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,@[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 130
-Coordinates: (14, 4, 0)
-Direction: West
-Next symbol: ,
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  78 [Top]
-  4
-  4
-  78
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 53
-  R: 44
-  P: 78
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,@[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 131
-Coordinates: (13, 4, 0)
-Direction: West
-Next symbol: .
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  5 [Top]
-  4
-  4
-  78
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 53
-  R: 44
-  P: 77
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.@p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 132
-Coordinates: (12, 4, 0)
-Direction: West
-Next symbol: p
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  5 [Top]
-  4
-  4
-  78
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 53
-  R: 44
-  P: 76
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp@,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 133
-Coordinates: (11, 4, 0)
-Direction: West
-Next symbol: S
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  75 [Top]
-  5
-  4
-  4
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 54
-  R: 44
-  P: 75
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sS@.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 134
-Coordinates: (10, 4, 0)
-Direction: West
-Next symbol: s
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  0 [Top]
-  0
-  0
-  0
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 75
-  R: 44
-  P: 74
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,s@p.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 135
-Coordinates: (9, 4, 0)
-Direction: West
-Next symbol: ,
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  75 [Top]
-  0
-  0
-  0
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 76
-  R: 44
-  P: 73
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,@Sp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 136
-Coordinates: (8, 4, 0)
-Direction: West
-Next symbol: [
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  0 [Top]
-  0
-  0
-  0
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 76
-  R: 44
-  P: 72
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[@sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 137
-Coordinates: (8, 4, 0)
-Direction: South
-Next symbol: (
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  0 [Top]
-  0
-  0
-  0
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 76
-  R: 42
-  P: 72
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[@sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 138
-Coordinates: (8, 4, 0)
-Direction: Southeast
-Next symbol: [
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  0 [Top]
-  0
-  0
-  0
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 76
-  R: 41
-  P: 72
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[@sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 139
-Coordinates: (8, 4, 0)
-Direction: Northeast
-Next symbol: 9
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  0 [Top]
-  0
-  0
-  0
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 76
-  R: 39
-  P: 72
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[@sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 140
-Coordinates: (9, 3, 0)
-Direction: Northeast
-Next symbol: R
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  9 [Top]
-  0
-  0
-  0
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 77
-  R: 39
-  P: 57
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]@[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 141
-Coordinates: (10, 2, 0)
-Direction: Southeast
-Next symbol: }
-
-Stack:
-  ...
-  (0)
-  (0)
-  (9) [S]
-
-  0 [Top]
-  0
-  0
-  0
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 76
-  R: 9
-  P: 42
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;@69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 142
-Coordinates: (10, 2, 0)
-Direction: West
-Next symbol: ;
-
-Stack:
-  ...
-  (0)
-  (0)
-  (9) [S]
-
-  0 [Top]
-  0
-  0
-  0
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 76
-  R: 12
-  P: 42
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;@69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
-
----
-
-Step count: 143
 Coordinates: (9, 2, 0)
 Direction: West
 Next symbol: s
 
-Stack:
+Hidden stack:
   ...
-  (9)
   (0)
-  (0) [S]
+  (7) [S]
 
-  0 [Top]
-  0
-  0
-  0
+Dynamic stack (12):
+  7 [Top]
+  6
+  3
   ...
 
-Non-zero registers:
-  X: 5
-  S: 74
-  R: 12
+Fixed stack (26):
+  S: 38
+  R: -4
   P: 41
-  H: 5
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps@R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s@639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
-Step count: 144
+Step count: 78
 Coordinates: (8, 2, 0)
 Direction: West
-Next symbol: p
+Next symbol: :
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (9)
   (0) [S]
 
-  74 [Top]
-  0
-  0
-  0
+Dynamic stack (13):
+  38 [Top]
+  7
+  6
   ...
 
-Non-zero registers:
-  X: 5
-  S: 75
-  R: 12
+Fixed stack (26):
+  S: 39
+  R: -4
   P: 40
-  H: 5
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6p@;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:@7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
-Step count: 145
+Step count: 79
 Coordinates: (7, 2, 0)
 Direction: West
 Next symbol: 6
 
-Stack:
+Hidden stack:
   ...
   (0)
+  (0) [S]
+
+Dynamic stack (13):
+  7 [Top]
+  38
+  6
+  ...
+
+Fixed stack (26):
+  S: 39
+  R: -4
+  P: 39
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76@s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 80
+Coordinates: (6, 2, 0)
+Direction: West
+Next symbol: 7
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (14):
+  6 [Top]
+  7
+  38
+  ...
+
+Fixed stack (26):
+  S: 40
+  R: -4
+  P: 38
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,7@:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 81
+Coordinates: (5, 2, 0)
+Direction: West
+Next symbol: ,
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (15):
+  7 [Top]
+  6
+  7
+  ...
+
+Fixed stack (26):
+  S: 41
+  R: -4
+  P: 37
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,@6:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 82
+Coordinates: (4, 2, 0)
+Direction: West
+Next symbol: ;
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (15):
+  0 [Top]
+  6
+  7
+  ...
+
+Fixed stack (26):
+  S: 41
+  R: -4
+  P: 36
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;@76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 83
+Coordinates: (3, 2, 0)
+Direction: West
+Next symbol: =
+
+Hidden stack:
+  ...
+  (0)
+  (6) [S]
+
+Dynamic stack (13):
+  7 [Top]
+  38
+  6
+  ...
+
+Fixed stack (26):
+  S: 39
+  R: -4
+  P: 35
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=@,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 84
+Coordinates: (2, 2, 0)
+Direction: North
+Next symbol: r
+
+Hidden stack:
+  ...
+  (7)
+  (38) [S]
+
+Dynamic stack (11):
+  6 [Top]
+  3
+  9
+  ...
+
+Fixed stack (26):
+  S: 37
+  R: -2
+  P: 34
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3@;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 85
+Coordinates: (2, 1, 0)
+Direction: North
+Next symbol: ]
+
+Hidden stack:
+  ...
+  (6)
+  (7) [S]
+
+Dynamic stack (12):
+  -2 [Top]
+  6
+  3
+  ...
+
+Fixed stack (26):
+  S: 38
+  R: -2
+  P: 18
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[@44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 86
+Coordinates: (2, 1, 0)
+Direction: East
+Next symbol: 4
+
+Hidden stack:
+  ...
+  (6)
+  (7) [S]
+
+Dynamic stack (12):
+  -2 [Top]
+  6
+  3
+  ...
+
+Fixed stack (26):
+  S: 38
+  P: 18
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[@44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 87
+Coordinates: (3, 1, 0)
+Direction: East
+Next symbol: 4
+
+Hidden stack:
+  ...
+  (0)
+  (6) [S]
+
+Dynamic stack (13):
+  4 [Top]
+  -2
+  6
+  ...
+
+Fixed stack (26):
+  S: 39
+  P: 19
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r@4R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 88
+Coordinates: (4, 1, 0)
+Direction: East
+Next symbol: R
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (14):
+  4 [Top]
+  4
+  -2
+  ...
+
+Fixed stack (26):
+  S: 40
+  P: 20
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r4@R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 89
+Coordinates: (5, 1, 0)
+Direction: West
+Next symbol: 4
+
+Hidden stack:
+  ...
+  (0)
+  (4) [S]
+
+Dynamic stack (13):
+  4 [Top]
+  -2
+  6
+  ...
+
+Fixed stack (26):
+  S: 39
+  R: 4
+  P: 21
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44@3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 90
+Coordinates: (4, 1, 0)
+Direction: West
+Next symbol: 4
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (14):
+  4 [Top]
+  4
+  -2
+  ...
+
+Fixed stack (26):
+  S: 40
+  R: 4
+  P: 20
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r4@R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 91
+Coordinates: (3, 1, 0)
+Direction: West
+Next symbol: r
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (15):
+  4 [Top]
+  4
+  4
+  ...
+
+Fixed stack (26):
+  S: 41
+  R: 4
+  P: 19
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r@4R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 92
+Coordinates: (2, 1, 0)
+Direction: West
+Next symbol: [
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (16):
+  4 [Top]
+  4
+  4
+  ...
+
+Fixed stack (26):
+  S: 42
+  R: 4
+  P: 18
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[@44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 93
+Coordinates: (2, 1, 0)
+Direction: South
+Next symbol: =
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (16):
+  4 [Top]
+  4
+  4
+  ...
+
+Fixed stack (26):
+  S: 42
+  R: 2
+  P: 18
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[@44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 94
+Coordinates: (2, 2, 0)
+Direction: South
+Next symbol: 4
+
+Hidden stack:
+  ...
+  (4)
+  (4) [S]
+
+Dynamic stack (14):
+  4 [Top]
+  4
+  -2
+  ...
+
+Fixed stack (26):
+  S: 40
+  R: 2
+  P: 34
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3@;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 95
+Coordinates: (2, 3, 0)
+Direction: South
+Next symbol: 2
+
+Hidden stack:
+  ...
+  (0)
+  (4) [S]
+
+Dynamic stack (15):
+  4 [Top]
+  4
+  4
+  ...
+
+Fixed stack (26):
+  S: 41
+  R: 2
+  P: 50
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R@8(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 96
+Coordinates: (2, 4, 0)
+Direction: South
+Next symbol: R
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (16):
+  2 [Top]
+  4
+  4
+  ...
+
+Fixed stack (26):
+  S: 42
+  R: 2
+  P: 66
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s@(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 97
+Coordinates: (2, 5, 0)
+Direction: South
+Next symbol: 6
+
+Hidden stack:
+  ...
+  (0)
+  (2) [S]
+
+Dynamic stack (15):
+  4 [Top]
+  4
+  4
+  ...
+
+Fixed stack (26):
+  S: 41
+  R: 2
+  P: 82
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(@4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 98
+Coordinates: (2, 6, 0)
+Direction: South
+Next symbol: }
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (16):
+  6 [Top]
+  4
+  4
+  ...
+
+Fixed stack (26):
+  S: 42
+  R: 2
+  P: 98
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}4@3}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 99
+Coordinates: (2, 6, 0)
+Direction: Northwest
+Next symbol: (
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (16):
+  6 [Top]
+  4
+  4
+  ...
+
+Fixed stack (26):
+  S: 42
+  R: 5
+  P: 98
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}4@3}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 100
+Coordinates: (2, 6, 0)
+Direction: West
+Next symbol: 4
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (16):
+  6 [Top]
+  4
+  4
+  ...
+
+Fixed stack (26):
+  S: 42
+  R: 4
+  P: 98
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}4@3}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 101
+Coordinates: (1, 6, 0)
+Direction: West
+Next symbol: }
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (17):
+  4 [Top]
+  6
+  4
+  ...
+
+Fixed stack (26):
+  S: 43
+  R: 4
+  P: 97
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}@63}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 102
+Coordinates: (1, 6, 0)
+Direction: Northeast
+Next symbol: R
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (17):
+  4 [Top]
+  6
+  4
+  ...
+
+Fixed stack (26):
+  S: 43
+  R: 7
+  P: 97
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}@63}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 103
+Coordinates: (2, 5, 0)
+Direction: West
+Next symbol: (
+
+Hidden stack:
+  ...
+  (0)
+  (4) [S]
+
+Dynamic stack (16):
+  6 [Top]
+  4
+  4
+  ...
+
+Fixed stack (26):
+  S: 42
+  R: 4
+  P: 82
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(@4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 104
+Coordinates: (2, 5, 0)
+Direction: Southwest
+Next symbol: 4
+
+Hidden stack:
+  ...
+  (0)
+  (4) [S]
+
+Dynamic stack (16):
+  6 [Top]
+  4
+  4
+  ...
+
+Fixed stack (26):
+  S: 42
+  R: 3
+  P: 82
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(@4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 105
+Coordinates: (1, 6, 0)
+Direction: Southwest
+Next symbol: (
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (17):
+  4 [Top]
+  6
+  4
+  ...
+
+Fixed stack (26):
+  S: 43
+  R: 3
+  P: 97
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}@63}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 106
+Coordinates: (1, 6, 0)
+Direction: South
+Next symbol: [
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (17):
+  4 [Top]
+  6
+  4
+  ...
+
+Fixed stack (26):
+  S: 43
+  R: 2
+  P: 97
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}@63}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 107
+Coordinates: (1, 6, 0)
+Direction: East
+Next symbol: 6
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (17):
+  4 [Top]
+  6
+  4
+  ...
+
+Fixed stack (26):
+  S: 43
+  P: 97
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}@63}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 108
+Coordinates: (2, 6, 0)
+Direction: East
+Next symbol: 3
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (18):
+  6 [Top]
+  4
+  6
+  ...
+
+Fixed stack (26):
+  S: 44
+  P: 98
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}4@3}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 109
+Coordinates: (3, 6, 0)
+Direction: East
+Next symbol: }
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (19):
+  3 [Top]
+  6
+  4
+  ...
+
+Fixed stack (26):
+  S: 45
+  P: 99
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}46@}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 110
+Coordinates: (3, 6, 0)
+Direction: Southwest
+Next symbol: }
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (19):
+  3 [Top]
+  6
+  4
+  ...
+
+Fixed stack (26):
+  S: 45
+  R: 3
+  P: 99
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}46@}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 111
+Coordinates: (3, 6, 0)
+Direction: North
+Next symbol: 4
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (19):
+  3 [Top]
+  6
+  4
+  ...
+
+Fixed stack (26):
+  S: 45
+  R: 6
+  P: 99
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}46@}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 112
+Coordinates: (3, 5, 0)
+Direction: North
+Next symbol: (
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (20):
+  4 [Top]
+  3
+  6
+  ...
+
+Fixed stack (26):
+  S: 46
+  R: 6
+  P: 83
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R@RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 113
+Coordinates: (3, 5, 0)
+Direction: Northwest
+Next symbol: 2
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (20):
+  4 [Top]
+  3
+  6
+  ...
+
+Fixed stack (26):
+  S: 46
+  R: 5
+  P: 83
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R@RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 114
+Coordinates: (2, 4, 0)
+Direction: Northwest
+Next symbol: R
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (21):
+  2 [Top]
+  4
+  3
+  ...
+
+Fixed stack (26):
+  S: 47
+  R: 5
+  P: 66
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s@(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 115
+Coordinates: (1, 3, 0)
+Direction: South
+Next symbol: s
+
+Hidden stack:
+  ...
+  (0)
+  (2) [S]
+
+Dynamic stack (20):
+  4 [Top]
+  3
+  6
+  ...
+
+Fixed stack (26):
+  S: 46
+  R: 2
+  P: 49
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#@48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 116
+Coordinates: (1, 4, 0)
+Direction: South
+Next symbol: (
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (21):
+  46 [Top]
+  4
+  3
+  ...
+
+Fixed stack (26):
+  S: 47
+  R: 2
+  P: 65
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#@2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 117
+Coordinates: (1, 4, 0)
+Direction: Southeast
+Next symbol: R
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (21):
+  46 [Top]
+  4
+  3
+  ...
+
+Fixed stack (26):
+  S: 47
+  R: 1
+  P: 65
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#@2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 118
+Coordinates: (2, 5, 0)
+Direction: North
+Next symbol: 2
+
+Hidden stack:
+  ...
+  (0)
+  (46) [S]
+
+Dynamic stack (20):
+  4 [Top]
+  3
+  6
+  ...
+
+Fixed stack (26):
+  S: 46
+  R: 46
+  P: 82
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(@4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 119
+Coordinates: (2, 4, 0)
+Direction: North
+Next symbol: 4
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (21):
+  2 [Top]
+  4
+  3
+  ...
+
+Fixed stack (26):
+  S: 47
+  R: 46
+  P: 66
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s@(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 120
+Coordinates: (2, 3, 0)
+Direction: North
+Next symbol: =
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (22):
+  4 [Top]
+  2
+  4
+  ...
+
+Fixed stack (26):
+  S: 48
+  R: 46
+  P: 50
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R@8(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 121
+Coordinates: (2, 2, 0)
+Direction: West
+Next symbol: 3
+
+Hidden stack:
+  ...
+  (4)
+  (2) [S]
+
+Dynamic stack (20):
+  4 [Top]
+  3
+  6
+  ...
+
+Fixed stack (26):
+  S: 46
+  R: 44
+  P: 34
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3@;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 122
+Coordinates: (1, 2, 0)
+Direction: West
+Next symbol: {
+
+Hidden stack:
+  ...
+  (0)
+  (4) [S]
+
+Dynamic stack (21):
+  3 [Top]
+  4
+  3
+  ...
+
+Fixed stack (26):
+  S: 47
+  R: 44
+  P: 33
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{@=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 123
+Coordinates: (1, 2, 0)
+Direction: Southeast
+Next symbol: 4
+
+Hidden stack:
+  ...
+  (0)
+  (4) [S]
+
+Dynamic stack (21):
+  3 [Top]
+  4
+  3
+  ...
+
+Fixed stack (26):
+  S: 47
+  R: 41
+  P: 33
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{@=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 124
+Coordinates: (2, 3, 0)
+Direction: Southeast
+Next symbol: (
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (22):
+  4 [Top]
+  3
+  4
+  ...
+
+Fixed stack (26):
+  S: 48
+  R: 41
+  P: 50
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R@8(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 125
+Coordinates: (2, 3, 0)
+Direction: East
+Next symbol: 8
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (22):
+  4 [Top]
+  3
+  4
+  ...
+
+Fixed stack (26):
+  S: 48
+  R: 40
+  P: 50
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R@8(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 126
+Coordinates: (3, 3, 0)
+Direction: East
+Next symbol: (
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (23):
+  8 [Top]
+  4
+  3
+  ...
+
+Fixed stack (26):
+  S: 49
+  R: 40
+  P: 51
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R4@(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 127
+Coordinates: (3, 3, 0)
+Direction: Northeast
+Next symbol: ,
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (23):
+  8 [Top]
+  4
+  3
+  ...
+
+Fixed stack (26):
+  S: 49
+  R: 39
+  P: 51
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R4@(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 128
+Coordinates: (4, 2, 0)
+Direction: Northeast
+Next symbol: R
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (23):
+  0 [Top]
+  4
+  3
+  ...
+
+Fixed stack (26):
+  S: 49
+  R: 39
+  P: 36
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;@76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 129
+Coordinates: (5, 1, 0)
+Direction: East
+Next symbol: 3
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (22):
+  4 [Top]
+  3
+  4
+  ...
+
+Fixed stack (26):
+  S: 48
+  P: 21
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44@3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 130
+Coordinates: (6, 1, 0)
+Direction: East
+Next symbol: {
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (23):
+  3 [Top]
+  4
+  3
+  ...
+
+Fixed stack (26):
+  S: 49
+  P: 22
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R@{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 131
+Coordinates: (6, 1, 0)
+Direction: Northwest
+Next symbol: [
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (23):
+  3 [Top]
+  4
+  3
+  ...
+
+Fixed stack (26):
+  S: 49
+  R: -3
+  P: 22
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R@{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 132
+Coordinates: (6, 1, 0)
+Direction: Southwest
+Next symbol: 7
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (23):
+  3 [Top]
+  4
+  3
+  ...
+
+Fixed stack (26):
+  S: 49
+  R: -5
+  P: 22
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R@{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 133
+Coordinates: (5, 2, 0)
+Direction: Southwest
+Next symbol: (
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (24):
+  7 [Top]
+  3
+  4
+  ...
+
+Fixed stack (26):
+  S: 50
+  R: -5
+  P: 37
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,@6:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 134
+Coordinates: (5, 2, 0)
+Direction: South
+Next symbol: s
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (24):
+  7 [Top]
+  3
+  4
+  ...
+
+Fixed stack (26):
+  S: 50
+  R: -6
+  P: 37
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,@6:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 135
+Coordinates: (5, 3, 0)
+Direction: South
+Next symbol: p
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (25):
+  50 [Top]
+  7
+  3
+  ...
+
+Fixed stack (26):
+  S: 51
+  R: -6
+  P: 53
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(@3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 136
+Coordinates: (5, 4, 0)
+Direction: South
+Next symbol: S
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (26):
+  69 [Top]
+  50
+  7
+  ...
+
+Fixed stack (26):
+  S: 52
+  R: -6
+  P: 69
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}@#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 137
+Coordinates: (5, 5, 0)
+Direction: South
+Next symbol: 9
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (43):
+  0 [Top]
+  0
+  0
+  ...
+
+Fixed stack (26):
+  S: 69
+  R: -6
+  P: 85
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4R@4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 138
+Coordinates: (5, 6, 0)
+Direction: South
+Next symbol: }
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (44):
+  9 [Top]
+  0
+  0
+  ...
+
+Fixed stack (26):
+  S: 70
+  R: -6
+  P: 101
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}@(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 139
+Coordinates: (5, 6, 0)
+Direction: Northwest
+Next symbol: R
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (44):
+  9 [Top]
+  0
+  0
+  ...
+
+Fixed stack (26):
+  S: 70
+  R: -3
+  P: 101
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}@(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 140
+Coordinates: (4, 5, 0)
+Direction: Southeast
+Next symbol: 9
+
+Hidden stack:
+  ...
   (0)
   (9) [S]
 
-  39 [Top]
-  74
+Dynamic stack (43):
+  0 [Top]
   0
   0
   ...
 
-Non-zero registers:
-  X: 5
-  S: 76
-  R: 12
-  P: 39
-  H: 5
+Fixed stack (26):
+  S: 69
+  R: 9
+  P: 84
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6@s;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4@S4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 141
+Coordinates: (5, 6, 0)
+Direction: Southeast
+Next symbol: ]
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (44):
+  9 [Top]
+  0
+  0
+  ...
+
+Fixed stack (26):
+  S: 70
+  R: 9
+  P: 101
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}@(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 142
+Coordinates: (5, 6, 0)
+Direction: Southwest
+Next symbol: )
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (44):
+  9 [Top]
+  0
+  0
+  ...
+
+Fixed stack (26):
+  S: 70
+  R: 11
+  P: 101
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}@(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 143
+Coordinates: (5, 6, 0)
+Direction: West
+Next symbol: }
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (44):
+  9 [Top]
+  0
+  0
+  ...
+
+Fixed stack (26):
+  S: 70
+  R: 12
+  P: 101
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}@(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 144
+Coordinates: (5, 6, 0)
+Direction: Northeast
+Next symbol: 4
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (44):
+  9 [Top]
+  0
+  0
+  ...
+
+Fixed stack (26):
+  S: 70
+  R: 15
+  P: 101
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}@(r#:<48{{)
+([}#)}]}[#P]RRP#
+
+---
+
+Step count: 145
+Coordinates: (6, 5, 0)
+Direction: Northeast
+Next symbol: }
+
+Hidden stack:
+  ...
+  (0)
+  (0) [S]
+
+Dynamic stack (45):
+  4 [Top]
+  9
+  0
+  ...
+
+Fixed stack (26):
+  S: 71
+  R: 15
+  P: 86
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
+
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS@#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 146
-Coordinates: (6, 2, 0)
-Direction: West
-Next symbol: r
+Coordinates: (6, 5, 0)
+Direction: South
+Next symbol: (
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  6 [Top]
-  39
-  74
+Dynamic stack (45):
+  4 [Top]
+  9
   0
   ...
 
-Non-zero registers:
-  X: 5
-  S: 77
-  R: 12
-  P: 38
-  H: 5
+Fixed stack (26):
+  S: 71
+  R: 18
+  P: 86
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r@ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS@#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 147
-Coordinates: (5, 2, 0)
-Direction: West
-Next symbol: }
+Coordinates: (6, 5, 0)
+Direction: Southeast
+Next symbol: r
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  12 [Top]
-  6
-  39
-  74
+Dynamic stack (45):
+  4 [Top]
+  9
+  0
   ...
 
-Non-zero registers:
-  X: 5
-  S: 78
-  R: 12
-  P: 37
-  H: 5
+Fixed stack (26):
+  S: 71
+  R: 17
+  P: 86
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}@6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS@#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 148
-Coordinates: (5, 2, 0)
-Direction: Northeast
-Next symbol: 8
+Coordinates: (7, 6, 0)
+Direction: Southeast
+Next symbol: [
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  12 [Top]
-  6
-  39
-  74
+Dynamic stack (46):
+  17 [Top]
+  4
+  9
   ...
 
-Non-zero registers:
-  X: 5
-  S: 78
-  R: 15
-  P: 37
-  H: 5
+Fixed stack (26):
+  S: 72
+  R: 17
+  P: 103
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}@6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(@#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 149
-Coordinates: (6, 1, 0)
+Coordinates: (7, 6, 0)
 Direction: Northeast
-Next symbol: R
+Next symbol: }
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  8 [Top]
-  12
-  6
-  39
+Dynamic stack (46):
+  17 [Top]
+  4
+  9
   ...
 
-Non-zero registers:
-  X: 5
-  S: 79
+Fixed stack (26):
+  S: 72
   R: 15
-  P: 22
-  H: 5
+  P: 103
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=@]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(@#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 150
-Coordinates: (7, 0, 0)
-Direction: East
+Coordinates: (7, 6, 0)
+Direction: South
 Next symbol: }
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (0)
-  (8) [S]
+  (0) [S]
 
-  12 [Top]
-  6
-  39
-  74
+Dynamic stack (46):
+  17 [Top]
+  4
+  9
   ...
 
-Non-zero registers:
-  X: 5
-  S: 78
-  R: 8
-  P: 7
-  H: 5
+Fixed stack (26):
+  S: 72
+  R: 18
+  P: 103
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#@}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(@#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 151
-Coordinates: (7, 0, 0)
-Direction: Southwest
-Next symbol: 8
+Coordinates: (7, 6, 0)
+Direction: Northwest
+Next symbol: 4
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (0)
-  (8) [S]
+  (0) [S]
 
-  12 [Top]
-  6
-  39
-  74
+Dynamic stack (46):
+  17 [Top]
+  4
+  9
   ...
 
-Non-zero registers:
-  X: 5
-  S: 78
-  R: 11
-  P: 7
-  H: 5
+Fixed stack (26):
+  S: 72
+  R: 21
+  P: 103
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#@}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(@#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 152
-Coordinates: (6, 1, 0)
-Direction: Southwest
-Next symbol: r
+Coordinates: (6, 5, 0)
+Direction: Northwest
+Next symbol: p
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  8 [Top]
-  12
-  6
-  39
+Dynamic stack (47):
+  4 [Top]
+  17
+  4
   ...
 
-Non-zero registers:
-  X: 5
-  S: 79
-  R: 11
-  P: 22
-  H: 5
+Fixed stack (26):
+  S: 73
+  R: 21
+  P: 86
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=@]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS@#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 153
-Coordinates: (5, 2, 0)
-Direction: Southwest
-Next symbol: ]
+Coordinates: (5, 4, 0)
+Direction: Northwest
+Next symbol: (
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  11 [Top]
-  8
-  12
-  6
+Dynamic stack (48):
+  69 [Top]
+  4
+  17
   ...
 
-Non-zero registers:
-  X: 5
-  S: 80
-  R: 11
-  P: 37
-  H: 5
+Fixed stack (26):
+  S: 74
+  R: 21
+  P: 69
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}@6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}@#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 154
-Coordinates: (5, 2, 0)
-Direction: Northwest
-Next symbol: 7
+Coordinates: (5, 4, 0)
+Direction: West
+Next symbol: }
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  11 [Top]
-  8
-  12
-  6
+Dynamic stack (48):
+  69 [Top]
+  4
+  17
   ...
 
-Non-zero registers:
-  X: 5
-  S: 80
-  R: 13
-  P: 37
-  H: 5
+Fixed stack (26):
+  S: 74
+  R: 20
+  P: 69
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}@6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}@#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 155
-Coordinates: (4, 1, 0)
-Direction: Northwest
-Next symbol: }
+Coordinates: (5, 4, 0)
+Direction: Northeast
+Next symbol: 3
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  7 [Top]
-  11
-  8
-  12
+Dynamic stack (48):
+  69 [Top]
+  4
+  17
   ...
 
-Non-zero registers:
-  X: 5
-  S: 81
-  R: 13
-  P: 20
-  H: 5
+Fixed stack (26):
+  S: 74
+  R: 23
+  P: 69
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{@=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}@#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 156
-Coordinates: (4, 1, 0)
-Direction: East
-Next symbol: =
+Coordinates: (6, 3, 0)
+Direction: Northeast
+Next symbol: :
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  7 [Top]
-  11
-  8
-  12
+Dynamic stack (49):
+  3 [Top]
+  69
+  4
   ...
 
-Non-zero registers:
-  X: 5
-  S: 81
-  R: 16
-  P: 20
-  H: 5
+Fixed stack (26):
+  S: 75
+  R: 23
+  P: 54
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{@=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s@#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 157
-Coordinates: (5, 1, 0)
-Direction: South
-Next symbol: r
+Coordinates: (7, 2, 0)
+Direction: Northeast
+Next symbol: ]
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (7)
-  (11) [S]
+  (0) [S]
 
-  8 [Top]
-  12
-  6
-  39
+Dynamic stack (49):
+  69 [Top]
+  3
+  4
   ...
 
-Non-zero registers:
-  X: 5
-  S: 79
-  R: 18
-  P: 21
-  H: 5
+Fixed stack (26):
+  S: 75
+  R: 23
+  P: 39
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7@8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76@s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 158
-Coordinates: (5, 2, 0)
-Direction: South
-Next symbol: 6
+Coordinates: (7, 2, 0)
+Direction: Southeast
+Next symbol: 4
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (0)
-  (7) [S]
+  (0) [S]
 
-  18 [Top]
-  8
-  12
-  6
+Dynamic stack (49):
+  69 [Top]
+  3
+  4
   ...
 
-Non-zero registers:
-  X: 5
-  S: 80
-  R: 18
-  P: 37
-  H: 5
+Fixed stack (26):
+  S: 75
+  R: 25
+  P: 39
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}@6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76@s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 159
-Coordinates: (5, 3, 0)
-Direction: South
-Next symbol: 5
+Coordinates: (8, 3, 0)
+Direction: Southeast
+Next symbol: 4
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  6 [Top]
-  18
-  8
-  12
+Dynamic stack (50):
+  4 [Top]
+  69
+  3
   ...
 
-Non-zero registers:
-  X: 5
-  S: 81
-  R: 18
-  P: 53
-  H: 5
+Fixed stack (26):
+  S: 76
+  R: 25
+  P: 56
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]@r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#@.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 160
-Coordinates: (5, 4, 0)
-Direction: South
-Next symbol: 7
+Coordinates: (9, 4, 0)
+Direction: Southeast
+Next symbol: p
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  5 [Top]
-  6
-  18
-  8
+Dynamic stack (51):
+  4 [Top]
+  4
+  69
   ...
 
-Non-zero registers:
-  X: 5
-  S: 82
-  R: 18
-  P: 69
-  H: 5
+Fixed stack (26):
+  S: 77
+  R: 25
+  P: 73
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[@4[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#@)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 161
-Coordinates: (5, 5, 0)
-Direction: South
-Next symbol: p
+Coordinates: (10, 5, 0)
+Direction: Southeast
+Next symbol: 4
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  7 [Top]
-  5
-  6
-  18
+Dynamic stack (52):
+  90 [Top]
+  4
+  4
   ...
 
-Non-zero registers:
-  X: 5
-  S: 83
-  R: 18
-  P: 85
-  H: 5
+Fixed stack (26):
+  S: 78
+  R: 25
+  P: 90
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;@8#([#:{:R]
-)<3(pp{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#@2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 162
-Coordinates: (5, 6, 0)
-Direction: South
-Next symbol: (
+Coordinates: (11, 6, 0)
+Direction: Southeast
+Next symbol: R
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  101 [Top]
-  7
-  5
-  6
+Dynamic stack (53):
+  4 [Top]
+  90
+  4
   ...
 
-Non-zero registers:
-  X: 5
-  S: 84
-  R: 18
-  P: 101
-  H: 5
+Fixed stack (26):
+  S: 79
+  R: 25
+  P: 107
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(p@{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<@8{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 163
-Coordinates: (5, 6, 0)
-Direction: Southeast
-Next symbol: }
+Coordinates: (12, 7, 0)
+Direction: West
+Next symbol: ]
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (0)
-  (0) [S]
+  (4) [S]
 
-  101 [Top]
-  7
-  5
-  6
+Dynamic stack (52):
+  90 [Top]
+  4
+  4
   ...
 
-Non-zero registers:
-  X: 5
-  S: 84
-  R: 17
-  P: 101
-  H: 5
+Fixed stack (26):
+  S: 78
+  R: 4
+  P: 124
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(p@{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]@RP#
 
 ---
 
 Step count: 164
-Coordinates: (5, 6, 0)
-Direction: West
-Next symbol: p
+Coordinates: (12, 7, 0)
+Direction: North
+Next symbol: 8
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (0)
-  (0) [S]
+  (4) [S]
 
-  101 [Top]
-  7
-  5
-  6
+Dynamic stack (52):
+  90 [Top]
+  4
+  4
   ...
 
-Non-zero registers:
-  X: 5
-  S: 84
-  R: 20
-  P: 101
-  H: 5
+Fixed stack (26):
+  S: 78
+  R: 6
+  P: 124
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(p@{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]@RP#
 
 ---
 
 Step count: 165
-Coordinates: (4, 6, 0)
-Direction: West
-Next symbol: (
+Coordinates: (12, 6, 0)
+Direction: North
+Next symbol: }
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  100 [Top]
-  101
-  7
-  5
+Dynamic stack (53):
+  8 [Top]
+  90
+  4
   ...
 
-Non-zero registers:
-  X: 5
-  S: 85
-  R: 20
-  P: 100
-  H: 5
+Fixed stack (26):
+  S: 79
+  R: 6
+  P: 108
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(@p{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<4@{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 166
-Coordinates: (4, 6, 0)
-Direction: Southwest
+Coordinates: (12, 6, 0)
+Direction: Southeast
 Next symbol: R
 
-Stack:
+Hidden stack:
   ...
-  (0)
   (0)
   (0) [S]
 
-  100 [Top]
-  101
-  7
-  5
+Dynamic stack (53):
+  8 [Top]
+  90
+  4
   ...
 
-Non-zero registers:
-  X: 5
-  S: 85
-  R: 19
-  P: 100
-  H: 5
+Fixed stack (26):
+  S: 79
+  R: 9
+  P: 108
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(@p{r;57}4s)#
-),SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<4@{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 167
-Coordinates: (3, 7, 0)
-Direction: West
-Next symbol: S
+Coordinates: (13, 7, 0)
+Direction: East
+Next symbol: P
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (0)
-  (100) [S]
+  (8) [S]
 
-  101 [Top]
-  7
-  5
-  6
+Dynamic stack (52):
+  90 [Top]
+  4
+  4
   ...
 
-Non-zero registers:
-  X: 5
-  S: 84
-  R: 100
-  P: 115
-  H: 5
+Fixed stack (26):
+  S: 78
+  R: 8
+  P: 125
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),S@R(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]R@P#
 
 ---
 
 Step count: 168
-Coordinates: (2, 7, 0)
-Direction: West
-Next symbol: ,
+Coordinates: (10, 5, 0)
+Direction: East
+Next symbol: 2
 
-Stack:
+Hidden stack:
   ...
-  (0)
-  (0)
-  (0) [S]
+  (8)
+  (90) [S]
 
-  0 [Top]
-  0
-  0
-  0
+Dynamic stack (51):
+  4 [Top]
+  4
+  69
   ...
 
-Non-zero registers:
-  X: 5
-  S: 101
-  R: 100
-  P: 114
-  H: 5
+Fixed stack (26):
+  S: 77
+  R: 8
+  P: 90
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-),@RR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#@2};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 169
-Coordinates: (1, 7, 0)
-Direction: West
-Next symbol: )
+Coordinates: (11, 5, 0)
+Direction: East
+Next symbol: }
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (0)
-  (0) [S]
+  (8) [S]
 
-  0 [Top]
-  0
-  0
-  0
+Dynamic stack (52):
+  2 [Top]
+  4
+  4
   ...
 
-Non-zero registers:
-  X: 5
-  S: 101
-  R: 100
-  P: 113
-  H: 5
+Fixed stack (26):
+  S: 78
+  R: 8
+  P: 91
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-)@SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p@};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 170
-Coordinates: (1, 7, 0)
-Direction: Northwest
-Next symbol: )
+Coordinates: (11, 5, 0)
+Direction: Southwest
+Next symbol: <
 
-Stack:
+Hidden stack:
   ...
   (0)
-  (0)
-  (0) [S]
+  (8) [S]
 
-  0 [Top]
-  0
-  0
-  0
+Dynamic stack (52):
+  2 [Top]
+  4
+  4
   ...
 
-Non-zero registers:
-  X: 5
-  S: 101
-  R: 101
-  P: 113
-  H: 5
+Fixed stack (26):
+  S: 78
+  R: 11
+  P: 91
+  J: 86
+  F: 9
+  A: 5
+  Others: 0
 
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-)@SRR(}#P(])][[#
+##]##[###=p)R={{
+#[r44R3{]3.5]73{
+{3=;,76:s7639,;[
+#R48(s3#4.:)R5r(
+#s2(}p#}#4)p#{9{
+#(R4RS4#}#p@};=)
+}463}9(r#:<48{{)
+([}#)}]}[#P]RRP#
 
 ---
 
 Step count: 171
-Coordinates: (1, 7, 0)
-Direction: North
-Next symbol: <
-
-Stack:
-  ...
-  (0)
-  (0)
-  (0) [S]
-
-  0 [Top]
-  0
-  0
-  0
-  ...
-
-Non-zero registers:
-  X: 5
-  S: 101
-  R: 102
-  P: 113
-  H: 5
-
-#[}}#=#R}{})#{]{
-{5]{7=8]4)p5;(.=
-=2.s}r6ps;R69R9)
-{r]r]6r}]9[}644{
-=]{r[54[,sSp.,p[
-#2#[;78#([#:{:R]
-)<3(pp{r;57}4s)#
-)@SRR(}#P(])][[#
-
----
-
-Step count: 172
 ```
 
-You leave the example dungeon after 172 steps.
+You leave the example dungeon after 171 steps.

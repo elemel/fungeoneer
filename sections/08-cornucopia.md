@@ -292,11 +292,14 @@ After how many steps do you leave the dungeon?
 Consider an example dungeon:
 
 ```
-)]{(R{=(64sRr2=
-)99s=3Rs#)S#r#S
-#(Sr<}(s76}(R]4
-]95)8#=5)R[##6=
-[R=9s9{{{[###[)
+#[}}#=#R}{})#{]{
+{5]{7=8]4)p5;(.=
+=2.s}r6ps;R69R9)
+{r]r]6r}]9[}644{
+=]{r[54[,sSp.,p[
+#2#[;78#([#:{:R]
+)<3(pp{r;57}4s)#
+),SRR(}#P(])][[#
 ```
 
 Below is a log of walking through the example dungeon. The hidden slots above the stack are shown as `(n)`. Your location is marked `@` on the map.

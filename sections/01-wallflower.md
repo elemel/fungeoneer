@@ -41,7 +41,7 @@ Unrolling the scroll, you identify it as a magic map. It ripples and shifts into
 
 The staircase is marked `<` on the map, with east to the right. You are compelled to walk through the dungeon, always step forward when possible, and turn only when instructed. Stepping onto floor tiles (marked `.`) has no particular effect.
 
-The dungeon contains wall tiles (marked `[`, `]`, or `#`). Whenever you would step onto a wall tile, stay and turn instead. This still counts as a step. For a `[` tile, turn 90 degrees to the left. For a `]` tile, turn 90 degrees to the right. For a `#` tile, turn 0 degrees, in effect halting indefinitely.
+The dungeon contains wall tiles: left-turners (marked `[`), right-turners (marked `]`), and halters (marked `#`). Whenever you would step onto a wall tile, stay and turn instead. This still counts as a step. For a left-turner, turn 90 degrees to the left. For a right-turner, turn 90 degrees to the right. For a halter, turn 0 degrees, in effect halting indefinitely.
 
 As demonstrated by the gnome, you leave the dungeon by stepping onto the staircase from an adjacent tile. After how many steps do you leave the dungeon?
 

@@ -136,17 +136,13 @@ You have entered the fourth dungeon. You stand at the bottom of the staircase wh
 [=*18*<[#]#<-92<=5+[]#=9+68-/=#]#=-[=6*=[###[<84:72/[]=+%:0<#[]#
 ```
 
-This dungeon contains tiles with arithmetic operators (marked `+`, `-`, `*`, `/` or `%`).
+This dungeon contains tiles with arithmetic operators: adders (marked `+` on the map), subtractors (marked `-`), multipliers (marked `*`), dividers (marked `/`), and modulators (marked `%`).
 
-Whenever you step onto an operator tile, pop two arguments from the stack: first `b`, then `a`. Apply the corresponding operator to `a` and `b`, then push the result `c` onto the stack. The operator tiles have the following effects:
+Whenever you step onto an operator tile, pop two arguments from the stack: first `b`, then `a`. Then apply the corresponding operator to `a` and `b`, with `a` as the left operand and `b` as the right. Finally, push the result `c` onto the stack.
 
-- The `+` tile applies addition: `c = a + b`.
-- The `-` tile applies subtraction: `c = a - b`.
-- The `*` tile applies multiplication: `c = a * b`.
-- The `/` tile applies floor division: `c = a / b` (rounded toward negative infinity).
-- The `%` tile applies modulo: `c = a % b` (with `c` preserving the sign of `b`).
+Adders, subtractors, multipliers, and dividers have their usual meanings. Dividers apply floor division, rounding the result toward negative infinity.
 
-The relationship between modulo and floor division is that `a % b` equals `a - (a / b) * b`.
+Modulators apply the modulo operation: `c = a % b`, with `c` preserving the sign of `b`. This can be calculated using floor division as: `c = a - (a / b) * b`.
 
 After how many steps do you leave the dungeon?
 

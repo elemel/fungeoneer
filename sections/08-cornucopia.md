@@ -302,7 +302,7 @@ Consider an example dungeon:
 ([}#)}]}[#P]RRP#
 ```
 
-Below is a log of walking through the example dungeon. The hidden slots above the stack are shown as `(n)`. Your location is marked `@` on the map.
+Below is a log of walking through the example dungeon. The hidden slots above the dynamic stack are shown as `(n)`. Your location is marked `@` on the map.
 
 ```
 Step count: 0
@@ -313,15 +313,15 @@ Next symbol: 4
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (0):
   [Empty]
 
-Fixed stack (26):
+Non-zero registers:
   S: 26
   P: 106
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -342,15 +342,15 @@ Next symbol: 8
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (1):
   4 [Top]
 
-Fixed stack (26):
+Non-zero registers:
   S: 27
   P: 107
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -371,16 +371,16 @@ Next symbol: {
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (2):
   8 [Top]
   4
 
-Fixed stack (26):
+Non-zero registers:
   S: 28
   P: 108
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -401,17 +401,17 @@ Next symbol: 2
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (2):
   8 [Top]
   4
 
-Fixed stack (26):
+Non-zero registers:
   S: 28
   R: -3
   P: 108
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -432,6 +432,7 @@ Next symbol: )
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (3):
@@ -439,11 +440,10 @@ Dynamic stack (3):
   8
   4
 
-Fixed stack (26):
+Non-zero registers:
   S: 29
   R: -3
   P: 91
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -464,6 +464,7 @@ Next symbol: p
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (3):
@@ -471,11 +472,10 @@ Dynamic stack (3):
   8
   4
 
-Fixed stack (26):
+Non-zero registers:
   S: 29
   R: -2
   P: 91
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -496,19 +496,19 @@ Next symbol: )
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (4):
   75 [Top]
   2
   8
-  ...
+  4
 
-Fixed stack (26):
+Non-zero registers:
   S: 30
   R: -2
   P: 75
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -529,19 +529,19 @@ Next symbol: R
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (4):
   75 [Top]
   2
   8
-  ...
+  4
 
-Fixed stack (26):
+Non-zero registers:
   S: 30
   R: -1
   P: 75
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -562,6 +562,7 @@ Next symbol: p
 Hidden stack:
   ...
   (0)
+  (0)
   (75) [S]
 
 Dynamic stack (3):
@@ -569,11 +570,10 @@ Dynamic stack (3):
   8
   4
 
-Fixed stack (26):
+Non-zero registers:
   S: 29
   R: 75
   P: 60
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -594,19 +594,19 @@ Next symbol: p
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (4):
   75 [Top]
   2
   8
-  ...
+  4
 
-Fixed stack (26):
+Non-zero registers:
   S: 30
   R: 75
   P: 75
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -627,19 +627,20 @@ Next symbol: :
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (5):
   90 [Top]
   75
   2
+  8
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 31
   R: 75
   P: 90
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -660,19 +661,20 @@ Next symbol: [
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (5):
   75 [Top]
   90
   2
+  8
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 31
   R: 75
   P: 105
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -693,19 +695,20 @@ Next symbol: P
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (5):
   75 [Top]
   90
   2
+  8
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 31
   R: 73
   P: 105
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -726,19 +729,19 @@ Next symbol: }
 Hidden stack:
   ...
   (0)
+  (0)
   (75) [S]
 
 Dynamic stack (4):
   90 [Top]
   2
   8
-  ...
+  4
 
-Fixed stack (26):
+Non-zero registers:
   S: 30
   R: 73
   P: 75
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -759,19 +762,19 @@ Next symbol: )
 Hidden stack:
   ...
   (0)
+  (0)
   (75) [S]
 
 Dynamic stack (4):
   90 [Top]
   2
   8
-  ...
+  4
 
-Fixed stack (26):
+Non-zero registers:
   S: 30
   R: 76
   P: 75
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -792,19 +795,19 @@ Next symbol: :
 Hidden stack:
   ...
   (0)
+  (0)
   (75) [S]
 
 Dynamic stack (4):
   90 [Top]
   2
   8
-  ...
+  4
 
-Fixed stack (26):
+Non-zero registers:
   S: 30
   R: 77
   P: 75
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -825,19 +828,19 @@ Next symbol: 7
 Hidden stack:
   ...
   (0)
+  (0)
   (75) [S]
 
 Dynamic stack (4):
   2 [Top]
   90
   8
-  ...
+  4
 
-Fixed stack (26):
+Non-zero registers:
   S: 30
   R: 77
   P: 58
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -858,19 +861,20 @@ Next symbol: ]
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (5):
   7 [Top]
   2
   90
+  8
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 31
   R: 77
   P: 41
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -891,19 +895,20 @@ Next symbol: .
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (5):
   7 [Top]
   2
   90
+  8
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 31
   R: 79
   P: 41
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -924,19 +929,20 @@ Next symbol: )
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (5):
   7 [Top]
   2
   90
+  8
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 31
   R: 79
   P: 26
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3@5]73{
@@ -957,19 +963,20 @@ Next symbol: 5
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (5):
   7 [Top]
   2
   90
+  8
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 31
   R: 80
   P: 26
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3@5]73{
@@ -990,19 +997,20 @@ Next symbol: ]
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (6):
   5 [Top]
   7
   2
+  90
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 32
   R: 80
   P: 27
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.@]73{
@@ -1023,19 +1031,20 @@ Next symbol: 3
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (6):
   5 [Top]
   7
   2
+  90
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 32
   R: 82
   P: 27
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.@]73{
@@ -1056,19 +1065,20 @@ Next symbol: )
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (7):
   3 [Top]
   5
   7
+  2
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 33
   R: 82
   P: 43
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -1089,19 +1099,20 @@ Next symbol: :
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (7):
   3 [Top]
   5
   7
+  2
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 33
   R: 83
   P: 43
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -1122,19 +1133,20 @@ Next symbol: 4
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (7):
   5 [Top]
   3
   7
+  2
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 33
   R: 83
   P: 58
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -1155,19 +1167,20 @@ Next symbol: }
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (8):
   4 [Top]
   5
   3
+  7
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 34
   R: 83
   P: 73
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -1188,19 +1201,20 @@ Next symbol: .
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (8):
   4 [Top]
   5
   3
+  7
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 34
   R: 86
   P: 73
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -1221,19 +1235,20 @@ Next symbol: 7
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (8):
   4 [Top]
   5
   3
+  7
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 34
   R: 86
   P: 57
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -1254,19 +1269,20 @@ Next symbol: 3
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (9):
   7 [Top]
   4
   5
+  3
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 35
   R: 86
   P: 41
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -1287,19 +1303,20 @@ Next symbol: =
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (10):
   3 [Top]
   7
   4
+  5
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 36
   R: 86
   P: 25
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]@.5]73{
@@ -1319,6 +1336,7 @@ Next symbol: p
 
 Hidden stack:
   ...
+  (0)
   (3)
   (7) [S]
 
@@ -1326,13 +1344,13 @@ Dynamic stack (8):
   4 [Top]
   5
   3
+  7
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 34
   R: 88
   P: 9
-  Others: 0
 
 ##]##[###@p)R={{
 #[r44R3{]3.5]73{
@@ -1353,19 +1371,20 @@ Next symbol: )
 Hidden stack:
   ...
   (0)
+  (0)
   (3) [S]
 
 Dynamic stack (9):
   10 [Top]
   4
   5
+  3
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 35
   R: 88
   P: 10
-  Others: 0
 
 ##]##[###=@)R={{
 #[r44R3{]3.5]73{
@@ -1386,19 +1405,20 @@ Next symbol: 5
 Hidden stack:
   ...
   (0)
+  (0)
   (3) [S]
 
 Dynamic stack (9):
   10 [Top]
   4
   5
+  3
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 35
   R: 89
   P: 10
-  Others: 0
 
 ##]##[###=@)R={{
 #[r44R3{]3.5]73{
@@ -1419,19 +1439,20 @@ Next symbol: 9
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (10):
   5 [Top]
   10
   4
+  5
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 36
   R: 89
   P: 27
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.@]73{
@@ -1452,19 +1473,20 @@ Next symbol: 5
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (11):
   9 [Top]
   5
   10
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 37
   R: 89
   P: 44
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -1485,19 +1507,20 @@ Next symbol: 9
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (12):
   5 [Top]
   9
   5
+  10
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 38
   R: 89
   P: 61
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -1518,19 +1541,20 @@ Next symbol: )
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (13):
   9 [Top]
   5
   9
+  5
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 39
   R: 89
   P: 78
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -1551,19 +1575,20 @@ Next symbol: =
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (13):
   9 [Top]
   5
   9
+  5
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 39
   R: 90
   P: 78
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -1583,6 +1608,7 @@ Next symbol: )
 
 Hidden stack:
   ...
+  (0)
   (9)
   (5) [S]
 
@@ -1590,13 +1616,13 @@ Dynamic stack (11):
   9 [Top]
   5
   10
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 37
   R: 88
   P: 94
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -1616,6 +1642,7 @@ Next symbol: )
 
 Hidden stack:
   ...
+  (0)
   (9)
   (5) [S]
 
@@ -1623,13 +1650,13 @@ Dynamic stack (11):
   9 [Top]
   5
   10
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 37
   R: 89
   P: 94
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -1649,6 +1676,7 @@ Next symbol: {
 
 Hidden stack:
   ...
+  (0)
   (9)
   (5) [S]
 
@@ -1656,13 +1684,13 @@ Dynamic stack (11):
   9 [Top]
   5
   10
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 37
   R: 90
   P: 94
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -1682,6 +1710,7 @@ Next symbol: {
 
 Hidden stack:
   ...
+  (0)
   (9)
   (5) [S]
 
@@ -1689,13 +1718,13 @@ Dynamic stack (11):
   9 [Top]
   5
   10
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 37
   R: 87
   P: 94
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -1715,6 +1744,7 @@ Next symbol: ;
 
 Hidden stack:
   ...
+  (0)
   (9)
   (5) [S]
 
@@ -1722,13 +1752,13 @@ Dynamic stack (11):
   9 [Top]
   5
   10
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 37
   R: 84
   P: 94
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -1748,6 +1778,7 @@ Next symbol: }
 
 Hidden stack:
   ...
+  (5)
   (9)
   (5) [S]
 
@@ -1755,14 +1786,14 @@ Dynamic stack (9):
   10 [Top]
   4
   5
+  3
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 35
   R: 84
   P: 93
   F: 9
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -1782,6 +1813,7 @@ Next symbol: 9
 
 Hidden stack:
   ...
+  (5)
   (9)
   (5) [S]
 
@@ -1789,14 +1821,14 @@ Dynamic stack (9):
   10 [Top]
   4
   5
+  3
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 35
   R: 87
   P: 93
   F: 9
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -1816,6 +1848,7 @@ Next symbol: (
 
 Hidden stack:
   ...
+  (9)
   (5)
   (9) [S]
 
@@ -1823,14 +1856,14 @@ Dynamic stack (10):
   9 [Top]
   10
   4
+  5
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 36
   R: 87
   P: 78
   F: 9
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -1850,6 +1883,7 @@ Next symbol: r
 
 Hidden stack:
   ...
+  (9)
   (5)
   (9) [S]
 
@@ -1857,14 +1891,14 @@ Dynamic stack (10):
   9 [Top]
   10
   4
+  5
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 36
   R: 86
   P: 78
   F: 9
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -1884,6 +1918,7 @@ Next symbol: ;
 
 Hidden stack:
   ...
+  (0)
   (9)
   (5) [S]
 
@@ -1891,14 +1926,14 @@ Dynamic stack (11):
   86 [Top]
   9
   10
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 37
   R: 86
   P: 62
   F: 9
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -1918,6 +1953,7 @@ Next symbol: 3
 
 Hidden stack:
   ...
+  (5)
   (86)
   (9) [S]
 
@@ -1925,15 +1961,15 @@ Dynamic stack (9):
   10 [Top]
   4
   5
+  3
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 35
   R: 86
   P: 46
   J: 86
   F: 9
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -1953,6 +1989,7 @@ Next symbol: {
 
 Hidden stack:
   ...
+  (9)
   (5)
   (86) [S]
 
@@ -1960,15 +1997,15 @@ Dynamic stack (10):
   3 [Top]
   10
   4
+  5
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 36
   R: 86
   P: 30
   J: 86
   F: 9
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]7@{
@@ -1988,6 +2025,7 @@ Next symbol: ,
 
 Hidden stack:
   ...
+  (9)
   (5)
   (86) [S]
 
@@ -1995,15 +2033,15 @@ Dynamic stack (10):
   3 [Top]
   10
   4
+  5
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 36
   R: 83
   P: 30
   J: 86
   F: 9
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]7@{
@@ -2023,6 +2061,7 @@ Next symbol: R
 
 Hidden stack:
   ...
+  (9)
   (5)
   (86) [S]
 
@@ -2030,15 +2069,15 @@ Dynamic stack (10):
   0 [Top]
   10
   4
+  5
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 36
   R: 83
   P: 45
   J: 86
   F: 9
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -2058,6 +2097,7 @@ Next symbol: 5
 
 Hidden stack:
   ...
+  (5)
   (86)
   (0) [S]
 
@@ -2065,14 +2105,14 @@ Dynamic stack (9):
   10 [Top]
   4
   5
+  3
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 35
   P: 60
   J: 86
   F: 9
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -2092,6 +2132,7 @@ Next symbol: r
 
 Hidden stack:
   ...
+  (9)
   (5)
   (86) [S]
 
@@ -2099,14 +2140,14 @@ Dynamic stack (10):
   5 [Top]
   10
   4
+  5
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 36
   P: 61
   J: 86
   F: 9
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -2126,6 +2167,7 @@ Next symbol: (
 
 Hidden stack:
   ...
+  (0)
   (9)
   (5) [S]
 
@@ -2133,14 +2175,14 @@ Dynamic stack (11):
   0 [Top]
   5
   10
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 37
   P: 62
   J: 86
   F: 9
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -2160,6 +2202,7 @@ Next symbol: [
 
 Hidden stack:
   ...
+  (0)
   (9)
   (5) [S]
 
@@ -2167,15 +2210,15 @@ Dynamic stack (11):
   0 [Top]
   5
   10
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 37
   R: -1
   P: 62
   J: 86
   F: 9
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -2195,6 +2238,7 @@ Next symbol: ,
 
 Hidden stack:
   ...
+  (0)
   (9)
   (5) [S]
 
@@ -2202,15 +2246,15 @@ Dynamic stack (11):
   0 [Top]
   5
   10
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 37
   R: -3
   P: 62
   J: 86
   F: 9
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -2230,6 +2274,7 @@ Next symbol: ]
 
 Hidden stack:
   ...
+  (0)
   (9)
   (5) [S]
 
@@ -2237,15 +2282,15 @@ Dynamic stack (11):
   0 [Top]
   5
   10
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 37
   R: -3
   P: 45
   J: 86
   F: 9
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -2265,6 +2310,7 @@ Next symbol: 3
 
 Hidden stack:
   ...
+  (0)
   (9)
   (5) [S]
 
@@ -2272,15 +2318,15 @@ Dynamic stack (11):
   0 [Top]
   5
   10
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 37
   R: -1
   P: 45
   J: 86
   F: 9
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -2301,21 +2347,22 @@ Next symbol: {
 Hidden stack:
   ...
   (0)
+  (0)
   (9) [S]
 
 Dynamic stack (12):
   3 [Top]
   0
   5
+  10
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 38
   R: -1
   P: 30
   J: 86
   F: 9
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]7@{
@@ -2336,21 +2383,22 @@ Next symbol: 7
 Hidden stack:
   ...
   (0)
+  (0)
   (9) [S]
 
 Dynamic stack (12):
   3 [Top]
   0
   5
+  10
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 38
   R: -4
   P: 30
   J: 86
   F: 9
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]7@{
@@ -2371,21 +2419,22 @@ Next symbol: ]
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (13):
   7 [Top]
   3
   0
+  5
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 39
   R: -4
   P: 29
   J: 86
   F: 9
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]@3{
@@ -2406,21 +2455,22 @@ Next symbol: =
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (13):
   7 [Top]
   3
   0
+  5
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 39
   R: -2
   P: 29
   J: 86
   F: 9
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]@3{
@@ -2440,6 +2490,7 @@ Next symbol: R
 
 Hidden stack:
   ...
+  (0)
   (7)
   (3) [S]
 
@@ -2447,15 +2498,15 @@ Dynamic stack (11):
   0 [Top]
   5
   10
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 37
   R: -4
   P: 13
   J: 86
   F: 9
-  Others: 0
 
 ##]##[###=p)R@{{
 #[r44R3{]3.5]73{
@@ -2475,6 +2526,7 @@ Next symbol: =
 
 Hidden stack:
   ...
+  (7)
   (3)
   (0) [S]
 
@@ -2482,14 +2534,14 @@ Dynamic stack (10):
   5 [Top]
   10
   4
+  5
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 36
   P: 12
   J: 86
   F: 9
-  Others: 0
 
 ##]##[###=p)@={{
 #[r44R3{]3.5]73{
@@ -2509,6 +2561,7 @@ Next symbol: 7
 
 Hidden stack:
   ...
+  (0)
   (5)
   (10) [S]
 
@@ -2516,15 +2569,15 @@ Dynamic stack (8):
   4 [Top]
   5
   3
+  7
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 34
   R: 2
   P: 13
   J: 86
   F: 9
-  Others: 0
 
 ##]##[###=p)R@{{
 #[r44R3{]3.5]73{
@@ -2544,6 +2597,7 @@ Next symbol: ,
 
 Hidden stack:
   ...
+  (3)
   (0)
   (5) [S]
 
@@ -2551,15 +2605,15 @@ Dynamic stack (9):
   7 [Top]
   4
   5
+  3
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 35
   R: 2
   P: 29
   J: 86
   F: 9
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]@3{
@@ -2579,6 +2633,7 @@ Next symbol: 5
 
 Hidden stack:
   ...
+  (3)
   (0)
   (5) [S]
 
@@ -2586,15 +2641,15 @@ Dynamic stack (9):
   0 [Top]
   4
   5
+  3
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 35
   R: 2
   P: 45
   J: 86
   F: 9
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -2614,6 +2669,7 @@ Next symbol: {
 
 Hidden stack:
   ...
+  (7)
   (3)
   (0) [S]
 
@@ -2621,15 +2677,15 @@ Dynamic stack (10):
   5 [Top]
   0
   4
+  5
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 36
   R: 2
   P: 61
   J: 86
   F: 9
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -2649,6 +2705,7 @@ Next symbol: ;
 
 Hidden stack:
   ...
+  (7)
   (3)
   (0) [S]
 
@@ -2656,15 +2713,15 @@ Dynamic stack (10):
   5 [Top]
   0
   4
+  5
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 36
   R: -1
   P: 61
   J: 86
   F: 9
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -2684,6 +2741,7 @@ Next symbol: {
 
 Hidden stack:
   ...
+  (0)
   (5)
   (0) [S]
 
@@ -2691,16 +2749,16 @@ Dynamic stack (8):
   4 [Top]
   5
   3
+  7
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 34
   R: -1
   P: 46
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -2720,6 +2778,7 @@ Next symbol: ,
 
 Hidden stack:
   ...
+  (0)
   (5)
   (0) [S]
 
@@ -2727,16 +2786,16 @@ Dynamic stack (8):
   4 [Top]
   5
   3
+  7
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 34
   R: -4
   P: 46
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -2756,6 +2815,7 @@ Next symbol: 9
 
 Hidden stack:
   ...
+  (0)
   (5)
   (0) [S]
 
@@ -2763,16 +2823,16 @@ Dynamic stack (8):
   0 [Top]
   5
   3
+  7
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 34
   R: -4
   P: 45
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -2792,6 +2852,7 @@ Next symbol: 3
 
 Hidden stack:
   ...
+  (3)
   (0)
   (5) [S]
 
@@ -2799,16 +2860,16 @@ Dynamic stack (9):
   9 [Top]
   0
   5
+  3
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 35
   R: -4
   P: 44
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -2828,6 +2889,7 @@ Next symbol: 6
 
 Hidden stack:
   ...
+  (7)
   (3)
   (0) [S]
 
@@ -2835,16 +2897,16 @@ Dynamic stack (10):
   3 [Top]
   9
   0
+  5
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 36
   R: -4
   P: 43
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -2864,6 +2926,7 @@ Next symbol: 7
 
 Hidden stack:
   ...
+  (0)
   (7)
   (3) [S]
 
@@ -2871,16 +2934,16 @@ Dynamic stack (11):
   6 [Top]
   3
   9
+  0
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 37
   R: -4
   P: 42
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -2901,22 +2964,23 @@ Next symbol: s
 Hidden stack:
   ...
   (0)
+  (0)
   (7) [S]
 
 Dynamic stack (12):
   7 [Top]
   6
   3
+  9
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 38
   R: -4
   P: 41
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -2937,22 +3001,23 @@ Next symbol: :
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (13):
   38 [Top]
   7
   6
+  3
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 39
   R: -4
   P: 40
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -2973,22 +3038,23 @@ Next symbol: 6
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (13):
   7 [Top]
   38
   6
+  3
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 39
   R: -4
   P: 39
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -3009,22 +3075,23 @@ Next symbol: 7
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (14):
   6 [Top]
   7
   38
+  6
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 40
   R: -4
   P: 38
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -3045,22 +3112,23 @@ Next symbol: ,
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (15):
   7 [Top]
   6
   7
+  38
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 41
   R: -4
   P: 37
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -3081,22 +3149,23 @@ Next symbol: ;
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (15):
   0 [Top]
   6
   7
+  38
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 41
   R: -4
   P: 36
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -3117,22 +3186,23 @@ Next symbol: =
 Hidden stack:
   ...
   (0)
+  (0)
   (6) [S]
 
 Dynamic stack (13):
   7 [Top]
   38
   6
+  3
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 39
   R: -4
   P: 35
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -3152,6 +3222,7 @@ Next symbol: r
 
 Hidden stack:
   ...
+  (6)
   (7)
   (38) [S]
 
@@ -3159,16 +3230,16 @@ Dynamic stack (11):
   6 [Top]
   3
   9
+  0
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 37
   R: -2
   P: 34
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -3188,6 +3259,7 @@ Next symbol: ]
 
 Hidden stack:
   ...
+  (0)
   (6)
   (7) [S]
 
@@ -3195,16 +3267,16 @@ Dynamic stack (12):
   -2 [Top]
   6
   3
+  9
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 38
   R: -2
   P: 18
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[@44R3{]3.5]73{
@@ -3224,6 +3296,7 @@ Next symbol: 4
 
 Hidden stack:
   ...
+  (0)
   (6)
   (7) [S]
 
@@ -3231,15 +3304,15 @@ Dynamic stack (12):
   -2 [Top]
   6
   3
+  9
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 38
   P: 18
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[@44R3{]3.5]73{
@@ -3260,21 +3333,22 @@ Next symbol: 4
 Hidden stack:
   ...
   (0)
+  (0)
   (6) [S]
 
 Dynamic stack (13):
   4 [Top]
   -2
   6
+  3
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 39
   P: 19
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r@4R3{]3.5]73{
@@ -3295,21 +3369,22 @@ Next symbol: R
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (14):
   4 [Top]
   4
   -2
+  6
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 40
   P: 20
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r4@R3{]3.5]73{
@@ -3330,22 +3405,23 @@ Next symbol: 4
 Hidden stack:
   ...
   (0)
+  (0)
   (4) [S]
 
 Dynamic stack (13):
   4 [Top]
   -2
   6
+  3
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 39
   R: 4
   P: 21
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44@3{]3.5]73{
@@ -3366,22 +3442,23 @@ Next symbol: 4
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (14):
   4 [Top]
   4
   -2
+  6
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 40
   R: 4
   P: 20
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r4@R3{]3.5]73{
@@ -3402,22 +3479,23 @@ Next symbol: r
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (15):
   4 [Top]
   4
   4
+  -2
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 41
   R: 4
   P: 19
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r@4R3{]3.5]73{
@@ -3438,22 +3516,23 @@ Next symbol: [
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (16):
   4 [Top]
   4
   4
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 42
   R: 4
   P: 18
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[@44R3{]3.5]73{
@@ -3474,22 +3553,23 @@ Next symbol: =
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (16):
   4 [Top]
   4
   4
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 42
   R: 2
   P: 18
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[@44R3{]3.5]73{
@@ -3509,6 +3589,7 @@ Next symbol: 4
 
 Hidden stack:
   ...
+  (0)
   (4)
   (4) [S]
 
@@ -3516,16 +3597,16 @@ Dynamic stack (14):
   4 [Top]
   4
   -2
+  6
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 40
   R: 2
   P: 34
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -3546,22 +3627,23 @@ Next symbol: 2
 Hidden stack:
   ...
   (0)
+  (0)
   (4) [S]
 
 Dynamic stack (15):
   4 [Top]
   4
   4
+  -2
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 41
   R: 2
   P: 50
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -3582,22 +3664,23 @@ Next symbol: R
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (16):
   2 [Top]
   4
   4
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 42
   R: 2
   P: 66
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -3618,22 +3701,23 @@ Next symbol: 6
 Hidden stack:
   ...
   (0)
+  (0)
   (2) [S]
 
 Dynamic stack (15):
   4 [Top]
   4
   4
+  -2
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 41
   R: 2
   P: 82
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -3654,22 +3738,23 @@ Next symbol: }
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (16):
   6 [Top]
   4
   4
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 42
   R: 2
   P: 98
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -3690,22 +3775,23 @@ Next symbol: (
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (16):
   6 [Top]
   4
   4
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 42
   R: 5
   P: 98
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -3726,22 +3812,23 @@ Next symbol: 4
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (16):
   6 [Top]
   4
   4
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 42
   R: 4
   P: 98
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -3762,22 +3849,23 @@ Next symbol: }
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (17):
   4 [Top]
   6
   4
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 43
   R: 4
   P: 97
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -3798,22 +3886,23 @@ Next symbol: R
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (17):
   4 [Top]
   6
   4
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 43
   R: 7
   P: 97
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -3834,22 +3923,23 @@ Next symbol: (
 Hidden stack:
   ...
   (0)
+  (0)
   (4) [S]
 
 Dynamic stack (16):
   6 [Top]
   4
   4
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 42
   R: 4
   P: 82
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -3870,22 +3960,23 @@ Next symbol: 4
 Hidden stack:
   ...
   (0)
+  (0)
   (4) [S]
 
 Dynamic stack (16):
   6 [Top]
   4
   4
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 42
   R: 3
   P: 82
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -3906,22 +3997,23 @@ Next symbol: (
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (17):
   4 [Top]
   6
   4
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 43
   R: 3
   P: 97
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -3942,22 +4034,23 @@ Next symbol: [
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (17):
   4 [Top]
   6
   4
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 43
   R: 2
   P: 97
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -3978,21 +4071,22 @@ Next symbol: 6
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (17):
   4 [Top]
   6
   4
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 43
   P: 97
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -4013,21 +4107,22 @@ Next symbol: 3
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (18):
   6 [Top]
   4
   6
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 44
   P: 98
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -4048,21 +4143,22 @@ Next symbol: }
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (19):
   3 [Top]
   6
   4
+  6
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 45
   P: 99
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -4083,22 +4179,23 @@ Next symbol: }
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (19):
   3 [Top]
   6
   4
+  6
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 45
   R: 3
   P: 99
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -4119,22 +4216,23 @@ Next symbol: 4
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (19):
   3 [Top]
   6
   4
+  6
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 45
   R: 6
   P: 99
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -4155,22 +4253,23 @@ Next symbol: (
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (20):
   4 [Top]
   3
   6
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 46
   R: 6
   P: 83
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -4191,22 +4290,23 @@ Next symbol: 2
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (20):
   4 [Top]
   3
   6
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 46
   R: 5
   P: 83
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -4227,22 +4327,23 @@ Next symbol: R
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (21):
   2 [Top]
   4
   3
+  6
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 47
   R: 5
   P: 66
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -4263,22 +4364,23 @@ Next symbol: s
 Hidden stack:
   ...
   (0)
+  (0)
   (2) [S]
 
 Dynamic stack (20):
   4 [Top]
   3
   6
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 46
   R: 2
   P: 49
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -4299,22 +4401,23 @@ Next symbol: (
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (21):
   46 [Top]
   4
   3
+  6
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 47
   R: 2
   P: 65
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -4335,22 +4438,23 @@ Next symbol: R
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (21):
   46 [Top]
   4
   3
+  6
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 47
   R: 1
   P: 65
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -4371,22 +4475,23 @@ Next symbol: 2
 Hidden stack:
   ...
   (0)
+  (0)
   (46) [S]
 
 Dynamic stack (20):
   4 [Top]
   3
   6
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 46
   R: 46
   P: 82
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -4407,22 +4512,23 @@ Next symbol: 4
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (21):
   2 [Top]
   4
   3
+  6
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 47
   R: 46
   P: 66
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -4443,22 +4549,23 @@ Next symbol: =
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (22):
   4 [Top]
   2
   4
+  3
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 48
   R: 46
   P: 50
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -4478,6 +4585,7 @@ Next symbol: 3
 
 Hidden stack:
   ...
+  (0)
   (4)
   (2) [S]
 
@@ -4485,16 +4593,16 @@ Dynamic stack (20):
   4 [Top]
   3
   6
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 46
   R: 44
   P: 34
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -4515,22 +4623,23 @@ Next symbol: {
 Hidden stack:
   ...
   (0)
+  (0)
   (4) [S]
 
 Dynamic stack (21):
   3 [Top]
   4
   3
+  6
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 47
   R: 44
   P: 33
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -4551,22 +4660,23 @@ Next symbol: 4
 Hidden stack:
   ...
   (0)
+  (0)
   (4) [S]
 
 Dynamic stack (21):
   3 [Top]
   4
   3
+  6
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 47
   R: 41
   P: 33
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -4587,22 +4697,23 @@ Next symbol: (
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (22):
   4 [Top]
   3
   4
+  3
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 48
   R: 41
   P: 50
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -4623,22 +4734,23 @@ Next symbol: 8
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (22):
   4 [Top]
   3
   4
+  3
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 48
   R: 40
   P: 50
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -4659,22 +4771,23 @@ Next symbol: (
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (23):
   8 [Top]
   4
   3
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 49
   R: 40
   P: 51
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -4695,22 +4808,23 @@ Next symbol: ,
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (23):
   8 [Top]
   4
   3
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 49
   R: 39
   P: 51
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -4731,22 +4845,23 @@ Next symbol: R
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (23):
   0 [Top]
   4
   3
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 49
   R: 39
   P: 36
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -4767,21 +4882,22 @@ Next symbol: 3
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (22):
   4 [Top]
   3
   4
+  3
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 48
   P: 21
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44@3{]3.5]73{
@@ -4802,21 +4918,22 @@ Next symbol: {
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (23):
   3 [Top]
   4
   3
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 49
   P: 22
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R@{]3.5]73{
@@ -4837,22 +4954,23 @@ Next symbol: [
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (23):
   3 [Top]
   4
   3
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 49
   R: -3
   P: 22
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R@{]3.5]73{
@@ -4873,22 +4991,23 @@ Next symbol: 7
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (23):
   3 [Top]
   4
   3
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 49
   R: -5
   P: 22
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R@{]3.5]73{
@@ -4909,22 +5028,23 @@ Next symbol: (
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (24):
   7 [Top]
   3
   4
+  3
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 50
   R: -5
   P: 37
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -4945,22 +5065,23 @@ Next symbol: s
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (24):
   7 [Top]
   3
   4
+  3
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 50
   R: -6
   P: 37
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -4981,22 +5102,23 @@ Next symbol: p
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (25):
   50 [Top]
   7
   3
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 51
   R: -6
   P: 53
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5017,22 +5139,23 @@ Next symbol: S
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (26):
   69 [Top]
   50
   7
+  3
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 52
   R: -6
   P: 69
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5053,22 +5176,23 @@ Next symbol: 9
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (43):
   0 [Top]
   0
   0
+  0
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 69
   R: -6
   P: 85
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5089,22 +5213,23 @@ Next symbol: }
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (44):
   9 [Top]
   0
   0
+  0
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 70
   R: -6
   P: 101
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5125,22 +5250,23 @@ Next symbol: R
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (44):
   9 [Top]
   0
   0
+  0
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 70
   R: -3
   P: 101
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5161,22 +5287,23 @@ Next symbol: 9
 Hidden stack:
   ...
   (0)
+  (0)
   (9) [S]
 
 Dynamic stack (43):
   0 [Top]
   0
   0
+  0
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 69
   R: 9
   P: 84
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5197,22 +5324,23 @@ Next symbol: ]
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (44):
   9 [Top]
   0
   0
+  0
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 70
   R: 9
   P: 101
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5233,22 +5361,23 @@ Next symbol: )
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (44):
   9 [Top]
   0
   0
+  0
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 70
   R: 11
   P: 101
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5269,22 +5398,23 @@ Next symbol: }
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (44):
   9 [Top]
   0
   0
+  0
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 70
   R: 12
   P: 101
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5305,22 +5435,23 @@ Next symbol: 4
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (44):
   9 [Top]
   0
   0
+  0
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 70
   R: 15
   P: 101
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5341,22 +5472,23 @@ Next symbol: }
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (45):
   4 [Top]
   9
   0
+  0
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 71
   R: 15
   P: 86
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5377,22 +5509,23 @@ Next symbol: (
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (45):
   4 [Top]
   9
   0
+  0
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 71
   R: 18
   P: 86
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5413,22 +5546,23 @@ Next symbol: r
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (45):
   4 [Top]
   9
   0
+  0
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 71
   R: 17
   P: 86
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5449,22 +5583,23 @@ Next symbol: [
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (46):
   17 [Top]
   4
   9
+  0
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 72
   R: 17
   P: 103
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5485,22 +5620,23 @@ Next symbol: }
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (46):
   17 [Top]
   4
   9
+  0
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 72
   R: 15
   P: 103
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5521,22 +5657,23 @@ Next symbol: }
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (46):
   17 [Top]
   4
   9
+  0
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 72
   R: 18
   P: 103
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5557,22 +5694,23 @@ Next symbol: 4
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (46):
   17 [Top]
   4
   9
+  0
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 72
   R: 21
   P: 103
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5593,22 +5731,23 @@ Next symbol: p
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (47):
   4 [Top]
   17
   4
+  9
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 73
   R: 21
   P: 86
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5629,22 +5768,23 @@ Next symbol: (
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (48):
   69 [Top]
   4
   17
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 74
   R: 21
   P: 69
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5665,22 +5805,23 @@ Next symbol: }
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (48):
   69 [Top]
   4
   17
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 74
   R: 20
   P: 69
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5701,22 +5842,23 @@ Next symbol: 3
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (48):
   69 [Top]
   4
   17
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 74
   R: 23
   P: 69
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5737,22 +5879,23 @@ Next symbol: :
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (49):
   3 [Top]
   69
   4
+  17
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 75
   R: 23
   P: 54
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5773,22 +5916,23 @@ Next symbol: ]
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (49):
   69 [Top]
   3
   4
+  17
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 75
   R: 23
   P: 39
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5809,22 +5953,23 @@ Next symbol: 4
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (49):
   69 [Top]
   3
   4
+  17
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 75
   R: 25
   P: 39
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5845,22 +5990,23 @@ Next symbol: 4
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (50):
   4 [Top]
   69
   3
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 76
   R: 25
   P: 56
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5881,22 +6027,23 @@ Next symbol: p
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (51):
   4 [Top]
   4
   69
+  3
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 77
   R: 25
   P: 73
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5917,22 +6064,23 @@ Next symbol: 4
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (52):
   90 [Top]
   4
   4
+  69
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 78
   R: 25
   P: 90
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5953,22 +6101,23 @@ Next symbol: R
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (53):
   4 [Top]
   90
   4
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 79
   R: 25
   P: 107
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -5989,22 +6138,23 @@ Next symbol: ]
 Hidden stack:
   ...
   (0)
+  (0)
   (4) [S]
 
 Dynamic stack (52):
   90 [Top]
   4
   4
+  69
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 78
   R: 4
   P: 124
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -6025,22 +6175,23 @@ Next symbol: 8
 Hidden stack:
   ...
   (0)
+  (0)
   (4) [S]
 
 Dynamic stack (52):
   90 [Top]
   4
   4
+  69
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 78
   R: 6
   P: 124
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -6061,22 +6212,23 @@ Next symbol: }
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (53):
   8 [Top]
   90
   4
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 79
   R: 6
   P: 108
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -6097,22 +6249,23 @@ Next symbol: R
 Hidden stack:
   ...
   (0)
+  (0)
   (0) [S]
 
 Dynamic stack (53):
   8 [Top]
   90
   4
+  4
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 79
   R: 9
   P: 108
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -6133,22 +6286,23 @@ Next symbol: P
 Hidden stack:
   ...
   (0)
+  (0)
   (8) [S]
 
 Dynamic stack (52):
   90 [Top]
   4
   4
+  69
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 78
   R: 8
   P: 125
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -6168,6 +6322,7 @@ Next symbol: 2
 
 Hidden stack:
   ...
+  (0)
   (8)
   (90) [S]
 
@@ -6175,16 +6330,16 @@ Dynamic stack (51):
   4 [Top]
   4
   69
+  3
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 77
   R: 8
   P: 90
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -6205,22 +6360,23 @@ Next symbol: }
 Hidden stack:
   ...
   (0)
+  (0)
   (8) [S]
 
 Dynamic stack (52):
   2 [Top]
   4
   4
+  69
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 78
   R: 8
   P: 91
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -6241,22 +6397,23 @@ Next symbol: <
 Hidden stack:
   ...
   (0)
+  (0)
   (8) [S]
 
 Dynamic stack (52):
   2 [Top]
   4
   4
+  69
   ...
 
-Fixed stack (26):
+Non-zero registers:
   S: 78
   R: 11
   P: 91
   J: 86
   F: 9
   A: 5
-  Others: 0
 
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{

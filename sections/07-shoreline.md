@@ -251,4639 +251,5080 @@ You leave the dungeon when your position is negative after a completed step. Aft
 Consider an example dungeon:
 
 ```
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 ```
 
 Below is a log of walking through the example dungeon. Your location is marked `@` on the map.
 
 ```
 Step count: 0
-Coordinates: (9, 5, 0)
+Coordinates: (12, 5, 0)
 Direction: East
-Next symbol: }
+Next symbol: r
 
-Stack:
+Stack (0):
   [Empty]
 
 Non-zero registers:
-  P: 89
+  P: 92
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7@}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892@r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 1
-Coordinates: (9, 5, 0)
-Direction: Southwest
-Next symbol: (
+Coordinates: (13, 5, 0)
+Direction: East
+Next symbol: }
 
-Stack:
-  [Empty]
+Stack (1):
+  0 [Top]
 
 Non-zero registers:
-  R: 3
-  P: 89
+  P: 93
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7@}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<@}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 2
-Coordinates: (9, 5, 0)
-Direction: South
-Next symbol: 8
+Coordinates: (13, 5, 0)
+Direction: Southwest
+Next symbol: 7
 
-Stack:
-  [Empty]
+Stack (1):
+  0 [Top]
 
 Non-zero registers:
-  R: 2
-  P: 89
+  R: 3
+  P: 93
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7@}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<@}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 3
-Coordinates: (9, 6, 0)
-Direction: South
-Next symbol: (
+Coordinates: (12, 6, 0)
+Direction: Southwest
+Next symbol: [
 
-Stack:
-  8 [Top]
+Stack (2):
+  7 [Top]
+  0
 
 Non-zero registers:
-  R: 2
-  P: 105
+  R: 3
+  P: 108
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(@3[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:@=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 4
-Coordinates: (9, 6, 0)
+Coordinates: (12, 6, 0)
 Direction: Southeast
-Next symbol: (
+Next symbol: =
 
-Stack:
-  8 [Top]
+Stack (2):
+  7 [Top]
+  0
 
 Non-zero registers:
   R: 1
-  P: 105
+  P: 108
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(@3[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:@=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 5
-Coordinates: (9, 6, 0)
-Direction: East
-Next symbol: 3
+Coordinates: (13, 7, 0)
+Direction: Northeast
+Next symbol: r
 
-Stack:
-  8 [Top]
+Stack (0):
+  [Empty]
 
 Non-zero registers:
-  P: 105
+  R: -1
+  P: 125
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(@3[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(@6P
 
 ---
 
 Step count: 6
-Coordinates: (10, 6, 0)
-Direction: East
+Coordinates: (14, 6, 0)
+Direction: Northeast
 Next symbol: [
 
-Stack:
-  3 [Top]
-  8
+Stack (1):
+  -1 [Top]
 
 Non-zero registers:
-  P: 106
+  R: -1
+  P: 110
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(8@[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=@#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 7
-Coordinates: (10, 6, 0)
-Direction: North
-Next symbol: }
+Coordinates: (14, 6, 0)
+Direction: Northwest
+Next symbol: r
 
-Stack:
-  3 [Top]
-  8
+Stack (1):
+  -1 [Top]
 
 Non-zero registers:
-  R: -2
-  P: 106
+  R: -3
+  P: 110
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(8@[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=@#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 8
-Coordinates: (10, 6, 0)
-Direction: Southeast
-Next symbol: }
+Coordinates: (13, 5, 0)
+Direction: Northwest
+Next symbol: 8
 
-Stack:
-  3 [Top]
-  8
+Stack (2):
+  -3 [Top]
+  -1
 
 Non-zero registers:
-  R: 1
-  P: 106
+  R: -3
+  P: 93
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(8@[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<@}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 9
-Coordinates: (10, 6, 0)
-Direction: West
-Next symbol: 8
+Coordinates: (12, 4, 0)
+Direction: Northwest
+Next symbol: 9
 
-Stack:
-  3 [Top]
-  8
+Stack (3):
+  8 [Top]
+  -3
+  -1
 
 Non-zero registers:
-  R: 4
-  P: 106
+  R: -3
+  P: 76
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(8@[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R93@]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 10
-Coordinates: (9, 6, 0)
-Direction: West
-Next symbol: (
+Coordinates: (11, 3, 0)
+Direction: Northwest
+Next symbol: :
 
-Stack:
-  8 [Top]
-  3
+Stack (4):
+  9 [Top]
   8
+  -3
+  -1
 
 Non-zero registers:
-  R: 4
-  P: 105
+  R: -3
+  P: 59
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(@3[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[@=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 11
-Coordinates: (9, 6, 0)
-Direction: Southwest
-Next symbol: ]
+Coordinates: (10, 2, 0)
+Direction: Northwest
+Next symbol: .
 
-Stack:
+Stack (4):
   8 [Top]
-  3
-  8
+  9
+  -3
+  -1
 
 Non-zero registers:
-  R: 3
-  P: 105
+  R: -3
+  P: 42
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(@3[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]@}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 12
-Coordinates: (9, 6, 0)
+Coordinates: (9, 1, 0)
 Direction: Northwest
-Next symbol: 7
+Next symbol: )
 
-Stack:
+Stack (4):
   8 [Top]
-  3
-  8
+  9
+  -3
+  -1
 
 Non-zero registers:
-  R: 5
-  P: 105
+  R: -3
+  P: 25
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(@3[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp@pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 13
-Coordinates: (8, 5, 0)
-Direction: Northwest
-Next symbol: 4
+Coordinates: (9, 1, 0)
+Direction: North
+Next symbol: {
 
-Stack:
-  7 [Top]
-  8
-  3
-  8
+Stack (4):
+  8 [Top]
+  9
+  -3
+  -1
 
 Non-zero registers:
-  R: 5
-  P: 88
+  R: -2
+  P: 25
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={@<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp@pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 14
-Coordinates: (7, 4, 0)
-Direction: Northwest
-Next symbol: {
+Coordinates: (9, 1, 0)
+Direction: Southwest
+Next symbol: )
 
-Stack:
-  4 [Top]
-  7
-  8
-  3
-  ...
+Stack (4):
+  8 [Top]
+  9
+  -3
+  -1
 
 Non-zero registers:
-  R: 5
-  P: 71
+  R: -5
+  P: 25
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][4@3(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp@pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 15
-Coordinates: (7, 4, 0)
-Direction: South
-Next symbol: {
-
-Stack:
-  4 [Top]
-  7
-  8
-  3
-  ...
-
-Non-zero registers:
-  R: 2
-  P: 71
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][4@3(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 16
-Coordinates: (7, 4, 0)
-Direction: Northeast
-Next symbol: 6
-
-Stack:
-  4 [Top]
-  7
-  8
-  3
-  ...
-
-Non-zero registers:
-  R: -1
-  P: 71
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][4@3(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 17
-Coordinates: (8, 3, 0)
-Direction: Northeast
-Next symbol: 9
-
-Stack:
-  6 [Top]
-  4
-  7
-  8
-  ...
-
-Non-zero registers:
-  R: -1
-  P: 56
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{2@]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 18
-Coordinates: (9, 2, 0)
-Direction: Northeast
-Next symbol: 8
-
-Stack:
-  9 [Top]
-  6
-  4
-  7
-  ...
-
-Non-zero registers:
-  R: -1
-  P: 41
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R@2]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 19
-Coordinates: (10, 1, 0)
-Direction: Northeast
-Next symbol: {
-
-Stack:
-  8 [Top]
-  9
-  6
-  4
-  ...
-
-Non-zero registers:
-  R: -1
-  P: 26
-
-{.27rp3=(=]{#=8}
-#]=)R8[[88@{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 20
-Coordinates: (10, 1, 0)
-Direction: West
-Next symbol: 8
-
-Stack:
-  8 [Top]
-  9
-  6
-  4
-  ...
-
-Non-zero registers:
-  R: -4
-  P: 26
-
-{.27rp3=(=]{#=8}
-#]=)R8[[88@{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 21
 Coordinates: (9, 1, 0)
 Direction: West
-Next symbol: 8
+Next symbol: p
 
-Stack:
+Stack (4):
   8 [Top]
-  8
   9
-  6
-  ...
+  -3
+  -1
 
 Non-zero registers:
   R: -4
   P: 25
 
-{.27rp3=(=]{#=8}
-#]=)R8[[8@8{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp@pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
-Step count: 22
+Step count: 16
 Coordinates: (8, 1, 0)
 Direction: West
-Next symbol: [
+Next symbol: p
 
-Stack:
-  8 [Top]
-  8
+Stack (5):
+  24 [Top]
   8
   9
+  -3
   ...
 
 Non-zero registers:
   R: -4
   P: 24
 
-{.27rp3=(=]{#=8}
-#]=)R8[[@88{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6p@.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 17
+Coordinates: (7, 1, 0)
+Direction: West
+Next symbol: 6
+
+Stack (6):
+  23 [Top]
+  24
+  8
+  9
+  ...
+
+Non-zero registers:
+  R: -4
+  P: 23
+
+}}([R)_6){][R[##
+2r}92R6@p.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 18
+Coordinates: (6, 1, 0)
+Direction: West
+Next symbol: R
+
+Stack (7):
+  6 [Top]
+  23
+  24
+  8
+  ...
+
+Non-zero registers:
+  R: -4
+  P: 22
+
+}}([R)_6){][R[##
+2r}92R@pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 19
+Coordinates: (5, 1, 0)
+Direction: North
+Next symbol: )
+
+Stack (6):
+  23 [Top]
+  24
+  8
+  9
+  ...
+
+Non-zero registers:
+  R: 6
+  P: 21
+
+}}([R)_6){][R[##
+2r}92@6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 20
+Coordinates: (5, 1, 0)
+Direction: Northeast
+Next symbol: _
+
+Stack (6):
+  23 [Top]
+  24
+  8
+  9
+  ...
+
+Non-zero registers:
+  R: 7
+  P: 21
+
+}}([R)_6){][R[##
+2r}92@6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 21
+Coordinates: (7, 1, 0)
+Direction: Northeast
+Next symbol: )
+
+Stack (6):
+  6 [Top]
+  24
+  8
+  9
+  ...
+
+Non-zero registers:
+  R: 7
+  P: 23
+
+}}([R)_6){][R[##
+2r}92R6@p.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 22
+Coordinates: (7, 1, 0)
+Direction: East
+Next symbol: p
+
+Stack (6):
+  6 [Top]
+  24
+  8
+  9
+  ...
+
+Non-zero registers:
+  R: 8
+  P: 23
+
+}}([R)_6){][R[##
+2r}92R6@p.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 23
 Coordinates: (8, 1, 0)
-Direction: South
-Next symbol: R
+Direction: East
+Next symbol: .
 
-Stack:
-  8 [Top]
+Stack (7):
+  24 [Top]
+  6
+  24
   8
-  8
-  9
   ...
 
 Non-zero registers:
-  R: -6
+  R: 8
   P: 24
 
-{.27rp3=(=]{#=8}
-#]=)R8[[@88{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6p@.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 24
-Coordinates: (8, 2, 0)
+Coordinates: (9, 1, 0)
 Direction: East
-Next symbol: 9
+Next symbol: p
 
-Stack:
-  8 [Top]
-  8
-  9
+Stack (7):
+  24 [Top]
   6
+  24
+  8
   ...
 
 Non-zero registers:
   R: 8
-  P: 40
+  P: 25
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629@92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp@pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 25
-Coordinates: (9, 2, 0)
+Coordinates: (10, 1, 0)
 Direction: East
-Next symbol: 2
+Next symbol: p
 
-Stack:
-  9 [Top]
-  8
-  8
-  9
+Stack (8):
+  26 [Top]
+  24
+  6
+  24
   ...
 
 Non-zero registers:
   R: 8
-  P: 41
+  P: 26
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R@2]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.@p9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 26
-Coordinates: (10, 2, 0)
+Coordinates: (11, 1, 0)
 Direction: East
-Next symbol: ]
+Next symbol: 9
 
-Stack:
-  2 [Top]
-  9
-  8
-  8
+Stack (9):
+  27 [Top]
+  26
+  24
+  6
   ...
 
 Non-zero registers:
   R: 8
-  P: 42
+  P: 27
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R9@]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.p@9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 27
-Coordinates: (10, 2, 0)
-Direction: South
-Next symbol: 2
+Coordinates: (12, 1, 0)
+Direction: East
+Next symbol: )
 
-Stack:
-  2 [Top]
-  9
-  8
-  8
+Stack (10):
+  9 [Top]
+  27
+  26
+  24
   ...
 
 Non-zero registers:
-  R: 10
-  P: 42
+  R: 8
+  P: 28
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R9@]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp@)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 28
-Coordinates: (10, 3, 0)
-Direction: South
-Next symbol: 5
-
-Stack:
-  2 [Top]
-  2
-  9
-  8
-  ...
-
-Non-zero registers:
-  R: 10
-  P: 58
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]@284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 29
-Coordinates: (10, 4, 0)
-Direction: South
-Next symbol: }
-
-Stack:
-  5 [Top]
-  2
-  2
-  9
-  ...
-
-Non-zero registers:
-  R: 10
-  P: 74
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(@(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 30
-Coordinates: (10, 4, 0)
-Direction: Northwest
-Next symbol: ]
-
-Stack:
-  5 [Top]
-  2
-  2
-  9
-  ...
-
-Non-zero registers:
-  R: 13
-  P: 74
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(@(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 31
-Coordinates: (10, 4, 0)
-Direction: Northeast
-Next symbol: 2
-
-Stack:
-  5 [Top]
-  2
-  2
-  9
-  ...
-
-Non-zero registers:
-  R: 15
-  P: 74
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(@(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 32
-Coordinates: (11, 3, 0)
-Direction: Northeast
-Next symbol: 6
-
-Stack:
-  2 [Top]
-  5
-  2
-  2
-  ...
-
-Non-zero registers:
-  R: 15
-  P: 59
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2@84=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 33
-Coordinates: (12, 2, 0)
-Direction: Northeast
-Next symbol: R
-
-Stack:
-  6 [Top]
-  2
-  5
-  2
-  ...
-
-Non-zero registers:
-  R: 15
-  P: 44
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]@8=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 34
-Coordinates: (13, 1, 0)
-Direction: North
-Next symbol: =
-
-Stack:
-  2 [Top]
-  5
-  2
-  2
-  ...
-
-Non-zero registers:
-  R: 6
-  P: 29
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]@R}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 35
-Coordinates: (13, 0, 0)
-Direction: East
-Next symbol: 8
-
-Stack:
-  2 [Top]
-  2
-  9
-  8
-  ...
-
-Non-zero registers:
-  R: 8
-  P: 13
-
-{.27rp3=(=]{#@8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 36
-Coordinates: (14, 0, 0)
-Direction: East
-Next symbol: }
-
-Stack:
-  8 [Top]
-  2
-  2
-  9
-  ...
-
-Non-zero registers:
-  R: 8
-  P: 14
-
-{.27rp3=(=]{#=@}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 37
-Coordinates: (14, 0, 0)
-Direction: Southwest
-Next symbol: R
-
-Stack:
-  8 [Top]
-  2
-  2
-  9
-  ...
-
-Non-zero registers:
-  R: 11
-  P: 14
-
-{.27rp3=(=]{#=@}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 38
-Coordinates: (13, 1, 0)
-Direction: East
-Next symbol: R
-
-Stack:
-  2 [Top]
-  2
-  9
-  8
-  ...
-
-Non-zero registers:
-  R: 8
-  P: 29
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]@R}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 39
-Coordinates: (14, 1, 0)
-Direction: South
-Next symbol: =
-
-Stack:
-  2 [Top]
-  9
-  8
-  8
-  ...
-
-Non-zero registers:
-  R: 2
-  P: 30
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]R@}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 40
-Coordinates: (14, 2, 0)
-Direction: West
-Next symbol: 8
-
-Stack:
-  8 [Top]
-  8
-  9
-  6
-  ...
-
-Non-zero registers:
-  R: 4
-  P: 46
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68@#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 41
-Coordinates: (13, 2, 0)
-Direction: West
-Next symbol: 6
-
-Stack:
-  8 [Top]
-  8
-  8
-  9
-  ...
-
-Non-zero registers:
-  R: 4
-  P: 45
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]6@=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 42
-Coordinates: (12, 2, 0)
-Direction: West
-Next symbol: ]
-
-Stack:
-  6 [Top]
-  8
-  8
-  8
-  ...
-
-Non-zero registers:
-  R: 4
-  P: 44
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]@8=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 43
-Coordinates: (12, 2, 0)
-Direction: North
-Next symbol: ]
-
-Stack:
-  6 [Top]
-  8
-  8
-  8
-  ...
-
-Non-zero registers:
-  R: 6
-  P: 44
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]@8=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 44
-Coordinates: (12, 2, 0)
-Direction: East
-Next symbol: 8
-
-Stack:
-  6 [Top]
-  8
-  8
-  8
-  ...
-
-Non-zero registers:
-  R: 8
-  P: 44
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]@8=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 45
-Coordinates: (13, 2, 0)
-Direction: East
-Next symbol: =
-
-Stack:
-  8 [Top]
-  6
-  8
-  8
-  ...
-
-Non-zero registers:
-  R: 8
-  P: 45
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]6@=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 46
-Coordinates: (14, 2, 0)
-Direction: North
-Next symbol: R
-
-Stack:
-  8 [Top]
-  8
-  8
-  9
-  ...
-
-Non-zero registers:
-  R: 6
-  P: 46
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68@#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 47
-Coordinates: (14, 1, 0)
-Direction: East
-Next symbol: }
-
-Stack:
-  8 [Top]
-  8
-  9
-  6
-  ...
-
-Non-zero registers:
-  R: 8
-  P: 30
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]R@}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 48
-Coordinates: (14, 1, 0)
-Direction: Southwest
-Next symbol: 8
-
-Stack:
-  8 [Top]
-  8
-  9
-  6
-  ...
-
-Non-zero registers:
-  R: 11
-  P: 30
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]R@}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 49
-Coordinates: (13, 2, 0)
-Direction: Southwest
-Next symbol: 8
-
-Stack:
-  8 [Top]
-  8
-  8
-  9
-  ...
-
-Non-zero registers:
-  R: 11
-  P: 45
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]6@=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 50
-Coordinates: (12, 3, 0)
-Direction: Southwest
-Next symbol: (
-
-Stack:
-  8 [Top]
-  8
-  8
-  8
-  ...
-
-Non-zero registers:
-  R: 11
-  P: 60
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]22@4=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 51
-Coordinates: (12, 3, 0)
-Direction: South
-Next symbol: ]
-
-Stack:
-  8 [Top]
-  8
-  8
-  8
-  ...
-
-Non-zero registers:
-  R: 10
-  P: 60
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]22@4=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 52
-Coordinates: (12, 3, 0)
-Direction: West
-Next symbol: 2
-
-Stack:
-  8 [Top]
-  8
-  8
-  8
-  ...
-
-Non-zero registers:
-  R: 12
-  P: 60
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]22@4=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 53
-Coordinates: (11, 3, 0)
-Direction: West
-Next symbol: 2
-
-Stack:
-  2 [Top]
-  8
-  8
-  8
-  ...
-
-Non-zero registers:
-  R: 12
-  P: 59
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2@84=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 54
-Coordinates: (10, 3, 0)
-Direction: West
-Next symbol: ]
-
-Stack:
-  2 [Top]
-  2
-  8
-  8
-  ...
-
-Non-zero registers:
-  R: 12
-  P: 58
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]@284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 55
-Coordinates: (10, 3, 0)
-Direction: North
-Next symbol: 2
-
-Stack:
-  2 [Top]
-  2
-  8
-  8
-  ...
-
-Non-zero registers:
-  R: 14
-  P: 58
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]@284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 56
-Coordinates: (10, 2, 0)
-Direction: North
-Next symbol: 8
-
-Stack:
-  2 [Top]
-  2
-  2
-  8
-  ...
-
-Non-zero registers:
-  R: 14
-  P: 42
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R9@]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 57
-Coordinates: (10, 1, 0)
-Direction: North
-Next symbol: ]
-
-Stack:
-  8 [Top]
-  2
-  2
-  2
-  ...
-
-Non-zero registers:
-  R: 14
-  P: 26
-
-{.27rp3=(=]{#=8}
-#]=)R8[[88@{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 58
-Coordinates: (10, 1, 0)
-Direction: East
-Next symbol: {
-
-Stack:
-  8 [Top]
-  2
-  2
-  2
-  ...
-
-Non-zero registers:
-  R: 16
-  P: 26
-
-{.27rp3=(=]{#=8}
-#]=)R8[[88@{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 59
-Coordinates: (10, 1, 0)
-Direction: Northwest
-Next symbol: =
-
-Stack:
-  8 [Top]
-  2
-  2
-  2
-  ...
-
-Non-zero registers:
-  R: 13
-  P: 26
-
-{.27rp3=(=]{#=8}
-#]=)R8[[88@{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 60
-Coordinates: (9, 0, 0)
-Direction: Southwest
-Next symbol: 8
-
-Stack:
-  2 [Top]
-  2
-  8
-  8
-  ...
-
-Non-zero registers:
-  R: 11
-  P: 9
-
-{.27rp3=(@]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 61
-Coordinates: (8, 1, 0)
-Direction: Southwest
-Next symbol: 9
-
-Stack:
-  8 [Top]
-  2
-  2
-  8
-  ...
-
-Non-zero registers:
-  R: 11
-  P: 24
-
-{.27rp3=(=]{#=8}
-#]=)R8[[@88{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 62
-Coordinates: (7, 2, 0)
-Direction: Southwest
-Next symbol: {
-
-Stack:
-  9 [Top]
-  8
-  2
-  2
-  ...
-
-Non-zero registers:
-  R: 11
-  P: 39
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.62@R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 63
-Coordinates: (7, 2, 0)
-Direction: East
-Next symbol: R
-
-Stack:
-  9 [Top]
-  8
-  2
-  2
-  ...
-
-Non-zero registers:
-  R: 8
-  P: 39
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.62@R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 64
-Coordinates: (8, 2, 0)
+Coordinates: (12, 1, 0)
 Direction: Southeast
-Next symbol: ]
+Next symbol: [
 
-Stack:
-  8 [Top]
-  2
-  2
-  8
+Stack (10):
+  9 [Top]
+  27
+  26
+  24
   ...
 
 Non-zero registers:
   R: 9
-  P: 40
+  P: 28
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629@92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 65
-Coordinates: (8, 2, 0)
-Direction: Southwest
-Next symbol: 2
-
-Stack:
-  8 [Top]
-  2
-  2
-  8
-  ...
-
-Non-zero registers:
-  R: 11
-  P: 40
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629@92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp@)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
-Step count: 66
-Coordinates: (7, 3, 0)
-Direction: Southwest
-Next symbol: 4
-
-Stack:
-  2 [Top]
-  8
-  2
-  2
-  ...
-
-Non-zero registers:
-  R: 11
-  P: 55
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{@6]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 67
-Coordinates: (6, 4, 0)
-Direction: Southwest
-Next symbol: R
-
-Stack:
-  4 [Top]
-  2
-  8
-  2
-  ...
-
-Non-zero registers:
-  R: 11
-  P: 70
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][@43(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 68
-Coordinates: (5, 5, 0)
-Direction: West
-Next symbol: =
-
-Stack:
-  2 [Top]
-  8
-  2
-  2
-  ...
-
-Non-zero registers:
-  R: 4
-  P: 85
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=@={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 69
-Coordinates: (4, 5, 0)
-Direction: North
-Next symbol: ]
-
-Stack:
-  2 [Top]
-  2
-  8
-  8
-  ...
-
-Non-zero registers:
-  R: 6
-  P: 84
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9@R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 70
-Coordinates: (4, 5, 0)
-Direction: East
-Next symbol: R
-
-Stack:
-  2 [Top]
-  2
-  8
-  8
-  ...
-
-Non-zero registers:
-  R: 8
-  P: 84
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9@R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 71
-Coordinates: (5, 5, 0)
-Direction: South
-Next symbol: p
-
-Stack:
-  2 [Top]
-  8
-  8
-  8
-  ...
-
-Non-zero registers:
-  R: 2
-  P: 85
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=@={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 72
-Coordinates: (5, 6, 0)
-Direction: South
-Next symbol: {
-
-Stack:
-  101 [Top]
-  2
-  8
-  8
-  ...
-
-Non-zero registers:
-  R: 2
-  P: 101
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}@87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 73
-Coordinates: (5, 6, 0)
+Step count: 29
+Coordinates: (12, 1, 0)
 Direction: Northeast
-Next symbol: =
+Next symbol: [
 
-Stack:
-  101 [Top]
-  2
-  8
-  8
+Stack (10):
+  9 [Top]
+  27
+  26
+  24
   ...
 
 Non-zero registers:
-  R: -1
-  P: 101
+  R: 7
+  P: 28
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}@87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp@)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
-Step count: 74
-Coordinates: (6, 5, 0)
+Step count: 30
+Coordinates: (12, 1, 0)
 Direction: Northwest
 Next symbol: [
 
-Stack:
-  8 [Top]
-  8
-  8
-  8
-  ...
-
-Non-zero registers:
-  R: -3
-  P: 86
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R@{7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 75
-Coordinates: (6, 5, 0)
-Direction: Southwest
-Next symbol: p
-
-Stack:
-  8 [Top]
-  8
-  8
-  8
-  ...
-
-Non-zero registers:
-  R: -5
-  P: 86
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R@{7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 76
-Coordinates: (5, 6, 0)
-Direction: Southwest
-Next symbol: {
-
-Stack:
-  101 [Top]
-  8
-  8
-  8
-  ...
-
-Non-zero registers:
-  R: -5
-  P: 101
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}@87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 77
-Coordinates: (5, 6, 0)
-Direction: East
-Next symbol: 8
-
-Stack:
-  101 [Top]
-  8
-  8
-  8
-  ...
-
-Non-zero registers:
-  R: -8
-  P: 101
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}@87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 78
-Coordinates: (6, 6, 0)
-Direction: East
-Next symbol: 7
-
-Stack:
-  8 [Top]
-  101
-  8
-  8
-  ...
-
-Non-zero registers:
-  R: -8
-  P: 102
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p@7(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 79
-Coordinates: (7, 6, 0)
-Direction: East
-Next symbol: (
-
-Stack:
-  7 [Top]
-  8
-  101
-  8
-  ...
-
-Non-zero registers:
-  R: -8
-  P: 103
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p8@(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 80
-Coordinates: (7, 6, 0)
-Direction: Northeast
-Next symbol: 7
-
-Stack:
-  7 [Top]
-  8
-  101
-  8
-  ...
-
-Non-zero registers:
-  R: -9
-  P: 103
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p8@(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 81
-Coordinates: (8, 5, 0)
-Direction: Northeast
-Next symbol: (
-
-Stack:
-  7 [Top]
-  7
-  8
-  101
-  ...
-
-Non-zero registers:
-  R: -9
-  P: 88
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={@<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 82
-Coordinates: (8, 5, 0)
-Direction: North
-Next symbol: 3
-
-Stack:
-  7 [Top]
-  7
-  8
-  101
-  ...
-
-Non-zero registers:
-  R: -10
-  P: 88
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={@<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 83
-Coordinates: (8, 4, 0)
-Direction: North
-Next symbol: 6
-
-Stack:
-  3 [Top]
-  7
-  7
-  8
-  ...
-
-Non-zero registers:
-  R: -10
-  P: 72
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][44@(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 84
-Coordinates: (8, 3, 0)
-Direction: North
-Next symbol: R
-
-Stack:
-  6 [Top]
-  3
-  7
-  7
-  ...
-
-Non-zero registers:
-  R: -10
-  P: 56
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{2@]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 85
-Coordinates: (8, 2, 0)
-Direction: North
-Next symbol: 8
-
-Stack:
-  3 [Top]
-  7
-  7
-  8
-  ...
-
-Non-zero registers:
-  R: 6
-  P: 40
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629@92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 86
-Coordinates: (8, 1, 0)
-Direction: North
-Next symbol: (
-
-Stack:
-  8 [Top]
-  3
-  7
-  7
-  ...
-
-Non-zero registers:
-  R: 6
-  P: 24
-
-{.27rp3=(=]{#=8}
-#]=)R8[[@88{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 87
-Coordinates: (8, 1, 0)
-Direction: Northwest
-Next symbol: =
-
-Stack:
-  8 [Top]
-  3
-  7
-  7
+Stack (10):
+  9 [Top]
+  27
+  26
+  24
   ...
 
 Non-zero registers:
   R: 5
-  P: 24
+  P: 28
 
-{.27rp3=(=]{#=8}
-#]=)R8[[@88{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp@)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
-Step count: 88
-Coordinates: (7, 0, 0)
+Step count: 31
+Coordinates: (12, 1, 0)
 Direction: Southwest
-Next symbol: [
+Next symbol: }
 
-Stack:
-  7 [Top]
-  7
-  8
-  101
+Stack (10):
+  9 [Top]
+  27
+  26
+  24
   ...
 
 Non-zero registers:
   R: 3
-  P: 7
+  P: 28
 
-{.27rp3@(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp@)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
-Step count: 89
-Coordinates: (7, 0, 0)
-Direction: Southeast
-Next symbol: 8
+Step count: 32
+Coordinates: (12, 1, 0)
+Direction: North
+Next symbol: R
 
-Stack:
-  7 [Top]
-  7
-  8
-  101
+Stack (10):
+  9 [Top]
+  27
+  26
+  24
   ...
 
 Non-zero registers:
-  R: 1
-  P: 7
+  R: 6
+  P: 28
 
-{.27rp3@(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp@)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
-Step count: 90
-Coordinates: (8, 1, 0)
+Step count: 33
+Coordinates: (12, 0, 0)
 Direction: Southeast
+Next symbol: )
+
+Stack (9):
+  27 [Top]
+  26
+  24
+  6
+  ...
+
+Non-zero registers:
+  R: 9
+  P: 12
+
+}}([R)_6){][@[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 34
+Coordinates: (12, 0, 0)
+Direction: South
 Next symbol: 9
 
-Stack:
-  8 [Top]
-  7
-  7
-  8
+Stack (9):
+  27 [Top]
+  26
+  24
+  6
   ...
 
 Non-zero registers:
-  R: 1
-  P: 24
+  R: 10
+  P: 12
 
-{.27rp3=(=]{#=8}
-#]=)R8[[@88{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][@[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
-Step count: 91
-Coordinates: (9, 2, 0)
-Direction: Southeast
-Next symbol: 2
+Step count: 35
+Coordinates: (12, 1, 0)
+Direction: South
+Next symbol: p
 
-Stack:
+Stack (10):
   9 [Top]
-  8
-  7
-  7
+  27
+  26
+  24
   ...
 
 Non-zero registers:
-  R: 1
-  P: 41
+  R: 10
+  P: 28
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R@2]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 92
-Coordinates: (10, 3, 0)
-Direction: Southeast
-Next symbol: (
-
-Stack:
-  2 [Top]
-  9
-  8
-  7
-  ...
-
-Non-zero registers:
-  R: 1
-  P: 58
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]@284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp@)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
-Step count: 93
-Coordinates: (10, 3, 0)
-Direction: East
-Next symbol: 2
-
-Stack:
-  2 [Top]
-  9
-  8
-  7
-  ...
-
-Non-zero registers:
-  P: 58
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]@284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 94
-Coordinates: (11, 3, 0)
-Direction: East
-Next symbol: 8
-
-Stack:
-  2 [Top]
-  2
-  9
-  8
-  ...
-
-Non-zero registers:
-  P: 59
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2@84=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 95
-Coordinates: (12, 3, 0)
-Direction: East
-Next symbol: 4
-
-Stack:
-  8 [Top]
-  2
-  2
-  9
-  ...
-
-Non-zero registers:
-  P: 60
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]22@4=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 96
-Coordinates: (13, 3, 0)
-Direction: East
+Step count: 36
+Coordinates: (12, 2, 0)
+Direction: South
 Next symbol: =
 
-Stack:
-  4 [Top]
-  8
-  2
-  2
+Stack (11):
+  44 [Top]
+  9
+  27
+  26
   ...
 
 Non-zero registers:
-  P: 61
+  R: 10
+  P: 44
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]228@=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}@[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
-Step count: 97
+Step count: 37
+Coordinates: (12, 3, 0)
+Direction: East
+Next symbol: 6
+
+Stack (9):
+  27 [Top]
+  26
+  24
+  6
+  ...
+
+Non-zero registers:
+  R: 8
+  P: 60
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9@67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 38
+Coordinates: (13, 3, 0)
+Direction: East
+Next symbol: 7
+
+Stack (10):
+  6 [Top]
+  27
+  26
+  24
+  ...
+
+Non-zero registers:
+  R: 8
+  P: 61
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=@7[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 39
+Coordinates: (14, 3, 0)
+Direction: East
+Next symbol: [
+
+Stack (11):
+  7 [Top]
+  6
+  27
+  26
+  ...
+
+Non-zero registers:
+  R: 8
+  P: 62
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=6@[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 40
+Coordinates: (14, 3, 0)
+Direction: North
+Next symbol: 2
+
+Stack (11):
+  7 [Top]
+  6
+  27
+  26
+  ...
+
+Non-zero registers:
+  R: 6
+  P: 62
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=6@[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 41
+Coordinates: (14, 2, 0)
+Direction: North
+Next symbol: R
+
+Stack (12):
+  2 [Top]
+  7
+  6
+  27
+  ...
+
+Non-zero registers:
+  R: 6
+  P: 46
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[@}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 42
+Coordinates: (14, 1, 0)
+Direction: South
+Next symbol: 2
+
+Stack (11):
+  7 [Top]
+  6
+  27
+  26
+  ...
+
+Non-zero registers:
+  R: 2
+  P: 30
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)@)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 43
+Coordinates: (14, 2, 0)
+Direction: South
+Next symbol: 7
+
+Stack (12):
+  2 [Top]
+  7
+  6
+  27
+  ...
+
+Non-zero registers:
+  R: 2
+  P: 46
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[@}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 44
 Coordinates: (14, 3, 0)
 Direction: South
-Next symbol: 5
+Next symbol: 6
 
-Stack:
-  2 [Top]
+Stack (13):
+  7 [Top]
   2
-  9
-  8
+  7
+  6
   ...
 
 Non-zero registers:
   R: 2
   P: 62
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284@#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=6@[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
-Step count: 98
+Step count: 45
 Coordinates: (14, 4, 0)
 Direction: South
-Next symbol: r
+Next symbol: }
 
-Stack:
-  5 [Top]
+Stack (14):
+  6 [Top]
+  7
   2
-  2
-  9
+  7
   ...
 
 Non-zero registers:
   R: 2
   P: 78
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][@#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]@#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
-Step count: 99
-Coordinates: (14, 5, 0)
-Direction: South
-Next symbol: 8
-
-Stack:
-  2 [Top]
-  5
-  2
-  2
-  ...
-
-Non-zero registers:
-  R: 2
-  P: 94
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72@{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 100
-Coordinates: (14, 6, 0)
-Direction: South
-Next symbol: [
-
-Stack:
-  8 [Top]
-  2
-  5
-  2
-  ...
-
-Non-zero registers:
-  R: 2
-  P: 110
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]6@)
-#_(_{{##]((}##[[
-
----
-
-Step count: 101
-Coordinates: (14, 6, 0)
-Direction: East
-Next symbol: )
-
-Stack:
-  8 [Top]
-  2
-  5
-  2
-  ...
-
-Non-zero registers:
-  P: 110
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]6@)
-#_(_{{##]((}##[[
-
----
-
-Step count: 102
-Coordinates: (14, 6, 0)
-Direction: Southeast
-Next symbol: [
-
-Stack:
-  8 [Top]
-  2
-  5
-  2
-  ...
-
-Non-zero registers:
-  R: 1
-  P: 110
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]6@)
-#_(_{{##]((}##[[
-
----
-
-Step count: 103
-Coordinates: (14, 6, 0)
-Direction: Northeast
-Next symbol: {
-
-Stack:
-  8 [Top]
-  2
-  5
-  2
-  ...
-
-Non-zero registers:
-  R: -1
-  P: 110
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]6@)
-#_(_{{##]((}##[[
-
----
-
-Step count: 104
-Coordinates: (14, 6, 0)
-Direction: West
+Step count: 46
+Coordinates: (14, 4, 0)
+Direction: Northwest
 Next symbol: 6
 
-Stack:
-  8 [Top]
-  2
-  5
-  2
-  ...
-
-Non-zero registers:
-  R: -4
-  P: 110
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]6@)
-#_(_{{##]((}##[[
-
----
-
-Step count: 105
-Coordinates: (13, 6, 0)
-Direction: West
-Next symbol: ]
-
-Stack:
+Stack (14):
   6 [Top]
-  8
-  2
-  5
-  ...
-
-Non-zero registers:
-  R: -4
-  P: 109
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]@8)
-#_(_{{##]((}##[[
-
----
-
-Step count: 106
-Coordinates: (13, 6, 0)
-Direction: North
-Next symbol: 2
-
-Stack:
-  6 [Top]
-  8
-  2
-  5
-  ...
-
-Non-zero registers:
-  R: -2
-  P: 109
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]@8)
-#_(_{{##]((}##[[
-
----
-
-Step count: 107
-Coordinates: (13, 5, 0)
-Direction: North
-Next symbol: [
-
-Stack:
-  2 [Top]
-  6
-  8
-  2
-  ...
-
-Non-zero registers:
-  R: -2
-  P: 93
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P7@r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 108
-Coordinates: (13, 5, 0)
-Direction: West
-Next symbol: 7
-
-Stack:
-  2 [Top]
-  6
-  8
-  2
-  ...
-
-Non-zero registers:
-  R: -4
-  P: 93
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P7@r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 109
-Coordinates: (12, 5, 0)
-Direction: West
-Next symbol: P
-
-Stack:
-  7 [Top]
-  2
-  6
-  8
-  ...
-
-Non-zero registers:
-  R: -4
-  P: 92
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P@2r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 110
-Coordinates: (7, 0, 0)
-Direction: West
-Next symbol: 3
-
-Stack:
-  2 [Top]
-  6
-  8
-  2
-  ...
-
-Non-zero registers:
-  R: -4
-  P: 7
-
-{.27rp3@(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 111
-Coordinates: (6, 0, 0)
-Direction: West
-Next symbol: p
-
-Stack:
-  3 [Top]
-  2
-  6
-  8
-  ...
-
-Non-zero registers:
-  R: -4
-  P: 6
-
-{.27rp@=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 112
-Coordinates: (5, 0, 0)
-Direction: West
-Next symbol: r
-
-Stack:
-  5 [Top]
-  3
-  2
-  6
-  ...
-
-Non-zero registers:
-  R: -4
-  P: 5
-
-{.27r@3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 113
-Coordinates: (4, 0, 0)
-Direction: West
-Next symbol: 7
-
-Stack:
-  -4 [Top]
-  5
-  3
-  2
-  ...
-
-Non-zero registers:
-  R: -4
-  P: 4
-
-{.27@p3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 114
-Coordinates: (3, 0, 0)
-Direction: West
-Next symbol: 2
-
-Stack:
-  7 [Top]
-  -4
-  5
-  3
-  ...
-
-Non-zero registers:
-  R: -4
-  P: 3
-
-{.2@rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 115
-Coordinates: (2, 0, 0)
-Direction: West
-Next symbol: .
-
-Stack:
-  2 [Top]
   7
-  -4
-  5
-  ...
-
-Non-zero registers:
-  R: -4
-  P: 2
-
-{.@7rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 116
-Coordinates: (1, 0, 0)
-Direction: West
-Next symbol: {
-
-Stack:
-  2 [Top]
+  2
   7
-  -4
-  5
-  ...
-
-Non-zero registers:
-  R: -4
-  P: 1
-
-{@27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 117
-Coordinates: (1, 0, 0)
-Direction: Southeast
-Next symbol: =
-
-Stack:
-  2 [Top]
-  7
-  -4
-  5
-  ...
-
-Non-zero registers:
-  R: -7
-  P: 1
-
-{@27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 118
-Coordinates: (2, 1, 0)
-Direction: Southwest
-Next symbol: R
-
-Stack:
-  -4 [Top]
-  5
-  3
-  2
-  ...
-
-Non-zero registers:
-  R: -5
-  P: 18
-
-{.27rp3=(=]{#=8}
-#]@)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 119
-Coordinates: (1, 2, 0)
-Direction: West
-Next symbol: (
-
-Stack:
-  5 [Top]
-  3
-  2
-  6
-  ...
-
-Non-zero registers:
-  R: -4
-  P: 33
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(@R}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 120
-Coordinates: (1, 2, 0)
-Direction: Southwest
-Next symbol: (
-
-Stack:
-  5 [Top]
-  3
-  2
-  6
-  ...
-
-Non-zero registers:
-  R: -5
-  P: 33
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(@R}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 121
-Coordinates: (1, 2, 0)
-Direction: South
-Next symbol: [
-
-Stack:
-  5 [Top]
-  3
-  2
-  6
-  ...
-
-Non-zero registers:
-  R: -6
-  P: 33
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(@R}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 122
-Coordinates: (1, 2, 0)
-Direction: East
-Next symbol: R
-
-Stack:
-  5 [Top]
-  3
-  2
-  6
-  ...
-
-Non-zero registers:
-  R: -8
-  P: 33
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(@R}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 123
-Coordinates: (2, 2, 0)
-Direction: Northwest
-Next symbol: ]
-
-Stack:
-  3 [Top]
-  2
-  6
-  8
   ...
 
 Non-zero registers:
   R: 5
+  P: 78
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]@#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 47
+Coordinates: (13, 3, 0)
+Direction: Northwest
+Next symbol: p
+
+Stack (15):
+  6 [Top]
+  6
+  7
+  2
+  ...
+
+Non-zero registers:
+  R: 5
+  P: 61
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=@7[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 48
+Coordinates: (12, 2, 0)
+Direction: Northwest
+Next symbol: p
+
+Stack (16):
+  44 [Top]
+  6
+  6
+  7
+  ...
+
+Non-zero registers:
+  R: 5
+  P: 44
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}@[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 49
+Coordinates: (11, 1, 0)
+Direction: Northwest
+Next symbol: ]
+
+Stack (17):
+  27 [Top]
+  44
+  6
+  6
+  ...
+
+Non-zero registers:
+  R: 5
+  P: 27
+
+}}([R)_6){][R[##
+2r}92R6pp.p@9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 50
+Coordinates: (11, 1, 0)
+Direction: Northeast
+Next symbol: R
+
+Stack (17):
+  27 [Top]
+  44
+  6
+  6
+  ...
+
+Non-zero registers:
+  R: 7
+  P: 27
+
+}}([R)_6){][R[##
+2r}92R6pp.p@9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 51
+Coordinates: (12, 0, 0)
+Direction: Southwest
+Next symbol: p
+
+Stack (16):
+  44 [Top]
+  6
+  6
+  7
+  ...
+
+Non-zero registers:
+  R: 27
+  P: 12
+
+}}([R)_6){][@[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 52
+Coordinates: (11, 1, 0)
+Direction: Southwest
+Next symbol: :
+
+Stack (17):
+  27 [Top]
+  44
+  6
+  6
+  ...
+
+Non-zero registers:
+  R: 27
+  P: 27
+
+}}([R)_6){][R[##
+2r}92R6pp.p@9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 53
+Coordinates: (10, 2, 0)
+Direction: Southwest
+Next symbol: 2
+
+Stack (17):
+  44 [Top]
+  27
+  6
+  6
+  ...
+
+Non-zero registers:
+  R: 27
+  P: 42
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]@}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 54
+Coordinates: (9, 3, 0)
+Direction: Southwest
+Next symbol: 4
+
+Stack (18):
+  2 [Top]
+  44
+  27
+  6
+  ...
+
+Non-zero registers:
+  R: 27
+  P: 57
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p@[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 55
+Coordinates: (8, 4, 0)
+Direction: Southwest
+Next symbol: )
+
+Stack (19):
+  4 [Top]
+  2
+  44
+  27
+  ...
+
+Non-zero registers:
+  R: 27
+  P: 72
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=@R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 56
+Coordinates: (8, 4, 0)
+Direction: West
+Next symbol: =
+
+Stack (19):
+  4 [Top]
+  2
+  44
+  27
+  ...
+
+Non-zero registers:
+  R: 28
+  P: 72
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=@R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 57
+Coordinates: (7, 4, 0)
+Direction: South
+Next symbol: )
+
+Stack (17):
+  44 [Top]
+  27
+  6
+  6
+  ...
+
+Non-zero registers:
+  R: 26
+  P: 71
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)@4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 58
+Coordinates: (7, 4, 0)
+Direction: Southwest
+Next symbol: :
+
+Stack (17):
+  44 [Top]
+  27
+  6
+  6
+  ...
+
+Non-zero registers:
+  R: 27
+  P: 71
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)@4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 59
+Coordinates: (6, 5, 0)
+Direction: Southwest
+Next symbol: ]
+
+Stack (17):
+  27 [Top]
+  44
+  6
+  6
+  ...
+
+Non-zero registers:
+  R: 27
+  P: 86
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(:@)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 60
+Coordinates: (6, 5, 0)
+Direction: Northwest
+Next symbol: :
+
+Stack (17):
+  27 [Top]
+  44
+  6
+  6
+  ...
+
+Non-zero registers:
+  R: 29
+  P: 86
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(:@)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 61
+Coordinates: (5, 4, 0)
+Direction: Northwest
+Next symbol: 2
+
+Stack (17):
+  44 [Top]
+  27
+  6
+  6
+  ...
+
+Non-zero registers:
+  R: 29
+  P: 69
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr@)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 62
+Coordinates: (4, 3, 0)
+Direction: Northwest
+Next symbol: :
+
+Stack (18):
+  2 [Top]
+  44
+  27
+  6
+  ...
+
+Non-zero registers:
+  R: 29
+  P: 52
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)@8{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 63
+Coordinates: (3, 2, 0)
+Direction: Northwest
+Next symbol: }
+
+Stack (18):
+  44 [Top]
+  2
+  27
+  6
+  ...
+
+Non-zero registers:
+  R: 29
+  P: 35
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr@6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 64
+Coordinates: (3, 2, 0)
+Direction: East
+Next symbol: 6
+
+Stack (18):
+  44 [Top]
+  2
+  27
+  6
+  ...
+
+Non-zero registers:
+  R: 32
+  P: 35
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr@6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 65
+Coordinates: (4, 2, 0)
+Direction: East
+Next symbol: =
+
+Stack (19):
+  6 [Top]
+  44
+  2
+  27
+  ...
+
+Non-zero registers:
+  R: 32
+  P: 36
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:@=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 66
+Coordinates: (5, 2, 0)
+Direction: South
+Next symbol: 8
+
+Stack (17):
+  2 [Top]
+  27
+  6
+  6
+  ...
+
+Non-zero registers:
+  R: 34
+  P: 37
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6@39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 67
+Coordinates: (5, 3, 0)
+Direction: South
+Next symbol: :
+
+Stack (18):
+  8 [Top]
+  2
+  27
+  6
+  ...
+
+Non-zero registers:
+  R: 34
+  P: 53
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)2@{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 68
+Coordinates: (5, 4, 0)
+Direction: South
+Next symbol: :
+
+Stack (18):
+  2 [Top]
+  8
+  27
+  6
+  ...
+
+Non-zero registers:
+  R: 34
+  P: 69
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr@)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 69
+Coordinates: (5, 5, 0)
+Direction: South
+Next symbol: ]
+
+Stack (18):
+  8 [Top]
+  2
+  27
+  6
+  ...
+
+Non-zero registers:
+  R: 34
+  P: 85
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(@:)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 70
+Coordinates: (5, 5, 0)
+Direction: West
+Next symbol: (
+
+Stack (18):
+  8 [Top]
+  2
+  27
+  6
+  ...
+
+Non-zero registers:
+  R: 36
+  P: 85
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(@:)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 71
+Coordinates: (5, 5, 0)
+Direction: Southwest
+Next symbol: :
+
+Stack (18):
+  8 [Top]
+  2
+  27
+  6
+  ...
+
+Non-zero registers:
+  R: 35
+  P: 85
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(@:)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 72
+Coordinates: (4, 6, 0)
+Direction: Southwest
+Next symbol: (
+
+Stack (18):
+  2 [Top]
+  8
+  27
+  6
+  ...
+
+Non-zero registers:
+  R: 35
+  P: 100
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=@]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 73
+Coordinates: (4, 6, 0)
+Direction: South
+Next symbol: ]
+
+Stack (18):
+  2 [Top]
+  8
+  27
+  6
+  ...
+
+Non-zero registers:
+  R: 34
+  P: 100
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=@]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 74
+Coordinates: (4, 6, 0)
+Direction: West
+Next symbol: =
+
+Stack (18):
+  2 [Top]
+  8
+  27
+  6
+  ...
+
+Non-zero registers:
+  R: 36
+  P: 100
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=@]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 75
+Coordinates: (3, 6, 0)
+Direction: North
+Next symbol: 5
+
+Stack (16):
+  27 [Top]
+  6
+  6
+  7
+  ...
+
+Non-zero registers:
+  R: 38
+  P: 99
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#@:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 76
+Coordinates: (3, 5, 0)
+Direction: North
+Next symbol: p
+
+Stack (17):
+  5 [Top]
+  27
+  6
+  6
+  ...
+
+Non-zero registers:
+  R: 38
+  P: 83
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#@(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 77
+Coordinates: (3, 4, 0)
+Direction: North
+Next symbol: )
+
+Stack (18):
+  67 [Top]
+  5
+  27
+  6
+  ...
+
+Non-zero registers:
+  R: 38
+  P: 67
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#@r:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 78
+Coordinates: (3, 4, 0)
+Direction: Northeast
+Next symbol: 2
+
+Stack (18):
+  67 [Top]
+  5
+  27
+  6
+  ...
+
+Non-zero registers:
+  R: 39
+  P: 67
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#@r:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 79
+Coordinates: (4, 3, 0)
+Direction: Northeast
+Next symbol: =
+
+Stack (19):
+  2 [Top]
+  67
+  5
+  27
+  ...
+
+Non-zero registers:
+  R: 39
+  P: 52
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)@8{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 80
+Coordinates: (5, 2, 0)
+Direction: Southeast
+Next symbol: {
+
+Stack (17):
+  5 [Top]
+  27
+  6
+  6
+  ...
+
+Non-zero registers:
+  R: 41
+  P: 37
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6@39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 81
+Coordinates: (5, 2, 0)
+Direction: North
+Next symbol: R
+
+Stack (17):
+  5 [Top]
+  27
+  6
+  6
+  ...
+
+Non-zero registers:
+  R: 38
+  P: 37
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6@39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 82
+Coordinates: (5, 1, 0)
+Direction: Northwest
+Next symbol: R
+
+Stack (16):
+  27 [Top]
+  6
+  6
+  7
+  ...
+
+Non-zero registers:
+  R: 5
+  P: 21
+
+}}([R)_6){][R[##
+2r}92@6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 83
+Coordinates: (4, 0, 0)
+Direction: Southwest
+Next symbol: 9
+
+Stack (15):
+  6 [Top]
+  6
+  7
+  2
+  ...
+
+Non-zero registers:
+  R: 27
+  P: 4
+
+}}([@)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 84
+Coordinates: (3, 1, 0)
+Direction: Southwest
+Next symbol: r
+
+Stack (16):
+  9 [Top]
+  6
+  6
+  7
+  ...
+
+Non-zero registers:
+  R: 27
+  P: 19
+
+}}([R)_6){][R[##
+2r}@2R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 85
+Coordinates: (2, 2, 0)
+Direction: Southwest
+Next symbol: 8
+
+Stack (17):
+  27 [Top]
+  9
+  6
+  6
+  ...
+
+Non-zero registers:
+  R: 27
   P: 34
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(R@}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=R@:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 86
+Coordinates: (1, 3, 0)
+Direction: Southwest
+Next symbol: {
+
+Stack (18):
+  8 [Top]
+  27
+  9
+  6
+  ...
+
+Non-zero registers:
+  R: 27
+  P: 49
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#@{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 87
+Coordinates: (1, 3, 0)
+Direction: East
+Next symbol: {
+
+Stack (18):
+  8 [Top]
+  27
+  9
+  6
+  ...
+
+Non-zero registers:
+  R: 24
+  P: 49
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#@{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 88
+Coordinates: (1, 3, 0)
+Direction: Northwest
+Next symbol: =
+
+Stack (18):
+  8 [Top]
+  27
+  9
+  6
+  ...
+
+Non-zero registers:
+  R: 21
+  P: 49
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#@{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 89
+Coordinates: (0, 2, 0)
+Direction: Northeast
+Next symbol: r
+
+Stack (16):
+  9 [Top]
+  6
+  6
+  7
+  ...
+
+Non-zero registers:
+  R: 23
+  P: 32
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+@Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 90
+Coordinates: (1, 1, 0)
+Direction: Northeast
+Next symbol: (
+
+Stack (17):
+  23 [Top]
+  9
+  6
+  6
+  ...
+
+Non-zero registers:
+  R: 23
+  P: 17
+
+}}([R)_6){][R[##
+2@}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 91
+Coordinates: (1, 1, 0)
+Direction: North
+Next symbol: }
+
+Stack (17):
+  23 [Top]
+  9
+  6
+  6
+  ...
+
+Non-zero registers:
+  R: 22
+  P: 17
+
+}}([R)_6){][R[##
+2@}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 92
+Coordinates: (1, 1, 0)
+Direction: Southeast
+Next symbol: r
+
+Stack (17):
+  23 [Top]
+  9
+  6
+  6
+  ...
+
+Non-zero registers:
+  R: 25
+  P: 17
+
+}}([R)_6){][R[##
+2@}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 93
+Coordinates: (2, 2, 0)
+Direction: Southeast
+Next symbol: )
+
+Stack (18):
+  25 [Top]
+  23
+  9
+  6
+  ...
+
+Non-zero registers:
+  R: 25
+  P: 34
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=R@:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 94
+Coordinates: (2, 2, 0)
+Direction: South
+Next symbol: {
+
+Stack (18):
+  25 [Top]
+  23
+  9
+  6
+  ...
+
+Non-zero registers:
+  R: 26
+  P: 34
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=R@:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 95
+Coordinates: (2, 2, 0)
+Direction: Northeast
+Next symbol: 9
+
+Stack (18):
+  25 [Top]
+  23
+  9
+  6
+  ...
+
+Non-zero registers:
+  R: 23
+  P: 34
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=R@:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 96
+Coordinates: (3, 1, 0)
+Direction: Northeast
+Next symbol: R
+
+Stack (19):
+  9 [Top]
+  25
+  23
+  9
+  ...
+
+Non-zero registers:
+  R: 23
+  P: 19
+
+}}([R)_6){][R[##
+2r}@2R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 97
+Coordinates: (4, 0, 0)
+Direction: Southeast
+Next symbol: R
+
+Stack (18):
+  25 [Top]
+  23
+  9
+  6
+  ...
+
+Non-zero registers:
+  R: 9
+  P: 4
+
+}}([@)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 98
+Coordinates: (5, 1, 0)
+Direction: Southeast
+Next symbol: 3
+
+Stack (17):
+  23 [Top]
+  9
+  6
+  6
+  ...
+
+Non-zero registers:
+  R: 25
+  P: 21
+
+}}([R)_6){][R[##
+2r}92@6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 99
+Coordinates: (6, 2, 0)
+Direction: Southeast
+Next symbol: 5
+
+Stack (18):
+  3 [Top]
+  23
+  9
+  6
+  ...
+
+Non-zero registers:
+  R: 25
+  P: 38
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=@9)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 100
+Coordinates: (7, 3, 0)
+Direction: Southeast
+Next symbol: 4
+
+Stack (19):
+  5 [Top]
+  3
+  23
+  9
+  ...
+
+Non-zero registers:
+  R: 25
+  P: 55
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{@p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 101
+Coordinates: (8, 4, 0)
+Direction: Southeast
+Next symbol: 8
+
+Stack (20):
+  4 [Top]
+  5
+  3
+  23
+  ...
+
+Non-zero registers:
+  R: 25
+  P: 72
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=@R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 102
+Coordinates: (9, 5, 0)
+Direction: Southeast
+Next symbol: 3
+
+Stack (21):
+  8 [Top]
+  4
+  5
+  3
+  ...
+
+Non-zero registers:
+  R: 25
+  P: 89
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8@92<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 103
+Coordinates: (10, 6, 0)
+Direction: Southeast
+Next symbol: [
+
+Stack (22):
+  3 [Top]
+  8
+  4
+  5
+  ...
+
+Non-zero registers:
+  R: 25
+  P: 106
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R4@:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 104
+Coordinates: (10, 6, 0)
+Direction: Northeast
+Next symbol: 2
+
+Stack (22):
+  3 [Top]
+  8
+  4
+  5
+  ...
+
+Non-zero registers:
+  R: 23
+  P: 106
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R4@:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 105
+Coordinates: (11, 5, 0)
+Direction: Northeast
+Next symbol: 8
+
+Stack (23):
+  2 [Top]
+  3
+  8
+  4
+  ...
+
+Non-zero registers:
+  R: 23
+  P: 91
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)889@<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 106
+Coordinates: (12, 4, 0)
+Direction: Northeast
+Next symbol: 6
+
+Stack (24):
+  8 [Top]
+  2
+  3
+  8
+  ...
+
+Non-zero registers:
+  R: 23
+  P: 76
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R93@]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 107
+Coordinates: (13, 3, 0)
+Direction: Northeast
+Next symbol: 2
+
+Stack (25):
+  6 [Top]
+  8
+  2
+  3
+  ...
+
+Non-zero registers:
+  R: 23
+  P: 61
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=@7[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 108
+Coordinates: (14, 2, 0)
+Direction: Northeast
+Next symbol: )
+
+Stack (26):
+  2 [Top]
+  6
+  8
+  2
+  ...
+
+Non-zero registers:
+  R: 23
+  P: 46
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[@}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 109
+Coordinates: (14, 2, 0)
+Direction: East
+Next symbol: }
+
+Stack (26):
+  2 [Top]
+  6
+  8
+  2
+  ...
+
+Non-zero registers:
+  R: 24
+  P: 46
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[@}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 110
+Coordinates: (14, 2, 0)
+Direction: Southwest
+Next symbol: 6
+
+Stack (26):
+  2 [Top]
+  6
+  8
+  2
+  ...
+
+Non-zero registers:
+  R: 27
+  P: 46
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[@}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 111
+Coordinates: (13, 3, 0)
+Direction: Southwest
+Next symbol: 8
+
+Stack (27):
+  6 [Top]
+  2
+  6
+  8
+  ...
+
+Non-zero registers:
+  R: 27
+  P: 61
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=@7[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 112
+Coordinates: (12, 4, 0)
+Direction: Southwest
+Next symbol: 2
+
+Stack (28):
+  8 [Top]
+  6
+  2
+  6
+  ...
+
+Non-zero registers:
+  R: 27
+  P: 76
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R93@]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 113
+Coordinates: (11, 5, 0)
+Direction: Southwest
+Next symbol: 3
+
+Stack (29):
+  2 [Top]
+  8
+  6
+  2
+  ...
+
+Non-zero registers:
+  R: 27
+  P: 91
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)889@<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 114
+Coordinates: (10, 6, 0)
+Direction: Southwest
+Next symbol: ]
+
+Stack (30):
+  3 [Top]
+  2
+  8
+  6
+  ...
+
+Non-zero registers:
+  R: 27
+  P: 106
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R4@:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 115
+Coordinates: (10, 6, 0)
+Direction: Northwest
+Next symbol: 8
+
+Stack (30):
+  3 [Top]
+  2
+  8
+  6
+  ...
+
+Non-zero registers:
+  R: 29
+  P: 106
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R4@:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 116
+Coordinates: (9, 5, 0)
+Direction: Northwest
+Next symbol: 4
+
+Stack (31):
+  8 [Top]
+  3
+  2
+  8
+  ...
+
+Non-zero registers:
+  R: 29
+  P: 89
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8@92<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 117
+Coordinates: (8, 4, 0)
+Direction: Northwest
+Next symbol: 5
+
+Stack (32):
+  4 [Top]
+  8
+  3
+  2
+  ...
+
+Non-zero registers:
+  R: 29
+  P: 72
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=@R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 118
+Coordinates: (7, 3, 0)
+Direction: Northwest
+Next symbol: 3
+
+Stack (33):
+  5 [Top]
+  4
+  8
+  3
+  ...
+
+Non-zero registers:
+  R: 29
+  P: 55
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{@p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 119
+Coordinates: (6, 2, 0)
+Direction: Northwest
+Next symbol: R
+
+Stack (34):
+  3 [Top]
+  5
+  4
+  8
+  ...
+
+Non-zero registers:
+  R: 29
+  P: 38
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=@9)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 120
+Coordinates: (5, 1, 0)
+Direction: Southwest
+Next symbol: 6
+
+Stack (33):
+  5 [Top]
+  4
+  8
+  3
+  ...
+
+Non-zero registers:
+  R: 3
+  P: 21
+
+}}([R)_6){][R[##
+2r}92@6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 121
+Coordinates: (4, 2, 0)
+Direction: Southwest
+Next symbol: )
+
+Stack (34):
+  6 [Top]
+  5
+  4
+  8
+  ...
+
+Non-zero registers:
+  R: 3
+  P: 36
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:@=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 122
+Coordinates: (4, 2, 0)
+Direction: West
+Next symbol: :
+
+Stack (34):
+  6 [Top]
+  5
+  4
+  8
+  ...
+
+Non-zero registers:
+  R: 4
+  P: 36
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:@=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 123
+Coordinates: (3, 2, 0)
+Direction: West
+Next symbol: r
+
+Stack (34):
+  5 [Top]
+  6
+  4
+  8
+  ...
+
+Non-zero registers:
+  R: 4
+  P: 35
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr@6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 124
 Coordinates: (2, 2, 0)
-Direction: Northeast
-Next symbol: )
+Direction: West
+Next symbol: R
 
-Stack:
-  3 [Top]
-  2
+Stack (35):
+  4 [Top]
+  5
   6
-  8
+  4
   ...
 
 Non-zero registers:
-  R: 7
+  R: 4
   P: 34
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(R@}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=R@:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 125
-Coordinates: (2, 2, 0)
-Direction: East
-Next symbol: }
+Coordinates: (1, 2, 0)
+Direction: West
+Next symbol: =
 
-Stack:
-  3 [Top]
-  2
+Stack (34):
+  5 [Top]
   6
+  4
   8
   ...
 
 Non-zero registers:
-  R: 8
-  P: 34
+  R: 4
+  P: 33
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(R@}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=@r:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 126
-Coordinates: (2, 2, 0)
-Direction: Southwest
-Next symbol: [
+Coordinates: (0, 2, 0)
+Direction: North
+Next symbol: 2
 
-Stack:
-  3 [Top]
-  2
-  6
+Stack (32):
+  4 [Top]
   8
+  3
+  2
   ...
 
 Non-zero registers:
-  R: 11
-  P: 34
+  R: 6
+  P: 32
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(R@}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+@Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 127
-Coordinates: (2, 2, 0)
-Direction: Southeast
-Next symbol: 3
+Coordinates: (0, 1, 0)
+Direction: North
+Next symbol: }
 
-Stack:
-  3 [Top]
-  2
-  6
+Stack (33):
+  2 [Top]
+  4
   8
+  3
   ...
 
 Non-zero registers:
-  R: 9
-  P: 34
+  R: 6
+  P: 16
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(R@}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+@r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 128
-Coordinates: (3, 3, 0)
+Coordinates: (0, 1, 0)
 Direction: Southeast
-Next symbol: ]
+Next symbol: R
 
-Stack:
-  3 [Top]
+Stack (33):
+  2 [Top]
+  4
+  8
   3
-  2
-  6
   ...
 
 Non-zero registers:
   R: 9
-  P: 51
+  P: 16
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([3@=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+@r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 129
-Coordinates: (3, 3, 0)
-Direction: Southwest
-Next symbol: =
+Coordinates: (1, 2, 0)
+Direction: South
+Next symbol: 8
 
-Stack:
-  3 [Top]
+Stack (32):
+  4 [Top]
+  8
   3
   2
-  6
   ...
 
 Non-zero registers:
-  R: 11
-  P: 51
+  R: 2
+  P: 33
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([3@=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=@r:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 130
-Coordinates: (2, 4, 0)
-Direction: Southwest
-Next symbol: 7
+Coordinates: (1, 3, 0)
+Direction: South
+Next symbol: 4
 
-Stack:
-  2 [Top]
-  6
+Stack (33):
+  8 [Top]
+  4
   8
-  2
+  3
   ...
 
 Non-zero registers:
-  R: 11
-  P: 66
+  R: 2
+  P: 49
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2@[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#@{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 131
-Coordinates: (1, 5, 0)
-Direction: Southwest
-Next symbol: {
+Coordinates: (1, 4, 0)
+Direction: South
+Next symbol: 3
 
-Stack:
-  7 [Top]
-  2
-  6
+Stack (34):
+  4 [Top]
+  8
+  4
   8
   ...
 
 Non-zero registers:
-  R: 11
-  P: 81
+  R: 2
+  P: 65
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]@p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{@#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 132
 Coordinates: (1, 5, 0)
-Direction: East
-Next symbol: p
+Direction: South
+Next symbol: R
 
-Stack:
-  7 [Top]
-  2
-  6
+Stack (35):
+  3 [Top]
+  4
   8
+  4
   ...
 
 Non-zero registers:
-  R: 8
+  R: 2
   P: 81
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]@p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#@#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 133
-Coordinates: (2, 5, 0)
-Direction: East
-Next symbol: 9
+Coordinates: (1, 6, 0)
+Direction: Southwest
+Next symbol: [
 
-Stack:
-  82 [Top]
-  7
-  2
-  6
+Stack (34):
+  4 [Top]
+  8
+  4
+  8
   ...
 
 Non-zero registers:
-  R: 8
-  P: 82
+  R: 3
+  P: 97
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7@9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_@#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 134
-Coordinates: (3, 5, 0)
-Direction: East
-Next symbol: =
+Coordinates: (1, 6, 0)
+Direction: Southeast
+Next symbol: }
 
-Stack:
-  9 [Top]
-  82
-  7
-  2
+Stack (34):
+  4 [Top]
+  8
+  4
+  8
   ...
 
 Non-zero registers:
-  R: 8
-  P: 83
+  R: 1
+  P: 97
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p@=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_@#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 135
-Coordinates: (4, 5, 0)
-Direction: South
-Next symbol: }
+Coordinates: (1, 6, 0)
+Direction: West
+Next symbol: _
 
-Stack:
-  7 [Top]
-  2
-  6
+Stack (34):
+  4 [Top]
+  8
+  4
   8
   ...
 
 Non-zero registers:
-  R: 10
-  P: 84
+  R: 4
+  P: 97
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9@R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_@#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 136
-Coordinates: (4, 5, 0)
-Direction: Northwest
+Coordinates: (4, 0, 0)
+Direction: West
 Next symbol: [
 
-Stack:
-  7 [Top]
-  2
-  6
+Stack (34):
+  96 [Top]
+  8
+  4
   8
   ...
 
 Non-zero registers:
-  R: 13
-  P: 84
+  R: 4
+  P: 4
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9@R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([@)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 137
-Coordinates: (4, 5, 0)
-Direction: Southwest
-Next symbol: =
+Coordinates: (4, 0, 0)
+Direction: South
+Next symbol: 2
 
-Stack:
-  7 [Top]
-  2
-  6
+Stack (34):
+  96 [Top]
+  8
+  4
   8
   ...
 
 Non-zero registers:
-  R: 11
-  P: 84
+  R: 2
+  P: 4
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9@R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([@)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 138
-Coordinates: (3, 6, 0)
-Direction: Southeast
-Next symbol: {
-
-Stack:
-  6 [Top]
-  8
-  2
-  5
-  ...
-
-Non-zero registers:
-  R: 9
-  P: 99
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54@}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 139
-Coordinates: (3, 6, 0)
-Direction: North
-Next symbol: 9
-
-Stack:
-  6 [Top]
-  8
-  2
-  5
-  ...
-
-Non-zero registers:
-  R: 6
-  P: 99
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54@}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 140
-Coordinates: (3, 5, 0)
-Direction: North
-Next symbol: [
-
-Stack:
-  9 [Top]
-  6
-  8
-  2
-  ...
-
-Non-zero registers:
-  R: 6
-  P: 83
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p@=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 141
-Coordinates: (3, 5, 0)
-Direction: West
-Next symbol: p
-
-Stack:
-  9 [Top]
-  6
-  8
-  2
-  ...
-
-Non-zero registers:
-  R: 4
-  P: 83
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p@=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 142
-Coordinates: (2, 5, 0)
-Direction: West
-Next symbol: 7
-
-Stack:
-  82 [Top]
-  9
-  6
-  8
-  ...
-
-Non-zero registers:
-  R: 4
-  P: 82
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7@9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 143
-Coordinates: (1, 5, 0)
-Direction: West
-Next symbol: ]
-
-Stack:
-  7 [Top]
-  82
-  9
-  6
-  ...
-
-Non-zero registers:
-  R: 4
-  P: 81
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]@p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 144
-Coordinates: (1, 5, 0)
-Direction: North
-Next symbol: 2
-
-Stack:
-  7 [Top]
-  82
-  9
-  6
-  ...
-
-Non-zero registers:
-  R: 6
-  P: 81
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]@p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 145
-Coordinates: (1, 4, 0)
-Direction: North
-Next symbol: [
-
-Stack:
-  2 [Top]
-  7
-  82
-  9
-  ...
-
-Non-zero registers:
-  R: 6
-  P: 65
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[@=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 146
-Coordinates: (1, 4, 0)
-Direction: West
-Next symbol: [
-
-Stack:
-  2 [Top]
-  7
-  82
-  9
-  ...
-
-Non-zero registers:
-  R: 4
-  P: 65
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[@=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 147
-Coordinates: (1, 4, 0)
-Direction: South
-Next symbol: 7
-
-Stack:
-  2 [Top]
-  7
-  82
-  9
-  ...
-
-Non-zero registers:
-  R: 2
-  P: 65
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[@=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 148
-Coordinates: (1, 5, 0)
-Direction: South
-Next symbol: 5
-
-Stack:
-  7 [Top]
-  2
-  7
-  82
-  ...
-
-Non-zero registers:
-  R: 2
-  P: 81
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]@p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 149
-Coordinates: (1, 6, 0)
-Direction: South
-Next symbol: _
-
-Stack:
-  5 [Top]
-  7
-  2
-  7
-  ...
-
-Non-zero registers:
-  R: 2
-  P: 97
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{@4=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 150
-Coordinates: (5, 0, 0)
-Direction: South
-Next symbol: 8
-
-Stack:
-  113 [Top]
-  7
-  2
-  7
-  ...
-
-Non-zero registers:
-  R: 2
-  P: 5
-
-{.27r@3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 151
-Coordinates: (5, 1, 0)
+Coordinates: (4, 1, 0)
 Direction: South
 Next symbol: 6
 
-Stack:
-  8 [Top]
-  113
-  7
-  2
-  ...
-
-Non-zero registers:
-  R: 2
-  P: 21
-
-{.27rp3=(=]{#=8}
-#]=)R@[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 152
-Coordinates: (5, 2, 0)
-Direction: South
-Next symbol: 2
-
-Stack:
-  6 [Top]
-  8
-  113
-  7
-  ...
-
-Non-zero registers:
-  R: 2
-  P: 37
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.@29R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 153
-Coordinates: (5, 3, 0)
-Direction: South
-Next symbol: [
-
-Stack:
+Stack (35):
   2 [Top]
-  6
+  96
   8
-  113
-  ...
-
-Non-zero registers:
-  R: 2
-  P: 53
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=@{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 154
-Coordinates: (5, 3, 0)
-Direction: East
-Next symbol: {
-
-Stack:
-  2 [Top]
-  6
-  8
-  113
-  ...
-
-Non-zero registers:
-  P: 53
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=@{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 155
-Coordinates: (5, 3, 0)
-Direction: Northwest
-Next symbol: .
-
-Stack:
-  2 [Top]
-  6
-  8
-  113
-  ...
-
-Non-zero registers:
-  R: -3
-  P: 53
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=@{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 156
-Coordinates: (4, 2, 0)
-Direction: Northwest
-Next symbol: )
-
-Stack:
-  2 [Top]
-  6
-  8
-  113
-  ...
-
-Non-zero registers:
-  R: -3
-  P: 36
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}@629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 157
-Coordinates: (4, 2, 0)
-Direction: North
-Next symbol: R
-
-Stack:
-  2 [Top]
-  6
-  8
-  113
-  ...
-
-Non-zero registers:
-  R: -2
-  P: 36
-
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}@629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
-
----
-
-Step count: 158
-Coordinates: (4, 1, 0)
-Direction: South
-Next symbol: .
-
-Stack:
-  6 [Top]
-  8
-  113
-  7
+  4
   ...
 
 Non-zero registers:
   R: 2
   P: 20
 
-{.27rp3=(=]{#=8}
-#]=)@8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}9@R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
-Step count: 159
+Step count: 139
 Coordinates: (4, 2, 0)
 Direction: South
-Next symbol: =
+Next symbol: 2
 
-Stack:
+Stack (36):
   6 [Top]
+  2
+  96
   8
-  113
-  7
   ...
 
 Non-zero registers:
   R: 2
   P: 36
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}@629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:@=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 140
+Coordinates: (4, 3, 0)
+Direction: South
+Next symbol: r
+
+Stack (37):
+  2 [Top]
+  6
+  2
+  96
+  ...
+
+Non-zero registers:
+  R: 2
+  P: 52
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)@8{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 141
+Coordinates: (4, 4, 0)
+Direction: South
+Next symbol: (
+
+Stack (38):
+  2 [Top]
+  2
+  6
+  2
+  ...
+
+Non-zero registers:
+  R: 2
+  P: 68
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#p@:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 142
+Coordinates: (4, 4, 0)
+Direction: Southeast
+Next symbol: :
+
+Stack (38):
+  2 [Top]
+  2
+  6
+  2
+  ...
+
+Non-zero registers:
+  R: 1
+  P: 68
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#p@:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 143
+Coordinates: (5, 5, 0)
+Direction: Southeast
+Next symbol: R
+
+Stack (38):
+  2 [Top]
+  2
+  6
+  2
+  ...
+
+Non-zero registers:
+  R: 1
+  P: 85
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(@:)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 144
+Coordinates: (6, 6, 0)
+Direction: South
+Next symbol: =
+
+Stack (37):
+  2 [Top]
+  6
+  2
+  96
+  ...
+
+Non-zero registers:
+  R: 2
+  P: 102
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]@4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 145
+Coordinates: (6, 7, 0)
+Direction: West
+Next symbol: 8
+
+Stack (35):
+  2 [Top]
+  96
+  8
+  4
+  ...
+
+Non-zero registers:
+  R: 4
+  P: 118
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8@##]R[(=6P
+
+---
+
+Step count: 146
+Coordinates: (5, 7, 0)
+Direction: West
+Next symbol: ]
+
+Stack (36):
+  8 [Top]
+  2
+  96
+  8
+  ...
+
+Non-zero registers:
+  R: 4
+  P: 117
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]@=##]R[(=6P
+
+---
+
+Step count: 147
+Coordinates: (5, 7, 0)
+Direction: North
+Next symbol: ]
+
+Stack (36):
+  8 [Top]
+  2
+  96
+  8
+  ...
+
+Non-zero registers:
+  R: 6
+  P: 117
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]@=##]R[(=6P
+
+---
+
+Step count: 148
+Coordinates: (5, 7, 0)
+Direction: East
+Next symbol: =
+
+Stack (36):
+  8 [Top]
+  2
+  96
+  8
+  ...
+
+Non-zero registers:
+  R: 8
+  P: 117
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]@=##]R[(=6P
+
+---
+
+Step count: 149
+Coordinates: (6, 7, 0)
+Direction: North
+Next symbol: R
+
+Stack (34):
+  96 [Top]
+  8
+  4
+  8
+  ...
+
+Non-zero registers:
+  R: 6
+  P: 118
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8@##]R[(=6P
+
+---
+
+Step count: 150
+Coordinates: (6, 6, 0)
+Direction: East
+Next symbol: 4
+
+Stack (33):
+  8 [Top]
+  4
+  8
+  3
+  ...
+
+Non-zero registers:
+  R: 96
+  P: 102
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]@4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 151
+Coordinates: (7, 6, 0)
+Direction: East
+Next symbol: R
+
+Stack (34):
+  4 [Top]
+  8
+  4
+  8
+  ...
+
+Non-zero registers:
+  R: 96
+  P: 103
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R@R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 152
+Coordinates: (8, 6, 0)
+Direction: West
+Next symbol: 4
+
+Stack (33):
+  8 [Top]
+  4
+  8
+  3
+  ...
+
+Non-zero registers:
+  R: 4
+  P: 104
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4@43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 153
+Coordinates: (7, 6, 0)
+Direction: West
+Next symbol: R
+
+Stack (34):
+  4 [Top]
+  8
+  4
+  8
+  ...
+
+Non-zero registers:
+  R: 4
+  P: 103
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R@R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 154
+Coordinates: (6, 6, 0)
+Direction: West
+Next symbol: ]
+
+Stack (33):
+  8 [Top]
+  4
+  8
+  3
+  ...
+
+Non-zero registers:
+  R: 4
+  P: 102
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]@4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 155
+Coordinates: (6, 6, 0)
+Direction: North
+Next symbol: :
+
+Stack (33):
+  8 [Top]
+  4
+  8
+  3
+  ...
+
+Non-zero registers:
+  R: 6
+  P: 102
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]@4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 156
+Coordinates: (6, 5, 0)
+Direction: North
+Next symbol: )
+
+Stack (33):
+  4 [Top]
+  8
+  8
+  3
+  ...
+
+Non-zero registers:
+  R: 6
+  P: 86
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(:@)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 157
+Coordinates: (6, 5, 0)
+Direction: Northeast
+Next symbol: =
+
+Stack (33):
+  4 [Top]
+  8
+  8
+  3
+  ...
+
+Non-zero registers:
+  R: 7
+  P: 86
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(:@)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 158
+Coordinates: (7, 4, 0)
+Direction: Southeast
+Next symbol: 8
+
+Stack (31):
+  8 [Top]
+  3
+  2
+  8
+  ...
+
+Non-zero registers:
+  R: 9
+  P: 71
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)@4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 159
+Coordinates: (8, 5, 0)
+Direction: Southeast
+Next symbol: 4
+
+Stack (32):
+  8 [Top]
+  8
+  3
+  2
+  ...
+
+Non-zero registers:
+  R: 9
+  P: 88
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)@892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 160
-Coordinates: (4, 3, 0)
-Direction: West
-Next symbol: 3
+Coordinates: (9, 6, 0)
+Direction: Southeast
+Next symbol: R
 
-Stack:
-  113 [Top]
-  7
-  2
-  7
+Stack (33):
+  4 [Top]
+  8
+  8
+  3
   ...
 
 Non-zero registers:
-  R: 4
-  P: 52
+  R: 9
+  P: 105
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33@2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R@3:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 161
-Coordinates: (3, 3, 0)
+Coordinates: (10, 7, 0)
 Direction: West
-Next symbol: 3
+Next symbol: ]
 
-Stack:
-  3 [Top]
-  113
-  7
+Stack (32):
+  8 [Top]
+  8
+  3
   2
   ...
 
 Non-zero registers:
   R: 4
-  P: 51
+  P: 122
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([3@=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]@[(=6P
 
 ---
 
 Step count: 162
-Coordinates: (2, 3, 0)
-Direction: West
-Next symbol: [
+Coordinates: (10, 7, 0)
+Direction: North
+Next symbol: 3
 
-Stack:
-  3 [Top]
+Stack (32):
+  8 [Top]
+  8
   3
-  113
-  7
+  2
   ...
 
 Non-zero registers:
-  R: 4
-  P: 50
+  R: 6
+  P: 122
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([@3=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]@[(=6P
 
 ---
 
 Step count: 163
-Coordinates: (2, 3, 0)
-Direction: South
-Next symbol: =
+Coordinates: (10, 6, 0)
+Direction: North
+Next symbol: 9
 
-Stack:
+Stack (33):
   3 [Top]
+  8
+  8
   3
-  113
-  7
   ...
 
 Non-zero registers:
-  R: 2
-  P: 50
+  R: 6
+  P: 106
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([@3=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R4@:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 164
-Coordinates: (2, 4, 0)
-Direction: South
-Next symbol: p
+Coordinates: (10, 5, 0)
+Direction: North
+Next symbol: 9
 
-Stack:
-  113 [Top]
-  7
-  2
-  7
+Stack (34):
+  9 [Top]
+  3
+  8
+  8
   ...
 
 Non-zero registers:
-  R: 2
-  P: 66
+  R: 6
+  P: 90
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2@[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)88@2<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 165
-Coordinates: (2, 5, 0)
-Direction: South
-Next symbol: 4
+Coordinates: (10, 4, 0)
+Direction: North
+Next symbol: [
 
-Stack:
-  82 [Top]
-  113
-  7
-  2
+Stack (35):
+  9 [Top]
+  9
+  3
+  8
   ...
 
 Non-zero registers:
-  R: 2
-  P: 82
+  R: 6
+  P: 74
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7@9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R@38]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 166
-Coordinates: (2, 6, 0)
-Direction: South
-Next symbol: (
+Coordinates: (10, 4, 0)
+Direction: West
+Next symbol: R
 
-Stack:
-  4 [Top]
-  82
-  113
-  7
+Stack (35):
+  9 [Top]
+  9
+  3
+  8
   ...
 
 Non-zero registers:
-  R: 2
-  P: 98
+  R: 4
+  P: 74
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{5@=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R@38]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 167
-Coordinates: (2, 6, 0)
+Coordinates: (9, 4, 0)
 Direction: Southeast
-Next symbol: _
+Next symbol: 9
 
-Stack:
-  4 [Top]
-  82
-  113
-  7
+Stack (34):
+  9 [Top]
+  3
+  8
+  8
   ...
 
 Non-zero registers:
-  R: 1
-  P: 98
+  R: 9
+  P: 73
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{5@=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4@938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 168
-Coordinates: (4, 0, 0)
+Coordinates: (10, 5, 0)
 Direction: Southeast
-Next symbol: 8
+Next symbol: :
 
-Stack:
-  115 [Top]
-  82
-  113
-  7
+Stack (35):
+  9 [Top]
+  9
+  3
+  8
   ...
 
 Non-zero registers:
-  R: 1
-  P: 4
+  R: 9
+  P: 90
 
-{.27@p3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)88@2<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 169
-Coordinates: (5, 1, 0)
+Coordinates: (11, 6, 0)
 Direction: Southeast
-Next symbol: 2
+Next symbol: (
 
-Stack:
-  8 [Top]
-  115
-  82
-  113
+Stack (35):
+  9 [Top]
+  9
+  3
+  8
   ...
 
 Non-zero registers:
-  R: 1
-  P: 21
+  R: 9
+  P: 107
 
-{.27rp3=(=]{#=8}
-#]=)R@[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43@7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 170
-Coordinates: (6, 2, 0)
-Direction: Southeast
-Next symbol: 2
+Coordinates: (11, 6, 0)
+Direction: East
+Next symbol: 7
 
-Stack:
-  2 [Top]
+Stack (35):
+  9 [Top]
+  9
+  3
   8
-  115
-  82
   ...
 
 Non-zero registers:
-  R: 1
-  P: 38
+  R: 8
+  P: 107
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.6@9R92]68=#
-([33=2{26]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43@7=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 171
-Coordinates: (7, 3, 0)
-Direction: Southeast
-Next symbol: 3
+Coordinates: (12, 6, 0)
+Direction: East
+Next symbol: =
 
-Stack:
-  2 [Top]
-  2
-  8
-  115
+Stack (36):
+  7 [Top]
+  9
+  9
+  3
   ...
 
 Non-zero registers:
-  R: 1
-  P: 55
+  R: 8
+  P: 108
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{@6]2284=#
-[2=[][443(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:@=r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 172
-Coordinates: (8, 4, 0)
-Direction: Southeast
-Next symbol: <
+Coordinates: (13, 6, 0)
+Direction: South
+Next symbol: =
 
-Stack:
-  3 [Top]
-  2
-  2
+Stack (34):
+  9 [Top]
+  3
+  8
   8
   ...
 
 Non-zero registers:
-  R: 1
-  P: 72
+  R: 10
+  P: 109
 
-{.27rp3=(=]{#=8}
-#]=)R8[[888{]RR}
-(RR}.629R92]68=#
-([33=2{26]2284=#
-[2=[][44@(5(][5#
-]7p9=R={7<}P72r{
-{54=}p87(83[]68)
-#_(_{{##]((}##[[
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7@r#
+[#}(]8=##]R[(=6P
 
 ---
 
 Step count: 173
+Coordinates: (13, 7, 0)
+Direction: East
+Next symbol: 6
+
+Stack (32):
+  8 [Top]
+  8
+  3
+  2
+  ...
+
+Non-zero registers:
+  R: 8
+  P: 125
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(@6P
+
+---
+
+Step count: 174
+Coordinates: (14, 7, 0)
+Direction: East
+Next symbol: P
+
+Stack (33):
+  6 [Top]
+  8
+  8
+  3
+  ...
+
+Non-zero registers:
+  R: 8
+  P: 126
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=@P
+
+---
+
+Step count: 175
+Coordinates: (6, 0, 0)
+Direction: East
+Next symbol: 6
+
+Stack (32):
+  8 [Top]
+  8
+  3
+  2
+  ...
+
+Non-zero registers:
+  R: 8
+  P: 6
+
+}}([R)@6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 176
+Coordinates: (7, 0, 0)
+Direction: East
+Next symbol: )
+
+Stack (33):
+  6 [Top]
+  8
+  8
+  3
+  ...
+
+Non-zero registers:
+  R: 8
+  P: 7
+
+}}([R)_@){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 177
+Coordinates: (7, 0, 0)
+Direction: Southeast
+Next symbol: p
+
+Stack (33):
+  6 [Top]
+  8
+  8
+  3
+  ...
+
+Non-zero registers:
+  R: 9
+  P: 7
+
+}}([R)_@){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 178
+Coordinates: (8, 1, 0)
+Direction: Southeast
+Next symbol: ]
+
+Stack (34):
+  24 [Top]
+  6
+  8
+  8
+  ...
+
+Non-zero registers:
+  R: 9
+  P: 24
+
+}}([R)_6){][R[##
+2r}92R6p@.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 179
+Coordinates: (8, 1, 0)
+Direction: Southwest
+Next symbol: 9
+
+Stack (34):
+  24 [Top]
+  6
+  8
+  8
+  ...
+
+Non-zero registers:
+  R: 11
+  P: 24
+
+}}([R)_6){][R[##
+2r}92R6p@.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 180
+Coordinates: (7, 2, 0)
+Direction: Southwest
+Next symbol: {
+
+Stack (35):
+  9 [Top]
+  24
+  6
+  8
+  ...
+
+Non-zero registers:
+  R: 11
+  P: 39
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=3@)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 181
+Coordinates: (7, 2, 0)
+Direction: East
+Next symbol: )
+
+Stack (35):
+  9 [Top]
+  24
+  6
+  8
+  ...
+
+Non-zero registers:
+  R: 8
+  P: 39
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=3@)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 182
+Coordinates: (7, 2, 0)
+Direction: Southeast
+Next symbol: p
+
+Stack (35):
+  9 [Top]
+  24
+  6
+  8
+  ...
+
+Non-zero registers:
+  R: 9
+  P: 39
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=3@)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 183
+Coordinates: (8, 3, 0)
+Direction: Southeast
+Next symbol: R
+
+Stack (36):
+  56 [Top]
+  9
+  24
+  6
+  ...
+
+Non-zero registers:
+  R: 9
+  P: 56
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5@2[9=67[
+{4#pr:)=4R938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 184
+Coordinates: (9, 4, 0)
+Direction: East
+Next symbol: 9
+
+Stack (35):
+  9 [Top]
+  24
+  6
+  8
+  ...
+
+Non-zero registers:
+  R: 56
+  P: 73
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4@938]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 185
+Coordinates: (10, 4, 0)
+Direction: East
+Next symbol: 3
+
+Stack (36):
+  9 [Top]
+  9
+  24
+  6
+  ...
+
+Non-zero registers:
+  R: 56
+  P: 74
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R@38]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 186
+Coordinates: (11, 4, 0)
+Direction: East
+Next symbol: 8
+
+Stack (37):
+  3 [Top]
+  9
+  9
+  24
+  ...
+
+Non-zero registers:
+  R: 56
+  P: 75
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R9@8]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 187
+Coordinates: (12, 4, 0)
+Direction: East
+Next symbol: ]
+
+Stack (38):
+  8 [Top]
+  3
+  9
+  9
+  ...
+
+Non-zero registers:
+  R: 56
+  P: 76
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R93@]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 188
+Coordinates: (12, 4, 0)
+Direction: South
+Next symbol: <
+
+Stack (38):
+  8 [Top]
+  3
+  9
+  9
+  ...
+
+Non-zero registers:
+  R: 58
+  P: 76
+
+}}([R)_6){][R[##
+2r}92R6pp.pp9)R)
+=Rr:6=39)]:}p[2}
+#8{)28{5p2[9=67[
+{4#pr:)=4R93@]6#
+#3#5(::)8892<r}[
+_R#=:]R4R43:7=r#
+[#}(]8=##]R[(=6P
+
+---
+
+Step count: 189
 ```
 
-You leave the example dungeon after 173 steps.
+You leave the example dungeon after 189 steps.

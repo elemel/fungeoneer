@@ -206,11 +206,11 @@ RmBnZ+[z/0N:[F1+jXr*acEFVulzvFkURqldHM2WdA8KHglD5+c3W1t<.v(0##JR
 }}[RF{](]]{##[)[]=####{[[#))){({#[)[]{}W==]#(#{#([])}R)}}})[{)=#
 ```
 
-This dungeon contains wall tiles for turning diagonally (marked `{`, `(`, `)`, or `}` on the map), along with getters and setters for register R (marked `r` or `R`).
+This dungeon contains wall tiles for turning diagonally: backward-left-turners (marked `{` on the map), forward-left-turners (marked `(`), forward-right-turners (marked `)`), and backward-right-turners (marked `}`).
 
-Your direction can now also be diagonal: southeast, southwest, northwest, or northeast. As before, whenever you would step onto a wall tile, stay and turn instead. For a `{` tile, turn 135 degrees left. For a `(` tile, turn 45 degrees left. For a `)` tile, turn 45 degrees right. For a `}` tile, turn 135 degrees right.
+Your direction can now also be diagonal: southeast, southwest, northwest, or northeast. As before, whenever you would step onto a wall tile, stay and turn instead. For a backward-left-turner, turn 135 degrees left. For a forward-left-turner, turn 45 degrees left. For a forward-right-turner, turn 45 degrees right. For a backward-right-turner, turn 135 degrees right.
 
-Whenever you step onto an R-getter tile, get your rotation as a number, then push that number onto the stack. For an R-setter tile, pop a number from the stack, then set your rotation to that number, changing your direction accordingly.
+This dungeon also contains tiles with getters and setters for register R (marked `r` or `R`). Whenever you step onto an R-getter tile, get your rotation as a number, then push that number onto the stack. For an R-setter tile, pop a number from the stack, then set your rotation to that number, changing your direction accordingly.
 
 After how many steps do you leave the dungeon?
 

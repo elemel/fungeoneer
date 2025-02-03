@@ -3097,8 +3097,6 @@ Next symbol: <
 ---
 
 Step count: 187
-Coordinates: (1, 5, -1)
-Direction: South
 ```
 
 You leave the example dungeon after 187 steps.

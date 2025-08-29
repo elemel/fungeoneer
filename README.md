@@ -12,19 +12,20 @@
 
 ## Table of Contents
 
-- [Overworld](sections/00-overworld.md)
-- [Chapter 1: Wallflower](sections/01-wallflower.md)
-- [Chapter 2: Staredown](sections/02-staredown.md)
-- [Chapter 3: Crossroads](sections/03-crossroads.md)
-- [Chapter 4: Runecraft](sections/04-runecraft.md)
-- [Chapter 5: Knapsack](sections/05-knapsack.md)
-- [Chapter 6: Octagram](sections/06-octagram.md)
-- [Chapter 7: Shoreline](sections/07-shoreline.md)
-- [Chapter 8: Cornucopia](sections/08-cornucopia.md)
-- [Chapter 9: Grain](sections/09-grain.md)
-- [Chapter 10: Simulacrum](sections/10-simulacrum.md)
-- [Chapter 11: Geomancer](sections/11-geomancer.md)
-- [Afterworld](sections/12-afterworld.md)
+- [Overworld](overworld.md)
+- Chapters
+  - [Chapter 1: Wallflower](chapters/01-wallflower.md)
+  - [Chapter 2: Staredown](chapters/02-staredown.md)
+  - [Chapter 3: Crossroads](chapters/03-crossroads.md)
+  - [Chapter 4: Runecraft](chapters/04-runecraft.md)
+  - [Chapter 5: Knapsack](chapters/05-knapsack.md)
+  - [Chapter 6: Octagram](chapters/06-octagram.md)
+  - [Chapter 7: Shoreline](chapters/07-shoreline.md)
+  - [Chapter 8: Cornucopia](chapters/08-cornucopia.md)
+  - [Chapter 9: Grain](chapters/09-grain.md)
+  - [Chapter 10: Simulacrum](chapters/10-simulacrum.md)
+  - [Chapter 11: Geomancer](chapters/11-geomancer.md)
+- [Afterworld](afterworld.md)
 - Answers
   - [Answer to Chapter 1: Wallflower](sections/13-answers/01-wallflower.md)
   - [Answer to Chapter 2: Staredown](sections/13-answers/02-staredown.md)

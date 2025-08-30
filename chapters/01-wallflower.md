@@ -27,7 +27,7 @@ Unrolling the scroll, you identify it as a magic map. It ripples and shifts into
 ##[######################[###################[##]######]#######]###]#######]####
 ```
 
-On the map, east lies to the right, south below, west to the left, and north above.
+The directions on the map are right for east, down for south, left for west, and up for north.
 
 You discover a small contraption wrapped inside the map: a hypnotic timepiece, heavy for its size. After each tick, it compels you to step forward if possible, and to turn only when instructed. Stepping onto floor tiles (marked `.` on the map) has no particular effect.
 
@@ -802,4 +802,4 @@ T: 67
 T: 68
 ```
 
-You leave the example dungeon after 68 steps.
+You leave the example dungeon after 68 ticks.

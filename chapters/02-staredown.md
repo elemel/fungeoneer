@@ -71,7 +71,7 @@ Consider an example dungeon:
 #]]######[]#[#[###]#
 ```
 
-Below is a log of walking through the example dungeon. In deep dungeons, coordinates are shown as `(x, y, z)`.
+Below is a log of walking through the example dungeon, with your location marked `@` on the map. In deep dungeons, coordinates are shown as `(x, y, z)`.
 
 ```
 ##########[#[####[##

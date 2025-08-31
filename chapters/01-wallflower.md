@@ -48,7 +48,7 @@ Consider an example dungeon:
 #]##]#[#]###########
 ```
 
-The log below shows you walking through the example dungeon. On the map, your location is marked with `@`. The status lines use the labels `Dx` for direction, `Co` for coordinates, and `T` for tick count. Coordinates are written in the form `(x, y)`.
+The log below shows you walking through the example dungeon, with your location marked `@` on the map. The status lines use the labels `Dx` for direction, `Co` for coordinates, and `T` for tick count. Coordinates are shown as `(x, y)`.
 
 ```
 #############[####]#

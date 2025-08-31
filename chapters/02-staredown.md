@@ -46,7 +46,7 @@ You have entered another dungeon. You stand at the bottom of the staircase where
 ###]##]#####][][##[#]####[#####]#####]############[[##########[[]######]########
 ```
 
-The top level is at the top of the map, while the bottom level is at the bottom of the map. On the top level, the only staircase leading up is the one where you entered.
+The top level is shown at the top of the map, and the bottom level is shown at the bottom. On the top level, the only staircase leading up is the one where you entered. A dungeon with two or more levels is considered deep, while a shallow dungeon only has a single level.
 
 There are many other staircases in this dungeon. Each staircase has two ends: a top (marked `>` on the map) and a bottom (marked `<`). The bottom is located directly below the top, on the next lower level. The top of the staircase where you entered is above ground, outside the dungeon. It is not shown on the map. Whenever you step onto either end of a staircase, traverse it to the other end immediately, without turning. This counts as a single tick.
 
@@ -71,7 +71,7 @@ Consider an example dungeon:
 #]]######[]#[#[###]#
 ```
 
-Below is a log of walking through the example dungeon. Your coordinates are shown as `(x, y, z)`.
+Below is a log of walking through the example dungeon. In deep dungeons, coordinates are shown as `(x, y, z)`.
 
 ```
 ##########[#[####[##

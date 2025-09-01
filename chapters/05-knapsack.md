@@ -109,11 +109,11 @@ H[#[=:[###[=2+[gH[5QeBMgWHvmN%G[e5iNk7=yHYbll+5m5eV=LFc0XUL2:XQm5A<##[]lnUn7=]v#
 =xy*DL98kB-/uy7G[#=bxKoAg<JJf[]]=##=[]=3NxkC[##]####[##=uJ0W<=lXC+V5zKFLeuzkHw=#
 ```
 
-This dungeon contains tiles with getters (marked by lowercase letters on the map) and setters (marked by uppercase letters). These tiles operate on a registry of compartments in your knapsack. As register names are case-insensitive, both `a` and `A` refer to register A. All registers start at zero. The registers P, R, S, and T are missing from the knapsack and the map.
+This dungeon contains tiles with getters (marked by lowercase letters on the map) and setters (marked by uppercase letters). These tiles operate on a registry of compartments in your knapsack. As register names are case-insensitive, both `a` and `A` refer to register A. All registers start at zero. The system registers P, R, S, and T are missing from the knapsack and the map. All registers except the system registers are called user registers.
 
 Whenever you step onto a getter tile, get a number from the corresponding register, then push that number onto the stack. For a setter tile, pop a number from the stack, then set the corresponding register to that number.
 
-After how many steps do you leave the dungeon?
+After how many ticks do you leave the dungeon?
 
 
 ## Example
@@ -128,7 +128,7 @@ A6bC3bc558.]]76A.a=]
 #[#####=B[=3c8=9.=[]
 ```
 
-Below is a log of walking through the example dungeon. Only non-zero registers are shown. Your location is marked `@` on the map.
+Below is a log of walking through the example dungeon, with your location marked `@` on the map. Only non-zero user registers are shown.
 
 ```
 =a3cB5CA:3B86=##[=.]
@@ -1201,4 +1201,4 @@ A: 9  B: 7  C: 5  S: 12  T: 96
 T: 97
 ```
 
-You leave the example dungeon after 97 steps.
+You leave the example dungeon after 97 ticks.

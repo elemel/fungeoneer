@@ -118,7 +118,7 @@ After how many ticks do you leave the dungeon?
 
 ## Example
 
-Consider an example dungeon with inventory slots A, B, and C:
+Consider an example dungeon:
 
 ```
 =a3cB5CA:3B86=##[=.]
@@ -128,7 +128,7 @@ A6bC3bc558.]]76A.a=]
 #[#####=B[=3c8=9.=[]
 ```
 
-Below is a log of walking through the example dungeon, with your location marked `@` on the map. Only non-zero user registers are shown.
+Below is a log of walking through the example dungeon, with your location marked `@` on the map.
 
 ```
 =a3cB5CA:3B86=##[=.]

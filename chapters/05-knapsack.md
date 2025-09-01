@@ -109,16 +109,16 @@ H[#[=:[###[=2+[gH[5QeBMgWHvmN%G[e5iNk7=yHYbll+5m5eV=LFc0XUL2:XQm5A<##[]lnUn7=]v#
 =xy*DL98kB-/uy7G[#=bxKoAg<JJf[]]=##=[]=3NxkC[##]####[##=uJ0W<=lXC+V5zKFLeuzkHw=#
 ```
 
-This dungeon contains tiles with getters (marked by lowercase letters on the map) and setters (marked by uppercase letters). These tiles operate on a registry of compartments in your knapsack. As register names are case-insensitive, both `a` and `A` refer to register A. All registers start at zero. The system registers P, R, S, and T are missing from the knapsack and the map. All registers except the system registers are called user registers.
+This dungeon contains tiles with getters (marked by lowercase letters on the map) and setters (marked by uppercase letters). These tiles operate on the inventory slots in your knapsack. The names are case-insensitive: both `a` and `A` refer to inventory slot A. All inventory slots start at zero. The inventory slots P, R, S, and T are missing from the knapsack and the map.
 
-Whenever you step onto a getter tile, get a number from the corresponding register, then push that number onto the stack. For a setter tile, pop a number from the stack, then set the corresponding register to that number.
+Whenever you step onto a getter tile, get a number from the corresponding inventory slot, then push that number onto the stack. For a setter tile, pop a number from the stack, then set the corresponding inventory slot to that number.
 
 After how many ticks do you leave the dungeon?
 
 
 ## Example
 
-Consider an example dungeon with registers A, B, and C:
+Consider an example dungeon with inventory slots A, B, and C:
 
 ```
 =a3cB5CA:3B86=##[=.]

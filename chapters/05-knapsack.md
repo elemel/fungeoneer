@@ -121,14 +121,11 @@ After how many steps do you leave the dungeon?
 Consider an example dungeon with registers A, B, and C:
 
 ```
-]#][:=9]##]###=]
-7]5223]###a..C3=
-B]b426a6..7=4:9:
-A#=:c=3A]#4.[#2]
-2#A#c<cc792[4=C#
-C]C:A7C634cb:6a[
-6###=6[[#[b972.#
-=4:75ac63a==].=#
+=a3cB5CA:3B86=##[=.]
+A6bC3bc558.]]76A.a=]
+[b77:b53bbA95.=#74c#
+#76B74.=<b78b25].C4=
+#[#####=B[=3c8=9.=[]
 ```
 
 Below is a log of walking through the example dungeon. Only non-zero registers are shown. Your location is marked `@` on the map.

@@ -128,7 +128,7 @@ A6bC3bc558.]]76A.a=]
 #[#####=B[=3c8=9.=[]
 ```
 
-Below is a log of walking through the example dungeon, with your location marked `@` on the map.
+The log below shows you walking through the example dungeon, with your location marked `@` on the map.
 
 ```
 =a3cB5CA:3B86=##[=.]

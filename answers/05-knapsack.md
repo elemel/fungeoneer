@@ -1,3 +1,3 @@
 # Answer to Chapter 5: Knapsack
 
-You leave the dungeon after 12,850 steps.
+You leave the dungeon after 9,376 steps.

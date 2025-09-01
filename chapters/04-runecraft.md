@@ -111,7 +111,7 @@ Consider an example dungeon:
 #=558[#####=7*6.9.*=
 ```
 
-Below is a log of walking through the example dungeon, with your location marked `@` on the map.
+The log below shows you walking through the example dungeon, with your location marked `@` on the map.
 
 ```
 #[##[#[######][#[76=

@@ -1,4 +1,4 @@
-# Chapter 1: Wallflower
+# Chapter 1: Ground Rules
 
 You have entered a dungeon. You stand at the bottom of the staircase where you entered, facing east. A gnomish cartographer, carrying a bundle of scrolls, peers at you from an adjacent tile. As he steps onto the staircase, he thrusts a scroll into your hands. Before you can respond, he has already left the dungeon.
 

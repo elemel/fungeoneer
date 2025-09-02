@@ -14,7 +14,7 @@
 
 - [Overworld](overworld.md)
 - Chapters
-  - [Chapter 1: Wallflower](chapters/01-wallflower.md)
+  - [Chapter 1: Ground Rules](chapters/01-ground-rules.md)
   - [Chapter 2: Staredown](chapters/02-staredown.md)
   - [Chapter 3: Crossroads](chapters/03-crossroads.md)
   - [Chapter 4: Runecraft](chapters/04-runecraft.md)
@@ -27,7 +27,7 @@
   - [Chapter 11: Geomancer](chapters/11-geomancer.md)
 - [Afterworld](afterworld.md)
 - Answers
-  - [Answer to Chapter 1: Wallflower](answers/01-wallflower.md)
+  - [Answer to Chapter 1: Ground Rules](answers/01-ground-rules.md)
   - [Answer to Chapter 2: Staredown](answers/02-staredown.md)
   - [Answer to Chapter 3: Crossroads](answers/03-crossroads.md)
   - [Answer to Chapter 4: Runecraft](answers/04-runecraft.md)

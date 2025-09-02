@@ -1,4 +1,4 @@
-# Chapter 2: Staredown
+# Chapter 2: As Above, So Below
 
 You have entered another dungeon. You stand at the bottom of the staircase where you entered, facing east. In this dungeon, there are two levels, separated by a blank line on the map:
 

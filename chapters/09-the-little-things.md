@@ -1,4 +1,4 @@
-# Chapter 9: Grain
+# Chapter 9: The Little Things
 
 You have entered the ninth dungeon. You stand at the bottom of the staircase where you entered, facing east. Starting to question the fabric of reality, you scrutinize the map:
 

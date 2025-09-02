@@ -1,4 +1,4 @@
-# Chapter 7: Shoreline
+# Chapter 7: You Are Here
 
 You have entered the seventh dungeon. You stand at the bottom of the staircase where you entered, facing east. In a haystack by the staircase, you find a needle: a wayfarer's pin. Out of concern for any beast of burden that may stray here to feed, you decide to keep the pin. You press it into the symbol of the staircase on your magic map.
 

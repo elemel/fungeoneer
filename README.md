@@ -16,7 +16,7 @@
 - Chapters
   - [Chapter 1: Ground Rules](chapters/01-ground-rules.md)
   - [Chapter 2: As Above, So Below](chapters/02-as-above-so-below.md)
-  - [Chapter 3: Crossroads](chapters/03-crossroads.md)
+  - [Chapter 3: Turning Point](chapters/03-turning-point.md)
   - [Chapter 4: Runecraft](chapters/04-runecraft.md)
   - [Chapter 5: Knapsack](chapters/05-knapsack.md)
   - [Chapter 6: Octagram](chapters/06-octagram.md)
@@ -29,7 +29,7 @@
 - Answers
   - [Answer to Chapter 1: Ground Rules](answers/01-ground-rules.md)
   - [Answer to Chapter 2: As Above, So Below](answers/02-as-above-so-below.md)
-  - [Answer to Chapter 3: Crossroads](answers/03-crossroads.md)
+  - [Answer to Chapter 3: Turning Point](answers/03-turning-point.md)
   - [Answer to Chapter 4: Runecraft](answers/04-runecraft.md)
   - [Answer to Chapter 5: Knapsack](answers/05-knapsack.md)
   - [Answer to Chapter 6: Octagram](answers/06-octagram.md)

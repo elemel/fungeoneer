@@ -1,3 +1,3 @@
-# Answer to Chapter 3: Crossroads
+# Answer to Chapter 3: Turning Point
 
 You leave the dungeon after 5,359 ticks.

@@ -1,4 +1,4 @@
-# Chapter 3: Crossroads
+# Chapter 3: Turning Point
 
 You have entered the third dungeon. You stand at the bottom of the staircase where you entered, facing east. On the bottom stair, you spot a purse of stacking, clearly left behind by accident. You grab it for safekeeping.
 

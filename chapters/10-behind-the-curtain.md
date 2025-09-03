@@ -1,4 +1,4 @@
-# Chapter 10: Simulacrum
+# Chapter 10: Behind the Curtain
 
 You have entered the tenth dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
 

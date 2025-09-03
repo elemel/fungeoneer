@@ -23,7 +23,7 @@
   - [Chapter 7: You Are Here](chapters/07-you-are-here.md)
   - [Chapter 8: Cornucopia](chapters/08-cornucopia.md)
   - [Chapter 9: The Little Things](chapters/09-the-little-things.md)
-  - [Chapter 10: Simulacrum](chapters/10-simulacrum.md)
+  - [Chapter 10: Behind the Curtain](chapters/10-behind-the-curtain.md)
   - [Chapter 11: Geomancer](chapters/11-geomancer.md)
 - [Afterworld](afterworld.md)
 - Answers
@@ -36,5 +36,5 @@
   - [Answer to Chapter 7: You Are Here](answers/07-you-are-here.md)
   - [Answer to Chapter 8: Cornucopia](answers/08-cornucopia.md)
   - [Answer to Chapter 9: The Little Things](answers/09-the-little-things.md)
-  - [Answer to Chapter 10: Simulacrum](answers/10-simulacrum.md)
+  - [Answer to Chapter 10: Behind the Curtain](answers/10-behind-the-curtain.md)
   - [Answer to Chapter 11: Geomancer](answers/11-geomancer.md)

@@ -1,4 +1,4 @@
-# Chapter 4: Runecraft
+# Chapter 4: Reckoning
 
 You have entered the fourth dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
 

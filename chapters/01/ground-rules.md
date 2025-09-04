@@ -35,6 +35,8 @@ The dungeon contains wall tiles: left-turners (marked `[`), right-turners (marke
 
 As demonstrated by the gnome, you leave the dungeon by stepping onto the staircase (marked `<`) from an adjacent tile. After how many ticks do you leave the dungeon?
 
+From here, you can [check the answer](answers/chapters/01/ground-rules.md).
+
 
 ## Example
 

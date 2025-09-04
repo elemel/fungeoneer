@@ -9,6 +9,8 @@
 > For as long as I remember<br>
 > By the beating of the heart of time
 
+From here, you can [continue to the overworld](overworld.md).
+
 
 ## Table of Contents
 

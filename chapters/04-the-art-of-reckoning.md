@@ -1,4 +1,4 @@
-# Chapter 4: Reckoning
+# Chapter 4: The Art of Reckoning
 
 You have entered the fourth dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
 

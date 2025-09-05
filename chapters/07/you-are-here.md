@@ -247,6 +247,8 @@ Whenever you step onto a P-getter tile, get your position as a number, then push
 
 You leave the dungeon when your position is negative after a completed step. After how many steps do you leave the dungeon?
 
+From here, you can [continue to the answer](../../answers/chapters/07/you-are-here.md).
+
 
 ### Example
 

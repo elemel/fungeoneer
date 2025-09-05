@@ -217,6 +217,8 @@ This dungeon also contains tiles with getters and setters for register R (marked
 
 After how many steps do you leave the dungeon?
 
+From here, you can [continue to the answer](../../answers/chapters/06/eight-winds.md).
+
 
 ### Example
 

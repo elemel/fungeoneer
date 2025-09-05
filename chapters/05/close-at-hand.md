@@ -115,6 +115,8 @@ Whenever you step onto a getter tile, get a number from the corresponding invent
 
 After how many ticks do you leave the dungeon?
 
+From here, you can [continue to the answer](../../answers/chapters/05/close-at-hand.md).
+
 
 ### Example
 

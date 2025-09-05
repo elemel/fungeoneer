@@ -284,6 +284,8 @@ Whenever you step onto a passage tile, search for the next passage tile in your 
 
 After how many steps do you leave the dungeon?
 
+From here, you can [continue to the answer](../../answers/chapters/10/behind-the-curtain.md).
+
 
 ### Example
 

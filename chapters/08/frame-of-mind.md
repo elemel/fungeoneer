@@ -288,6 +288,8 @@ Whenever you step onto an S-getter tile, get the stack size as a number, then pu
 
 After how many steps do you leave the dungeon?
 
+From here, you can [continue to the answer](../../answers/chapters/08/frame-of-mind.md).
+
 
 ### Example
 

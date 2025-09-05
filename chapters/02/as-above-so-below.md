@@ -52,6 +52,8 @@ There are many other staircases in this dungeon. Each staircase has two ends: a 
 
 After how many ticks do you leave the dungeon?
 
+From here, you can [continue to the answer](../../answers/chapters/02/as-above-so-below.md).
+
 
 ### Example
 

@@ -313,6 +313,8 @@ Inverters, and-gates, or-gates, and exor-gates have their usual meanings. Shifte
 
 After how many steps do you leave the dungeon?
 
+From here, you can [continue to the answer](../../answers/chapters/09/the-little-things.md).
+
 
 ### Example
 

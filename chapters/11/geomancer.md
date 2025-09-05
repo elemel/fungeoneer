@@ -312,6 +312,8 @@ Whenever you step onto a writer tile, pop two numbers from the stack: first `b`,
 
 After how many steps do you leave the dungeon?
 
+From here, you can [continue to the answer](../../answers/chapters/11/geomancer.md).
+
 
 ## Example
 

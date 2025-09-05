@@ -98,6 +98,8 @@ Modulators apply the modulo operation: `c = a % b`, with `c` preserving the sign
 
 After how many ticks do you leave the dungeon?
 
+From here, you can [continue to the answer](../../answers/chapters/04/the-art-of-reckoning.md).
+
 
 ### Example
 

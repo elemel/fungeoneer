@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Call of the Fungeon
 
 > Beneath an underground sky<br>

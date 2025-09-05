@@ -12,25 +12,20 @@
     </title>
 
     {{ content_for_header }}
-    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   </head>
 
   <body>
-    <header class="site-header" role="banner">
-      <div class="wrapper">
-        {% unless page.url == '/' or page.url == '/index.html' %}
-          <!-- Show site title link only on subpages -->
+    {% unless page.url == '/' or page.url == '/index.html' %}
+      <!-- Show page header only on subpages -->
+      <header class="site-header" role="banner">
+        <div class="wrapper">
           <p class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></p>
-        {% endunless %}
-      </div>
-    </header>
+        </div>
+      </header>
+    {% endunless %}
 
     <main class="wrapper">
       {{ content }}
     </main>
-
-    <footer class="site-footer wrapper">
-      {{ content_for_footer }}
-    </footer>
   </body>
 </html>

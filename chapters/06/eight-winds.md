@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 6: Eight Winds"
+render_with_liquid: false
+---
+
 # Chapter 6: Eight Winds
 
 You have entered the sixth dungeon. You stand at the bottom of the staircase where you entered, facing east. A skeleton is slumped against the staircase. From its bony fist, suspended on a chain, hangs a revolutionary compass. You cautiosly retrieve it.

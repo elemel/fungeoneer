@@ -1,4 +1,4 @@
-# Chapter 9: The Little Things
+## Chapter 9: The Little Things
 
 You have entered the ninth dungeon. You stand at the bottom of the staircase where you entered, facing east. Starting to question the fabric of reality, you scrutinize the map:
 
@@ -314,7 +314,7 @@ Inverters, and-gates, or-gates, and exor-gates have their usual meanings. Shifte
 After how many steps do you leave the dungeon?
 
 
-## Example
+### Example
 
 Consider an example dungeon:
 

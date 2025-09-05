@@ -1,4 +1,4 @@
-# Chapter 5: Close at Hand
+## Chapter 5: Close at Hand
 
 You have entered the fifth dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
 
@@ -116,7 +116,7 @@ Whenever you step onto a getter tile, get a number from the corresponding invent
 After how many ticks do you leave the dungeon?
 
 
-## Example
+### Example
 
 Consider an example dungeon:
 

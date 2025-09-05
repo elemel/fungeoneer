@@ -1,4 +1,4 @@
-# Chapter 10: Behind the Curtain
+## Chapter 10: Behind the Curtain
 
 You have entered the tenth dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
 
@@ -285,7 +285,7 @@ Whenever you step onto a passage tile, search for the next passage tile in your 
 After how many steps do you leave the dungeon?
 
 
-## Example
+### Example
 
 Consider an example dungeon:
 

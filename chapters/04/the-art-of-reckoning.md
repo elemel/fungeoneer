@@ -1,4 +1,4 @@
-# Chapter 4: The Art of Reckoning
+## Chapter 4: The Art of Reckoning
 
 You have entered the fourth dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
 
@@ -99,7 +99,7 @@ Modulators apply the modulo operation: `c = a % b`, with `c` preserving the sign
 After how many ticks do you leave the dungeon?
 
 
-## Example
+### Example
 
 Consider an example dungeon:
 

@@ -1,4 +1,4 @@
-# Chapter 7: You Are Here
+## Chapter 7: You Are Here
 
 You have entered the seventh dungeon. You stand at the bottom of the staircase where you entered, facing east. In a haystack by the staircase, you find a needle: a wayfarer's pin. Out of concern for any beast of burden that may stray here to feed, you decide to keep the pin. You press it into the symbol of the staircase on your magic map.
 
@@ -248,7 +248,7 @@ Whenever you step onto a P-getter tile, get your position as a number, then push
 You leave the dungeon when your position is negative after a completed step. After how many steps do you leave the dungeon?
 
 
-## Example
+### Example
 
 Consider an example dungeon:
 

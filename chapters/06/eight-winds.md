@@ -1,4 +1,4 @@
-# Chapter 6: Eight Winds
+## Chapter 6: Eight Winds
 
 You have entered the sixth dungeon. You stand at the bottom of the staircase where you entered, facing east. A skeleton is slumped against the staircase. From its bony fist, suspended on a chain, hangs a revolutionary compass. You cautiosly retrieve it.
 
@@ -218,7 +218,7 @@ This dungeon also contains tiles with getters and setters for register R (marked
 After how many steps do you leave the dungeon?
 
 
-## Example
+### Example
 
 Consider an example dungeon:
 

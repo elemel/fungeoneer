@@ -1,4 +1,4 @@
-# Chapter 2: As Above, So Below
+## Chapter 2: As Above, So Below
 
 You have entered another dungeon. You stand at the bottom of the staircase where you entered, facing east. In this dungeon, there are two levels, separated by a blank line on the map:
 
@@ -53,7 +53,7 @@ There are many other staircases in this dungeon. Each staircase has two ends: a 
 After how many ticks do you leave the dungeon?
 
 
-## Example
+### Example
 
 Consider an example dungeon:
 

@@ -1,4 +1,4 @@
-# Answer to Chapter 1: Ground Rules
+## Answer to Chapter 1: Ground Rules
 
 You leave the dungeon after 1211 ticks.
 

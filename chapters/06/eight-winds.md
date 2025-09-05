@@ -4,7 +4,7 @@ You have entered the sixth dungeon. You stand at the bottom of the staircase whe
 
 The compass tracks your clockwise rotation in octants (increments of 45 degrees), starting at zero for east. Full revolutions, each composed of eight octants, also accumulate into the rotation. Turning left counts as counter-clockwise rotation (negative), while turning right counts as clockwise rotation (positive).
 
-With the compass slung around your neck as a makeshift inventory slot R, you turn your attention to the map:
+With the compass slung around your neck as inventory slot R, you turn your attention to the map:
 
 {% raw %}
 ```

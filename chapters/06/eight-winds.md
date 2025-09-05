@@ -1,9 +1,3 @@
----
-layout: default
-title: "Chapter 6: Eight Winds"
-render_with_liquid: false
----
-
 # Chapter 6: Eight Winds
 
 You have entered the sixth dungeon. You stand at the bottom of the staircase where you entered, facing east. A skeleton is slumped against the staircase. From its bony fist, suspended on a chain, hangs a revolutionary compass. You cautiosly retrieve it.
@@ -12,6 +6,7 @@ The compass tracks your clockwise rotation in octants (increments of 45 degrees)
 
 With the compass slung around your neck as a makeshift register R, you turn your attention to the map:
 
+{% raw %}
 ```
 #{#[}(#={)[(][](R[}[={##R]#]##]=#{=#Rua+e)}#=}[)}#}#{(R))}##={((
 [)x)eMVrQgGJL]cOY}NgL:}btC*q}{tF6bX8YCUT]3HA#5+62Rqm>W:%t0ymEE:(
@@ -211,6 +206,8 @@ RmBnZ+[z/0N:[F1+jXr*acEFVulzvFkURqldHM2WdA8KHglD5+c3W1t<.v(0##JR
 }:Q(0uqtc)be2*TNo)Q}##ca=X81mdzG[3U8mZ5HA)2b}Or.e{RfvH8jz/3-uzT{
 }}[RF{](]]{##[)[]=####{[[#))){({#[)[]{}W==]#(#{#([])}R)}}})[{)=#
 ```
+{% endraw %}
+
 
 This dungeon contains wall tiles for turning diagonally: backward-left-turners (marked `{` on the map), forward-left-turners (marked `(`), forward-right-turners (marked `)`), and backward-right-turners (marked `}`).
 
@@ -225,6 +222,7 @@ After how many steps do you leave the dungeon?
 
 Consider an example dungeon:
 
+{% raw %}
 ```
 }(2R9.7r=(:R][[(
 #5].4=){3[9.43R#
@@ -235,9 +233,11 @@ Consider an example dungeon:
 [239===6#]<)4##R
 }=)(##(}#]#}#}#}
 ```
+{% endraw %}
 
 Below is a log of walking through the example dungeon. Your location is marked `@` on the map.
 
+{% raw %}
 ```
 Step count: 0
 Coordinates: (10, 6, 0)
@@ -4634,5 +4634,6 @@ Non-zero registers:
 
 Step count: 171
 ```
+{% endraw %}
 
 You leave the example dungeon after 171 steps.

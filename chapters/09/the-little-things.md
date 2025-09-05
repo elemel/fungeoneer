@@ -2,6 +2,7 @@
 
 You have entered the ninth dungeon. You stand at the bottom of the staircase where you entered, facing east. Starting to question the fabric of reality, you scrutinize the map:
 
+{% raw %}
 ```
 ###[#]{R}#)][()][}]{_{#]}#(=}{}{{{}=|={}>}(({={#{{{}##)>R}[(#}{}
 ####p#UXtA]X]wqg;0\v]92wy6,3K[w=4Lccv5tl:FtR77&t)CsQ#+J6RyHW2axR
@@ -300,6 +301,7 @@ Rwjqrz|B|g*dG3XR~&up|={=#^h(=4V<i:&;9H8BQabCjC<vfcV(UO\TGA)%;BW=
 R~150%lHefMt~k5inr5QL6(.16}ea4fUW5<%K9RIDH1zcoijINtY\{Eq&)z=}o#m
 #([#R]{}[#{#])###=#}##=)(}#](}#=RYvKE9T({{}#[=##}RAX(})))mlkV^R}
 ```
+{% endraw %}
 
 This dungeon contains tiles with bitwise operators: inverters (marked `~` on the map), and-gates (marked `&`), or-gates (marked `|`), exor-gates (marked `^`), and shifters (marked `\`). Inverters are unary, while the other bitwise operators are binary.
 
@@ -316,6 +318,7 @@ After how many steps do you leave the dungeon?
 
 Consider an example dungeon:
 
+{% raw %}
 ```
 )}##}[[(((]R}#[}
 ~~){.6[68R7:}~^)
@@ -326,9 +329,11 @@ R^776=88###\<42}
 ##\sS]4R.6]R7p~(
 #]##(R(}})=##]]{
 ```
+{% endraw %}
 
 Below is a log of walking through the example dungeon. Your location is marked `@` on the map.
 
+{% raw %}
 ```
 Step count: 0
 Coordinates: (12, 3, 0)
@@ -6068,5 +6073,6 @@ R^776=88###\<@2}
 
 Step count: 170
 ```
+{% endraw %}
 
 You leave the example dungeon after 170 steps.

@@ -2,6 +2,7 @@
 
 You have entered the tenth dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
 
+{% raw %}
 ```
 #{BR}##{R()]](==(RsR}R{#[((_#)}))}({]#}({[(#{))[RRozRLKBl""MF*~w]{=KjsEQFRS'[}
 ]{iIho~kST>btOCX7|""y]MD}6.m^oJETx*&[.gtJcup=Ev1atdVveWDLI){]}(%{'ZVU+fU3ym,k{
@@ -273,6 +274,7 @@ Fgl-LyIN3B-mx8-naA&UXOC[#B2RfTr""L{6'(<5#w8X#k(0FIN9.e563R})BYwJti]N=5p71fj<H{
 {Ej~jCIv80N-pw:8jmwr0Wu}##({(E#i=[[a(w%#]x#5]*w)J3<ab=jE)0k]{R)#({[)<)E""orTO}
 {{]##)=##R[]P##<^u9"}(=-oZy/Kb[}"olr(({#(]#({RjtEw=}=#([[[=nqXWo-L8Fe-\""jTwO[
 ```
+{% endraw %}
 
 This dungeon contains stash tiles (marked `'` on the map), mimic tiles (marked `$`), and passage tiles (marked `"`). Whenever you step onto a stash tile, move forward to the next tile immediately, then push the extended ASCII code (0 through 255) of that tile onto the stack. This counts as a single step, and lets you stand on any tile, including wall tiles.
 
@@ -287,6 +289,7 @@ After how many steps do you leave the dungeon?
 
 Consider an example dungeon:
 
+{% raw %}
 ```
 )P)){]###]]{(#}
 )R9}4p<](.s9""(
@@ -294,9 +297,11 @@ Consider an example dungeon:
 )]Ss}"sr""s{56#
 ###[)$[})###R)#
 ```
+{% endraw %}
 
 Below is a log of walking through the example dungeon. Your location is marked `@` on the map.
 
+{% raw %}
 ```
 Step count: 0
 Coordinates: (6, 1, 0)
@@ -2324,5 +2329,6 @@ Stack (19):
   50
   ...
 ```
+{% endraw %}
 
 You leave the example dungeon after 68 steps.

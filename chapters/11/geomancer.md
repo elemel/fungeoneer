@@ -2,6 +2,7 @@
 
 You have entered the last dungeon. You stand at the bottom of the staircase where you entered, facing east. On the bottom stair, you spot an empty flask and a magic marker. You pause for a moment, then sit down on the staircase, taking the marker. You consult the map:
 
+{% raw %}
 ```
 {]H+ZF=P_#:5#9UL/Z~nUj%8-=\T-&>#)R?P{#}]}(=]][R1)){}[P[)[{[=#{##[_(Lelci1=)){]
 _neNCbgOg,8h)(Jpx"<]"D05*4AK5K+m9Ms~KmeS7*htDReq+dXRUm,kGp?7bl!*oI{>](SeyUkR\(
@@ -300,6 +301,8 @@ RvN9U~~YR0=e<Q(gLB"#|"A0]FR(~x^""""y\wnp9a#yOmy~}"#"M3hO}sljC(TF8kl-"Ha(Qi\"eR
 =<t~~BQV*n5iy6|c]~AyQ"."IW|zx.l(XNXQrhQhDD|NAenjq}lqpT%:i{<d{6&[75Bw)RlYd;~MD[
 [{}{##{R-ZR{{]})}#[[}RR##]#({=R{(P({]#{{))]]R#=]#}8=##(}{[]R}#(}P#(_R]#(=[)[R(
 ```
+{% endraw %}
+
 
 This dungeon contains reader tiles (marked `?` on the map) and writer tiles (marked `!`).
 
@@ -314,6 +317,7 @@ After how many steps do you leave the dungeon?
 
 Consider an example dungeon:
 
+{% raw %}
 ```
 ]#})R6?!S#.R]##
 #5#p[7##[#{.8[#
@@ -321,9 +325,11 @@ Consider an example dungeon:
 {=<3{47}P9R5S?}
 R8=##)[(({##)#[
 ```
+{% endraw %}
 
 Below is a log of walking through the example dungeon. Your location is marked `@` on the map.
 
+{% raw %}
 ```
 Step count: 0
 Coordinates: (2, 3, 0)
@@ -2504,5 +2510,6 @@ Stack (60):
   0
   ...
 ```
+{% endraw %}
 
 You leave the example dungeon after 74 steps.

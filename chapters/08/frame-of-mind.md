@@ -10,6 +10,7 @@ Register S serves as both stack size and stack pointer. It always points to the 
 
 With plenty of challenges ahead, you consult the map:
 
+{% raw %}
 ```
 (=](RmIO:=][(}R=}#){R}>e3LN*d1jnWg9bKwfu7>#]#}R[([#]}}#{9ny,Ie={
 _iHasicsZ=6qc_>WI[#sc1U}({{}#=}[(]{)[[*up1pjfKmgesbU77}c{.]({(V;
@@ -275,6 +276,7 @@ R7<Az#NZ##{p##G0#FKf%vD#m#W*Z]7/Ahz/U+iR-kC#c;6Kjiv),#5k#dhVu/)h
 ]<NwJLOykfExdrov*tv56XAqu:OjLj9r]Xd=b.0<+uV*syY]06x)/##V#lj}zw6<
 #(}###_#{##{{[})##(R]####[{)[#{R{(]{}yf=#R#]))({]=}]#}[){=R##R#]
 ```
+{% endraw %}
 
 This dungeon contains tiles with peekers (marked `,` on the map) and pokers (marked `;`), along with getters and setters for register S (marked `s` or `S`).
 
@@ -291,6 +293,7 @@ After how many steps do you leave the dungeon?
 
 Consider an example dungeon:
 
+{% raw %}
 ```
 ##]##[###=p)R={{
 #[r44R3{]3.5]73{
@@ -301,9 +304,11 @@ Consider an example dungeon:
 }463}9(r#:<48{{)
 ([}#)}]}[#P]RRP#
 ```
+{% endraw %}
 
 Below is a log of walking through the example dungeon. The hidden slots above the dynamic stack are shown as `(n)`. Your location is marked `@` on the map.
 
+{% raw %}
 ```
 Step count: 0
 Coordinates: (10, 6, 0)
@@ -6428,5 +6433,6 @@ Non-zero registers:
 
 Step count: 171
 ```
+{% endraw %}
 
 You leave the example dungeon after 171 steps.

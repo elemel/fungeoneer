@@ -6,6 +6,7 @@ With every step you take in the dungeon, the wayfarer's pin mirrors your movemen
 
 Anchored by the pin, you survey the map:
 
+{% raw %}
 ```
 #})]{]R(##Rx*hf.2)=/P{R(({()))==](##[(}####==P[#)]]{(R){R][KwoA=
 [9HKLB2T[YIV5r-r0m5l409D7C>VkXrY0xzHN6(p.Nwv5BxXhoj8>C.lDp>8-t=b
@@ -238,6 +239,7 @@ RiF.)##)Nr#]Ej2O765aVojjixa3V9qF4eUD##)k##U%l/zX4/}##O)=1##-##V#
 }kh<}##][{]]]###[)###]c##[###[#[#R/vtXotgaLd86M3eN[gxyloLvDY8hB]
 #=Qj5fexlupXxnUCZ7uAMr=/-kCb:uN1Id0aA1fmCBZ{######[)R#{}[#[#]7=#
 ```
+{% endraw %}
 
 This dungeon contains altar tiles (marked `_` on the map), along with getters and setters for register P (marked `p` or `P`). Whenever you step onto an altar tile, pop a number `b` from the stack, then get your position as another number `a`, then push `a` onto the stack, and finally set your position to `b`. This teleports you to the corresponding location.
 
@@ -250,6 +252,8 @@ You leave the dungeon when your position is negative after a completed step. Aft
 
 Consider an example dungeon:
 
+
+{% raw %}
 ```
 }}([R)_6){][R[##
 2r}92R6pp.pp9)R)
@@ -260,9 +264,11 @@ Consider an example dungeon:
 _R#=:]R4R43:7=r#
 [#}(]8=##]R[(=6P
 ```
+{% endraw %}
 
 Below is a log of walking through the example dungeon. Your location is marked `@` on the map.
 
+{% raw %}
 ```
 Step count: 0
 Coordinates: (12, 5, 0)
@@ -5326,5 +5332,6 @@ _R#=:]R4R43:7=r#
 
 Step count: 189
 ```
+{% endraw %}
 
 You leave the example dungeon after 189 steps.

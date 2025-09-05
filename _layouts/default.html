@@ -11,23 +11,26 @@
       {% endif %}
     </title>
 
-    <style>
-      body { font-family: sans-serif; max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
-      header { margin-bottom: 2rem; }
-      header a { text-decoration: none; color: black; font-size: 2rem; font-weight: bold; }
-    </style>
+    {{ content_for_header }}
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   </head>
 
   <body>
-    {% if page.title %}
-      <header>
-        <!-- Fixed site title link -->
-        <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
-      </header>
-    {% endif %}
+    <header class="site-header" role="banner">
+      <div class="wrapper">
+        {% unless page.url == '/' or page.url == '/index.html' %}
+          <!-- Show site title link only on subpages -->
+          <p class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></p>
+        {% endunless %}
+      </div>
+    </header>
 
-    <main>
+    <main class="wrapper">
       {{ content }}
     </main>
+
+    <footer class="site-footer wrapper">
+      {{ content_for_footer }}
+    </footer>
   </body>
 </html>

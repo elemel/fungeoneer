@@ -161,7 +161,7 @@ This dungeon contains altar tiles (marked `_` on the map), along with getters an
 
 Whenever you step onto a P-getter tile, get your position as a number, then push that number onto the stack. For a P-setter tile, pop a number from the stack, then set your position to that number. As above, this teleports you to the corresponding location.
 
-You leave the dungeon when your position is negative after a completed step. After how many ticks do you leave the dungeon?
+You leave the dungeon when your position is outside the dungeon. After how many ticks do you leave the dungeon?
 
 From here, you can [continue to the answer](../../answers/chapters/07/you-are-here.md).
 
@@ -169,7 +169,6 @@ From here, you can [continue to the answer](../../answers/chapters/07/you-are-he
 ### Example
 
 Consider an example dungeon:
-
 
 {% raw %}
 ```
@@ -1520,4 +1519,4 @@ T: 121
 ```
 {% endraw %}
 
-You leave the example dungeon after 121 steps.
+You leave the example dungeon after 121 ticks.

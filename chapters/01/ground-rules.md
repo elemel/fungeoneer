@@ -31,7 +31,7 @@ The directions on the map are right for east, down for south, left for west, and
 
 You discover a contraption wrapped inside the map: a hypnotic timepiece. You slip it into a vest pocket, close to your heart. After every tick of the clockwork, you are compelled to step forward if possible, and to change direction only when instructed. Stepping onto floor tiles (marked `.` on the map) has no particular effect.
 
-The dungeon contains wall tiles: left-rotators (marked `[`), right-rotators (marked `]`), and halters (marked `#`). Whenever you would step onto a wall tile, stay in front of the wall and rotate in place. This still counts as a tick. For a left-rotator, rotate 90 degrees to the left. For a right-rotator, rotate 90 degrees to the right. For a halter, do not rotate at all, in effect halting indefinitely.
+The dungeon contains wall tiles: left-turners (marked `[`), right-turners (marked `]`), and halters (marked `#`). Whenever you would step onto a wall tile, stay in front of the wall and turn in place. This still counts as a tick. For a left-turner, turn 90 degrees to the left. For a right-turner, turn 90 degrees to the right. For a halter, do not turn at all, in effect halting indefinitely.
 
 As demonstrated by the gnome, you leave the dungeon by stepping onto the staircase (marked `<`) from an adjacent tile. After how many ticks do you leave the dungeon?
 

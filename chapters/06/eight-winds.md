@@ -2,9 +2,9 @@
 
 You have entered the sixth dungeon. You stand at the bottom of the staircase where you entered, facing east. A skeleton is slumped against the staircase. From its bony fist, suspended on a chain, hangs a revolutionary compass. You cautiosly retrieve it.
 
-The compass tracks your clockwise rotation in octants (increments of 45 degrees), starting at zero for east. Full revolutions, each composed of eight octants, also accumulate into the rotation. Rotating left counts as counter-clockwise rotation (negative), while rotating right counts as clockwise rotation (positive).
+The compass tracks your clockwise rotation in octants (increments of 45 degrees), starting at zero for east. Full revolutions, each composed of eight octants, also accumulate into the rotation. Turning left counts as counter-clockwise rotation (negative), while turning right counts as clockwise rotation (positive).
 
-With the compass slung around your neck as inventory slot R, you direct your attention to the map:
+With the compass slung around your neck as inventory slot R, you turn your attention to the map:
 
 {% raw %}
 ```
@@ -136,9 +136,9 @@ RH0EJc/%FvZ{B(Ly#IUA%h###Cl}gX3JHl4v1mvb:VLqJdY*FJZvYMMbBeJ1ir6+K6CN8VYD4AuHV=I#
 ```
 {% endraw %}
 
-This dungeon contains wall tiles for rotating diagonally: backward-left-rotators (marked `{` on the map), forward-left-rotators (marked `(`), forward-right-rotators (marked `)`), and backward-right-rotators (marked `}`).
+This dungeon contains wall tiles for turning diagonally: backward-left-turners (marked `{` on the map), forward-left-turners (marked `(`), forward-right-turners (marked `)`), and backward-right-turners (marked `}`).
 
-Your direction can now also be diagonal: southeast, southwest, northwest, or northeast. As before, whenever you would step onto a wall tile, stay in front of the wall and rotate in place. For a backward-left-rotator, rotate 135 degrees left. For a forward-left-rotator, rotate 45 degrees left. For a forward-right-rotator, rotate 45 degrees right. For a backward-right-rotator, rotate 135 degrees right.
+Your direction can now also be diagonal: southeast, southwest, northwest, or northeast. As before, whenever you would step onto a wall tile, stay in front of the wall and turn in place. For a backward-left-turn, turn 135 degrees to the left. For a forward-left-turner, turn 45 degrees to the left. For a forward-right-turner, turn 45 degrees to the right. For a backward-right-turner, turn 135 degrees to the right.
 
 This dungeon also contains tiles with getters and setters for inventory slot R (marked `r` or `R`). Whenever you step onto an R-getter tile, get your rotation as a number, then push that number onto the stack. For an R-setter tile, pop a number from the stack, then set your rotation to that number, changing your direction accordingly.
 

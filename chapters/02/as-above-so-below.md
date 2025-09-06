@@ -48,7 +48,7 @@ You have entered another dungeon. You stand at the bottom of the staircase where
 
 The top level is shown at the top of the map, and the bottom level is shown at the bottom. On the top level, the only staircase leading up is the one where you entered. A dungeon with two or more levels is considered deep, while a shallow dungeon only has a single level.
 
-There are many other staircases in this dungeon. Each staircase has two ends: a top (marked `>` on the map) and a bottom (marked `<`). The bottom is located directly below the top, on the next lower level. The top of the staircase where you entered is above ground, outside the dungeon. It is not shown on the map. Whenever you step onto either end of a staircase, traverse it to the other end immediately, without turning. This counts as a single tick.
+There are many other staircases in this dungeon. Each staircase has two ends: a top (marked `>` on the map) and a bottom (marked `<`). The bottom is located directly below the top, on the next lower level. The top of the staircase where you entered is above ground, outside the dungeon. It is not shown on the map. Whenever you step onto either end of a staircase, traverse it to the other end immediately. This counts as a single tick.
 
 After how many ticks do you leave the dungeon?
 

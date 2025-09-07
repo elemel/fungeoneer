@@ -29,7 +29,7 @@ Unrolling the scroll, you identify it as a magic map. It ripples and shifts into
 
 The directions on the map are right for east, down for south, left for west, and up for north.
 
-You discover a contraption wrapped inside the map: a hypnotic timepiece. You slip it into a vest pocket, close to your heart. With every tick of the clockwork, you are compelled to move forward to the next tile in your facing direction, turning only when instructed. Each tile has a symbol with an effect, triggered by moving to it. Moving to a floor tile (marked `.` on the map) does not trigger any effect.
+You discover a contraption wrapped inside the map: a hypnotic timepiece. You slip it into a vest pocket, close to your heart. With every tick of the clockwork, you are compelled to move forward to the next tile in your facing direction, turning only when instructed. Each tile is marked with a symbol. Most symbols trigger an effect when you move to their tile, but floor tiles (marked `.` on the map) do not. Certain effects may cause you to move again, but any additional moves do not trigger further effects.
 
 The dungeon contains wall tiles: left-turners (marked `[`), right-turners (marked `]`), and halters (marked `#`). Instead of moving forward to a wall tile, you stay in the adjacent tile and turn in place. For a left-turner, turn 90 degrees to the left. For a right-turner, turn 90 degrees to the right. For a halter, do not turn at all, in effect halting indefinitely.
 

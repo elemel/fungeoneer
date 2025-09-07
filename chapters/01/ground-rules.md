@@ -1,6 +1,6 @@
 ## Chapter 1: Ground Rules
 
-You have entered a dungeon. You stand at the bottom of the staircase where you entered, facing east. A gnomish cartographer, carrying a bundle of scrolls, peers at you from an adjacent tile. As he moves onto the staircase, he thrusts a scroll into your hands. Before you can respond, he has already left the dungeon.
+You have entered a dungeon. You stand at the bottom of the staircase where you entered, facing east. A gnomish cartographer, carrying a bundle of scrolls, peers at you from an adjacent tile. As he moves to the staircase tile, he thrusts a scroll into your hands. Before you can respond, he has already left the dungeon.
 
 Unrolling the scroll, you identify it as a magic map. It ripples and shifts into a symbolic representation of the dungeon:
 
@@ -29,11 +29,11 @@ Unrolling the scroll, you identify it as a magic map. It ripples and shifts into
 
 The directions on the map are right for east, down for south, left for west, and up for north.
 
-You discover a contraption wrapped inside the map: a hypnotic timepiece. You slip it into a vest pocket, close to your heart. With every tick of the clockwork, you are compelled to move forward onto the next tile, turning only when instructed. Moving onto floor tiles (marked `.` on the map) has no particular effect.
+You discover a contraption wrapped inside the map: a hypnotic timepiece. You slip it into a vest pocket, close to your heart. With every tick of the clockwork, you are compelled to move forward to the next tile in your facing direction, turning only when instructed. Each tile has a symbol with an effect, triggered by moving to it. Moving to a floor tile (marked `.` on the map) does not trigger any effect.
 
-The dungeon contains wall tiles: left-turners (marked `[`), right-turners (marked `]`), and halters (marked `#`). Whenever you would move onto a wall tile, stay in the adjacent tile and turn in place. For a left-turner, turn 90 degrees to the left. For a right-turner, turn 90 degrees to the right. For a halter, do not turn at all, in effect halting indefinitely.
+The dungeon contains wall tiles: left-turners (marked `[`), right-turners (marked `]`), and halters (marked `#`). Instead of moving forward to a wall tile, you stay in the adjacent tile and turn in place. For a left-turner, turn 90 degrees to the left. For a right-turner, turn 90 degrees to the right. For a halter, do not turn at all, in effect halting indefinitely.
 
-As demonstrated by the gnome, you leave the dungeon by moving onto the staircase tile (marked `<`) from an adjacent tile. After how many ticks do you leave the dungeon?
+As demonstrated by the gnome, you leave the dungeon by moving to the staircase tile (marked `<`) from an adjacent tile. After how many ticks do you leave the dungeon?
 
 From here, you can [continue to the answer](../../answers/chapters/01/ground-rules.md).
 

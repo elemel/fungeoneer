@@ -46,9 +46,9 @@ You have entered another dungeon. You stand on the staircase tile where you ente
 ###]##]#####][][##[#]####[#####]#####]############[[##########[[]######]########
 ```
 
-The top level is shown at the top of the map, and the bottom level is shown at the bottom. A dungeon with two or more levels is considered deep, while a shallow dungeon only has a single level. On the top level, the only staircase leading up is the one where you entered.
+The top level is shown at the top of the map, and the bottom level at the bottom. A dungeon with two or more levels is considered deep, while a shallow dungeon only has a single level.
 
-There are many other staircases in this dungeon. Each staircase has two end tiles: a top (marked `>` on the map) and a bottom (marked `<`). The bottom tile is located directly below the top tile, on the next lower level. The top of the staircase where you entered is above ground, outside the dungeon. It is not shown on the map. Whenever you move to either end tile of a staircase, traverse it to the other end tile immediately, without triggering any effect on the other end.
+There are many staircase tiles in this dungeon: staircases leading down (marked `>` on the map) and staircases leading up (marked `<`). For a staircase-down tile, immediately move down to the next lower level, increasing your z-coordinate by one. For a staircase-up tile, immediately move up to the next higher level, decreasing your z-coordinate by one. As before, you leave the dungeon by triggering the staircase tile where you entered, which is the only staircase-up tile on the top level.
 
 After how many ticks do you leave the dungeon?
 

@@ -48,9 +48,9 @@ You have entered another dungeon. You stand on the staircase tile where you ente
 
 The top level is shown at the top of the map, and the bottom level at the bottom. A dungeon with two or more levels is considered deep, while a shallow dungeon only has a single level.
 
-There are many staircase tiles in this dungeon: staircases leading down (marked `>` on the map) and staircases leading up (marked `<`). For a staircase-down tile, immediately move down to the next lower level, increasing your z-coordinate by one. For a staircase-up tile, immediately move up to the next higher level, decreasing your z-coordinate by one. As before, you leave the dungeon by triggering the staircase tile where you entered, which is the only staircase-up tile on the top level.
+There are many staircase tiles in this dungeon: staircases leading down (marked `>` on the map) and staircases leading up (marked `<`). For a staircase-down tile, immediately move down to the next lower level, increasing your z-coordinate by one. For a staircase-up tile, immediately move up to the next higher level, decreasing your z-coordinate by one.
 
-After how many ticks do you leave the dungeon?
+As before, you leave the dungeon by triggering the staircase tile where you entered, which is the only staircase-up tile on the top level. After how many ticks do you leave the dungeon?
 
 From here, you can [continue to the answer](../../answers/chapters/02/as-above-so-below.md).
 
@@ -73,7 +73,7 @@ Consider an example dungeon:
 #]]######[]#[#[###]#
 ```
 
-The log below shows you walking through the example dungeon, with your location marked `@` on the map. In deep dungeons, coordinates are shown as `(x, y, z)`.
+The log below shows you moving through the example dungeon, with your location marked `@` on the map. In deep dungeons, coordinates are shown as `(x, y, z)`.
 
 ```
 ##########[#[####[##

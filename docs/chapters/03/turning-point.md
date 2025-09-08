@@ -273,7 +273,7 @@ S: 9
 
 ---
 
-You compare 9 and 4, turning right.
+You compare 9 > 4: turn right.
 
 ]#=.0:081=4292]][9=#
 96==3=##]2824:25799]
@@ -377,7 +377,7 @@ S: 12
 
 ---
 
-You compare 6 and 0, turning right.
+You compare 6 > 0: turn right.
 
 ]#=.0:081=4292]][9=#
 96==3=##]2824:25799]
@@ -442,7 +442,7 @@ S: 12
 
 ---
 
-You compare 4 and 9, turning left.
+You compare 4 < 9: turn left.
 
 ]#=.0:081=4292]][9@#
 96==3=##]2824:25799]
@@ -624,7 +624,7 @@ S: 19
 
 ---
 
-You compare 8 and 2, turning right.
+You compare 8 > 2: turn right.
 
 ]#=.0:081@4292]][9=#
 96==3=##]2824:25799]
@@ -910,7 +910,7 @@ S: 31
 
 ---
 
-You compare 9 and 3, turning right.
+You compare 9 > 3: turn right.
 
 ]#=.0:081=4292]][9=#
 96==3=##]2824:25799]
@@ -975,7 +975,7 @@ S: 32
 
 ---
 
-You compare 9 and 6, turning right.
+You compare 9 > 6: turn right.
 
 ]#=.0:081=4292]][9=#
 96@=3=##]2824:25799]
@@ -1001,7 +1001,7 @@ S: 30
 
 ---
 
-You compare 0 and 0, continuing straight.
+You compare 0 = 0: continue straight.
 
 ]#=.0:081=4292]][9=#
 96=@3=##]2824:25799]
@@ -1027,7 +1027,7 @@ S: 29
 
 ---
 
-You compare 6 and 3, turning right.
+You compare 6 > 3: turn right.
 
 ]#=.0:081=4292]][9=#
 96==3@##]2824:25799]
@@ -1066,7 +1066,7 @@ S: 29
 
 ---
 
-You compare 6 and 4, turning right.
+You compare 6 > 4: turn right.
 
 ]#=.0:081=4292]][9=#
 96==3=##]2824:25799]
@@ -1144,7 +1144,7 @@ S: 31
 
 ---
 
-You compare 0 and 6, turning left.
+You compare 0 < 6: turn left.
 
 ]#=.0:081=4292]][9=#
 96=@3=##]2824:25799]
@@ -1157,7 +1157,7 @@ S: 29
 
 ---
 
-You compare 6 and 2, turning right.
+You compare 6 > 2: turn right.
 
 ]#=.0:081=4292]][9=#
 96@=3=##]2824:25799]
@@ -1170,7 +1170,7 @@ S: 27
 
 ---
 
-You compare 9 and 4, turning right.
+You compare 9 > 4: turn right.
 
 ]#@.0:081=4292]][9=#
 96==3=##]2824:25799]
@@ -1261,7 +1261,7 @@ S: 29
 
 ---
 
-You compare 8 and 1, turning right.
+You compare 8 > 1: turn right.
 
 ]#=.0:081@4292]][9=#
 96==3=##]2824:25799]
@@ -1313,7 +1313,7 @@ S: 30
 
 ---
 
-You compare 3 and 9, turning left.
+You compare 3 < 9: turn left.
 
 ]#=.0:081=4292]][9=#
 96==3=##]2824:25799]

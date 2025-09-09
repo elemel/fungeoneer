@@ -9,12 +9,12 @@
 > For as long as I remember<br>
 > By the beating of the heart of time
 
-From here, you can [start in the overworld](overworld.md).
+From here, you can [start in the foreworld](foreworld.md).
 
 
 ## Table of Contents
 
-- [Overworld](overworld.md)
+- [Foreworld](foreworld.md)
 - Chapters
   - [Chapter 1: Ground Rules](chapters/01/ground-rules.md)
   - [Chapter 2: As Above, So Below](chapters/02/as-above-so-below.md)

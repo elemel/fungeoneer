@@ -1,6 +1,6 @@
 ## Chapter 4: The Art of Reckoning
 
-You have entered the fourth dungeon. You stand at the bottom of the staircase tile where you entered, facing east. You consult the map:
+You have entered the fourth dungeon. You stand on the staircase-up tile where you entered, facing east. You consult the map:
 
 ```
 ]##[>:4.70733/%2-5266]#]==[%=3/47=#[#=]##[0=%=:0]][=[>49-19]>73%1+0-730=#]=9%%=#

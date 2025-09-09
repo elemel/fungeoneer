@@ -1,6 +1,6 @@
 ## Chapter 1: Ground Rules
 
-You have entered a dungeon, arranged as a grid of tiles. You stand on the staircase tile where you entered, facing east. A gnomish cartographer, carrying a bundle of scrolls, peers at you from an adjacent tile. As he moves to the staircase tile, he thrusts a scroll into your hands. Before you can respond, he has already left the dungeon.
+You have entered a dungeon. You stand at the bottom of the staircase where you entered, facing east. A gnomish cartographer, carrying a bundle of scrolls, peers at you from nearby. As he moves to the staircase, he thrusts a scroll into your hands. Before you can respond, he has already left the dungeon.
 
 Unrolling the scroll, you identify it as a magic map. It ripples and shifts into a symbolic representation of the dungeon:
 
@@ -27,7 +27,7 @@ Unrolling the scroll, you identify it as a magic map. It ripples and shifts into
 ##[######################[###################[##]######]#######]###]#######]####
 ```
 
-The directions on the map are right for east, down for south, left for west, and up for north.
+The dungeon is arranged as a grid of tiles. The directions on the map are right for east, down for south, left for west, and up for north.
 
 You discover a contraption wrapped inside the map: a hypnotic timepiece. You slip it into a vest pocket, close to your heart. With every tick of the clockwork, you are compelled to move forward to the next tile and trigger its effect. You trigger only one tile per tick. If triggering a tile causes you to move again during the same tick, no further tile is triggered by the additional move. Triggering a floor tile (marked `.` on the map) has no effect.
 

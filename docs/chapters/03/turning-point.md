@@ -273,7 +273,7 @@ S: 9
 
 ---
 
-You compare 9 > 4: turn right.
+Comparing 9 > 4, you turn right.
 
 ]#=.0:081=4292]][9=#
 96==3=##]2824:25799]
@@ -377,7 +377,7 @@ S: 12
 
 ---
 
-You compare 6 > 0: turn right.
+Comparing 6 > 0, you turn right.
 
 ]#=.0:081=4292]][9=#
 96==3=##]2824:25799]
@@ -442,7 +442,7 @@ S: 12
 
 ---
 
-You compare 4 < 9: turn left.
+Comparing 4 < 9, you turn left.
 
 ]#=.0:081=4292]][9@#
 96==3=##]2824:25799]
@@ -546,7 +546,7 @@ S: 15
 
 ---
 
-You swap 2 and 5.
+You swap 5 and 2.
 
 ]#=.0:081=4292]][9=#
 96==3=##]2824@25799]
@@ -624,7 +624,7 @@ S: 19
 
 ---
 
-You compare 8 > 2: turn right.
+Comparing 8 > 2, you turn right.
 
 ]#=.0:081@4292]][9=#
 96==3=##]2824:25799]
@@ -702,7 +702,7 @@ S: 21
 
 ---
 
-You swap 2 and 9.
+You swap 9 and 2.
 
 ]#=.0:081=4292]][9=#
 96==3=##]2824@25799]
@@ -819,7 +819,7 @@ S: 26
 
 ---
 
-You swap 1 and 9.
+You swap 9 and 1.
 
 ]#=.0:081=4292]][9=#
 96==3=##]2824:25799]
@@ -858,7 +858,7 @@ S: 28
 
 ---
 
-You swap 4 and 6.
+You swap 6 and 4.
 
 ]#=.0:081=4292]][9=#
 96==3=##]2824:25799]
@@ -910,7 +910,7 @@ S: 31
 
 ---
 
-You compare 9 > 3: turn right.
+Comparing 9 > 3, you turn right.
 
 ]#=.0:081=4292]][9=#
 96==3=##]2824:25799]
@@ -975,7 +975,7 @@ S: 32
 
 ---
 
-You compare 9 > 6: turn right.
+Comparing 9 > 6, you turn right.
 
 ]#=.0:081=4292]][9=#
 96@=3=##]2824:25799]
@@ -1001,7 +1001,7 @@ S: 30
 
 ---
 
-You compare 0 = 0: continue straight.
+Comparing 0 = 0, you continue straight.
 
 ]#=.0:081=4292]][9=#
 96=@3=##]2824:25799]
@@ -1027,7 +1027,7 @@ S: 29
 
 ---
 
-You compare 6 > 3: turn right.
+Comparing 6 > 3, you turn right.
 
 ]#=.0:081=4292]][9=#
 96==3@##]2824:25799]
@@ -1066,7 +1066,7 @@ S: 29
 
 ---
 
-You compare 6 > 4: turn right.
+Comparing 6 > 4, you turn right.
 
 ]#=.0:081=4292]][9=#
 96==3=##]2824:25799]
@@ -1144,7 +1144,7 @@ S: 31
 
 ---
 
-You compare 0 < 6: turn left.
+Comparing 0 < 6, you turn left.
 
 ]#=.0:081=4292]][9=#
 96=@3=##]2824:25799]
@@ -1157,7 +1157,7 @@ S: 29
 
 ---
 
-You compare 6 > 2: turn right.
+Comparing 6 > 2, you turn right.
 
 ]#=.0:081=4292]][9=#
 96@=3=##]2824:25799]
@@ -1170,7 +1170,7 @@ S: 27
 
 ---
 
-You compare 9 > 4: turn right.
+Comparing 9 > 4, you turn right.
 
 ]#@.0:081=4292]][9=#
 96==3=##]2824:25799]
@@ -1209,7 +1209,7 @@ S: 26
 
 ---
 
-You swap 0 and 1.
+You swap 1 and 0.
 
 ]#=.0@081=4292]][9=#
 96==3=##]2824:25799]
@@ -1261,7 +1261,7 @@ S: 29
 
 ---
 
-You compare 8 > 1: turn right.
+Comparing 8 > 1, you turn right.
 
 ]#=.0:081@4292]][9=#
 96==3=##]2824:25799]
@@ -1313,7 +1313,7 @@ S: 30
 
 ---
 
-You compare 3 < 9: turn left.
+Comparing 3 < 9, you turn left.
 
 ]#=.0:081=4292]][9=#
 96==3=##]2824:25799]

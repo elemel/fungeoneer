@@ -170,7 +170,7 @@ S: 2
 
 ---
 
-You get 8 from C.
+You get 0 from C.
 
 #[]##[85bBab6a2A0=#[
 [1=4A6cCA]<58@]#[8:2
@@ -274,7 +274,7 @@ C: 7  S: 2
 
 ---
 
-You get 8 from A.
+You get 0 from A.
 
 #[]##[85bBab6a2A0=#[
 [1=4A6cCA]<58c]#[8:2
@@ -586,7 +586,7 @@ B: 4  C: 7  S: 1
 
 ---
 
-You get 2 from A.
+You get 0 from A.
 
 #[]##[85bBab6@2A0=#[
 [1=4A6cCA]<58c]#[8:2
@@ -612,7 +612,7 @@ B: 4  C: 7  S: 3
 
 ---
 
-You get 6 from B.
+You get 4 from B.
 
 #[]##[85bBa@6a2A0=#[
 [1=4A6cCA]<58c]#[8:2
@@ -625,7 +625,7 @@ B: 4  C: 7  S: 4
 
 ---
 
-You get 4 from A.
+You get 0 from A.
 
 #[]##[85bB@b6a2A0=#[
 [1=4A6cCA]<58c]#[8:2
@@ -651,7 +651,7 @@ C: 7  S: 4
 
 ---
 
-You get 4 from B.
+You get 0 from B.
 
 #[]##[85@Bab6a2A0=#[
 [1=4A6cCA]<58c]#[8:2
@@ -703,7 +703,7 @@ C: 7  S: 7
 
 ---
 
-You get 8 from C.
+You get 7 from C.
 
 #[]##[85bBab6a2A0=#[
 [1=4A6@CA]<58c]#[8:2
@@ -781,7 +781,7 @@ A: 5  B: 7  C: 7  S: 5
 
 ---
 
-You get 4 from C.
+You get 7 from C.
 
 #[]##[85bBab6a2A0=#[
 [1=4A6cCA]<58c]#[8:2
@@ -820,7 +820,7 @@ A: 7  B: 7  C: 7  S: 6
 
 ---
 
-You get 6 from C.
+You get 7 from C.
 
 #[]##[85bBab6a2A0=#[
 [1=4A6cCA]<58c]#[8:2
@@ -885,7 +885,7 @@ A: 7  B: 7  C: 7  S: 7
 
 ---
 
-You get 9 from C.
+You get 7 from C.
 
 #[]##[85bBab6a2A0=#[
 [1=4A6cCA]<58c]#[8:2
@@ -976,7 +976,7 @@ A: 7  B: 7  C: 7  S: 7
 
 ---
 
-You get 9 from C.
+You get 7 from C.
 
 #[]##[85bBab6a2A0=#[
 [1=4A6cCA]<58c]#[8:2
@@ -1184,7 +1184,7 @@ A: 7  B: 4  C: 7  S: 13
 
 ---
 
-You get 3 from C.
+You get 7 from C.
 
 #[]##[85bBab6a2A0=#[
 [1=4A6cCA]<58c]#[8:2
@@ -1353,7 +1353,7 @@ A: 4  B: 4  C: 7  S: 15
 
 ---
 
-You get 6 from C.
+You get 7 from C.
 
 #[]##[85bBab6a2A0=#[
 [1=4A6@CA]<58c]#[8:2
@@ -1496,7 +1496,7 @@ A: 6  B: 7  C: 7  S: 11
 
 ---
 
-You get 1 from C.
+You get 7 from C.
 
 #[]##[85bBab6a2A0=#[
 [1=4A6cCA]<58c]#[8:2
@@ -1522,7 +1522,7 @@ A: 6  B: 7  C: 7  S: 10
 
 ---
 
-You get 9 from A.
+You get 6 from A.
 
 #[]##[85bBab6a2A0=#[
 [1=4A6cCA]<58c]#[8:2

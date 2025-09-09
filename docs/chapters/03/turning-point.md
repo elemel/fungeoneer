@@ -69,7 +69,7 @@ Though empty for the time being, the purse has plenty of room for a tall stack o
 ##[=261<76.=#[]##]]=<1=#][=3[#].2959187:878.7:=<48=][#####=[]#####==###]=]######
 ```
 
-This dungeon contains tiles with digits (marked `0` through `9` on the map), swappers (marked `:`), and junctions (marked `=`). For a digit tile, push the corresponding number onto the stack. For a swapper tile, swap the two numbers at the top of the stack.
+This dungeon contains tiles with digits (marked `0` through `9` on the map), swappers (marked `:`), and junctions (marked `=`). Whenever you trigger a digit tile, push the corresponding number onto the stack. For a swapper tile, swap the two numbers at the top of the stack.
 
 For a junction tile, pop two arguments from the stack: first `b`, then `a`. If `a` is less than `b`, turn 90 degrees to the left. If `a` is greater than `b`, turn 90 degrees to the right. If the arguments are equal, do not turn at all.
 

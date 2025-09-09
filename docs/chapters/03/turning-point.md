@@ -273,7 +273,7 @@ S: 9
 
 ---
 
-Comparing 9 > 4, you turn right.
+You turn right because 9 > 4.
 
 ]#=.0:081=4292]][9=#
 96==3=##]2824:25799]
@@ -377,7 +377,7 @@ S: 12
 
 ---
 
-Comparing 6 > 0, you turn right.
+You turn right because 6 > 0.
 
 ]#=.0:081=4292]][9=#
 96==3=##]2824:25799]
@@ -442,7 +442,7 @@ S: 12
 
 ---
 
-Comparing 4 < 9, you turn left.
+You turn left because 4 < 9.
 
 ]#=.0:081=4292]][9@#
 96==3=##]2824:25799]
@@ -624,7 +624,7 @@ S: 19
 
 ---
 
-Comparing 8 > 2, you turn right.
+You turn right because 8 > 2.
 
 ]#=.0:081@4292]][9=#
 96==3=##]2824:25799]
@@ -910,7 +910,7 @@ S: 31
 
 ---
 
-Comparing 9 > 3, you turn right.
+You turn right because 9 > 3.
 
 ]#=.0:081=4292]][9=#
 96==3=##]2824:25799]
@@ -975,7 +975,7 @@ S: 32
 
 ---
 
-Comparing 9 > 6, you turn right.
+You turn right because 9 > 6.
 
 ]#=.0:081=4292]][9=#
 96@=3=##]2824:25799]
@@ -1001,7 +1001,7 @@ S: 30
 
 ---
 
-Comparing 0 = 0, you continue straight.
+You continue straight because 0 = 0.
 
 ]#=.0:081=4292]][9=#
 96=@3=##]2824:25799]
@@ -1027,7 +1027,7 @@ S: 29
 
 ---
 
-Comparing 6 > 3, you turn right.
+You turn right because 6 > 3.
 
 ]#=.0:081=4292]][9=#
 96==3@##]2824:25799]
@@ -1066,7 +1066,7 @@ S: 29
 
 ---
 
-Comparing 6 > 4, you turn right.
+You turn right because 6 > 4.
 
 ]#=.0:081=4292]][9=#
 96==3=##]2824:25799]
@@ -1144,7 +1144,7 @@ S: 31
 
 ---
 
-Comparing 0 < 6, you turn left.
+You turn left because 0 < 6.
 
 ]#=.0:081=4292]][9=#
 96=@3=##]2824:25799]
@@ -1157,7 +1157,7 @@ S: 29
 
 ---
 
-Comparing 6 > 2, you turn right.
+You turn right because 6 > 2.
 
 ]#=.0:081=4292]][9=#
 96@=3=##]2824:25799]
@@ -1170,7 +1170,7 @@ S: 27
 
 ---
 
-Comparing 9 > 4, you turn right.
+You turn right because 9 > 4.
 
 ]#@.0:081=4292]][9=#
 96==3=##]2824:25799]
@@ -1261,7 +1261,7 @@ S: 29
 
 ---
 
-Comparing 8 > 1, you turn right.
+You turn right because 8 > 1.
 
 ]#=.0:081@4292]][9=#
 96==3=##]2824:25799]
@@ -1313,7 +1313,7 @@ S: 30
 
 ---
 
-Comparing 3 < 9, you turn left.
+You turn left because 3 < 9.
 
 ]#=.0:081=4292]][9=#
 96==3=##]2824:25799]

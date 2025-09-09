@@ -270,7 +270,7 @@ S: 5
 
 ---
 
-Comparing 0 < 5, you turn left.
+You turn left because 0 < 5.
 
 ]#=7843-:00131%408]#
 *6462=##<6441%04/:5]
@@ -543,7 +543,7 @@ S: 5
 
 ---
 
-Comparing 9 > 7, you turn right.
+You turn right because 9 > 7.
 
 ]#=7843-:00131%408]#
 *6462=##<6441%04/:5]
@@ -647,7 +647,7 @@ S: 7
 
 ---
 
-Comparing 6 > 2, you turn right.
+You turn right because 6 > 2.
 
 ]#=7843-:00131%408]#
 *6462@##<6441%04/:5]
@@ -686,7 +686,7 @@ S: 5
 
 ---
 
-Comparing 24 > 3, you turn right.
+You turn right because 24 > 3.
 
 ]#=7843-:00131%408]#
 *6462=##<6441%04/:5]
@@ -790,7 +790,7 @@ S: 2
 
 ---
 
-Comparing 10 > 4, you turn right.
+You turn right because 10 > 4.
 
 ]#@7843-:00131%408]#
 *6462=##<6441%04/:5]
@@ -1024,7 +1024,7 @@ S: 10
 
 ---
 
-Comparing 8 > 0, you turn right.
+You turn right because 8 > 0.
 
 ]#=7843-:00131%408]#
 *6462=##<6441%04/:5]
@@ -1167,7 +1167,7 @@ S: 7
 
 ---
 
-Comparing 1 < 6, you turn left.
+You turn left because 1 < 6.
 
 ]#=7843-:00131%408]#
 *6462=##<6441%04/:5]
@@ -1193,7 +1193,7 @@ S: 6
 
 ---
 
-Comparing 0 < 2, you turn left.
+You turn left because 0 < 2.
 
 ]#=7843-:00131%408]#
 *6462=##<6441%04/:5]

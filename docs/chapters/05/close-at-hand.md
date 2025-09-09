@@ -222,7 +222,7 @@ S: 5
 
 ---
 
-Comparing 4 < 9, you turn left.
+You turn left because 4 < 9.
 
 #[]##[85bBab6a2A0=#[
 [1=4A6cCA]<58c]#[8:2
@@ -300,7 +300,7 @@ C: 7  S: 2
 
 ---
 
-Comparing 5 < 8, you turn left.
+You turn left because 5 < 8.
 
 #[]##[85bBab6a2A0=#[
 [1=4A6cCA]<58c]#[8:2
@@ -534,7 +534,7 @@ A: 2  B: 4  C: 7  S: 2
 
 ---
 
-Comparing 6 < 8, you turn left.
+You turn left because 6 < 8.
 
 #[]##[85bBab6a2A0@#[
 [1=4A6cCA]<58c]#[8:2
@@ -846,7 +846,7 @@ A: 7  B: 7  C: 7  S: 8
 
 ---
 
-Comparing 7 < 9, you turn left.
+You turn left because 7 < 9.
 
 #[]##[85bBab6a2A0=#[
 [1=4A6cCA]<58c]#[8:2
@@ -1132,7 +1132,7 @@ A: 7  B: 7  C: 7  S: 14
 
 ---
 
-Comparing 1 < 9, you turn left.
+You turn left because 1 < 9.
 
 #[]##[85bBab6a2A0=#[
 [1=4A6cCA]<58c]#[8:2
@@ -1288,7 +1288,7 @@ A: 6  B: 4  C: 7  S: 16
 
 ---
 
-Comparing 7 > 4, you turn right.
+You turn right because 7 > 4.
 
 #[]##[85bBab6a2A0=#[
 [1@4A6cCA]<58c]#[8:2
@@ -1431,7 +1431,7 @@ A: 6  B: 4  C: 7  S: 14
 
 ---
 
-Comparing 3 < 7, you turn left.
+You turn left because 3 < 7.
 
 #[]##[85bBab6a2A0=#[
 [1=4A6cCA]<58c]#[8:2
@@ -1483,7 +1483,7 @@ A: 6  B: 7  C: 7  S: 13
 
 ---
 
-Comparing 1 < 3, you turn left.
+You turn left because 1 < 3.
 
 #[]##[85bBab6a2A0=#[
 [1=4A6cCA]<58c]#[8:2
@@ -1509,7 +1509,7 @@ A: 6  B: 7  C: 7  S: 12
 
 ---
 
-Comparing 1 < 7, you turn left.
+You turn left because 1 < 7.
 
 #[]##[85bBab6a2A0=#[
 [1=4A6cCA]<58c]#[8:2

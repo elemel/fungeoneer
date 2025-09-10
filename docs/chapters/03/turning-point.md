@@ -90,7 +90,7 @@ Consider an example dungeon:
 ##]26=###=2[#]#[##[#
 ```
 
-The log below shows you exploring the example dungeon, with your location marked `@` on the map. The status lines now also show the stack (labeled `St`). The stack is shown as a list of numbers, starting with the top and ending with the bottom. An empty stack is shown as `[]`. For large stacks, only the first few numbers at the top are shown.
+The log below shows you exploring the example dungeon, with your location marked `@` on the map. The status line now also shows the stack (labeled `St`). The stack is shown as a list of numbers, starting with the top and ending with the bottom. An empty stack is shown as `[]`. For large stacks, only the first few numbers at the top are shown.
 
 ```
 ]#=.0:081=4292]][9=#

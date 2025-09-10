@@ -140,7 +140,6 @@ The log below shows you exploring the example dungeon, with your location marked
 #=34Bc[#=37B==7CBaA=
 
 St: []  Dx: East  Co: (10, 1)  TC: 0
-S: 0
 
 ---
 
@@ -153,7 +152,6 @@ You push 5.
 #=34Bc[#=37B==7CBaA=
 
 St: [5]  Dx: East  Co: (11, 1)  TC: 1
-S: 1
 
 ---
 
@@ -166,7 +164,6 @@ You push 8.
 #=34Bc[#=37B==7CBaA=
 
 St: [8, 5]  Dx: East  Co: (12, 1)  TC: 2
-S: 2
 
 ---
 
@@ -179,7 +176,6 @@ You get 0 from C.
 #=34Bc[#=37B==7CBaA=
 
 St: [0, 8, 5]  Dx: East  Co: (13, 1)  TC: 3
-S: 3
 
 ---
 
@@ -192,7 +188,6 @@ You turn right.
 #=34Bc[#=37B==7CBaA=
 
 St: [0, 8, 5]  Dx: South  Co: (13, 1)  TC: 4
-S: 3
 
 ---
 
@@ -205,7 +200,6 @@ You push 4.
 #=34Bc[#=37B==7CBaA=
 
 St: [4, 0, 8, 5]  Dx: South  Co: (13, 2)  TC: 5
-S: 4
 
 ---
 
@@ -218,7 +212,6 @@ You push 9.
 #=34Bc[#=37B==7CBaA=
 
 St: [9, 4, 0, 8, 5]  Dx: South  Co: (13, 3)  TC: 6
-S: 5
 
 ---
 
@@ -231,7 +224,6 @@ You turn left because 4 < 9.
 #=34Bc[#=37B=@7CBaA=
 
 St: [0, 8, 5]  Dx: East  Co: (13, 4)  TC: 7
-S: 3
 
 ---
 
@@ -244,7 +236,6 @@ You push 7.
 #=34Bc[#=37B==@CBaA=
 
 St: [7, 0, 8, 5]  Dx: East  Co: (14, 4)  TC: 8
-S: 4
 
 ---
 
@@ -257,7 +248,7 @@ You set C to 7.
 #=34Bc[#=37B==7@BaA=
 
 St: [0, 8, 5]  Dx: East  Co: (15, 4)  TC: 9
-C: 7  S: 3
+C: 7
 
 ---
 
@@ -270,7 +261,7 @@ You set B to 0.
 #=34Bc[#=37B==7C@aA=
 
 St: [8, 5]  Dx: East  Co: (16, 4)  TC: 10
-C: 7  S: 2
+C: 7
 
 ---
 
@@ -283,7 +274,7 @@ You get 0 from A.
 #=34Bc[#=37B==7CB@A=
 
 St: [0, 8, 5]  Dx: East  Co: (17, 4)  TC: 11
-C: 7  S: 3
+C: 7
 
 ---
 
@@ -296,7 +287,7 @@ You set A to 0.
 #=34Bc[#=37B==7CBa@=
 
 St: [8, 5]  Dx: East  Co: (18, 4)  TC: 12
-C: 7  S: 2
+C: 7
 
 ---
 
@@ -309,7 +300,7 @@ You turn left because 5 < 8.
 #=34Bc[#=37B==7CBaA@
 
 St: []  Dx: North  Co: (19, 4)  TC: 13
-C: 7  S: 0
+C: 7
 
 ---
 
@@ -322,7 +313,7 @@ You push 6.
 #=34Bc[#=37B==7CBaA=
 
 St: [6]  Dx: North  Co: (19, 3)  TC: 14
-C: 7  S: 1
+C: 7
 
 ---
 
@@ -335,7 +326,7 @@ You push 9.
 #=34Bc[#=37B==7CBaA=
 
 St: [9, 6]  Dx: North  Co: (19, 2)  TC: 15
-C: 7  S: 2
+C: 7
 
 ---
 
@@ -348,7 +339,7 @@ You push 2.
 #=34Bc[#=37B==7CBaA=
 
 St: [2, 9, 6]  Dx: North  Co: (19, 1)  TC: 16
-C: 7  S: 3
+C: 7
 
 ---
 
@@ -361,7 +352,7 @@ You turn left.
 #=34Bc[#=37B==7CBaA=
 
 St: [2, 9, 6]  Dx: West  Co: (19, 1)  TC: 17
-C: 7  S: 3
+C: 7
 
 ---
 
@@ -374,7 +365,7 @@ You swap 9 and 2.
 #=34Bc[#=37B==7CBaA=
 
 St: [9, 2, 6]  Dx: West  Co: (18, 1)  TC: 18
-C: 7  S: 3
+C: 7
 
 ---
 
@@ -387,7 +378,7 @@ You push 8.
 #=34Bc[#=37B==7CBaA=
 
 St: [8, 9, 2, 6]  Dx: West  Co: (17, 1)  TC: 19
-C: 7  S: 4
+C: 7
 
 ---
 
@@ -400,7 +391,7 @@ You turn left.
 #=34Bc[#=37B==7CBaA=
 
 St: [8, 9, 2, 6]  Dx: South  Co: (17, 1)  TC: 20
-C: 7  S: 4
+C: 7
 
 ---
 
@@ -413,7 +404,7 @@ You set A to 8.
 #=34Bc[#=37B==7CBaA=
 
 St: [9, 2, 6]  Dx: South  Co: (17, 2)  TC: 21
-A: 8  C: 7  S: 3
+A: 8  C: 7
 
 ---
 
@@ -426,7 +417,7 @@ You turn right.
 #=34Bc[#=37B==7CBaA=
 
 St: [9, 2, 6]  Dx: West  Co: (17, 2)  TC: 22
-A: 8  C: 7  S: 3
+A: 8  C: 7
 
 ---
 
@@ -439,7 +430,7 @@ You set B to 9.
 #=34Bc[#=37B==7CBaA=
 
 St: [2, 6]  Dx: West  Co: (16, 2)  TC: 23
-A: 8  B: 9  C: 7  S: 2
+A: 8  B: 9  C: 7
 
 ---
 
@@ -452,7 +443,7 @@ You push 4.
 #=34Bc[#=37B==7CBaA=
 
 St: [4, 2, 6]  Dx: West  Co: (15, 2)  TC: 24
-A: 8  B: 9  C: 7  S: 3
+A: 8  B: 9  C: 7
 
 ---
 
@@ -465,7 +456,7 @@ You turn left.
 #=34Bc[#=37B==7CBaA=
 
 St: [4, 2, 6]  Dx: South  Co: (15, 2)  TC: 25
-A: 8  B: 9  C: 7  S: 3
+A: 8  B: 9  C: 7
 
 ---
 
@@ -478,7 +469,7 @@ You turn left.
 #=34Bc[#=37B==7CBaA=
 
 St: [4, 2, 6]  Dx: East  Co: (15, 2)  TC: 26
-A: 8  B: 9  C: 7  S: 3
+A: 8  B: 9  C: 7
 
 ---
 
@@ -491,7 +482,7 @@ You set B to 4.
 #=34Bc[#=37B==7CBaA=
 
 St: [2, 6]  Dx: East  Co: (16, 2)  TC: 27
-A: 8  B: 4  C: 7  S: 2
+A: 8  B: 4  C: 7
 
 ---
 
@@ -504,7 +495,7 @@ You set A to 2.
 #=34Bc[#=37B==7CBaA=
 
 St: [6]  Dx: East  Co: (17, 2)  TC: 28
-A: 2  B: 4  C: 7  S: 1
+A: 2  B: 4  C: 7
 
 ---
 
@@ -517,7 +508,7 @@ You turn left.
 #=34Bc[#=37B==7CBaA=
 
 St: [6]  Dx: North  Co: (17, 2)  TC: 29
-A: 2  B: 4  C: 7  S: 1
+A: 2  B: 4  C: 7
 
 ---
 
@@ -530,7 +521,7 @@ You push 8.
 #=34Bc[#=37B==7CBaA=
 
 St: [8, 6]  Dx: North  Co: (17, 1)  TC: 30
-A: 2  B: 4  C: 7  S: 2
+A: 2  B: 4  C: 7
 
 ---
 
@@ -543,7 +534,7 @@ You turn left because 6 < 8.
 #=34Bc[#=37B==7CBaA=
 
 St: []  Dx: West  Co: (17, 0)  TC: 31
-A: 2  B: 4  C: 7  S: 0
+A: 2  B: 4  C: 7
 
 ---
 
@@ -556,7 +547,7 @@ You push 0.
 #=34Bc[#=37B==7CBaA=
 
 St: [0]  Dx: West  Co: (16, 0)  TC: 32
-A: 2  B: 4  C: 7  S: 1
+A: 2  B: 4  C: 7
 
 ---
 
@@ -569,7 +560,7 @@ You set A to 0.
 #=34Bc[#=37B==7CBaA=
 
 St: []  Dx: West  Co: (15, 0)  TC: 33
-B: 4  C: 7  S: 0
+B: 4  C: 7
 
 ---
 
@@ -582,7 +573,7 @@ You push 2.
 #=34Bc[#=37B==7CBaA=
 
 St: [2]  Dx: West  Co: (14, 0)  TC: 34
-B: 4  C: 7  S: 1
+B: 4  C: 7
 
 ---
 
@@ -595,7 +586,7 @@ You get 0 from A.
 #=34Bc[#=37B==7CBaA=
 
 St: [0, 2]  Dx: West  Co: (13, 0)  TC: 35
-B: 4  C: 7  S: 2
+B: 4  C: 7
 
 ---
 
@@ -608,7 +599,7 @@ You push 6.
 #=34Bc[#=37B==7CBaA=
 
 St: [6, 0, 2]  Dx: West  Co: (12, 0)  TC: 36
-B: 4  C: 7  S: 3
+B: 4  C: 7
 
 ---
 
@@ -621,7 +612,7 @@ You get 4 from B.
 #=34Bc[#=37B==7CBaA=
 
 St: [4, 6, 0, 2]  Dx: West  Co: (11, 0)  TC: 37
-B: 4  C: 7  S: 4
+B: 4  C: 7
 
 ---
 
@@ -634,7 +625,7 @@ You get 0 from A.
 #=34Bc[#=37B==7CBaA=
 
 St: [0, 4, 6, 0, 2]  Dx: West  Co: (10, 0)  TC: 38
-B: 4  C: 7  S: 5
+B: 4  C: 7
 
 ---
 
@@ -647,7 +638,7 @@ You set B to 0.
 #=34Bc[#=37B==7CBaA=
 
 St: [4, 6, 0, 2]  Dx: West  Co: (9, 0)  TC: 39
-C: 7  S: 4
+C: 7
 
 ---
 
@@ -660,7 +651,7 @@ You get 0 from B.
 #=34Bc[#=37B==7CBaA=
 
 St: [0, 4, 6, 0, 2]  Dx: West  Co: (8, 0)  TC: 40
-C: 7  S: 5
+C: 7
 
 ---
 
@@ -673,7 +664,7 @@ You push 5.
 #=34Bc[#=37B==7CBaA=
 
 St: [5, 0, 4, 6, 0, 2]  Dx: West  Co: (7, 0)  TC: 41
-C: 7  S: 6
+C: 7
 
 ---
 
@@ -686,7 +677,7 @@ You push 8.
 #=34Bc[#=37B==7CBaA=
 
 St: [8, 5, 0, 4, 6, 0, 2]  Dx: West  Co: (6, 0)  TC: 42
-C: 7  S: 7
+C: 7
 
 ---
 
@@ -699,7 +690,7 @@ You turn left.
 #=34Bc[#=37B==7CBaA=
 
 St: [8, 5, 0, 4, 6, 0, 2]  Dx: South  Co: (6, 0)  TC: 43
-C: 7  S: 7
+C: 7
 
 ---
 
@@ -712,7 +703,7 @@ You get 7 from C.
 #=34Bc[#=37B==7CBaA=
 
 St: [7, 8, 5, 0, 4, 6, 0, 2]  Dx: South  Co: (6, 1)  TC: 44
-C: 7  S: 8
+C: 7
 
 ---
 
@@ -725,7 +716,7 @@ You set B to 7.
 #=34Bc[#=37B==7CBaA=
 
 St: [8, 5, 0, 4, 6, 0, 2]  Dx: South  Co: (6, 2)  TC: 45
-B: 7  C: 7  S: 7
+B: 7  C: 7
 
 ---
 
@@ -738,7 +729,7 @@ You set A to 8.
 #=34Bc[#=37B==7CBaA=
 
 St: [5, 0, 4, 6, 0, 2]  Dx: South  Co: (6, 3)  TC: 46
-A: 8  B: 7  C: 7  S: 6
+A: 8  B: 7  C: 7
 
 ---
 
@@ -751,7 +742,7 @@ You turn left.
 #=34Bc[#=37B==7CBaA=
 
 St: [5, 0, 4, 6, 0, 2]  Dx: East  Co: (6, 3)  TC: 47
-A: 8  B: 7  C: 7  S: 6
+A: 8  B: 7  C: 7
 
 ---
 
@@ -764,7 +755,7 @@ You set A to 5.
 #=34Bc[#=37B==7CBaA=
 
 St: [0, 4, 6, 0, 2]  Dx: East  Co: (7, 3)  TC: 48
-A: 5  B: 7  C: 7  S: 5
+A: 5  B: 7  C: 7
 
 ---
 
@@ -777,7 +768,7 @@ You swap 4 and 0.
 #=34Bc[#=37B==7CBaA=
 
 St: [4, 0, 6, 0, 2]  Dx: East  Co: (8, 3)  TC: 49
-A: 5  B: 7  C: 7  S: 5
+A: 5  B: 7  C: 7
 
 ---
 
@@ -790,7 +781,7 @@ You get 7 from C.
 #=34Bc[#=37B==7CBaA=
 
 St: [7, 4, 0, 6, 0, 2]  Dx: East  Co: (9, 3)  TC: 50
-A: 5  B: 7  C: 7  S: 6
+A: 5  B: 7  C: 7
 
 ---
 
@@ -803,7 +794,7 @@ You set A to 7.
 #=34Bc[#=37B==7CBaA=
 
 St: [4, 0, 6, 0, 2]  Dx: East  Co: (10, 3)  TC: 51
-A: 7  B: 7  C: 7  S: 5
+A: 7  B: 7  C: 7
 
 ---
 
@@ -816,7 +807,7 @@ You push 6.
 #=34Bc[#=37B==7CBaA=
 
 St: [6, 4, 0, 6, 0, 2]  Dx: East  Co: (11, 3)  TC: 52
-A: 7  B: 7  C: 7  S: 6
+A: 7  B: 7  C: 7
 
 ---
 
@@ -829,7 +820,7 @@ You get 7 from C.
 #=34Bc[#=37B==7CBaA=
 
 St: [7, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (12, 3)  TC: 53
-A: 7  B: 7  C: 7  S: 7
+A: 7  B: 7  C: 7
 
 ---
 
@@ -842,7 +833,7 @@ You push 9.
 #=34Bc[#=37B==7CBaA=
 
 St: [9, 7, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (13, 3)  TC: 54
-A: 7  B: 7  C: 7  S: 8
+A: 7  B: 7  C: 7
 
 ---
 
@@ -855,7 +846,7 @@ You turn left because 7 < 9.
 #=34Bc[#=37B==7CBaA=
 
 St: [6, 4, 0, 6, 0, 2]  Dx: North  Co: (14, 3)  TC: 55
-A: 7  B: 7  C: 7  S: 6
+A: 7  B: 7  C: 7
 
 ---
 
@@ -868,7 +859,7 @@ You turn left.
 #=34Bc[#=37B==7CBaA=
 
 St: [6, 4, 0, 6, 0, 2]  Dx: West  Co: (14, 3)  TC: 56
-A: 7  B: 7  C: 7  S: 6
+A: 7  B: 7  C: 7
 
 ---
 
@@ -881,7 +872,7 @@ You push 9.
 #=34Bc[#=37B==7CBaA=
 
 St: [9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (13, 3)  TC: 57
-A: 7  B: 7  C: 7  S: 7
+A: 7  B: 7  C: 7
 
 ---
 
@@ -894,7 +885,7 @@ You get 7 from C.
 #=34Bc[#=37B==7CBaA=
 
 St: [7, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (12, 3)  TC: 58
-A: 7  B: 7  C: 7  S: 8
+A: 7  B: 7  C: 7
 
 ---
 
@@ -907,7 +898,7 @@ You push 6.
 #=34Bc[#=37B==7CBaA=
 
 St: [6, 7, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (11, 3)  TC: 59
-A: 7  B: 7  C: 7  S: 9
+A: 7  B: 7  C: 7
 
 ---
 
@@ -920,7 +911,7 @@ You set A to 6.
 #=34Bc[#=37B==7CBaA=
 
 St: [7, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (10, 3)  TC: 60
-A: 6  B: 7  C: 7  S: 8
+A: 6  B: 7  C: 7
 
 ---
 
@@ -933,7 +924,7 @@ You get 7 from C.
 #=34Bc[#=37B==7CBaA=
 
 St: [7, 7, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (9, 3)  TC: 61
-A: 6  B: 7  C: 7  S: 9
+A: 6  B: 7  C: 7
 
 ---
 
@@ -946,7 +937,7 @@ You swap 7 and 7.
 #=34Bc[#=37B==7CBaA=
 
 St: [7, 7, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (8, 3)  TC: 62
-A: 6  B: 7  C: 7  S: 9
+A: 6  B: 7  C: 7
 
 ---
 
@@ -959,7 +950,7 @@ You set A to 7.
 #=34Bc[#=37B==7CBaA=
 
 St: [7, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (7, 3)  TC: 63
-A: 7  B: 7  C: 7  S: 8
+A: 7  B: 7  C: 7
 
 ---
 
@@ -972,7 +963,7 @@ You set A to 7.
 #=34Bc[#=37B==7CBaA=
 
 St: [9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (6, 3)  TC: 64
-A: 7  B: 7  C: 7  S: 7
+A: 7  B: 7  C: 7
 
 ---
 
@@ -985,7 +976,7 @@ You get 7 from C.
 #=34Bc[#=37B==7CBaA=
 
 St: [7, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (5, 3)  TC: 65
-A: 7  B: 7  C: 7  S: 8
+A: 7  B: 7  C: 7
 
 ---
 
@@ -998,7 +989,7 @@ You set C to 7.
 #=34Bc[#=37B==7CBaA=
 
 St: [9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (4, 3)  TC: 66
-A: 7  B: 7  C: 7  S: 7
+A: 7  B: 7  C: 7
 
 ---
 
@@ -1011,7 +1002,7 @@ You push 0.
 #=34Bc[#=37B==7CBaA=
 
 St: [0, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (3, 3)  TC: 67
-A: 7  B: 7  C: 7  S: 8
+A: 7  B: 7  C: 7
 
 ---
 
@@ -1024,7 +1015,7 @@ You push 7.
 #=34Bc[#=37B==7CBaA=
 
 St: [7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (2, 3)  TC: 68
-A: 7  B: 7  C: 7  S: 9
+A: 7  B: 7  C: 7
 
 ---
 
@@ -1037,7 +1028,7 @@ You push 9.
 #=34Bc[#=37B==7CBaA=
 
 St: [9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (1, 3)  TC: 69
-A: 7  B: 7  C: 7  S: 10
+A: 7  B: 7  C: 7
 
 ---
 
@@ -1050,7 +1041,7 @@ You turn right.
 #=34Bc[#=37B==7CBaA=
 
 St: [9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: North  Co: (1, 3)  TC: 70
-A: 7  B: 7  C: 7  S: 10
+A: 7  B: 7  C: 7
 
 ---
 
@@ -1063,7 +1054,7 @@ You push 1.
 #=34Bc[#=37B==7CBaA=
 
 St: [1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: North  Co: (1, 2)  TC: 71
-A: 7  B: 7  C: 7  S: 11
+A: 7  B: 7  C: 7
 
 ---
 
@@ -1076,7 +1067,7 @@ You push 1.
 #=34Bc[#=37B==7CBaA=
 
 St: [1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: North  Co: (1, 1)  TC: 72
-A: 7  B: 7  C: 7  S: 12
+A: 7  B: 7  C: 7
 
 ---
 
@@ -1089,7 +1080,7 @@ You turn left.
 #=34Bc[#=37B==7CBaA=
 
 St: [1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (1, 1)  TC: 73
-A: 7  B: 7  C: 7  S: 12
+A: 7  B: 7  C: 7
 
 ---
 
@@ -1102,7 +1093,7 @@ You turn left.
 #=34Bc[#=37B==7CBaA=
 
 St: [1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: South  Co: (1, 1)  TC: 74
-A: 7  B: 7  C: 7  S: 12
+A: 7  B: 7  C: 7
 
 ---
 
@@ -1115,7 +1106,7 @@ You push 1.
 #=34Bc[#=37B==7CBaA=
 
 St: [1, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: South  Co: (1, 2)  TC: 75
-A: 7  B: 7  C: 7  S: 13
+A: 7  B: 7  C: 7
 
 ---
 
@@ -1128,7 +1119,7 @@ You push 9.
 #=34Bc[#=37B==7CBaA=
 
 St: [9, 1, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: South  Co: (1, 3)  TC: 76
-A: 7  B: 7  C: 7  S: 14
+A: 7  B: 7  C: 7
 
 ---
 
@@ -1141,7 +1132,7 @@ You turn left because 1 < 9.
 #@34Bc[#=37B==7CBaA=
 
 St: [1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (1, 4)  TC: 77
-A: 7  B: 7  C: 7  S: 12
+A: 7  B: 7  C: 7
 
 ---
 
@@ -1154,7 +1145,7 @@ You push 3.
 #=@4Bc[#=37B==7CBaA=
 
 St: [3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (2, 4)  TC: 78
-A: 7  B: 7  C: 7  S: 13
+A: 7  B: 7  C: 7
 
 ---
 
@@ -1167,7 +1158,7 @@ You push 4.
 #=3@Bc[#=37B==7CBaA=
 
 St: [4, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (3, 4)  TC: 79
-A: 7  B: 7  C: 7  S: 14
+A: 7  B: 7  C: 7
 
 ---
 
@@ -1180,7 +1171,7 @@ You set B to 4.
 #=34@c[#=37B==7CBaA=
 
 St: [3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (4, 4)  TC: 80
-A: 7  B: 4  C: 7  S: 13
+A: 7  B: 4  C: 7
 
 ---
 
@@ -1193,7 +1184,7 @@ You get 7 from C.
 #=34B@[#=37B==7CBaA=
 
 St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (5, 4)  TC: 81
-A: 7  B: 4  C: 7  S: 14
+A: 7  B: 4  C: 7
 
 ---
 
@@ -1206,7 +1197,7 @@ You turn left.
 #=34B@[#=37B==7CBaA=
 
 St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: North  Co: (5, 4)  TC: 82
-A: 7  B: 4  C: 7  S: 14
+A: 7  B: 4  C: 7
 
 ---
 
@@ -1219,7 +1210,7 @@ You get 7 from C.
 #=34Bc[#=37B==7CBaA=
 
 St: [7, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, ...]  Dx: North  Co: (5, 3)  TC: 83
-A: 7  B: 4  C: 7  S: 15
+A: 7  B: 4  C: 7
 
 ---
 
@@ -1232,7 +1223,7 @@ You go north.
 #=34Bc[#=37B==7CBaA=
 
 St: [7, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, ...]  Dx: North  Co: (5, 2)  TC: 84
-A: 7  B: 4  C: 7  S: 15
+A: 7  B: 4  C: 7
 
 ---
 
@@ -1245,7 +1236,7 @@ You push 6.
 #=34Bc[#=37B==7CBaA=
 
 St: [6, 7, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, ...]  Dx: North  Co: (5, 1)  TC: 85
-A: 7  B: 4  C: 7  S: 16
+A: 7  B: 4  C: 7
 
 ---
 
@@ -1258,7 +1249,7 @@ You turn left.
 #=34Bc[#=37B==7CBaA=
 
 St: [6, 7, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, ...]  Dx: West  Co: (5, 1)  TC: 86
-A: 7  B: 4  C: 7  S: 16
+A: 7  B: 4  C: 7
 
 ---
 
@@ -1271,7 +1262,7 @@ You set A to 6.
 #=34Bc[#=37B==7CBaA=
 
 St: [7, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (4, 1)  TC: 87
-A: 6  B: 4  C: 7  S: 15
+A: 6  B: 4  C: 7
 
 ---
 
@@ -1284,7 +1275,7 @@ You push 4.
 #=34Bc[#=37B==7CBaA=
 
 St: [4, 7, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, ...]  Dx: West  Co: (3, 1)  TC: 88
-A: 6  B: 4  C: 7  S: 16
+A: 6  B: 4  C: 7
 
 ---
 
@@ -1297,7 +1288,7 @@ You turn right because 7 > 4.
 #=34Bc[#=37B==7CBaA=
 
 St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: North  Co: (2, 1)  TC: 89
-A: 6  B: 4  C: 7  S: 14
+A: 6  B: 4  C: 7
 
 ---
 
@@ -1310,7 +1301,7 @@ You turn right.
 #=34Bc[#=37B==7CBaA=
 
 St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (2, 1)  TC: 90
-A: 6  B: 4  C: 7  S: 14
+A: 6  B: 4  C: 7
 
 ---
 
@@ -1323,7 +1314,7 @@ You push 4.
 #=34Bc[#=37B==7CBaA=
 
 St: [4, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (3, 1)  TC: 91
-A: 6  B: 4  C: 7  S: 15
+A: 6  B: 4  C: 7
 
 ---
 
@@ -1336,7 +1327,7 @@ You set A to 4.
 #=34Bc[#=37B==7CBaA=
 
 St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (4, 1)  TC: 92
-A: 4  B: 4  C: 7  S: 14
+A: 4  B: 4  C: 7
 
 ---
 
@@ -1349,7 +1340,7 @@ You push 6.
 #=34Bc[#=37B==7CBaA=
 
 St: [6, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (5, 1)  TC: 93
-A: 4  B: 4  C: 7  S: 15
+A: 4  B: 4  C: 7
 
 ---
 
@@ -1362,7 +1353,7 @@ You get 7 from C.
 #=34Bc[#=37B==7CBaA=
 
 St: [7, 6, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, ...]  Dx: East  Co: (6, 1)  TC: 94
-A: 4  B: 4  C: 7  S: 16
+A: 4  B: 4  C: 7
 
 ---
 
@@ -1375,7 +1366,7 @@ You set C to 7.
 #=34Bc[#=37B==7CBaA=
 
 St: [6, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (7, 1)  TC: 95
-A: 4  B: 4  C: 7  S: 15
+A: 4  B: 4  C: 7
 
 ---
 
@@ -1388,7 +1379,7 @@ You set A to 6.
 #=34Bc[#=37B==7CBaA=
 
 St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (8, 1)  TC: 96
-A: 6  B: 4  C: 7  S: 14
+A: 6  B: 4  C: 7
 
 ---
 
@@ -1401,7 +1392,7 @@ You turn right.
 #=34Bc[#=37B==7CBaA=
 
 St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: South  Co: (8, 1)  TC: 97
-A: 6  B: 4  C: 7  S: 14
+A: 6  B: 4  C: 7
 
 ---
 
@@ -1414,7 +1405,7 @@ You swap 3 and 7.
 #=34Bc[#=37B==7CBaA=
 
 St: [3, 7, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: South  Co: (8, 2)  TC: 98
-A: 6  B: 4  C: 7  S: 14
+A: 6  B: 4  C: 7
 
 ---
 
@@ -1427,7 +1418,7 @@ You swap 7 and 3.
 #=34Bc[#=37B==7CBaA=
 
 St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: South  Co: (8, 3)  TC: 99
-A: 6  B: 4  C: 7  S: 14
+A: 6  B: 4  C: 7
 
 ---
 
@@ -1440,7 +1431,7 @@ You turn left because 3 < 7.
 #=34Bc[#@37B==7CBaA=
 
 St: [1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (8, 4)  TC: 100
-A: 6  B: 4  C: 7  S: 12
+A: 6  B: 4  C: 7
 
 ---
 
@@ -1453,7 +1444,7 @@ You push 3.
 #=34Bc[#=@7B==7CBaA=
 
 St: [3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (9, 4)  TC: 101
-A: 6  B: 4  C: 7  S: 13
+A: 6  B: 4  C: 7
 
 ---
 
@@ -1466,7 +1457,7 @@ You push 7.
 #=34Bc[#=3@B==7CBaA=
 
 St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (10, 4)  TC: 102
-A: 6  B: 4  C: 7  S: 14
+A: 6  B: 4  C: 7
 
 ---
 
@@ -1479,7 +1470,7 @@ You set B to 7.
 #=34Bc[#=37@==7CBaA=
 
 St: [3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (11, 4)  TC: 103
-A: 6  B: 7  C: 7  S: 13
+A: 6  B: 7  C: 7
 
 ---
 
@@ -1492,7 +1483,7 @@ You turn left because 1 < 3.
 #=34Bc[#=37B@=7CBaA=
 
 St: [1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: North  Co: (12, 4)  TC: 104
-A: 6  B: 7  C: 7  S: 11
+A: 6  B: 7  C: 7
 
 ---
 
@@ -1505,7 +1496,7 @@ You get 7 from C.
 #=34Bc[#=37B==7CBaA=
 
 St: [7, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: North  Co: (12, 3)  TC: 105
-A: 6  B: 7  C: 7  S: 12
+A: 6  B: 7  C: 7
 
 ---
 
@@ -1518,7 +1509,7 @@ You turn left because 1 < 7.
 #=34Bc[#=37B==7CBaA=
 
 St: [9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (12, 2)  TC: 106
-A: 6  B: 7  C: 7  S: 10
+A: 6  B: 7  C: 7
 
 ---
 
@@ -1531,7 +1522,7 @@ You get 6 from A.
 #=34Bc[#=37B==7CBaA=
 
 St: [6, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (11, 2)  TC: 107
-A: 6  B: 7  C: 7  S: 11
+A: 6  B: 7  C: 7
 
 ---
 
@@ -1544,7 +1535,7 @@ You push 5.
 #=34Bc[#=37B==7CBaA=
 
 St: [5, 6, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (10, 2)  TC: 108
-A: 6  B: 7  C: 7  S: 12
+A: 6  B: 7  C: 7
 
 ---
 
@@ -1557,7 +1548,7 @@ You turn right.
 #=34Bc[#=37B==7CBaA=
 
 St: [5, 6, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: North  Co: (10, 2)  TC: 109
-A: 6  B: 7  C: 7  S: 12
+A: 6  B: 7  C: 7
 
 ---
 

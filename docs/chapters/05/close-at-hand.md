@@ -1,6 +1,6 @@
 ## Chapter 5: Close at Hand
 
-You have entered the fifth dungeon. You stand on the staircase-up tile where you entered, facing east. You consult the map:
+You have entered the fifth dungeon. YYou stand at the bottom of the staircase where you entered, facing east. You consult the map:
 
 ```
 #[DUhcx-mfkvvy9AItW-CLKL+c%z*GxA2qzwCZeN3VB=###]#[=[Am4=[X/=########[8=xZkm98M=#
@@ -130,7 +130,7 @@ Consider an example dungeon:
 #=34Bc[#=37B==7CBaA=
 ```
 
-The log below shows you moving through the example dungeon, with your location marked `@` on the map.
+The log below shows you exploring the example dungeon, with your location marked `@` on the map.
 
 ```
 #[]##[85bBab6a2A0=#[

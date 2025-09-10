@@ -31,7 +31,7 @@ The dungeon is arranged as a grid of tiles. The directions on the map are right 
 
 You discover a contraption wrapped inside the map: a hypnotic timepiece. You slip it into a vest pocket, close to your heart. With every tick of the clockwork, you are compelled to move forward to the next tile and trigger its effect. You trigger only one tile per tick. If triggering a tile causes you to move again during the same tick, no further tile is triggered by the additional move. Triggering a floor tile (marked `.` on the map) has no effect.
 
-The dungeon contains wall tiles: left-turners (marked `[`), right-turners (marked `]`), and halters (marked `#`). Wall tiles stop you from moving forward, but you still trigger them from the adjacent tile. For a left-turner tile, turn 90 degrees to the left. For a right-turner tile, turn 90 degrees to the right. For a halter tile, do not turn at all, effectively halting forever.
+The dungeon contains wall tiles: left-turners (marked `[`), right-turners (marked `]`), and halters (marked `#`). Wall tiles block you from moving forward to them, but you still trigger them from the adjacent tile. For a left-turner tile, turn 90 degrees to the left. For a right-turner tile, turn 90 degrees to the right. For a halter tile, do not turn at all, effectively halting forever.
 
 As demonstrated by the gnome, you leave the dungeon by triggering the staircase tile (marked `<`). After how many ticks do you leave the dungeon?
 
@@ -50,7 +50,7 @@ Consider an example dungeon:
 #]##]#[#]###########
 ```
 
-The log below shows you moving through the example dungeon, with your location marked `@` on the map. The status line uses the labels `Dx` for direction, `Co` for coordinates, and `TC` for tick count. Coordinates are shown as `(x, y)`.
+The log below shows you exploring the example dungeon, with your location marked `@` on the map. The status line uses the labels `Dx` for direction, `Co` for coordinates, and `TC` for tick count. Coordinates are shown as `(x, y)`.
 
 ```
 #############[####]#

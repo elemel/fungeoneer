@@ -1,6 +1,6 @@
 ## Chapter 2: As Above, So Below
 
-You have entered another dungeon. You stand on the staircase tile where you entered, facing east. In this dungeon, there are two levels, separated by a blank line on the map:
+You have entered another dungeon. You stand at the bottom of the staircase where you entered, facing east. In this dungeon, there are two levels, separated by a blank line on the map:
 
 ```
 #####]####################[##]###[]#####[##]###]##[######]#########][#######]###
@@ -73,7 +73,7 @@ Consider an example dungeon:
 #]]######[]#[#[###]#
 ```
 
-The log below shows you moving through the example dungeon, with your location marked `@` on the map. In deep dungeons, coordinates are shown as `(x, y, z)`.
+The log below shows you exploring the example dungeon, with your location marked `@` on the map. In deep dungeons, coordinates are shown as `(x, y, z)`.
 
 ```
 ##########[#[####[##

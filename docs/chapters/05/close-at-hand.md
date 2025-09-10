@@ -1,6 +1,6 @@
 ## Chapter 5: Close at Hand
 
-You have entered the fifth dungeon. YYou stand at the bottom of the staircase where you entered, facing east. You consult the map:
+You have entered the fifth dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
 
 ```
 #[DUhcx-mfkvvy9AItW-CLKL+c%z*GxA2qzwCZeN3VB=###]#[=[Am4=[X/=########[8=xZkm98M=#

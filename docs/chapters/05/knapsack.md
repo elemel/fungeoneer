@@ -1,4 +1,4 @@
-## Chapter 5: Close at Hand
+## Chapter 5: Knapsack
 
 You have entered the fifth dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
 
@@ -115,7 +115,7 @@ Whenever you trigger a getter tile, get the number from the corresponding regist
 
 After how many ticks do you leave the dungeon?
 
-From here, you can [continue to the answer](../../answers/chapters/05/close-at-hand.md).
+From here, you can [continue to the answer](../../answers/chapters/05/knapsack.md).
 
 
 ### Example

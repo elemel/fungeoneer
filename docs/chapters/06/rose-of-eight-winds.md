@@ -1,4 +1,4 @@
-## Chapter 6: Eight Winds
+## Chapter 6: Rose of Eight Winds
 
 You have entered the sixth dungeon. You stand at the bottom of the staircase where you entered, facing east. A skeleton is slumped against the staircase. From its bony fist, suspended on a chain, hangs a revolutionary compass. You cautiosly retrieve it.
 
@@ -144,7 +144,7 @@ This dungeon also contains tiles with getters and setters for register R (marked
 
 After how many ticks do you leave the dungeon?
 
-From here, you can [continue to the answer](../../answers/chapters/06/eight-winds.md).
+From here, you can [continue to the answer](../../answers/chapters/06/rose-of-eight-winds.md).
 
 
 ### Example

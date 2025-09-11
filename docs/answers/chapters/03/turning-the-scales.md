@@ -1,0 +1,5 @@
+## Answer to Chapter 3: Turning the Scales
+
+You leave the dungeon after 5359 ticks.
+
+From here, you can [return to the dungeon](../../../chapters/03/turning-the-scales.md) or [continue to the next dungeon](../../../chapters/04/the-art-of-reckoning.md).

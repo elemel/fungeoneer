@@ -18,7 +18,7 @@ From here, you can [start in the foreworld](foreworld.md).
 - Chapters
   - [Chapter 1: Ground Rules](chapters/01/ground-rules.md)
   - [Chapter 2: As Above, So Below](chapters/02/as-above-so-below.md)
-  - [Chapter 3: Turning Point](chapters/03/turning-point.md)
+  - [Chapter 3: Turning the Scales](chapters/03/turning-the-scales.md)
   - [Chapter 4: The Art of Reckoning](chapters/04/the-art-of-reckoning.md)
   - [Chapter 5: Knapsack](chapters/05/knapsack.md)
   - [Chapter 6: Eight Winds](chapters/06/eight-winds.md)
@@ -31,7 +31,7 @@ From here, you can [start in the foreworld](foreworld.md).
 - Answers
   - [Answer to Chapter 1: Ground Rules](answers/chapters/01/ground-rules.md)
   - [Answer to Chapter 2: As Above, So Below](answers/chapters/02/as-above-so-below.md)
-  - [Answer to Chapter 3: Turning Point](answers/chapters/03/turning-point.md)
+  - [Answer to Chapter 3: Turning the Scales](answers/chapters/03/turning-the-scales.md)
   - [Answer to Chapter 4: The Art of Reckoning](answers/chapters/04/the-art-of-reckoning.md)
   - [Answer to Chapter 5: Knapsack](answers/chapters/05/knapsack.md)
   - [Answer to Chapter 6: Eight Winds](answers/chapters/06/eight-winds.md)

@@ -1,4 +1,4 @@
-## Chapter 9: Grain of Truth
+## Chapter 9: A Grain of Truth
 
 You have entered the ninth dungeon. You stand at the bottom of the staircase where you entered, facing east. Starting to question the fabric of reality, you scrutinize the map:
 
@@ -313,7 +313,7 @@ Inverters, and-gates, or-gates, and exor-gates have their usual meanings. Shifte
 
 After how many steps do you leave the dungeon?
 
-From here, you can [continue to the answer](../../answers/chapters/09/grain-of-truth.md).
+From here, you can [continue to the answer](../../answers/chapters/09/a-grain-of-truth.md).
 
 
 ### Example

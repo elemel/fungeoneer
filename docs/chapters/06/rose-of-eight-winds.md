@@ -1,10 +1,10 @@
 ## Chapter 6: Rose of Eight Winds
 
-You have entered the sixth dungeon. You stand at the bottom of the staircase where you entered, facing east. A skeleton is slumped against the staircase. From its bony fist, suspended on a chain, hangs a revolutionary compass. You cautiosly retrieve it.
+You have entered the sixth dungeon. You stand at the bottom of the staircase where you entered, facing east. A skeleton is slumped against the staircase, a glimmer on its bony hand catching your eye. It is a ring of revolution that you cautiously retrieve.
 
-The compass tracks your clockwise rotation in octants (increments of 45 degrees), starting at zero for east. Full revolutions, each composed of eight octants, also accumulate into the rotation. Turning left counts as counter-clockwise rotation (negative), while turning right counts as clockwise rotation (positive).
+The ring tracks your rotation in octants (increments of 45 degrees), starting at zero for east. Turning left counts as counter-clockwise rotation (negative), while turning right counts as clockwise rotation (positive). Full revolutions, each counted as eight octants, also contribute to the tracked rotation.
 
-With the compass slung around your neck as register R, you turn your attention to the map:
+After slipping the ring onto your right ring finger as register R, you turn your attention to the map:
 
 {% raw %}
 ```

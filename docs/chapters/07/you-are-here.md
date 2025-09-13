@@ -1,159 +1,159 @@
 ## Chapter 7: You Are Here
 
-You have entered the seventh dungeon. You stand at the bottom of the staircase where you entered, facing east. In a haystack by the staircase, you find a needle: a wayfarer's pin. Out of concern for any beast of burden that may stray here to feed, you decide to keep the pin. You press it into the symbol of the staircase on your magic map.
+You have entered the seventh dungeon. You stand at the bottom of the staircase where you entered, facing east. In a haystack by the staircase, you find a needle: a magic pin. Out of concern for any beast of burden that may stray here to feed, you decide to keep the pin. You press it into the symbol of the staircase on your magic map.
 
-With every step you take in the dungeon, the wayfarer's pin mirrors your movement on the map, reflecting your location. As inventory slot P, the pin also reveals your position as a number, starting from zero at the top-left symbol, and increasing with each symbol in left-to-right, top-to-bottom reading order. Blank spaces are ignored.
+With every step you take in the dungeon, the magic pin mirrors your movement on the map, reflecting your location. As inventory slot P, the pin also reveals your position as a number, starting from zero at the top-left symbol, and increasing with each symbol in left-to-right, top-to-bottom reading order. Blank spaces are ignored.
 
 Anchored by the pin, you survey the map:
 
 {% raw %}
 ```
-#}(}(#[#))}{(()][(U197h={)][R#[R]{]#{#[](R)(##]){}{({{])[[)[{[#}#{}RQg9YLR(#))#)
-[5nr+wo3CKkuK3RyxV(XqaABUHF0BcK=-EkD)x6v0eG5u{-7Ga)yGEa=L=KoCpQ6*j9k*+NYghu}6)>=
-R{H#c{VREG+5Hj99423=(](>:F=vJ#%0A3m{hJz]A}[>).{aI(]uxfxA[uH#RAww(#:M>-bfu6%f=1#4
-2o(K):>bNml%8>yjLZ}-0.Lap2BWce]7#ao)(hlX6j]hnIGgK/D5:2u70zw)V8X).[fvk#2y210Fu}=e
-[18[4x2=}p7.OQbRlAp}VlUAoCBGxJrcE1iFCbR5N059xLx_JocZ%JhJzm=f(*5M-rL:[DruB>[a#.#Z
-[:ae6K#ul-xIpJ0b:km9c5/[h1{-#B=k{VcnYpRwX4{kud>8W+Y[>=zgJ2jvw[+.#]*}NlOU*CeBxB)y
-)nI1pApw22>pEA21ggaaVmKq1Cik{}[I{y]6:-bix]BvhrH(>JRC]u%5PIRd]Ij#B#:{qRB9Ka]k=.{7
-[b->FaMCFryX+O(RB]8XuC#[F(6ERlF6Xvwc{yugwK>y/vk5Ae[/N}]RuQXy9mrn}Oqj3lRv}>>HOfF6
-[dg]zvVVe3lZQiwuZQ7jJ9bGH(6uVpej15Q4f3-KL}U[v}iaC+bab}lg=qBoa>cjk1dyzO+>N{Z(Fy+>
-[UED*lxBw/L*i]XCnlIhc:3UW-qwrKLYVK#f7*]O2740(vVWcF:]7J1[E%uZY+u)pv83a%-(KmbpL-i=
-{-*3qqqwRgjLE}CmRYU0]:bm>#BfKWr*)oIRJ1f]5Ob=FAAcrDvr4Jk[jmoV0=x#Y97#Q(Uyde2fUMh]
-#Zp[-/2da3zdRw}4KmUDDK>8/8U5(nC+2E*R-hJ(lQQLz{bU>Y+0db)>2y[RG=4G}1VaNURWd6{oNur)
-}nfU[9m#M5fY>0xgHBW9fYykHlIQuI{[n34XvUWvIUUVb>JQf#{zW1e{ki)zKzh=e#9(8#+iK#eoY}k}
-}frB6Xy.qR[N#-YvU=DN]{:=.Hu3vI>bDX}j#C[E7gbIGVVpd.kA.)Ww6CI{:I%h+Yc-.in4e-1<{V6{
-#wMC6zonLarCEn(k6Fl>[i+]NxQHhwyb6uNl[9ogdf:=L2lxcMgCbHpIr1BveAQ99GQKZO=>okeHw6u#
-].wRUX%f4gf+arZ7DL]L5=]yqINqDd8YDy>guB#rEfB3D]}-OUVaGyEnk4:6J/3ZRh%D.dYI39wa]HM]
-}XgVyAWk:O:Qnw>6w>Bgrurn0+oFZ(5#7:X}c.2HY:iz/(Z0/u}y=[A-uujD3>n-5}qV{#m)e%Ei=]c(
-)A2:+###([AYi[Yoe0b]}a9#}5yNu+V.{+[u#(BBvk}I:nvxjF4qLNC-7/+[2./g)cmz}E>]1p:%eM[]
-)ejZxf1x*G.K}K6ub)nOY>qiZIj}fL)#]UlUGy/NGCU+[[={{#p*bR2R*G4[55rBHlje-3==z1e++wy]
-#}h3VgE+LR)#{){{#R{}])[)R)=GeM{]%R(###{}]jvgN787yKV==})][}[[){([]){(}##}{}#}}#}#
+(]##R]{ROl)=%/)(Ha1ohtl%uNGR{(R({=9}#{][[(}#{#R][R0l))]R[d3RnRR([})=m]#}###{([=}
+[2{Vn:34FC:q9:w8>]x0]}<dn){)BKF}A1-zq6(E#>(I{=BuyWq]Az+-VyNX]Oip5X(YH>YObIdoZ7>)
+(8pGArWRM3J)T}7=/#FXp>[##mA5GrbpX4[w(=2A%8c{UJ.=#H8L[=eKEupqjZI9w[re.]y6(#00)zw}
+}K4y650A52X-1CiW5gaUY0l.}Xt34*EXr2XhGp#+ba)QHQ[HcoENn*[ZHT](Vqtg5}RaJ-imxzGvp]G{
+)Z#r=/6AGVcg]X.pnO>}7:TrUJ+E2*7Yx-C[UDahFBev>Y]GZbLx.j#eOfRib21P8YM][0Q8axz3-y4y
+a>#r[ye*F1}-HbFYj#>xFjqcxupMwqu/Ftl>.Bf0c}c-goUb7KOOJV.=7YTI6qj[RvyUp5HYBM0TU1]3
+I}#-#(.E.]WuyV]yVRec*rK]hiKFZ*c68(u-4#au###DnCMO#RmwKORlu>eMxWB-+Iph_m.L=#K>Zok=
+:#+7G:U7>=P0g)l6y7%45qrp:J+dr)r)0cE0>H63c..kzlFKAh72YAk)aNAI(j=9*%r[Rp{Jq+en+Dc]
+wRR-[WW1L5nfwRh+mEoc(K0c}ojR:%gen({RXenZqFb*bd3fDiGY0f[]DY0=*iC=nfv#HtF)%T}+E:v}
+:>n)Yw/B#4U9COj#LT]D6)HlyGdxH1NVW9UU0-)6nf1u8>Jo23QrjI{Hu7ybW7RVlJ].tF7bIz*)Ulx[
+B}}vutG#Dn-dHhRlGdT%k}ih[H+TO(zy#*L]#+gVxwE-G1vqYzk3zRbGiV[1U=-BR.ehE{geMOeCB%>#
+O[MlCTJ5(3XmfOD[wfu2R)zz51KWE/hQat(D#{OfwF#k%#wJ3qi8HkIK[Q]e/20cBXo5z.pk(ecB>pB[
+x}w[E}HX3[Kvi*=BujuI}y}o3Tr*yTKaXJn5jd>vdV9ZQAGvqz%WqhOZb>Ll#[)z2:eT5NO.g)=7rBm#
+/)t1.7cW0AhIlFoWQYw.Bl7aJpT]0]H*#T1oN]B=#9f#x*==1k9admm0g*=Z{(rtfIUbboue-E)}9}i{
+9]%=))*L-yoOX)noeRj1A+pW>kA+rhoeEwtmJ>YU8)ivC[cxi[G5C(FidnIiym{6oKk/6G4MXmG5wN8#
+RJd*NA/dyGCjN}oMD2Zcz6wFm7}#5N81p(+}L{-DBc9q07pv[xv*c+}QjVkjC6#}l}DCnRHQ#dEL.#{#
+)*6#=xFo0.GQ=[=KJ7v##L4-hW}#2U#-)nc)>]rzAx.w)Q}#dKV>B]z}hG-8yNar[f#KKp>Zv6WOb}X#
+)O%O0Ra#t>iJBd>{p/DIGvK88{rOJn2JE[V0i#FF=EU]e#+o2:(dL+]mF8u9.386O]nkn]Da{he1ydU{
+#]cTB#{1=f:o#i(6v(Jaxd5fc+OZp}#=)*RoVnc*ghM9WapTkuk1HBfjJ08WrJ(ZvIzFA04C9mRh1Ev}
+##={{###=##]{#{##_#{){#}#{#])#}>k_{>==(]({(={}R(](}}})#}=])[}}]]==##R#{)VR)}#RC[
 
-#[]]([)]#}#})]#]#)({[))RDu]]}(==#R%DR#}}#{]}#{##{}{()#==R[(##{(=)RP{([####R4VkL=
-}hRQ]m:uX1BK1[[du3a=.A.h{1-LQVDOcn9JQ3OlEJwYy7UA*o{Cl5Wm+%68JxrLdw+1Z8.1>/Xm}{<r
-]D*agx]Xjw(O2A[c#R(cgRh<#JD0=/Wu#j))WHF#%Fj<Wg=cAGeqmBzwR4l##{4ove>0<>By=[-#qq#j
-(]>ogu<#F>R]w<9FqJE][Ohx-VV=*#J()ci=L)(CaEv3kfa[0GR-[29NC0:U#}I2R{ilA[v{80/#oW#8
-_RN0mN7cm8pi#+{2b*v9]1eoBIlXUnjA3yIL5p.W(w+V)%O#ingV##G5#RZrl)mWfq%7>FDH5<1X#jIG
-)i2{boVXFjF#F}m[hN)V[)EAM5G{W9rRcb.[[Vb##:dyxO<L=bQX<f>oW#k#m.97(xEw]fmMj}CXGZ:=
-=G1h3iKXQh<fN5bZ>.2udyNmFC:YU4qjDxFkpeh>IA2B2}Z#<6obxxQ=gQ.W7onwNGwUH>+*K=r}>O6#
-R]1<Z1:hWI[Dw+yOF[3DM75EwqgFu6nXxJqRE6)HH8<B/Nz6n:0WlV]D=ciKM).=g95aLJIAN<<3#H#[
-R9#2x[>ypc*Z*1(B)}z7B{{LvUK8Mpw*Lflo8Ii.ud%.JpOLFxh16Kh:.VIVp<F=ip>RzFB<O8(9U/g<
-OBNXv95}YFIH})-=d]G.jYa-phOe]>Xda2ICHhabf08EV)##bm[j=O)ha1%4RwYZr)n0QDX=uV}E)+>+
-[{.g=jo.:GJc1-+3*Nd2{Aqv<G:aqU-oK(p>Ke=Wgz0f%wk.4EZR2JavuE32lufawG}x8+r6.JjvvU(4
-]LHc3#7Uwr{eav}g}Jz(VR<eRqh**.Mv{]4xCb4dVV[>w#.h<70ah+]<E#UU[1zp8*:J5JB:x*GNR9(q
-(Lq:73CblM4g<>l4cMl-/{)jx4lqmwM[[oa0>J7z74zwU<Q8Mf%/15=q9Cc.LWgX2vu]+A}/qrc+B[[k
-]gL#)V.#k{7+W3jor=v>qa{xGkZq77<g{(y)nl3j*6*4nRvJ)Q7(g-6#:}4%JVQQB=zuwvzhI+vwCa(B
-#X#{+e7Vr>c)b=WR:FP<=7*x2hqu25zj7xjw=NvnRZ+zi-zji+1uRG5hRv[=%7=9o(be{}x<zgk(YE{n
-[rK#1#qE-bfdDb8O1KV*]uDIwGLd}j]jh9<VWc7L}]y47f9p++ahHDR4ipd#21]#%V[[cBE=vI26vr]K
-)WE+=Ri]%Vvhul<eZ<7>/AY*LBn1mNfrGZ+2.kf54dDlhpApKVIL}pZVE]Ba#<eMiDD7((hdnJ=3p2].
-{lO(X>Op}2dmH5(R+]9jcu(x{lb}}=>R659m=B3]#JN}W#6guUmb[.-D>=))h=#XK#ARu]<E-4Lxkcaw
-}k{FM(g20VzXb.0uyLj=-<[([{=JiqBgbIgWGXa=piaRfYQn(-n=Y}BJVnLde/wVzQ+iM/VD=f4]8099
-[]{][{=b4G={{}##({=(Ra8ODQ:j6lEeYq([}(}[}#})(R[}][#[#RHUku4QFy>#[{R#=[R]{]=#](]}
+=a7]]][(({UagV//+v=}##R]{}#)}{][#}}}#]R][RmG5505K]](){)[=(([=##{][)}{R]{#{##][#{
+i]0Q>qUct#mY[{#)<]eHZVvBF%Jea{7+[)Uunv90{<0#R#(#f}(vvZLMUFO-:[JL82Jrk<36Uzcahw<=
+g(c+acuDORt*l>1]Qr(]#<{gG6}#}DVbpoWAm[R-+Z(ngTAHi=j%ZyE+mF*[MMbeKR]kYrOyCZOG8EXR
+n]vr#R7biVLU5Bwu/p1lzEawK9R{K7N]M#}29B)xu=MIA#[%VpN56kkMWE6:l1vnapqd/y>HM)B#Hro#
+:}OV#R#5#4]H={apZ#<O-U6TpuKM]W4hAo#W(81#.=##<X#z8y}R903(Ue}O55x2j*(r>O=B5R.878E[
+w<jRV)xqW-n/uyH17c<J({{:>Lm/*GlVaYi<b*x.hemfgv>gy)D)zj%]C3]XGkI=5fmZj>6m2AEGCF7)
+2XKU3K=AfE4x6FVh8uuQvB%)EAg)ZL:c-+4ITf({d(U#>C4BD+nm]zO90<itmN2OU+RXRl##[D3<6kv}
+a=Xy%Do)<n%l9b0fvoUBMrQG.X-+h1/HEMc3<LL7hJW}8}MC%{luv{+p=A(IT#*YIul>aR5aED>fTnrR
+U=:6{t#[_>RhJkWhca+oVTb./f=6RTiRB95r8NhIp7+e9[>7f)TFR18RU.L#5x5e(xDMV%{B[]MhtdE=
+t<%8hihJIL>#QX{=>V/Oi1V[}oll45Q=.QkbrXQM1xIKj<(ANdKyb:n7U/7wt9/FGN1W8Dr1I-L)Yx1G
+X{}6#+*(IKic.W.JE1BJwb5o9AO1N+afV%xzWVwn8ulO0H/:IC9eJx4Y4(g%HXMh0GV./q#Bt{>[4T<=
+>z##qc#0z#K##lTn#:yrgyHHliWrbWE1.x%F=2XIyw)R4oUw4=L[#Hv}{#4t-On*hmCRz7H.5DtY<JY#
+[IT*WiFF1TL5c8m:TkM:LqVDljW/bDhWzWVBa8<-5fLwAb/ZHXM>uwz6=<RFvHYTKe=a.O#uX)x-{+V(
+)K=W=FIXcZVA28}Aa=l*VR-qt+gwY+c[2{QQQ*DeWlyrDZ9G7lBR#[i:2xwy=4oBA=0+fN{hcKWJ>t*{
+#*#[lv#R#>v#(hk5#c2##v[l<>6W7E=#u9/at<guNLhB(L3n+ve2E-chOQYWQ5>}Y5:c=-=K#E{#Rm{(
+=cr}xt0v*m*+*:[5]GMLbvO5n-%qUV0U7Aiz*x#0#Vdyb/W[*y%CeGM1j=DMRg49Z71)Vmldvgoy2Oi#
+#X#Wo)(M}RF4xW/>-E+rFD}:##rmB6Z)6)Ej<q]>gtn>48#vZ#-<7+aHlVMLO49.z0kkbj<VA+(GkEH)
+(v:qlfcIX<ocDa<Llg=qTmYN{u2GX9[LKoe>h0+:)R#}qCEmw=OQ#4X(TBwEo]2]#d}T=3NqZ2{yzZ[]
+{wjr{.f9Njtel*Ha{x)Yb))){#R=)=>{b=}%R*:fB7]]cYvQ*}X_KU}}RR]##[)[]D7iR}(}({){[56(
+#{##]{)(R}{##[}##[RYRKZLr9JEwtA<#[]<)]]#{=:{})([]=[=}RIne1x/Bdw7NB37Elr8Q0rdC({R
 
-}(}#)}[A=(([####R][]]}{)R8Fy.y:FZ27phb){}}={(R(#]}#=#]#{){#>96reb-pFUkJEx4](={((
-{i3NgLL1:Hi18j:u7OaC-aN9[z](R}{(({Rm]RMl]Y-NNj.Yh}JCA{=a=L[}#>(N={#f]#R=<cd1[2U9
-=B7FgZ-4U>]r#Q#W*1#o){=:6Kdj/ccyrn0QdGh:%iU97OjRGb>-#l>ylZWOdyAQ%M<l*<L#N7UR]/7=
-RV<R}E[2I<5mlWRy=bAgv]}{R(v-.oj2v6:8.rYE(=Ggfok3cfI[nfR>xe(jb>>ezb-d.v/wZ*}f#r#(
-})+[j4GmK2Q10kxUJGC%}.=ydeWi%x{K{L[=3Q}D}Xr=KRZ}]I]r1=cND9lp:88}b])X<EvD)9/NuV-)
-#7#48=)>IJ9WvQZ>I1q/xiuW282L.jxyN+(b=p**c[]dFB6}DfLF24<M8KzEO}+I*==)Rl{1Xf)LmHB]
-R=(X6R1/BMHmmV5c<CKQ>Ou>kl[BbO2D}q.3{57<=4Opg(/-Vv:F(}al1m#iO[kpYuWA#<b4vnDx<o)[
-}rf]dJ(mF5Wv#}EK==m[Z*VR7N=X8e}I8*O+-lja0/=h.CG5z)b=CI*MLj3aXC2>=eeaCjYz1MhrJjI(
-Rb(:9u<jV[hy8vcfuwzJ{_{0U#UJFLe689)uII9NCWi=M0xLhU9(vq]j#ab.HoUM#7<>HGe)}I}exb8>
-(M=qL]#pNHk{YqBMQnnZG%KNOAyzV<6AZl2nEWe[KX6FM3fx0OEq*JVjZU60JaYC25Op(%%{0c95[Z<R
-(lLcNM]m0)RB*:xFf{)%Y-NWQV2Y.pa.Vil<6pAqH==+DuYL=#Da{(oRe#0n[l}z)JqIU=O:{d4XX7v]
-}/#Y:C37Mig.romBk5fHmZB8W]Doe%JU6-#Q1j>1=v(<HRh:AK.fkAf=fweb0XluR/==3Mr6U[ugm3=[
-]FhjU>A)WGN:7<JdAp4Z{.gDn9Qap)rDIQUJ<p8eXihbal}}vQB]6(#Lfi#a8Or>8o5e5EOo4XW*{kh=
-)ZbfOYNWoA[>R[9a9z{<FZmIzZ#ZZaAfVJ{1#[4z{#.RdAV9i}6p9d}V.cgA7*VjW5FFK28)u=.5V[{h
-]HRoyJb{L<{CxERC%v/KkjzhG2G4djZj=05#9#78=d#yOa6Jb]#3wjiy#X5[#d]])B{*qZRC(]Uhuk#.
-]w>WYeMiB.{zAR][F>3w.ERjQQ2f)[X5:EY](ZeAxkWY=cjqV/z+LW1kzo3Z1jUhhl-F>{}WUb)U}2)3
-]k}{r5*=CiiBV{=7FRf<3]D7ynVm70K9:myL/q8KX8jXKb3H]J]#FQRRQ=Gk6zxDwBImY2U-BRu/>m>U
-(I/):<=]}9:8#NYOxQrC*i#J/=R7X[<x[U#G:1Q)0.K7Eq9cn#28]Y5f<-5QGOnbZ-(Z=303oo]xlH/9
-{h]yccf4RJ>wcdI1X[(918-*53[V*}V8=%wq2%>7R}/.gb=Y)8/I5yVMek-3bMYeLXH(cnp.GmqMENnV
-#([)R###})))P)}R(]}})({]]{#}#P#][){]]{}(##{{){]({([(R({#}(}R])<ipd[}{}(}#[#([}))
+R)[R##[=(]#}()))}=[}{({}[][R#[##{]R(#{((]{#{[[}(}=+]{=w8rr>tEbMG0nc=)###{#]PR#){
+.RaA<hyp=GOw*5XxjRGw*MlN3Ad2yBMQMqw.81gp0O+3%J%{%Jj=z:Y[)]#]#]]>Z){DA}#[=h2kVTp)
+.CVp7>2=Q#LA#<:C+t(b{4C3/rQzFw)*L-iWTBcvi1RI.h*Kfbov*u+T/N/WB)Z=ca.-=EjEY(FYG[/{
+[l#=R{UYt37[zH)rM[}#-Zg(}[WO.Id#4)*UWu[rR*#q>tkI]2O>y1>+OZ8p>)pTEMOWy.<=Rnv44:[=
+)+###d#P}#f#)UtjaJ+:)ah*Z=[Oxv6gU>CaNY[Ccj{/bN{6/tjhTQ:M/5Qi-9C+f(u0<TI0=qa{{[R]
+#t##r#[##XX#eD}NA)7xVx[#<WY#Q5A-5IWGdKz2z}CGUG<I4OOv/owoZiqh4)9:R1wpn<U>EHYCbxt(
+#Xc0###-Z#NFDfq])prfV%z-7[a9#[X(w*=gfIxGu%}%<unF:tE>t:kAoR(GcE=[#E>]ac#}3#nu3W8R
+#20F##iKx#[ToJlbgw4]%zlm%M9)YV)7phTn:3C]rp>Kx#OJUYF-DLueWLm)g=gG#4C<kUM*=R<F8KW)
+R(n#26J##<j2i7rREod(#3+(3xI5#hNCJ}XAf=)*p3#k]R<Z/pb[7lx(=Fb*FajtA9M6Fm#aR>)p1pcR
+#Cl]=+###k<XejfM<oTnFXE6X16#ayJ[p=M3a*3W2/tm5tcOTMgV[pJJ6[++r-RzA1##-]NIEbzm%p{=
+(ugM53F=80}OB*i{hnE:El6JB]iyzg#ln8y)/tn]E8y2aw60GyRajhb{T)J]Vko06i=#M2-I(Y<{ebM}
+<f}f#nNVH#)IKcAxKpKhTHaL8i/y>{{#rA+hV7T{ezVA*f)Q.%RzOG>(quww%=V*)h)NvL9eVU3hz[4[
+1q#NM>uKi{1TKrbAvaw==ZAvVDq]1tm.OJdQEkpy[X]Z3Q%O18u<ii[clrp=1j=qIk={HW+rdtaOf4X[
+Y*]mFhc*84p]rkInCxk[JH5}U}x:d3q:a>UmeiEM+a#e7e>n*hIk*MknBRoD*g0N2wXu-.=]Y:{(<NG)
+RR(#/G}Td<ppKDx1[CKzcr>{(<f61N9vAW8A:M{)>TuR#4}1466j7fEz.})4FI<-[k{IR8KxJ6)_TyO[
+>zhHVzRF)Z8YkBEqchO%3QVm8aJ4-chp.0pi+bKtaglEyXnaOlJVpdqx6h5CbaMJV->H)-ej=d:95eQ{
+f}>=hq8CT0W==J:<T/.Ipon/{e{M4=1hxdVkloY<cv#<mDthVH>UIAt7X+biZfM7ziA9vY[02%=9jqn#
+g#N{T12}y)#cCr[])CZ#D29#[.NK]qWxtq4<#-pY#]+#oQ3+52+hJy{){{WR{%mOm5n2fi=un55FU/QR
+TA5Dg1N78}W86[pZdQ)OtUI3m3)xy*<}aqBv6{y5eI2x7*M6yx[-%[HdmVMo3H3)m5DC#[vXWx/VEEu=
+[{)({{{[#{)}(][)]#[_{]({#{{]=({})(=g{##[({###({}>[[){(R3xE1Mp{(}#(}R##{{#}#[PR))
 
-](]}}}(=#[}[})]}]]]##)=#}#{#[]}=aLR#{=[##{[](=#){](=#{R>=DE<]]]R=[}]RRf]{({#=}[]
-=pr2Z+KhyIM.M9GDWugDOxBFLJ/-n:D3>0.rDGr>).c-lRZcl(>o}q[+3x>K#<*A3-RDhQ]R>JeZLph(
-diIqEeqA#<jfQ.>gbw1{(lRRIbN4:ucQ])q)aYfL{cUIc{HU){<RYZ<Q7#iwIC]JK=8E{L*d8cHY*#l)
-xK-UZ3>[QDHGuNKpRRVyv2j]vHkBzWuZa93A%LQlG>jYF0V*(N}rQkc<Q5XGD<<rrkeh.lhV2=cU{yp[
-hF=DH#7#l/ub)/wCrmZE=pg])%jg(#oJ:]jepK>+UaJkvU*1HJ/{330#9#diicL#7ijv9I)fAMR9m#X(
-jyD.Vub<pny(UZR<X2Rg}gfppzf92=6%jX{Mr+8MbA>hO9gf9CMCc+EMcCD%-%oq9KKyvvkYdlqJ{w((
-{g]=hH.5dRd(UFMi=VE[<>i</XjIiro8Cv.#z>CMv)}L{DIdQ[4#Rz>v3w:NZ7wB]0-bVmKD7#O:+{4R
-)c{eiw9qRJ.v*N>7_)Ic6Brhoz6kd2cE.o50nGc%bzjpi)ph(r#w#2zwCGR.UE7<qkW+U3*4ikeJwCO2
-#yE)Vv5Z0Z]k3/}#rq)#1mphZ4bz)]/ol](JwUf#.89}F-)q6>-i5%>Uw/jNB+*MBeN<f3gLv]L97Rv<
-#Y#rG(E4a{ix1DbLQdGAD+J(N=g:#gBumc/[clQk>>IkU%1w6%}1#W]3j3}#9gxlG]H=Mjn++96L{>Y}
-R(i4%deBYH#yL##p>#1y]cY(V=o0m*W1H1RO[ny#=+QbUcrEDV4rj.K1Ve]1Niyb57}CZ>k0iwjJd1z)
-)hjq5DO5+7]{Y#BG#{HE/F1O.8.Rcemc5LhGOO<Y#[w:#BGC)kq[}GRVFRmvx-E[uLUu6xR}XgUz#*i]
-=pIpC<Nf{lx#miO##b-)/jgVyxWjaI7G*{IyzpOr.uCVy=EU-I7r]xJ4EIxD2F=<(zzr7JdR(3n-5F0=
-[)Xc*EL3cYn<*n/#=8RC5Ejq3x>lnYeih=)9Fh%FHeW%cZer7:4LkN4j9L8f88Y}79)3:35.ghH={(x)
-]=i)uhiXD6qED[0+vrkF:MaH/ikiyI7aagxIBR%KMGUYFq{}(uq76wRrXKaD.H[[*jfxr9)i>40:=/-[
-=e<i[7>yh.ywm4MV7<Qm48Ce%X-qMvA1HI>EAqXxZZ>a{##8}kuwK+/YIW4x4Bx2f+A#<2H9U/yY+BC=
-(4R=2k({Bprb#u>xRH3D}4fL-j[DD}rKfmRgV388aGLIiyam%foH1x5dCj{R4F}a}cg>n=kC9Cvc<]<)
-)n}DolKU.9zDhqeYjNUm[[g]n%xuG8E4Ey=K0wW=(X+##c#wRv=}xZQf0GOkhF45/uWCE5)4v)88zR:)
-yA[FGWALFv<Ja(]gRC0)X]/dFowqypk=A9o+(G<kZhCja5umQkx]kGQbz{dBlVK2oL[u)(wlR0:u5g5}
-=R})#[[[R{#(}##{(]=[#=)##{#R042[}#]iNQ=R#]ZvGVD=]xR=}][{)=#=#=[)}{#P#}[({{R5{RR#
+[0yR##}}}[###}#{##](={=[}}RLR){{R==}[*=R](R#)=#{##R#P}>Jyb<3}=[{R)=KR[(=PRKH6.z)
+[1{m##vgVRX#]{n=i8VYu+=rMIFW=deR8y%]}u3}xJQ1r50tiHvMtHcTq%d>:0b<]IJuorW)M##}}#h)
+}-rD)<FJUf8D/9dyRpoB9ic0QJ*=}j)9dcBG*5jEuF3}x3#Mu8#TF]Rc=0Q6k{x>})q.VRM1d/}rm1u]
+{uw7hFri+b{#KtCdND[)qICH%RDgJhz-JRJi%rZrQ2jG<I82qkg<%5<]1*DK<}zvuHH6o1XxOTuFf8w{
+]c2m2W5d#>jX9Eu4UA*o7x}FK87hu8rVG<UMz[uiGQ#T#-##zq#u6(Qo(RR67AiV=xJmMz{%Ryg+jcU}
+=IXq>z>oeu0xHcQ8J(evjxdcr:XwUq[[e(QzQN#n(jx###l#R#YwrpwNBd0Rd00JMw2*hjO<twLpTOF[
+]=oWTrVvAd%HL1%x}{C.{b9:Hnnq9iX.7j4W5o81p3/kQoMJ{8*<[qI{H9}8U(]Rtp<wFcYd}-78*RV}
+#bOm#>}}G*RYi5bAg7T/b8hgW#%z}K.(=#iL=%r>>C<#W#c#f#R=]tC{5.ru+h5U1-K}[wrF8aDxux3#
+)>kf*Q}zeO:eaZ9ElJwg}6B)+8FbM%d.#}cXBYza#N:##H#b0Bz)5L(v7GkA9ewEb2rRkwqxU<#Xn>R{
+)xwv(IMr1X6(8i#Dmfc{+>D#O}uyLc]yudfjFKjzN({/Q#G#tKU(qJM+Lx:id1a0CNW7:RKoDW}+OAu(
+(]>tGw0}>k#Q*F*[eJHjk[kUb{MLT9-yQOe8J7VQ#-%x]f#cm#M*#Z#P]avvcE=uMBJ+l.HOuYjWpZC{
+=O]fOlwhy2647A(#x6(:{>KFC#/x<)#v)tXp-xFgFb4%HMUEjTx#m=<-V=kC}[H*U98}4{ZH)iMfL{F}
+w#A5m<=I0C(Q-.ta.r92O-VMib=LZ2xm*{9f#p#ce*ZOiHR{6X]Z#1###wK(dy}mu./.z}{#xR18=E({
++RlUnDBTNRyJfRh#pX=w(.vc/K3E0pJf}<qK>{XkxG7O:n<bR=>]#f[DOueZ5c-HDVA7aw#:#Q[l8{3#
+p>01C3(.L=+xYjj7:v)dx#<}8xU6AE)Q}kj9(/O6<BNW[#(BmF:dCxc*o(*8k4kr6Dn.yqtDALCNVGaR
+<{1X[nc#AVF[1[A751*bCHqFqN(*>}}.:U2wxHln6zRAM#[-Cr{xM=8BIcLR23ynjL<:((Gz(]#yU[O#
+{h<lp6uXJa>Ki#{M4(Nb=Wx=e#}A+lRiFuNT2:hxn1y*mDQ3)I<d7pMIn:z>4C8.>=ZbQJ+6u##hgN7{
+)bqM%2#tFHbkO=]##9#4u1FTfL[[27+zmFz*d#HbN3k#B5=rGN]#]*:G[)-k%}1uc=={t2Aeqg){8e#=
+)21C18+f05GtqaExdLZZyN:L{oR/IN+Tzha6dVZ%YKi%F[lW%5a8/]-XM)BN[/oECk=YEAF]-H3iYED{
+#{([{]=}}=##{##[}R#]##[{>=R(R}[{}}(R[{)=R#{})#}=<#{(]_{)#}(R[[}}##}]]#{}of=)###[
 
-}(R{{(]R()=(=}={=R)[{]R}#==cURU7Q0rLM=u2hu55>=jU1HbcG2C<{[#R)[][}[]R][{)[{#{{[){
-=HAGbY%dweWY8.+p6DaLBIa+41J)mZ{y<0})%x(<{{(=H6Gb-u<(=]}=)Y<-k9dE1:vb()6/<c.db)m#
-]VE]l.{)=Y-nKL<uWGi.q6up>elXwzpJJ)nx)U[qiuOGKxCEfnX6u72Hgo-HoHbCIamIyN7YI%cLxv/{
-}AG]vO<>=Z{H(I>V}{1=xa=Bmy9OWZ+D]KKnD3nD><6L0oV:3=W[G2NDYYp)rR0>uL4%x3R)P3*nmReR
-)67rgDJU6Eb-G/FbjOk6*z=]xzX#{i4dx.cbqx<Q]]af>KRH/X%WR1kZRgkkN]cpi4OLyQ.Iq5crd9h]
-#Y)rD5GMOfw6gKXmRh5}dC4{WY*E>zwB5(Z]#RYW(2<jaC*lZ5a2=+qQI7{>Huu5FRxX(]=B/#=FGl-}
-#GFZ)Do[AxFK]AaR}aXYu<gF{x>Nb>)avRAeW<y:u+}}=bgh#X({(y<qV20i}2wd4C9C0-ohcGo]p=V#
-]3:#=rf]8bJU2h<24q9:oWbzu6hiL1f]wGH6p[jR5M(frN1lz:fpzAlhEbU(7{6W82}1cM#z7Q%147](
-#cOmOAXzNWhNu0j/iKL3xVkQ]h[Nxe([ZYuf3ER9kaVfxC.yB<RCy0<{k18WJgv7gheo7zXFGRkxm>.)
-{ku5#(UJXFbJ8*BJHuIEmYYWC>i(JN72r/4[#xuc<<RuBWhyV]9a]9o8nNOn6%9g4LQ)8l(Xbx8Rg<f)
-{+GZ#1O.-:lX+Oew<VaeNeZV#K-O[:x)dn{0rz2iL7RXi/r-LoV7uFv5w%w0IWn5z.0v8<.Zh}5#Bp[]
-#1y)wbqryn*By6QVZ5vy5-Owqz3L0/1acE%{e/30F+YU=7MZVR>E)ARigEi9G3Ak0>kUoM#}{xRZ%c4R
-]ER5e)r[0=77i3]ZljB-[b(n*]d}L1MUaCo*%E.Fgu*#z0{FkF+>xaROR[6v]aZpOK/JQQl]{jU9n)q)
-]86y7Ijicl*h1{-x*RirevyG*]<>a/D#781RWO)>HD9]//=Xa6#emH%)D-7[=X}A1#)h)oYyq25]Mk][
-}M=-GOiDL*6/Y28yDciX]m)2GWrnx.KL/3h3HOjr+.fUyZUdWRJHR1D}(RGOF(/#Ub(b[Ex0<Fk5Rr-{
-)2[X*m<5x{z>)>quEO*eUgumOokrBf+efC<b4ZN-EK<YLGf>)]#F]d}(:9zHqq(]G{8fL[1MN6+42/=#
-(=%}pL3U)86)/v<E4kq6nMv*n(56zUKIkg[%(r}2#EY}RFHzebqo2E3xwlU5VnQRVrG<=qY433F#[>[#
-R+we5J}]]q)(r]n0cPd=AQ9=yYq[mRw{3pNO.djI37C%zxRU(30luxaLDHC:HG(G0zw)74}[OUmi%jN#
-RzXYlzl]VD}n(X%k7iRz=5xFpcg=7+]=O[B(]c}*LZV+Q862YQA9[)(]dX%An1g6x)YkY%z{b}XwA7g[
-#[((([]{(R)#{])([}[#R){[)[]}(}[#[##[#]#=>[R{##(})]#>W358aqJ[#]#}#]==##(#{}=_)(}#
+{](}[RGvR=m.i={{(RR](#{#}({RIXq}{#]{[R:R={((bEV2fKwTBY<]}([)}##R{[R]R}[=](R=5}[]
+=Ve=q8*aj7Jz2TLfM[H3-+=]1:Kw]G=>3{:bWgkONkjvC]}({(%.5vUMpQU<%Y2j3bCrdCMb1-2hj(g]
+b(me/Q[{RGNQk]-G>RdwMGG(*aBT4vkFI[7eoq2l{Nh)Vq7#ux#>}{#e#:5F[z]<5)wcXK5>EgU61*R{
+P{e>4gGR[DY]LCfE[zp=Az=Jh8{h5RG#w}o/Ety6g:3AkR1dhhGa/-A21rEu37G30uRp(/kGn-]+d.l]
+]441WGzwQ<J4rQnqkpRF#oi=5h9D+wvm3Fx>xI)6QXR7=#ayg(3t+Y]fBR+zn#OpgCOk9(1g]Xe3j65}
+[(/j<6<(1(#:Bg[KydLaVJVun2G9(b2dU#OwFn=o=Ac4uY]BhG]B4#{r#d)o8{#iMJ)J>0xcfjo-*>o]
+R{vI97g}6up8N)0T08pKwbQDib}:F6vzz#UCB}jXpb4jH]To7W36++:31bUM1N]xh}9]TlH7)FAvm5d(
+}Ni=u<1H)40X{d*/]w+n#-0lj#{F%uT].+t{ZA]<<}nkzmJ1l*iWD+MR)q{%7iIK=pQn5*na*2dKZt[{
+]<X)0(:k*U:IgVeW5jTOR)V=WD=KqI+EH)-(ZMYBe{MozyTjL#Cl2Z8F{>W>t3o7O/QbpE=2I2]D)<*]
+##2[]fvjL6{t(8(tcJFy)<7Y9(lp5(yJV>keX)y:n7>KqpT6#{]j[Dh*Miw]EHhv64#uw#{ICeq>ZuB]
+=k<7O0N]<4[zfyWZBW6]JvF[(vxT2}N/kIE}ca:8iWRxVx1dE8FCvb}tVRqduN2%Z/{=ykGzYz#=F%[}
+(+j>RlMCyZ98:ELomr{X[<re>.*XU6B)+O}UO7wxecyzIC=#CA(.jNZXTi0)60uGrrWkcZz{15VMGdI=
+RkHwmWa9GLp[XL:tFTRO}]X0RCVy-tGRqTC-w*]YRMQ*AZzwnRl8#M(D#Xn:BFY{]E=:l]>1Nk*M{>3R
+Rqzor/WT*4:.tEmY:XuQxeh/1(rEX(]F(V(p<tR=[dW3IX9[#}<TkKZ:H=Q{wG={2>k%t#8)3c3]Yxz{
+w<gJ%a)pXDtqD+pT4)7T+8kFAz>[ivQf>#jk)k9rK-2Yy-DV}b+JF5i.K*GTtb>F)B]6O*{OVK#Z8qR(
+=1>2C>3.Ad/Z[4}xIRvz(e0.W45x<*7>(BE/#8ITjG=eX3Y#a(XQvmQV>#9h9o}(wTJBv#DOFUhFnyr[
+R{o=uE121O<fmuYdNllr{6qC]e[eq]25NG6p#}X8{GtwiE-g#1RqWWBi4>Y<::y9<KMZi+8GOAON]{D#
+}>_]-8pno9K9xuOtvlLNJu*0HyaL8*e}LUXg]Ql(e>*6Tw>}QlI5HxgVi6bR:7uJ.aE8:/V#tHiPfDQ)
+RRbHE)24(o5txy{YB)XQyW>1+=v:[M8KmvCG2D8.157i]VF*iLXfEU0>NBFlEq85KUiZTBk.9neLvR1{
+}R){#}#(=}{[}{#[#[][#}R%<}##R}{{])){{[}[#{{}{#[#(#}(=)[][{{#]=Vk=}}}[{)}]=[]0=([
 
-#})}#[#R#{#]]]#{=#=(###R){[#[Rlh5ZEWCozu*=(]<Fv.6LEb-Ce/y1y/.GKnLvaqaOfyX.KnFb)}
-}(3kJw-)D=aOcH5wWQI>#[WfUy3*o-9[}##=)][R16UZv](nB0.AaxnL64Ukpm5>:dJ)>>](={:R>)n{
-)Qua}A]J}=#vx{[wuAgf8np}<nekD5=I)[D4If.G.mKJ4z*Y7}}]=#}(][U.R[QK0#)Xvk[NL)IneF.[
-RKXC-9><f{.2F#<OGH#k+YrQPIu]xhY2E-+(2}]h<f)%Fh{*#1}k}a[i%(:IKK(<D5owWJq9dMqa[W3(
-#}U4UWl/UfmoFdK76+1%ad[182rA#3JKQLqb##N}##8[<=5]=8Zc}I[%yov#Ay24(#XkiUk5iM)]#m[]
-}[1EQXDW()CdWi6cQ=oR#9#dwR(b<cK7URD/#e#C##[(>gF:W0*HuVlNVxy<Uj=GNw7m(q%e+upRxNi)
-_g7pI.)-(3Huzh[jb-%>V(RR##<#J<kC(OQxl(]jr0rVE>E26Ul4IAWiLhFax([p{ac[rxWF/9])R{o)
-]IRJWV-[CVQVkBWr>(Kl(jrhr8ca)M-J.o.n(bR]}Kc*z=.A0g#y#Dc2{66#7:8>q=1fm4d[+gomx>m{
-=Z)ad0E{/UH#BI9F)fme.>9.iu))zd33]EW7CVebo/OGK=Vj)ydEv4.*)fO16R(91{g)iEIoE/Yi]<I#
-)0AKUDFul4Cb4jOcw.mDOV+q=<I3J8M]9]xl]l0OCyDaGJ>7kl)YfnR1*(JZ{)>oN:YcvemH=jR{}aF#
-[37znacXhQXWD2UKB)1xRUO*]#:FMQ(4VxDacqhz0>nHW[[e6izxc}mB%M[zaFY9A)y/[>UqJ>#R[K={
-[UC}MLZz1g6OL]h]2KF#rQ}F+Uh402}A{/xvK)q6=QC4%M2:eK<b]]gjauadRRLFr<Z*L:r35ZOC:cV)
-[*K]HarBEpabM((%dYa]qJ)n/Jd}q[D##G=W#p5w}[UmW9/Fd}8<akWWo93W6EV>-v{c[aCJ#(5[#ym)
-{xy8Oz*k3wNEM5XFl1HiD3}qOe.<]x3z3L)2KL{<L1a>(>)6[=77AiOzM%(}MkG9)rU[ZazalfbFK5{=
-{*z#/H#>Ecb#ho9}=7w0m(I4[bBX8(CY(Jb9dK])cW}[Q*:EaM).zyrlB{{mpA6m.iFuLK-H}-{iF::#
-#+}qy2z56vF<8<ry6NNLR:(Cd32N*p9X0yabz(/m3pG>d}.<G2VMDybmF=m(w#Q#[mNmJ#D(#yg(#I{#
-}c[Gwbdx2ZmRJxaNbqUiz-I/Xcu.[yoRLJj-zJKxxjuH:dBFN]Rb1jfR3r)L{qO+#kU]W2k%##%f{<%#
-#N##0+RJ7IZ3MAgRA6mXa[rE{}=X3O7QHh:I.B(n=)=)470#NvdFH)I(w*XXi2Ox.*kY8gV6GZ*M0AA[
-#N>NIR5/owvq+30W[+8bCn=RwqIXQ/*>IBjezd3zqg%a}924u0)m.i-XW(fm)L.6QK11C(:-/D9vqn[=
-[)=}[#{(}{{}{){##}#(}R[#R(#}[#R(({}]#({]<>)R)#]#]RX<R)]#}]R})#]([R=#}]##RER[)R]#
+###[}#}#}}[[R)[{]{(]#{)=3U]{R){(REM)#)}[[#(R[[)][=#{(}(#})}#}}}[}{#){)]#]RyGbcw}
+#RF3c]pzfMG8lu4V[Rfyhx)ViY%0GEH<f(yA2JGM)zio(hX-j(O:XG5WwDb]yj*8Ed3=oM]#W2l)[u##
+[g=yUF32DBa9d2Gr<N>R[OV##:*pCva:f/##R>#%03NY1v#>%MO<+RtqDxekQfpO=10C%pC<4hGuJ})[
+(gz<{(l(+3rq5lm9J)2K)pg]M>Rvm+cWr(I#[a[qQ9Xv+}#]tiRqB#o8.p>K8bOP]NTpKyiANa>[URd]
+{LRG8QWy={(cgXGlJO[opF9ooV[mqRMcQ##<{Rh/q1)O##l63RGL2[-*WNr#6Z:}IG}qh4wEkv#1_qa[
+]+K9BqWr%18w0f4C.rlp9V+YCzNmytQ9bqCMk8xh+vL+jyAFDt:9U+:DODeJ{0wqZpZ)<f)70>g##<G{
+](mr]k6ri5Ra-I5LjCDU}2qF[Q}#c%-dzJB]%TmFktA}cJbG*]BmbJMhiYuk>%H1R]BZmJUOXX)##FC]
+#Jb)[:#ZbAU{EM5Lp.waUkRT>utCw3O=#>AhrV-X{.{0LW>pOLjBVNG>6=QnTl]9=D}=.XD%0FNiLbV}
+{v}Q#I29d8#CW.#B9]I5I(#[-X2=A8gue.FwX71dno+9Qd.9-:you)XAH<r<mnepRrZwY9U9CK)c#75#
+(BgFED9Ab9[K0>m1Ge0v1u}Q)Oq>.U=J)<Z>EU#*#K<3#ea#tFOqMb)f6e)Z>dT=kD(VJmjUxw+<4)O#
+{Ui}RAuAM)7HR34[EI4/yw3gB1rwuQL{h(Qm2aAK/l:Yq3=-ZbbETRYQ.]I*zi>CjnLwRl{8Vi3lzJI}
+#RG<j0J#ZH=J=)6Ue:5IxtRl<l#Y99[q3f7a}j/O((Y>=HRmt==.xCW)6bIf)}Qc*4}(3J11jXxum.p#
+#rRg#}=R==r3fG}(ana-=rf[J70278b{{FJpT}O-:QEn1A*i8u6(Btv89O#vT5D7x7=xwF<y9nbW1<w}
+(5J{#zhkr1ZiyXZt]lc6r)ld#2agnUd=E:R=T:[YFH1RLZr[fvHTRk%dXW20Q=WZ)<Um[x=m0=d%LlD{
+(4o-X=2X]c%86goQWq+BIpGM5N<orkVW<ew3(KOzt15Ug>yJEv*4qnOUv8OiBe<>-V[B}1gNZtZi#]u}
+{{<KH<TgDQe{7MI}81mBJGrpM6JzJRL<z#h)rG[DL[Afzk[+u=z#=f02<rv/->#:o)L#Zd2AgDJ(%#a#
+#10W{#>N7E{)OV5F(B(pRWCt98t*}ldx=l=R21ofb.Wur>X=XM(yqe+a><rd2olHtE*ucdBqEtv>#h-[
+[<t2e/Ap->kzRvC)9z({RRDR3]}]Re5###=Ir-Rn}<cM5t<{y}O>62[iEW#eAk7#[BLtyD}}iWfMUcVR
+{BfXe{=%q*e>D)e}TK1-Ce<vqaBGkEu8x3t+xn+V/{7-.4VctJkm95><M7d>J2yTbo(uB]#F#{=[]Vr]
+({][(#{{#_[[]))P+COZeCEY0aR})DVNAAR(]}[){#}{]=R]({#(=#}{]#R=}{##[P{#([RiqHFCx(([
 
-((##)){#{(}#}(.w4G5LNqo9dQfKGDdnN.AH3y5VNyqD99=##{#]#=(#}R##})({]#[R(R+B3fM)]{-R
-{9}]wE7]+]c4#d[[R]R<]{#[R{O+R)[#={{}#})}=5Ua}#e##-1)w=YO%d)(-bK<5XfE<<ne=(ru<}H_
-{k+RiRmE]-q3OVD)iq(Q(/J1WOKcDW2DMiIZR)lcHKRd(1/w:vX+A1u477DwX[c=)bVlclX9cX5Nn0))
-]y5Mg#<-B2q3ez4:ii]L[wM{d#uWI-n#duCn3)RR9{=4l]k)VJHv90B]+oYRBO7hQ{=(#f#}a}eI-41}
-#-V29y##v#HhvMkcX{2(cRurV/dFG2uZm15y}NdRd)-zr]idFHxeKjMWN:dNp/LlV98rl*:r=2q4X0D{
-#wa+Bg###Eq))lnZ+Q=2Dw3(.akByOW7d0dNy}zx7jDi<QNR-k)pWfj(Ebhv0of)RM##3#wZ.1e%)kR]
-)/)LeZo#5[p=bYGrAn8<2bRpM9bQ=Q-7Oj]d)4fGpld(D<Y)UB1a.b81Yoa-JBra%a.O9X*Qp6xn/+D[
--b1(npu-CVW:R)+B<Zb/YXQ/u#x)**}mQr-pN#]z.#rE{(C9UBF+BNVWm9Ro1CR<(a]#C]gMI=[9(<I]
-%{VN#e5QF+m#OQe(R{=E-<IhfnM-kC0z1a3UKUU3a=W}*EH4ke:-C*/bu7A/./AUcx4V4MmfaYd7JNm(
-RLfKbVU2M4bMAo3viIZuv0[w1#:uId[NeK[ce#%bQq/c=%<//5AQxIxNAMk3IG<CLh/zLu#13kZ]+]I=
-(m##=}If2Vox=*dqiLwB933bNzYEK0bC=nyVn/#WY<7[6:=x{cl=iQZx{CaXDu{uw2F[.<}i9<x#V#p#
-=b#5bFE]JjgpI.EcGBcmBO8LU*:kR7B{42YX99-ho/WwF6udZW/7YIW3yv([56#=-:EY.zX8I[A[GUw=
-]bkvUHE8hy/9EaJeK.DmzJyb0(fj0/0k[XXnYQrD6}yNqq{[]%v31YlX)C+7:Z4<bibm42f8mlnJjfb{
-{1b#y##8oYx=Iu7F]z[zDF=*6J)q8QrO5bR9uafbYZm<D<##6x=b88]=8xck(fMp)nZfJv)UW.MZ4QX=
-){Ewe(=<3i#-pu6Yj=IU(Y+zRyh3uul:excMgGkge1L:Vh/oXpWIiO1k[w}#CCFUBQ4[%kA1+)g]Zdz#
-]aCF=O#g.xv:8o(n#/nU6##j}Gj*Xlc}#0(Dm)Hoc{:<nI+kjXM5U/je.=JX#+#[NgDIGOL91[AD[-]#
-[(F#K5##zNVYI4qo8Fcpj#3{rFKa2UBwHUN0B(]+}zrf#={]YrA78*EcuERu%Nxpc49EL72X-*B0**d]
-#h]Rd*p#OD3xajvM=d%x#h#dfxGL(.e.R94OkLr#}YK#}##dX({})R{=[]QjGQBb+zawHCU494p}.)X)
-{3<{pWB=-.Q1eEYXqCe9UI5avZ=U1JE<{BA4[yLmzG1woWLU%y7QHfubH1wiL0kopCbwx%X3-}hQyZd)
-{{]}#]])#R#={{}}]{#]#[})#{}#})({=)[][}{R#<M4B{(Rxo*3huB+7UCrfi[}R))]](][}[){={{}
+{TgZQGmtY:UhL8i3XBQgI0==R(}#]#)#[)}=wRWMKfkzNOnbC8Tj}{{[{#[#[(#{####](R]}#R(}{)}
+#]wR){=}][)(=[}R)[rbqHnpUp3otiI3cXnqTO%N*jUYaG+iiYxIQQaaHMkTG5ervwtKI4Hk=A53RJU)
+}{UVC(-:L-m2fjIZx{<KCf2DoN=#r#[]R})E]<aQ=[_]#]=<[Ogx1K=m4)G#[Bl#Bw##h%Cdx)fT3qC{
+]%CT9T77iBYnWy{o=QR[RRee#<%Y#[0-=#Zuy}R}fN=qzkoQI-a)g{W5)Z<##p#02#FLf*#*K/<r5lL:
+(Rukepk[)[R4Q.00ctab1]VhQdiC-hztklRjna==.})Gmf)}gV#AD}.V}OR{#Y##q#M3jTFXlU}Atc]-
+RTE3:Fnl7QYLC%r+A1IE=x[t(Ku=#ymWn#p9F5Xg(5EpH.k{bRf=[E]k+.0}#x=Xwc3M5AzXz<DQ}Ny=
+L9{Rk#Tf98l[0BNR[YOFnl5F*Id]}%p9akyt83n*1:5i6Yw41GRbi[B(:Zed<6z#Dg0#XE%%]zX=G-J{
+Y)z#oArCTdRpM[epDzXKN2M)<7n2-KL+*<l{5]j=CIr4=.<*2IcGwI}<aixg8F-X+tazCp8-Ol/e-Y1{
+f)L0I-qM0Mx7=n)5=]F7l=AcoT3x(nieEmUX{Rc0I-lJ.9kXN)4-5t#)=)Tyt.nOxWcZ:ixcMU0LoGj#
+p#l(G}JQ{GH./<Nk=2=Kt0wO]2D<Z/w1A50<pZ.y3Om49qg)LiR6egdApiXp<hNQ(E}1Z35*mENKlJ.#
++{Or.)]v[48IBWtKpbfUGmA7Rqi8A0ooh(Z[#4T(J#=pJeT]Y)tfDEbxMiMW{V<W6E.i%J:Riz2aGih}
+x#XlM1pRJ3cYIkwd=[1C*m*t.BQLIn-VJzAA}2L=MMM<8*{l=)mGIDM+a#+(BG26.##J#NAh}%3v#/K}
+%}B[=(5kVV=mTdYwMNvcYR+=ld*h#i%Np#eJK6Z(*Wzm[bQU-QLFcA/dff{kwmIE-C9qqd[#vtO%Q5%{
+O}Qmif6m{j*l}K84wp%0{cu*0ic+]=vFA6R2FMrAjJ.q.{w1Myf0gt#{RC/x(L8+%U%#xRXOzJu82=W]
+i#lUE91k}F65:{4%uKwfJ[quR6NmoXLHX:H*9wUi3TN]=<vQDw1eetxg)J*%+g1<a0wE#RkKnj[5{9b[
+p}pi+*cQt/Hyu{Ig/MM5:po4rk-f4Zv/TH3G=lMG0{8Tn13ftZ3qm%[[d#VA#<Z8#:8E[:H##RB=8gu}
+K(vvEq<p=)BZ#ti2vHC7a.5NL=3FtAYIl}/G8V0l[#[B%<[vIgk0hKjj<KBJ5o0]q#r)uEtO9#u<D-B[
+O}/kVv(M}<.WZ4EMhJy.M-pmq2DHQ8vM(e}qg2v1DuP2-(#o[vn<Z=h=bd}#Tka##A}dR0K*]##/#An(
+HVCv-)62]r}<9UpT/1E*Ho2Z4z==ZDldU3ZIbJ8Dy0b1C{B=9{)2oQ<cT6c<b0:/hUZQT6wClQaN9X9)
+((]#})#({{}](]{]{#}[[{[(}0={#]P{{]}]}(}RR]#{#{#[[)([]{#R[##]#}}]#]({R(=[}4oyN=])
 ```
 {% endraw %}
 
@@ -172,11 +172,11 @@ Consider an example dungeon:
 
 {% raw %}
 ```
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 ```
 {% endraw %}
 
@@ -184,1339 +184,1737 @@ Below is a log of walking through the example dungeon. Your location is marked `
 
 {% raw %}
 ```
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}@9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}@]
+([=}(}##}{(][#(}()){
 
-St: []  Dx: East  Co: (1, 2)
-P: 41  R: 0  S: 0  T: 0
+St: []  Dx: East  Co: (18, 3)  TC: 0
+P: 78  R: 0
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<@(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn right.
 
-St: [9]  Dx: East  Co: (2, 2)
-P: 42  R: 0  S: 1  T: 1
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}@]
+([=}(}##}{(][#(}()){
 
+St: []  Dx: South  Co: (18, 3)  TC: 1
+P: 78  R: 2
+
+---
+
+You turn forward-right.
+
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}@]
+([=}(}##}{(][#(}()){
+
+St: []  Dx: Southwest  Co: (18, 3)  TC: 2
+P: 78  R: 3
+
+---
+
+You turn forward-right.
+
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}@]
+([=}(}##}{(][#(}()){
+
+St: []  Dx: West  Co: (18, 3)  TC: 3
+P: 78  R: 4
+
+---
+
+You turn backward-right.
+
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}@]
+([=}(}##}{(][#(}()){
+
+St: []  Dx: Northeast  Co: (18, 3)  TC: 4
+P: 78  R: 7
+
+---
+
+You turn right.
+
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}@]
+([=}(}##}{(][#(}()){
+
+St: []  Dx: Southeast  Co: (18, 3)  TC: 5
+P: 78  R: 9
+
+---
+
+You turn backward-left.
+
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}@]
+([=}(}##}{(][#(}()){
+
+St: []  Dx: North  Co: (18, 3)  TC: 6
+P: 78  R: 6
+
+---
+
+You get 6 from R.
+
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3r@]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
+
+St: [6]  Dx: North  Co: (18, 2)  TC: 7
+P: 58  R: 6
+
+---
+
+You turn forward-left.
+
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3r@]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
+
+St: [6]  Dx: Northwest  Co: (18, 2)  TC: 8
+P: 58  R: 5
+
+---
+
+You get 5 from R.
+
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8@(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
+
+St: [5, 6]  Dx: Northwest  Co: (17, 1)  TC: 9
+P: 37  R: 5
+
+---
+
+You turn backward-right.
+
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8@(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
+
+St: [5, 6]  Dx: East  Co: (17, 1)  TC: 10
+P: 37  R: 8
+
+---
+
+You turn forward-left.
+
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8@(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
+
+St: [5, 6]  Dx: Northeast  Co: (17, 1)  TC: 11
+P: 37  R: 7
+
+---
+
+You turn right because 6 > 5.
+
+#=}==rRrp=={(=(]}#@#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
+
+St: []  Dx: Southeast  Co: (18, 0)  TC: 12
+P: 18  R: 9
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<@(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn right.
 
-St: [9]  Dx: Northeast  Co: (2, 2)
-P: 42  R: -1  S: 1  T: 2
+#=}==rRrp=={(=(]}#@#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: []  Dx: Southwest  Co: (18, 0)  TC: 13
+P: 18  R: 11
+
+---
+
+You get 11 from R.
+
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8@(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
+
+St: [11]  Dx: Southwest  Co: (17, 1)  TC: 14
+P: 37  R: 11
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<@(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You push 3.
 
-St: [9]  Dx: Southeast  Co: (2, 2)
-P: 42  R: 1  S: 1  T: 3
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)@rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [3, 11]  Dx: Southwest  Co: (16, 2)  TC: 15
+P: 56  R: 11
+
 ---
+
+You push 4.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p@##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p@:}<]
+([=}(}##}{(][#(}()){
 
-St: [8, 9]  Dx: Southeast  Co: (3, 3)
-P: 63  R: 1  S: 2  T: 4
+St: [4, 3, 11]  Dx: Southwest  Co: (15, 3)  TC: 16
+P: 75  R: 11
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p@##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn forward-left.
 
-St: [8, 9]  Dx: Southwest  Co: (3, 3)
-P: 63  R: 3  S: 2  T: 5
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p@:}<]
+([=}(}##}{(][#(}()){
 
+St: [4, 3, 11]  Dx: South  Co: (15, 3)  TC: 17
+P: 75  R: 10
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p@##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn backward-right.
 
-St: [8, 9]  Dx: Northwest  Co: (3, 3)
-P: 63  R: 5  S: 2  T: 6
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p@:}<]
+([=}(}##}{(][#(}()){
 
+St: [4, 3, 11]  Dx: Northwest  Co: (15, 3)  TC: 18
+P: 75  R: 13
+
 ---
+
+You push 2.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<@(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[@)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [9, 8, 9]  Dx: Northwest  Co: (2, 2)
-P: 42  R: 5  S: 3  T: 7
+St: [2, 4, 3, 11]  Dx: Northwest  Co: (14, 2)  TC: 19
+P: 54  R: 13
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(@.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You set R to 2.
 
-St: [8, 9, 8, 9]  Dx: Northwest  Co: (1, 1)
-P: 21  R: 5  S: 4  T: 8
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:@9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [4, 3, 11]  Dx: South  Co: (13, 1)  TC: 20
+P: 33  R: 2
+
 ---
+
+You turn left.
 
-(=R.))#){{#}#R{#=45]
-(@.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:@9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [8, 9, 8, 9]  Dx: West  Co: (1, 1)
-P: 21  R: 4  S: 4  T: 9
+St: [4, 3, 11]  Dx: East  Co: (13, 1)  TC: 21
+P: 33  R: 0
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(@.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You push 9.
 
-St: [8, 9, 8, 9]  Dx: Southwest  Co: (1, 1)
-P: 21  R: 3  S: 4  T: 10
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R@(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [9, 4, 3, 11]  Dx: East  Co: (14, 1)  TC: 22
+P: 34  R: 0
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(@.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn forward-left.
 
-St: [8, 9, 8, 9]  Dx: North  Co: (1, 1)
-P: 21  R: 6  S: 4  T: 11
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R@(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [9, 4, 3, 11]  Dx: Northeast  Co: (14, 1)  TC: 23
+P: 34  R: -1
+
 ---
+
+You turn right.
 
-(@R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R@(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [8, 9]  Dx: East  Co: (1, 0)
-P: 1  R: 8  S: 2  T: 12
+St: [9, 4, 3, 11]  Dx: Southeast  Co: (14, 1)  TC: 24
+P: 34  R: 1
 
 ---
 
-(=@.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn forward-right.
 
-St: [9]  Dx: East  Co: (2, 0)
-P: 2  R: 8  S: 1  T: 13
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R@(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [9, 4, 3, 11]  Dx: South  Co: (14, 1)  TC: 25
+P: 34  R: 2
+
 ---
 
-(=R@))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You push 2.
 
-St: [9]  Dx: East  Co: (3, 0)
-P: 3  R: 8  S: 1  T: 14
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[@)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [2, 9, 4, 3, 11]  Dx: South  Co: (14, 2)  TC: 26
+P: 54  R: 2
+
 ---
+
+You get 54 from P.
 
-(=R@))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5@4:}<]
+([=}(}##}{(][#(}()){
 
-St: [9]  Dx: Southeast  Co: (3, 0)
-P: 3  R: 9  S: 1  T: 15
+St: [74, 2, 9, 4, 3, 11]  Dx: South  Co: (14, 3)  TC: 27
+P: 74  R: 2
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]@r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn forward-left.
 
-St: [3, 9]  Dx: Southeast  Co: (4, 1)
-P: 24  R: 9  S: 2  T: 16
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5@4:}<]
+([=}(}##}{(][#(}()){
 
+St: [74, 2, 9, 4, 3, 11]  Dx: Southeast  Co: (14, 3)  TC: 28
+P: 74  R: 1
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#@#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn backward-right.
 
-St: [9, 3, 9]  Dx: Southeast  Co: (5, 2)
-P: 45  R: 9  S: 3  T: 17
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5@4:}<]
+([=}(}##}{(][#(}()){
 
+St: [74, 2, 9, 4, 3, 11]  Dx: West  Co: (14, 3)  TC: 29
+P: 74  R: 4
+
 ---
+
+You push 5.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##@R2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}@p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [66, 9, 3, 9]  Dx: Southeast  Co: (6, 3)
-P: 66  R: 9  S: 4  T: 18
+St: [5, 74, 2, 9, 4, 3, 11]  Dx: West  Co: (13, 3)  TC: 30
+P: 73  R: 4
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({@[]#R[]#]#[(P
+You turn backward-right.
 
-St: [3, 9]  Dx: Northeast  Co: (7, 4)
-P: 87  R: 7  S: 2  T: 19
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}@p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [5, 74, 2, 9, 4, 3, 11]  Dx: Northeast  Co: (13, 3)  TC: 31
+P: 73  R: 7
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR@968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You push 2.
 
-St: [2, 3, 9]  Dx: Northeast  Co: (8, 3)
-P: 68  R: 7  S: 3  T: 20
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[@)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [2, 5, 74, 2, 9, 4, 3, 11]  Dx: Northeast  Co: (14, 2)  TC: 32
+P: 54  R: 7
+
 ---
+
+You turn forward-left.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]@{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[@)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [6, 2, 3, 9]  Dx: Northeast  Co: (9, 2)
-P: 49  R: 7  S: 4  T: 21
+St: [2, 5, 74, 2, 9, 4, 3, 11]  Dx: North  Co: (14, 2)  TC: 33
+P: 54  R: 6
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]@{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You push 9.
 
-St: [6, 2, 3, 9]  Dx: Northwest  Co: (9, 2)
-P: 49  R: 5  S: 4  T: 22
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R@(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [9, 2, 5, 74, 2, 9, 4, 3, 11]  Dx: North  Co: (14, 1)  TC: 34
+P: 34  R: 6
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r@R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn forward-left.
 
-St: [2, 6, 3, 9]  Dx: Northwest  Co: (8, 1)
-P: 28  R: 5  S: 4  T: 23
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R@(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [9, 2, 5, 74, 2, 9, 4, 3, 11]  Dx: Northwest  Co: (14, 1)  TC: 35
+P: 34  R: 5
+
 ---
+
+You turn left because 2 < 9.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r@R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(@(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [2, 6, 3, 9]  Dx: North  Co: (8, 1)
-P: 28  R: 6  S: 4  T: 24
+St: [5, 74, 2, 9, 4, 3, 11]  Dx: Southwest  Co: (13, 0)  TC: 36
+P: 13  R: 3
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r@R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You swap 74 and 5.
 
-St: [2, 6, 3, 9]  Dx: Southwest  Co: (8, 1)
-P: 28  R: 3  S: 4  T: 25
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r@R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [74, 5, 2, 9, 4, 3, 11]  Dx: Southwest  Co: (12, 1)  TC: 37
+P: 32  R: 3
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#@]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You push 8.
 
-St: [5, 2, 6, 3, 9]  Dx: Southwest  Co: (7, 2)
-P: 47  R: 3  S: 5  T: 26
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[52@9[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [8, 74, 5, 2, 9, 4, 3, 11]  Dx: Southwest  Co: (11, 2)  TC: 38
+P: 51  R: 3
+
 ---
+
+You push 4.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##@R2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.90@.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [66, 5, 2, 6, 3, ...]  Dx: Southwest  Co: (6, 3)
-P: 66  R: 3  S: 6  T: 27
+St: [4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Southwest  Co: (10, 3)  TC: 39
+P: 70  R: 3
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##@R2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn backward-left.
 
-St: [66, 5, 2, 6, 3, ...]  Dx: South  Co: (6, 3)
-P: 66  R: 2  S: 6  T: 28
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.90@.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (10, 3)  TC: 40
+P: 70  R: 0
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##@R2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You go east.
 
-St: [66, 5, 2, 6, 3, ...]  Dx: Northeast  Co: (6, 3)
-P: 66  R: -1  S: 6  T: 29
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904@}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (11, 3)  TC: 41
+P: 71  R: 0
+
 ---
+
+You turn backward-right.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#@]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904@}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [5, 66, 5, 2, 6, ...]  Dx: Northeast  Co: (7, 2)
-P: 47  R: -1  S: 7  T: 30
+St: [4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Southwest  Co: (11, 3)  TC: 42
+P: 71  R: 3
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r@R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn forward-left.
 
-St: [66, 5, 5, 2, 6, ...]  Dx: Northeast  Co: (8, 1)
-P: 28  R: -1  S: 7  T: 31
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904@}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: South  Co: (11, 3)  TC: 43
+P: 71  R: 2
+
 ---
+
+You turn right.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r@R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904@}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [66, 5, 5, 2, 6, ...]  Dx: West  Co: (8, 1)
-P: 28  R: -4  S: 7  T: 32
+St: [4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: West  Co: (11, 3)  TC: 44
+P: 71  R: 4
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3@:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You push 4.
 
-St: [-4, 66, 5, 5, 2, ...]  Dx: West  Co: (7, 1)
-P: 27  R: -4  S: 8  T: 33
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.90@.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: West  Co: (10, 3)  TC: 45
+P: 70  R: 4
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r@r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You push 0.
 
-St: [3, -4, 66, 5, 5, ...]  Dx: West  Co: (6, 1)
-P: 26  R: -4  S: 9  T: 34
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.9@4.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: West  Co: (9, 3)  TC: 46
+P: 69  R: 4
+
 ---
+
+You push 9.
 
-(=R.))#){{#}#R{#=45]
-(8.]3@3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.@04.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [-4, 3, -4, 66, 5, ...]  Dx: West  Co: (5, 1)
-P: 25  R: -4  S: 10  T: 35
+St: [9, 0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: West  Co: (8, 3)  TC: 47
+P: 68  R: 4
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]@r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You go west.
 
-St: [3, -4, 3, -4, 66, ...]  Dx: West  Co: (4, 1)
-P: 24  R: -4  S: 11  T: 36
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}@904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [9, 0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: West  Co: (7, 3)  TC: 48
+P: 67  R: 4
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]@r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn backward-right.
 
-St: [3, -4, 3, -4, 66, ...]  Dx: North  Co: (4, 1)
-P: 24  R: -2  S: 11  T: 37
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}@904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [9, 0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Northeast  Co: (7, 3)  TC: 49
+P: 67  R: 7
+
 ---
+
+You turn left.
 
-(=R.))#){{#}#R{#=45]
-(8.]@r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}@904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [3, -4, 3, -4, 66, ...]  Dx: Northeast  Co: (4, 1)
-P: 24  R: -1  S: 11  T: 38
+St: [9, 0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Northwest  Co: (7, 3)  TC: 50
+P: 67  R: 5
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]@r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You push 1.
 
-St: [3, -4, 3, -4, 66, ...]  Dx: East  Co: (4, 1)
-P: 24  R: 0  S: 11  T: 39
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{@9[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [1, 9, 0, 4, 4, 8, 74, 5, 2, 9, 4, ...]  Dx: Northwest  Co: (6, 2)  TC: 51
+P: 46  R: 5
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3@3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn backward-right.
 
-St: [0, 3, -4, 3, -4, ...]  Dx: East  Co: (5, 1)
-P: 25  R: 0  S: 12  T: 40
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{@9[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [1, 9, 0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (6, 2)  TC: 52
+P: 46  R: 8
+
 ---
+
+You push 9.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r@r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{1@[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [3, 0, 3, -4, 3, ...]  Dx: East  Co: (6, 1)
-P: 26  R: 0  S: 13  T: 41
+St: [9, 1, 9, 0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (7, 2)  TC: 53
+P: 47  R: 8
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3@:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn left.
 
-St: [0, 3, 0, 3, -4, ...]  Dx: East  Co: (7, 1)
-P: 27  R: 0  S: 14  T: 42
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{1@[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [9, 1, 9, 0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: North  Co: (7, 2)  TC: 54
+P: 47  R: 6
+
 ---
+
+You turn left because 1 < 9.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r@R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})@#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [3, 0, 0, 3, -4, ...]  Dx: East  Co: (8, 1)
-P: 28  R: 0  S: 14  T: 43
+St: [9, 0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: West  Co: (7, 1)  TC: 55
+P: 27  R: 4
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:@[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn forward-right.
 
-St: [0, 0, 3, -4, 3, ...]  Dx: Southwest  Co: (9, 1)
-P: 29  R: 3  S: 13  T: 44
+#=}==rRrp=={(=(]}#=#
+=530:})@#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [9, 0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Northwest  Co: (7, 1)  TC: 56
+P: 27  R: 5
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:@[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You set R to 9.
 
-St: [0, 0, 3, -4, 3, ...]  Dx: Northwest  Co: (9, 1)
-P: 29  R: 5  S: 13  T: 45
+#=}==r@rp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Southeast  Co: (6, 0)  TC: 57
+P: 6  R: 9
+
 ---
+
+You turn right because 4 > 0.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:@[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})@#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [0, 0, 3, -4, 3, ...]  Dx: South  Co: (9, 1)
-P: 29  R: 2  S: 13  T: 46
+St: [4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Southwest  Co: (7, 1)  TC: 58
+P: 27  R: 11
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]@{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You push 1.
 
-St: [6, 0, 0, 3, -4, ...]  Dx: South  Co: (9, 2)
-P: 49  R: 2  S: 14  T: 47
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{@9[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Southwest  Co: (6, 2)  TC: 59
+P: 46  R: 11
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2@68{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You push 5.
 
-St: [9, 6, 0, 0, 3, ...]  Dx: South  Co: (9, 3)
-P: 69  R: 2  S: 15  T: 48
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[37@}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Southwest  Co: (5, 3)  TC: 60
+P: 65  R: 11
+
 ---
+
+You turn forward-left.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2@68{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[37@}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [9, 6, 0, 0, 3, ...]  Dx: West  Co: (9, 3)
-P: 69  R: 4  S: 15  T: 49
+St: [5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: South  Co: (5, 3)  TC: 61
+P: 65  R: 10
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR@968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn backward-right.
 
-St: [2, 9, 6, 0, 0, ...]  Dx: West  Co: (8, 3)
-P: 68  R: 4  S: 16  T: 50
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[37@}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Northwest  Co: (5, 3)  TC: 62
+P: 65  R: 13
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##p@2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You get 65 from P.
 
-St: [9, 6, 0, 0, 3, ...]  Dx: South  Co: (7, 3)
-P: 67  R: 2  S: 15  T: 51
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[r@{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [44, 5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Northwest  Co: (4, 2)  TC: 63
+P: 44  R: 13
+
 ---
+
+You push 0.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({@[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=53@:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [0, 0, 3, -4, 3, ...]  Dx: East  Co: (7, 4)
-P: 87  R: 0  S: 13  T: 52
+St: [0, 44, 5, 1, 4, 8, 74, 5, 2, 9, 4, ...]  Dx: Northwest  Co: (3, 1)  TC: 64
+P: 23  R: 13
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({@[]#R[]#]#[(P
+You turn backward-right.
 
-St: [0, 0, 3, -4, 3, ...]  Dx: North  Co: (7, 4)
-P: 87  R: -2  S: 13  T: 53
+#=}==rRrp=={(=(]}#=#
+=53@:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [0, 44, 5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (3, 1)  TC: 65
+P: 23  R: 16
+
 ---
+
+You swap 44 and 0.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##p@2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530@})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [0, 3, -4, 3, -4, ...]  Dx: East  Co: (7, 3)
-P: 67  R: 0  S: 12  T: 54
+St: [44, 0, 5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (4, 1)  TC: 66
+P: 24  R: 16
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR@968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn backward-right.
 
-St: [2, 0, 3, -4, 3, ...]  Dx: East  Co: (8, 3)
-P: 68  R: 0  S: 13  T: 55
+#=}==rRrp=={(=(]}#=#
+=530@})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [44, 0, 5, 1, 4, 8, 74, 5, 2, 9, 4, ...]  Dx: Southwest  Co: (4, 1)  TC: 67
+P: 24  R: 19
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2@68{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You get 19 from R.
 
-St: [9, 2, 0, 3, -4, ...]  Dx: East  Co: (9, 3)
-P: 69  R: 0  S: 14  T: 56
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[@p{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [19, 44, 0, 5, 1, 4, 8, 74, 5, 2, ...]  Dx: Southwest  Co: (3, 2)  TC: 68
+P: 43  R: 19
+
 ---
+
+You turn left.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR29@8{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[@p{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [6, 9, 2, 0, 3, ...]  Dx: East  Co: (10, 3)
-P: 70  R: 0  S: 15  T: 57
+St: [19, 44, 0, 5, 1, 4, 8, 74, 5, 2, ...]  Dx: Southeast  Co: (3, 2)  TC: 69
+P: 43  R: 17
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR296@{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You push 7.
 
-St: [8, 6, 9, 2, 0, ...]  Dx: East  Co: (11, 3)
-P: 71  R: 0  S: 16  T: 58
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[3@5}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [7, 19, 44, 0, 5, 1, 4, 8, 74, 5, ...]  Dx: Southeast  Co: (4, 3)  TC: 70
+P: 64  R: 17
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR296@{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn backward-right.
 
-St: [8, 6, 9, 2, 0, ...]  Dx: Northwest  Co: (11, 3)
-P: 71  R: -3  S: 16  T: 59
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[3@5}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [7, 19, 44, 0, 5, 1, 4, 8, 74, 5, 2, 9, ...]  Dx: West  Co: (4, 3)  TC: 71
+P: 64  R: 20
+
 ---
+
+You push 3.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR296@{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[@75}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [8, 6, 9, 2, 0, ...]  Dx: South  Co: (11, 3)
-P: 71  R: -6  S: 16  T: 60
+St: [3, 7, 19, 44, 0, 5, 1, 4, 8, 74, 5, 2, ...]  Dx: West  Co: (3, 3)  TC: 72
+P: 63  R: 20
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#@[]#]#[(P
+You turn left.
 
-St: [6, 9, 2, 0, 3, ...]  Dx: East  Co: (11, 4)
-P: 91  R: 8  S: 15  T: 61
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[@75}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [3, 7, 19, 44, 0, 5, 1, 4, 8, 74, 5, 2, ...]  Dx: South  Co: (3, 3)  TC: 73
+P: 63  R: 18
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#@[]#]#[(P
+You turn backward-right.
 
-St: [6, 9, 2, 0, 3, ...]  Dx: North  Co: (11, 4)
-P: 91  R: 6  S: 15  T: 62
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[@75}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [3, 7, 19, 44, 0, 5, 1, 4, 8, 74, ...]  Dx: Northwest  Co: (3, 3)  TC: 74
+P: 63  R: 21
+
 ---
+
+You turn left.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR296@{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[@75}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [8, 6, 9, 2, 0, ...]  Dx: North  Co: (11, 3)
-P: 71  R: 6  S: 16  T: 63
+St: [3, 7, 19, 44, 0, 5, 1, 4, 8, 74, ...]  Dx: Southwest  Co: (3, 3)  TC: 75
+P: 63  R: 19
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{@2p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn right because 7 > 3.
 
-St: [9, 8, 6, 9, 2, ...]  Dx: North  Co: (11, 2)
-P: 51  R: 6  S: 17  T: 64
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([@}(}##}{(][#(}()){
 
+St: [19, 44, 0, 5, 1, 4, 8, 74, 5, 2, ...]  Dx: Northwest  Co: (2, 4)  TC: 76
+P: 82  R: 21
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[@Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You get 21 from R.
 
-St: [5, 9, 8, 6, 9, ...]  Dx: North  Co: (11, 1)
-P: 31  R: 6  S: 18  T: 65
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(@[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [21, 19, 44, 0, 5, 1, 4, 8, 74, 5, ...]  Dx: Northwest  Co: (1, 3)  TC: 77
+P: 61  R: 21
+
 ---
+
+You turn forward-left.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[@Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(@[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [5, 9, 8, 6, 9, ...]  Dx: Southeast  Co: (11, 1)
-P: 31  R: 9  S: 18  T: 66
+St: [21, 19, 44, 0, 5, 1, 4, 8, 74, 5, 2, 9, ...]  Dx: West  Co: (1, 3)  TC: 78
+P: 61  R: 20
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{9@p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn forward-left.
 
-St: [2, 5, 9, 8, 6, ...]  Dx: Southeast  Co: (12, 2)
-P: 52  R: 9  S: 19  T: 67
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(@[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [21, 19, 44, 0, 5, 1, 4, 8, 74, 5, ...]  Dx: Southwest  Co: (1, 3)  TC: 79
+P: 61  R: 19
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{9@p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn forward-left.
 
-St: [2, 5, 9, 8, 6, ...]  Dx: South  Co: (12, 2)
-P: 52  R: 10  S: 19  T: 68
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(@[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [21, 19, 44, 0, 5, 1, 4, 8, 74, 5, 2, ...]  Dx: South  Co: (1, 3)  TC: 80
+P: 61  R: 18
+
 ---
+
+You turn left.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{9@p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(@[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [2, 5, 9, 8, 6, ...]  Dx: Northeast  Co: (12, 2)
-P: 52  R: 7  S: 19  T: 69
+St: [21, 19, 44, 0, 5, 1, 4, 8, 74, 5, 2, 9, ...]  Dx: East  Co: (1, 3)  TC: 81
+P: 61  R: 16
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5R@2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn left.
 
-St: [33, 2, 5, 9, 8, ...]  Dx: Northeast  Co: (13, 1)
-P: 33  R: 7  S: 20  T: 70
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(@[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [21, 19, 44, 0, 5, 1, 4, 8, 74, 5, 2, ...]  Dx: North  Co: (1, 3)  TC: 82
+P: 61  R: 14
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5R@2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You push 9.
 
-St: [33, 2, 5, 9, 8, ...]  Dx: West  Co: (13, 1)
-P: 33  R: 4  S: 20  T: 71
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(@[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [9, 21, 19, 44, 0, 5, 1, 4, 8, 74, 5, ...]  Dx: North  Co: (1, 2)  TC: 83
+P: 41  R: 14
+
 ---
+
+You push 5.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5@p2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=@30:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [2, 5, 9, 8, 6, ...]  Dx: Southeast  Co: (12, 1)
-P: 32  R: 33  S: 19  T: 72
+St: [5, 9, 21, 19, 44, 0, 5, 1, 4, 8, 74, ...]  Dx: North  Co: (1, 1)  TC: 84
+P: 21  R: 14
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92@[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn right because 9 > 5.
 
-St: [53, 2, 5, 9, 8, ...]  Dx: Southeast  Co: (13, 2)
-P: 53  R: 33  S: 20  T: 73
+#@}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [21, 19, 44, 0, 5, 1, 4, 8, 74, 5, 2, 9, ...]  Dx: East  Co: (1, 0)  TC: 85
+P: 1  R: 16
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)@#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn backward-right.
 
-St: [2, 53, 2, 5, 9, ...]  Dx: Southeast  Co: (14, 3)
-P: 74  R: 33  S: 21  T: 74
+#@}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [21, 19, 44, 0, 5, 1, 4, 8, 74, 5, ...]  Dx: Southwest  Co: (1, 0)  TC: 86
+P: 1  R: 19
+
 ---
+
+You turn left because 19 < 21.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)@#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+@530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [2, 53, 2, 5, 9, ...]  Dx: Southwest  Co: (14, 3)
-P: 74  R: 35  S: 21  T: 75
+St: [44, 0, 5, 1, 4, 8, 74, 5, 2, 9, 4, ...]  Dx: Southeast  Co: (0, 1)  TC: 87
+P: 20  R: 17
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)@#(.3R
-P(]#]({=[]#R[]#]#[(P
+You push 9.
 
-St: [2, 53, 2, 5, 9, ...]  Dx: Northwest  Co: (14, 3)
-P: 74  R: 37  S: 21  T: 76
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(@[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [9, 44, 0, 5, 1, 4, 8, 74, 5, 2, 9, ...]  Dx: Southeast  Co: (1, 2)  TC: 88
+P: 41  R: 17
+
 ---
+
+You turn left.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92@[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(@[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [53, 2, 53, 2, 5, ...]  Dx: Northwest  Co: (13, 2)
-P: 53  R: 37  S: 22  T: 77
+St: [9, 44, 0, 5, 1, 4, 8, 74, 5, 2, 9, ...]  Dx: Northeast  Co: (1, 2)  TC: 89
+P: 41  R: 15
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5@p2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You push 3.
 
-St: [2, 53, 2, 5, 9, ...]  Dx: Northwest  Co: (12, 1)
-P: 32  R: 53  S: 21  T: 78
+#=}==rRrp=={(=(]}#=#
+=5@0:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [3, 9, 44, 0, 5, 1, 4, 8, 74, 5, 2, ...]  Dx: Northeast  Co: (2, 1)  TC: 90
+P: 22  R: 15
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5@p2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn right because 9 > 3.
 
-St: [2, 53, 2, 5, 9, ...]  Dx: East  Co: (12, 1)
-P: 32  R: 56  S: 21  T: 79
+#=}@=rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [44, 0, 5, 1, 4, 8, 74, 5, 2, 9, 4, ...]  Dx: Southeast  Co: (3, 0)  TC: 91
+P: 3  R: 17
+
 ---
+
+You swap 0 and 44.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5R@2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530@})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [33, 2, 53, 2, 5, ...]  Dx: East  Co: (13, 1)
-P: 33  R: 56  S: 22  T: 80
+St: [0, 44, 5, 1, 4, 8, 74, 5, 2, 9, 4, ...]  Dx: Southeast  Co: (4, 1)  TC: 92
+P: 24  R: 17
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp@:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn backward-left.
 
-St: [2, 33, 2, 53, 2, ...]  Dx: East  Co: (14, 1)
-P: 34  R: 56  S: 23  T: 81
+#=}==rRrp=={(=(]}#=#
+=530@})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [0, 44, 5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: North  Co: (4, 1)  TC: 93
+P: 24  R: 14
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2@65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn right because 44 > 0.
 
-St: [33, 2, 2, 53, 2, ...]  Dx: East  Co: (15, 1)
-P: 35  R: 56  S: 23  T: 82
+#=}=@rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (4, 0)  TC: 94
+P: 4  R: 16
+
 ---
+
+You get 16 from R.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:@5=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==@Rrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [6, 33, 2, 2, 53, ...]  Dx: East  Co: (16, 1)
-P: 36  R: 56  S: 24  T: 83
+St: [16, 5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (5, 0)  TC: 95
+P: 5  R: 16
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:6@=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You set R to 16.
 
-St: [5, 6, 33, 2, 2, ...]  Dx: East  Co: (17, 1)
-P: 37  R: 56  S: 25  T: 84
+#=}==r@rp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (6, 0)  TC: 96
+P: 6  R: 16
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65@}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You get 16 from R.
 
-St: [33, 2, 2, 53, 2, ...]  Dx: South  Co: (18, 1)
-P: 38  R: 58  S: 23  T: 85
+#=}==rR@p=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [16, 5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (7, 0)  TC: 97
+P: 7  R: 16
+
 ---
+
+You get 7 from P.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5R@2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRr@=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [2, 2, 53, 2, 5, ...]  Dx: South  Co: (13, 1)
-P: 33  R: 58  S: 22  T: 86
+St: [8, 16, 5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (8, 0)  TC: 98
+P: 8  R: 16
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92@[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn right because 16 > 8.
 
-St: [53, 2, 2, 53, 2, ...]  Dx: South  Co: (13, 2)
-P: 53  R: 58  S: 23  T: 87
+#=}==rRrp@={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: South  Co: (9, 0)  TC: 99
+P: 9  R: 18
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92@[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You push 0.
 
-St: [53, 2, 2, 53, 2, ...]  Dx: Southwest  Co: (13, 2)
-P: 53  R: 59  S: 23  T: 88
+#=}==rRrp=={(=(]}#=#
+=530:})=#@)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [0, 5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: South  Co: (9, 1)  TC: 100
+P: 29  R: 18
+
 ---
+
+You push 5.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92@[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[@289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [53, 2, 2, 53, 2, ...]  Dx: East  Co: (13, 2)
-P: 53  R: 56  S: 23  T: 89
+St: [5, 0, 5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: South  Co: (9, 2)  TC: 101
+P: 49  R: 18
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92@[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You push 0.
 
-St: [53, 2, 2, 53, 2, ...]  Dx: North  Co: (13, 2)
-P: 53  R: 54  S: 23  T: 90
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.9@4.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [0, 5, 0, 5, 1, 4, 8, 74, 5, 2, 9, 4, ...]  Dx: South  Co: (9, 3)  TC: 102
+P: 69  R: 18
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5R@2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn backward-left.
 
-St: [33, 53, 2, 2, 53, ...]  Dx: North  Co: (13, 1)
-P: 33  R: 54  S: 24  T: 91
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.9@4.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [0, 5, 0, 5, 1, 4, 8, 74, 5, 2, 9, ...]  Dx: Northeast  Co: (9, 3)  TC: 103
+P: 69  R: 15
+
 ---
+
+You push 2.
 
-(=R.))#){{#}#@{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5@89[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [53, 2, 2, 53, 2, ...]  Dx: Southeast  Co: (13, 0)
-P: 13  R: 33  S: 23  T: 92
+St: [2, 0, 5, 0, 5, 1, 4, 8, 74, 5, ...]  Dx: Northeast  Co: (10, 2)  TC: 104
+P: 50  R: 15
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp@:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You get 15 from R.
 
-St: [2, 53, 2, 2, 53, ...]  Dx: Southeast  Co: (14, 1)
-P: 34  R: 33  S: 24  T: 93
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)@:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [15, 2, 0, 5, 0, 5, 1, 4, 8, 74, ...]  Dx: Northeast  Co: (11, 1)  TC: 105
+P: 31  R: 15
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[@=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn forward-left.
 
-St: [6, 2, 53, 2, 2, ...]  Dx: Southeast  Co: (15, 2)
-P: 55  R: 33  S: 25  T: 94
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)@:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [15, 2, 0, 5, 0, 5, 1, 4, 8, 74, 5, ...]  Dx: North  Co: (11, 1)  TC: 106
+P: 31  R: 14
+
 ---
+
+You turn backward-left.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[@=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)@:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [6, 2, 53, 2, 2, ...]  Dx: East  Co: (15, 2)
-P: 55  R: 32  S: 25  T: 95
+St: [15, 2, 0, 5, 0, 5, 1, 4, 8, 74, ...]  Dx: Southwest  Co: (11, 1)  TC: 107
+P: 31  R: 11
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6@RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You push 2.
 
-St: [53, 2, 2, 53, 2, ...]  Dx: North  Co: (16, 2)
-P: 56  R: 30  S: 23  T: 96
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5@89[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [2, 15, 2, 0, 5, 0, 5, 1, 4, 8, ...]  Dx: Southwest  Co: (10, 2)  TC: 108
+P: 50  R: 11
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:@5=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You push 0.
 
-St: [6, 53, 2, 2, 53, ...]  Dx: North  Co: (16, 1)
-P: 36  R: 30  S: 24  T: 97
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.9@4.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [0, 2, 15, 2, 0, 5, 0, 5, 1, 4, 8, ...]  Dx: Southwest  Co: (9, 3)  TC: 109
+P: 69  R: 11
+
 ---
+
+You turn backward-right.
 
-(=R.))#){{#}#R{#@45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.9@4.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [2, 2, 53, 2, 5, ...]  Dx: East  Co: (16, 0)
-P: 16  R: 32  S: 22  T: 98
+St: [0, 2, 15, 2, 0, 5, 0, 5, 1, 4, 8, 74, ...]  Dx: North  Co: (9, 3)  TC: 110
+P: 69  R: 14
 
 ---
 
-(=R.))#){{#}#R{#=@5]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You push 5.
 
-St: [4, 2, 2, 53, 2, ...]  Dx: East  Co: (17, 0)
-P: 17  R: 32  S: 23  T: 99
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[@289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [5, 0, 2, 15, 2, 0, 5, 0, 5, 1, 4, 8, ...]  Dx: North  Co: (9, 2)  TC: 111
+P: 49  R: 14
+
 ---
+
+You push 0.
 
-(=R.))#){{#}#R{#=4@]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#@)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [5, 4, 2, 2, 53, ...]  Dx: East  Co: (18, 0)
-P: 18  R: 32  S: 24  T: 100
+St: [0, 5, 0, 2, 15, 2, 0, 5, 0, 5, 1, 4, ...]  Dx: North  Co: (9, 1)  TC: 112
+P: 29  R: 14
 
 ---
 
-(=R.))#){{#}#R{#=4@]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn right because 5 > 0.
 
-St: [5, 4, 2, 2, 53, ...]  Dx: South  Co: (18, 0)
-P: 18  R: 34  S: 24  T: 101
+#=}==rRrp@={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [0, 2, 15, 2, 0, 5, 0, 5, 1, 4, 8, 74, ...]  Dx: East  Co: (9, 0)  TC: 113
+P: 9  R: 16
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65@}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn right because 2 > 0.
 
-St: [2, 2, 53, 2, 5, ...]  Dx: East  Co: (18, 1)
-P: 38  R: 32  S: 22  T: 102
+#=}==rRrp=@{(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [15, 2, 0, 5, 0, 5, 1, 4, 8, 74, 5, ...]  Dx: South  Co: (10, 0)  TC: 114
+P: 10  R: 18
+
 ---
+
+You turn forward-right.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65@}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=@{(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [2, 2, 53, 2, 5, ...]  Dx: Southwest  Co: (18, 1)
-P: 38  R: 35  S: 22  T: 103
+St: [15, 2, 0, 5, 0, 5, 1, 4, 8, 74, ...]  Dx: Southwest  Co: (10, 0)  TC: 115
+P: 10  R: 19
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=@P#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You push 0.
 
-St: [2, 53, 2, 5, 9, ...]  Dx: South  Co: (17, 2)
-P: 57  R: 2  S: 21  T: 104
+#=}==rRrp=={(=(]}#=#
+=530:})=#@)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [0, 15, 2, 0, 5, 0, 5, 1, 4, 8, ...]  Dx: Southwest  Co: (9, 1)  TC: 116
+P: 29  R: 19
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(@3R
-P(]#]({=[]#R[]#]#[(P
+You turn left.
 
-St: [2, 53, 2, 5, 9, ...]  Dx: South  Co: (17, 3)
-P: 77  R: 2  S: 21  T: 105
+#=}==rRrp=={(=(]}#=#
+=530:})=#@)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [0, 15, 2, 0, 5, 0, 5, 1, 4, 8, ...]  Dx: Southeast  Co: (9, 1)  TC: 117
+P: 29  R: 17
+
 ---
+
+You push 2.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(@3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5@89[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [2, 53, 2, 5, 9, ...]  Dx: East  Co: (17, 3)
-P: 77  R: 0  S: 21  T: 106
+St: [2, 0, 15, 2, 0, 5, 0, 5, 1, 4, ...]  Dx: Southeast  Co: (10, 2)  TC: 118
+P: 50  R: 17
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.@R
-P(]#]({=[]#R[]#]#[(P
+You go southeast.
 
-St: [3, 2, 53, 2, 5, ...]  Dx: East  Co: (18, 3)
-P: 78  R: 0  S: 22  T: 107
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904@}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [2, 0, 15, 2, 0, 5, 0, 5, 1, 4, ...]  Dx: Southeast  Co: (11, 3)  TC: 119
+P: 71  R: 17
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3@
-P(]#]({=[]#R[]#]#[(P
+You turn left.
 
-St: [2, 53, 2, 5, 9, ...]  Dx: Southwest  Co: (19, 3)
-P: 79  R: 3  S: 21  T: 108
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904@}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [2, 0, 15, 2, 0, 5, 0, 5, 1, 4, ...]  Dx: Northeast  Co: (11, 3)  TC: 120
+P: 71  R: 15
+
 ---
+
+You push 9.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3@
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[528@[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [2, 53, 2, 5, 9, ...]  Dx: South  Co: (19, 3)
-P: 79  R: 2  S: 21  T: 109
+St: [9, 2, 0, 15, 2, 0, 5, 0, 5, 1, ...]  Dx: Northeast  Co: (12, 2)  TC: 121
+P: 52  R: 15
 
 ---
 
-(=@.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You set R to 9.
 
-St: [53, 2, 5, 9, 8, ...]  Dx: South  Co: (2, 0)
-P: 2  R: 2  S: 20  T: 110
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:@9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [2, 0, 15, 2, 0, 5, 0, 5, 1, 4, ...]  Dx: Southeast  Co: (13, 1)  TC: 122
+P: 33  R: 9
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8@]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You push 2.
 
-St: [53, 2, 5, 9, 8, ...]  Dx: South  Co: (2, 1)
-P: 22  R: 2  S: 20  T: 111
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[@)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [2, 2, 0, 15, 2, 0, 5, 0, 5, 1, ...]  Dx: Southeast  Co: (14, 2)  TC: 123
+P: 54  R: 9
+
 ---
+
+You push 4.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<@(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p@:}<]
+([=}(}##}{(][#(}()){
 
-St: [9, 53, 2, 5, 9, ...]  Dx: South  Co: (2, 2)
-P: 42  R: 2  S: 21  T: 112
+St: [4, 2, 2, 0, 15, 2, 0, 5, 0, 5, ...]  Dx: Southeast  Co: (15, 3)  TC: 124
+P: 75  R: 9
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3@8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn forward-left.
 
-St: [62, 9, 53, 2, 5, ...]  Dx: South  Co: (2, 3)
-P: 62  R: 2  S: 22  T: 113
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p@:}<]
+([=}(}##}{(][#(}()){
 
+St: [4, 2, 2, 0, 15, 2, 0, 5, 0, 5, 1, 4, ...]  Dx: East  Co: (15, 3)  TC: 125
+P: 75  R: 8
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3@8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You swap 2 and 4.
 
-St: [62, 9, 53, 2, 5, ...]  Dx: West  Co: (2, 3)
-P: 62  R: 4  S: 22  T: 114
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4@}<]
+([=}(}##}{(][#(}()){
 
+St: [2, 4, 2, 0, 15, 2, 0, 5, 0, 5, 1, 4, ...]  Dx: East  Co: (16, 3)  TC: 126
+P: 76  R: 8
+
 ---
+
+You turn backward-right.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[@p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4@}<]
+([=}(}##}{(][#(}()){
 
-St: [3, 62, 9, 53, 2, ...]  Dx: West  Co: (1, 3)
-P: 61  R: 4  S: 23  T: 115
+St: [2, 4, 2, 0, 15, 2, 0, 5, 0, 5, ...]  Dx: Southwest  Co: (16, 3)  TC: 127
+P: 76  R: 11
 
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[@p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn backward-right.
 
-St: [3, 62, 9, 53, 2, ...]  Dx: South  Co: (1, 3)
-P: 61  R: 2  S: 23  T: 116
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4@}<]
+([=}(}##}{(][#(}()){
 
+St: [2, 4, 2, 0, 15, 2, 0, 5, 0, 5, 1, 4, ...]  Dx: North  Co: (16, 3)  TC: 128
+P: 76  R: 14
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[@p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You push 3.
 
-St: [3, 62, 9, 53, 2, ...]  Dx: Southeast  Co: (1, 3)
-P: 61  R: 1  S: 23  T: 117
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)@rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [3, 2, 4, 2, 0, 15, 2, 0, 5, 0, 5, 1, ...]  Dx: North  Co: (16, 2)  TC: 129
+P: 56  R: 14
+
 ---
+
+You push 8.
 
-(=R.))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[@p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(@r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
-St: [3, 62, 9, 53, 2, ...]  Dx: Southwest  Co: (1, 3)
-P: 61  R: 3  S: 23  T: 118
+St: [8, 3, 2, 4, 2, 0, 15, 2, 0, 5, 0, 5, ...]  Dx: North  Co: (16, 1)  TC: 130
+P: 36  R: 14
 
 ---
 
-(=R@))#){{#}#R{#=45]
-(8.]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You turn backward-right.
 
-St: [62, 9, 53, 2, 5, ...]  Dx: Southwest  Co: (3, 0)
-P: 3  R: 3  S: 22  T: 119
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(@r(]
+(9[rp{19[5289[2)3rr]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [8, 3, 2, 4, 2, 0, 15, 2, 0, 5, ...]  Dx: Southeast  Co: (16, 1)  TC: 131
+P: 36  R: 17
+
 ---
 
-(=R.))#){{#}#R{#=45]
-(8@]3r3r:R[5Rp2:65=}
-}<9(#9#5]6{92p[6=RP#
-[3p8##pR2968{)2#(.3R
-P(]#]({=[]#R[]#]#[(P
+You get 17 from R.
 
-St: [62, 9, 53, 2, 5, ...]  Dx: Southwest  Co: (2, 1)
-P: 22  R: 3  S: 22  T: 120
+#=}==rRrp=={(=(]}#=#
+=530:})=#0)r:R9(8r(]
+(9[rp{19[5289[2)3@r]
+(r[375}.904.}5p4:}<]
+([=}(}##}{(][#(}()){
 
+St: [17, 8, 3, 2, 4, 2, 0, 15, 2, 0, ...]  Dx: Southeast  Co: (17, 2)  TC: 132
+P: 57  R: 17
+
 ---
+
+You go upstairs.
 
-T: 121
+TC: 133
 ```
 {% endraw %}
 
-You leave the example dungeon after 121 ticks.
+You leave the example dungeon after 133 ticks.

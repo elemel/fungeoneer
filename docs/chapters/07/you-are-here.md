@@ -180,7 +180,7 @@ Consider an example dungeon:
 ```
 {% endraw %}
 
-Below is a log of walking through the example dungeon. Your location is marked `@` on the map.
+The log below shows you exploring the example dungeon, with your location marked `@` on the map. The status lines now also show your position (labeled `P`).
 
 {% raw %}
 ```

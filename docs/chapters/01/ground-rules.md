@@ -50,7 +50,7 @@ Consider an example dungeon:
 #]##]#[#]###########
 ```
 
-The log below shows you exploring the example dungeon, with your location marked `@` on the map. The status line uses the labels `Dx` for direction, `Co` for coordinates, and `TC` for tick count. Coordinates are shown as `(x, y)`.
+The log below shows you exploring the example dungeon, with your location marked `@` on the map. The status line uses the labels `Dx` for direction, `Co` for coordinates, and `TC` for tick count. Coordinates are shown as `(x, y, z)`, with the z-coordinate being 0 in the dungeon and -1 after leaving it.
 
 ```
 #############[####]#
@@ -59,7 +59,7 @@ The log below shows you exploring the example dungeon, with your location marked
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: East  Co: (8, 2)  TC: 0
+Dx: East  Co: (8, 2, 0)  TC: 0
 
 ---
 
@@ -71,7 +71,7 @@ You turn right.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: South  Co: (8, 2)  TC: 1
+Dx: South  Co: (8, 2, 0)  TC: 1
 
 ---
 
@@ -83,7 +83,7 @@ You go south.
 ].]..[..@.......[#]#
 #]##]#[#]###########
 
-Dx: South  Co: (8, 3)  TC: 2
+Dx: South  Co: (8, 3, 0)  TC: 2
 
 ---
 
@@ -95,7 +95,7 @@ You turn right.
 ].]..[..@.......[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (8, 3)  TC: 3
+Dx: West  Co: (8, 3, 0)  TC: 3
 
 ---
 
@@ -107,7 +107,7 @@ You go west.
 ].]..[.@........[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (7, 3)  TC: 4
+Dx: West  Co: (7, 3, 0)  TC: 4
 
 ---
 
@@ -119,7 +119,7 @@ You go west.
 ].]..[@.........[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (6, 3)  TC: 5
+Dx: West  Co: (6, 3, 0)  TC: 5
 
 ---
 
@@ -131,7 +131,7 @@ You turn left.
 ].]..[@.........[#]#
 #]##]#[#]###########
 
-Dx: South  Co: (6, 3)  TC: 6
+Dx: South  Co: (6, 3, 0)  TC: 6
 
 ---
 
@@ -143,7 +143,7 @@ You turn left.
 ].]..[@.........[#]#
 #]##]#[#]###########
 
-Dx: East  Co: (6, 3)  TC: 7
+Dx: East  Co: (6, 3, 0)  TC: 7
 
 ---
 
@@ -155,7 +155,7 @@ You go east.
 ].]..[.@........[#]#
 #]##]#[#]###########
 
-Dx: East  Co: (7, 3)  TC: 8
+Dx: East  Co: (7, 3, 0)  TC: 8
 
 ---
 
@@ -167,7 +167,7 @@ You go east.
 ].]..[..@.......[#]#
 #]##]#[#]###########
 
-Dx: East  Co: (8, 3)  TC: 9
+Dx: East  Co: (8, 3, 0)  TC: 9
 
 ---
 
@@ -179,7 +179,7 @@ You go east.
 ].]..[...@......[#]#
 #]##]#[#]###########
 
-Dx: East  Co: (9, 3)  TC: 10
+Dx: East  Co: (9, 3, 0)  TC: 10
 
 ---
 
@@ -191,7 +191,7 @@ You go east.
 ].]..[....@.....[#]#
 #]##]#[#]###########
 
-Dx: East  Co: (10, 3)  TC: 11
+Dx: East  Co: (10, 3, 0)  TC: 11
 
 ---
 
@@ -203,7 +203,7 @@ You go east.
 ].]..[.....@....[#]#
 #]##]#[#]###########
 
-Dx: East  Co: (11, 3)  TC: 12
+Dx: East  Co: (11, 3, 0)  TC: 12
 
 ---
 
@@ -215,7 +215,7 @@ You go east.
 ].]..[......@...[#]#
 #]##]#[#]###########
 
-Dx: East  Co: (12, 3)  TC: 13
+Dx: East  Co: (12, 3, 0)  TC: 13
 
 ---
 
@@ -227,7 +227,7 @@ You go east.
 ].]..[.......@..[#]#
 #]##]#[#]###########
 
-Dx: East  Co: (13, 3)  TC: 14
+Dx: East  Co: (13, 3, 0)  TC: 14
 
 ---
 
@@ -239,7 +239,7 @@ You go east.
 ].]..[........@.[#]#
 #]##]#[#]###########
 
-Dx: East  Co: (14, 3)  TC: 15
+Dx: East  Co: (14, 3, 0)  TC: 15
 
 ---
 
@@ -251,7 +251,7 @@ You go east.
 ].]..[.........@[#]#
 #]##]#[#]###########
 
-Dx: East  Co: (15, 3)  TC: 16
+Dx: East  Co: (15, 3, 0)  TC: 16
 
 ---
 
@@ -263,7 +263,7 @@ You turn left.
 ].]..[.........@[#]#
 #]##]#[#]###########
 
-Dx: North  Co: (15, 3)  TC: 17
+Dx: North  Co: (15, 3, 0)  TC: 17
 
 ---
 
@@ -275,7 +275,7 @@ You go north.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: North  Co: (15, 2)  TC: 18
+Dx: North  Co: (15, 2, 0)  TC: 18
 
 ---
 
@@ -287,7 +287,7 @@ You turn right.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: East  Co: (15, 2)  TC: 19
+Dx: East  Co: (15, 2, 0)  TC: 19
 
 ---
 
@@ -299,7 +299,7 @@ You go east.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: East  Co: (16, 2)  TC: 20
+Dx: East  Co: (16, 2, 0)  TC: 20
 
 ---
 
@@ -311,7 +311,7 @@ You go east.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: East  Co: (17, 2)  TC: 21
+Dx: East  Co: (17, 2, 0)  TC: 21
 
 ---
 
@@ -323,7 +323,7 @@ You go east.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: East  Co: (18, 2)  TC: 22
+Dx: East  Co: (18, 2, 0)  TC: 22
 
 ---
 
@@ -335,7 +335,7 @@ You turn left.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: North  Co: (18, 2)  TC: 23
+Dx: North  Co: (18, 2, 0)  TC: 23
 
 ---
 
@@ -347,7 +347,7 @@ You go north.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: North  Co: (18, 1)  TC: 24
+Dx: North  Co: (18, 1, 0)  TC: 24
 
 ---
 
@@ -359,7 +359,7 @@ You turn right.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: East  Co: (18, 1)  TC: 25
+Dx: East  Co: (18, 1, 0)  TC: 25
 
 ---
 
@@ -371,7 +371,7 @@ You turn right.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: South  Co: (18, 1)  TC: 26
+Dx: South  Co: (18, 1, 0)  TC: 26
 
 ---
 
@@ -383,7 +383,7 @@ You go south.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: South  Co: (18, 2)  TC: 27
+Dx: South  Co: (18, 2, 0)  TC: 27
 
 ---
 
@@ -395,7 +395,7 @@ You turn right.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (18, 2)  TC: 28
+Dx: West  Co: (18, 2, 0)  TC: 28
 
 ---
 
@@ -407,7 +407,7 @@ You go west.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (17, 2)  TC: 29
+Dx: West  Co: (17, 2, 0)  TC: 29
 
 ---
 
@@ -419,7 +419,7 @@ You go west.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (16, 2)  TC: 30
+Dx: West  Co: (16, 2, 0)  TC: 30
 
 ---
 
@@ -431,7 +431,7 @@ You go west.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (15, 2)  TC: 31
+Dx: West  Co: (15, 2, 0)  TC: 31
 
 ---
 
@@ -443,7 +443,7 @@ You go west.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (14, 2)  TC: 32
+Dx: West  Co: (14, 2, 0)  TC: 32
 
 ---
 
@@ -455,7 +455,7 @@ You go west.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (13, 2)  TC: 33
+Dx: West  Co: (13, 2, 0)  TC: 33
 
 ---
 
@@ -467,7 +467,7 @@ You turn right.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: North  Co: (13, 2)  TC: 34
+Dx: North  Co: (13, 2, 0)  TC: 34
 
 ---
 
@@ -479,7 +479,7 @@ You go north.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: North  Co: (13, 1)  TC: 35
+Dx: North  Co: (13, 1, 0)  TC: 35
 
 ---
 
@@ -491,7 +491,7 @@ You turn left.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (13, 1)  TC: 36
+Dx: West  Co: (13, 1, 0)  TC: 36
 
 ---
 
@@ -503,7 +503,7 @@ You go west.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (12, 1)  TC: 37
+Dx: West  Co: (12, 1, 0)  TC: 37
 
 ---
 
@@ -515,7 +515,7 @@ You go west.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (11, 1)  TC: 38
+Dx: West  Co: (11, 1, 0)  TC: 38
 
 ---
 
@@ -527,7 +527,7 @@ You go west.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (10, 1)  TC: 39
+Dx: West  Co: (10, 1, 0)  TC: 39
 
 ---
 
@@ -539,7 +539,7 @@ You go west.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (9, 1)  TC: 40
+Dx: West  Co: (9, 1, 0)  TC: 40
 
 ---
 
@@ -551,7 +551,7 @@ You go west.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (8, 1)  TC: 41
+Dx: West  Co: (8, 1, 0)  TC: 41
 
 ---
 
@@ -563,7 +563,7 @@ You go west.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (7, 1)  TC: 42
+Dx: West  Co: (7, 1, 0)  TC: 42
 
 ---
 
@@ -575,7 +575,7 @@ You go west.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (6, 1)  TC: 43
+Dx: West  Co: (6, 1, 0)  TC: 43
 
 ---
 
@@ -587,7 +587,7 @@ You go west.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (5, 1)  TC: 44
+Dx: West  Co: (5, 1, 0)  TC: 44
 
 ---
 
@@ -599,7 +599,7 @@ You go west.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (4, 1)  TC: 45
+Dx: West  Co: (4, 1, 0)  TC: 45
 
 ---
 
@@ -611,7 +611,7 @@ You turn left.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: South  Co: (4, 1)  TC: 46
+Dx: South  Co: (4, 1, 0)  TC: 46
 
 ---
 
@@ -623,7 +623,7 @@ You go south.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: South  Co: (4, 2)  TC: 47
+Dx: South  Co: (4, 2, 0)  TC: 47
 
 ---
 
@@ -635,7 +635,7 @@ You go south.
 ].].@[..........[#]#
 #]##]#[#]###########
 
-Dx: South  Co: (4, 3)  TC: 48
+Dx: South  Co: (4, 3, 0)  TC: 48
 
 ---
 
@@ -647,7 +647,7 @@ You turn right.
 ].].@[..........[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (4, 3)  TC: 49
+Dx: West  Co: (4, 3, 0)  TC: 49
 
 ---
 
@@ -659,7 +659,7 @@ You go west.
 ].]@.[..........[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (3, 3)  TC: 50
+Dx: West  Co: (3, 3, 0)  TC: 50
 
 ---
 
@@ -671,7 +671,7 @@ You turn right.
 ].]@.[..........[#]#
 #]##]#[#]###########
 
-Dx: North  Co: (3, 3)  TC: 51
+Dx: North  Co: (3, 3, 0)  TC: 51
 
 ---
 
@@ -683,7 +683,7 @@ You go north.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: North  Co: (3, 2)  TC: 52
+Dx: North  Co: (3, 2, 0)  TC: 52
 
 ---
 
@@ -695,7 +695,7 @@ You turn left.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (3, 2)  TC: 53
+Dx: West  Co: (3, 2, 0)  TC: 53
 
 ---
 
@@ -707,7 +707,7 @@ You go west.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (2, 2)  TC: 54
+Dx: West  Co: (2, 2, 0)  TC: 54
 
 ---
 
@@ -719,7 +719,7 @@ You go west.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (1, 2)  TC: 55
+Dx: West  Co: (1, 2, 0)  TC: 55
 
 ---
 
@@ -731,7 +731,7 @@ You turn left.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: South  Co: (1, 2)  TC: 56
+Dx: South  Co: (1, 2, 0)  TC: 56
 
 ---
 
@@ -743,7 +743,7 @@ You go south.
 ]@]..[..........[#]#
 #]##]#[#]###########
 
-Dx: South  Co: (1, 3)  TC: 57
+Dx: South  Co: (1, 3, 0)  TC: 57
 
 ---
 
@@ -755,7 +755,7 @@ You turn right.
 ]@]..[..........[#]#
 #]##]#[#]###########
 
-Dx: West  Co: (1, 3)  TC: 58
+Dx: West  Co: (1, 3, 0)  TC: 58
 
 ---
 
@@ -767,7 +767,7 @@ You turn right.
 ]@]..[..........[#]#
 #]##]#[#]###########
 
-Dx: North  Co: (1, 3)  TC: 59
+Dx: North  Co: (1, 3, 0)  TC: 59
 
 ---
 
@@ -779,7 +779,7 @@ You go north.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: North  Co: (1, 2)  TC: 60
+Dx: North  Co: (1, 2, 0)  TC: 60
 
 ---
 
@@ -791,7 +791,7 @@ You turn right.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: East  Co: (1, 2)  TC: 61
+Dx: East  Co: (1, 2, 0)  TC: 61
 
 ---
 
@@ -803,7 +803,7 @@ You go east.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: East  Co: (2, 2)  TC: 62
+Dx: East  Co: (2, 2, 0)  TC: 62
 
 ---
 
@@ -815,7 +815,7 @@ You go east.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: East  Co: (3, 2)  TC: 63
+Dx: East  Co: (3, 2, 0)  TC: 63
 
 ---
 
@@ -827,7 +827,7 @@ You go east.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: East  Co: (4, 2)  TC: 64
+Dx: East  Co: (4, 2, 0)  TC: 64
 
 ---
 
@@ -839,7 +839,7 @@ You go east.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: East  Co: (5, 2)  TC: 65
+Dx: East  Co: (5, 2, 0)  TC: 65
 
 ---
 
@@ -851,7 +851,7 @@ You go east.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: East  Co: (6, 2)  TC: 66
+Dx: East  Co: (6, 2, 0)  TC: 66
 
 ---
 
@@ -863,13 +863,13 @@ You go east.
 ].]..[..........[#]#
 #]##]#[#]###########
 
-Dx: East  Co: (7, 2)  TC: 67
+Dx: East  Co: (7, 2, 0)  TC: 67
 
 ---
 
 You go upstairs.
 
-TC: 68
+Dx: East  Co: (8, 2, -1)  TC: 68
 ```
 
 You leave the example dungeon after 68 ticks.

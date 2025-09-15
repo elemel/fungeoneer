@@ -50,7 +50,7 @@ Consider an example dungeon:
 #]##]#[#]###########
 ```
 
-The log below shows you exploring the example dungeon, with your location marked `@` on the map. The status line uses the labels `Dx` for direction, `Co` for coordinates, and `TC` for tick count. Coordinates are shown as `(x, y, z)`, with the z-coordinate being 0 in the dungeon and -1 after leaving it.
+The log below shows you exploring the example dungeon, with your location marked `@` on the map. The status line uses the labels `Dx` for direction, `Co` for coordinates, and `TC` for tick count. Coordinates are shown as `(x, y, z)`, where `x` increases to the east, `y` to the south, and `z` downward. The origin is at the northwest corner of the map.
 
 ```
 #############[####]#

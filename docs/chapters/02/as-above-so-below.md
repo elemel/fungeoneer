@@ -73,7 +73,7 @@ Consider an example dungeon:
 #]]######[]#[#[###]#
 ```
 
-The log below shows you exploring the example dungeon, with your location marked `@` on the map. In deep dungeons, coordinates are shown as `(x, y, z)`.
+The log below shows you exploring the example dungeon, with your location marked `@` on the map.
 
 ```
 ##########[#[####[##

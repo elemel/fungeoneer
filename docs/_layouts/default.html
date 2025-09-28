@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>
+      {% if page.url == "/" %}
+        {{ site.title }} | {{ site.tagline }}
+      {% else %}
+        {{ page.title }} | {{ site.title }}
+      {% endif %}
+    </title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    {{ content_for_head }}
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      {% unless page.url == "/" %}
+        <h1>
+          <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        </h1>
+      {% endunless %}
+
+      {{ content }}
+    </div>
+  </body>
+</html>

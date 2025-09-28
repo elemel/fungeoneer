@@ -25,16 +25,16 @@
 <body class="{{ page.theme | default: '' }}">
 
   <main class="container-lg p-4">
-    {% unless page.url == "/" %}
-      <!-- Regular H1 for the site title -->
-      <h1>
-        <a href="{{ '/' | relative_url }}" class="no-underline color-fg-default">
-          {{ site.title }}
-        </a>
-      </h1>
-    {% endunless %}
-
     <article class="markdown-body">
+      {% unless page.url == "/" %}
+        <!-- Website title inside markdown-body for proper spacing -->
+        <h1>
+          <a href="{{ '/' | relative_url }}" class="no-underline color-fg-default">
+            {{ site.title }}
+          </a>
+        </h1>
+      {% endunless %}
+
       {{ content }}
     </article>
   </main>

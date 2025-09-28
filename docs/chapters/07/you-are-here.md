@@ -2,9 +2,9 @@
 
 You have entered the seventh dungeon. You stand at the bottom of the staircase where you entered, facing east. In a haystack by the staircase, you find a needle: a magic pin. Out of concern for any beast of burden that may stray here to feed, you decide to keep the pin. You press it into the symbol of the staircase on your magic map.
 
-With every step you take in the dungeon, the magic pin mirrors your movement on the map, reflecting your location. As inventory slot P, the pin also reveals your position as a number, starting from zero at the top-left symbol, and increasing with each symbol in left-to-right, top-to-bottom reading order. Blank spaces are ignored.
+With every step you take in the dungeon, the magic pin mirrors your movement on the map, reflecting your location. As register P, the pin also reveals your position as a number, starting from zero at the top-left symbol, and increasing with each symbol in left-to-right, top-to-bottom reading order. Blank spaces are ignored.
 
-Anchored by the pin, you survey the map:
+Anchored by the pin, you consult the map:
 
 {% raw %}
 ```
@@ -157,7 +157,7 @@ HVCv-)62]r}<9UpT/1E*Ho2Z4z==ZDldU3ZIbJ8Dy0b1C{B=9{)2oQ<cT6c<b0:/hUZQT6wClQaN9X9)
 ```
 {% endraw %}
 
-This dungeon contains altar tiles (marked `_` on the map), along with getters and setters for inventory slot P (marked `p` or `P`). Whenever you step onto an altar tile, pop a number `b` from the stack, then get your position as another number `a`, then push `a` onto the stack, and finally set your position to `b`. This teleports you to the corresponding location.
+This dungeon contains altar tiles (marked `_` on the map), along with getters and setters for register P (marked `p` or `P`). Whenever you step onto an altar tile, pop a number `b` from the stack, then get your position as another number `a`, then push `a` onto the stack, and finally set your position to `b`. This teleports you to the corresponding location.
 
 Whenever you step onto a P-getter tile, get your position as a number, then push that number onto the stack. For a P-setter tile, pop a number from the stack, then set your position to that number. As above, this teleports you to the corresponding location.
 
@@ -190,7 +190,7 @@ The log below shows you exploring the example dungeon, with your location marked
 (r[375}.904.}5p4:}@]
 ([=}(}##}{(][#(}()){
 
-St: []  Dx: East  Co: (18, 3)  TC: 0
+St: []  Dx: East  Co: (18, 3, 0)  TC: 0
 P: 78  R: 0
 
 ---
@@ -203,7 +203,7 @@ You turn right.
 (r[375}.904.}5p4:}@]
 ([=}(}##}{(][#(}()){
 
-St: []  Dx: South  Co: (18, 3)  TC: 1
+St: []  Dx: South  Co: (18, 3, 0)  TC: 1
 P: 78  R: 2
 
 ---
@@ -216,7 +216,7 @@ You turn forward-right.
 (r[375}.904.}5p4:}@]
 ([=}(}##}{(][#(}()){
 
-St: []  Dx: Southwest  Co: (18, 3)  TC: 2
+St: []  Dx: Southwest  Co: (18, 3, 0)  TC: 2
 P: 78  R: 3
 
 ---
@@ -229,7 +229,7 @@ You turn forward-right.
 (r[375}.904.}5p4:}@]
 ([=}(}##}{(][#(}()){
 
-St: []  Dx: West  Co: (18, 3)  TC: 3
+St: []  Dx: West  Co: (18, 3, 0)  TC: 3
 P: 78  R: 4
 
 ---
@@ -242,7 +242,7 @@ You turn backward-right.
 (r[375}.904.}5p4:}@]
 ([=}(}##}{(][#(}()){
 
-St: []  Dx: Northeast  Co: (18, 3)  TC: 4
+St: []  Dx: Northeast  Co: (18, 3, 0)  TC: 4
 P: 78  R: 7
 
 ---
@@ -255,7 +255,7 @@ You turn right.
 (r[375}.904.}5p4:}@]
 ([=}(}##}{(][#(}()){
 
-St: []  Dx: Southeast  Co: (18, 3)  TC: 5
+St: []  Dx: Southeast  Co: (18, 3, 0)  TC: 5
 P: 78  R: 9
 
 ---
@@ -268,7 +268,7 @@ You turn backward-left.
 (r[375}.904.}5p4:}@]
 ([=}(}##}{(][#(}()){
 
-St: []  Dx: North  Co: (18, 3)  TC: 6
+St: []  Dx: North  Co: (18, 3, 0)  TC: 6
 P: 78  R: 6
 
 ---
@@ -281,7 +281,7 @@ You get 6 from R.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [6]  Dx: North  Co: (18, 2)  TC: 7
+St: [6]  Dx: North  Co: (18, 2, 0)  TC: 7
 P: 58  R: 6
 
 ---
@@ -294,7 +294,7 @@ You turn forward-left.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [6]  Dx: Northwest  Co: (18, 2)  TC: 8
+St: [6]  Dx: Northwest  Co: (18, 2, 0)  TC: 8
 P: 58  R: 5
 
 ---
@@ -307,7 +307,7 @@ You get 5 from R.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [5, 6]  Dx: Northwest  Co: (17, 1)  TC: 9
+St: [5, 6]  Dx: Northwest  Co: (17, 1, 0)  TC: 9
 P: 37  R: 5
 
 ---
@@ -320,7 +320,7 @@ You turn backward-right.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [5, 6]  Dx: East  Co: (17, 1)  TC: 10
+St: [5, 6]  Dx: East  Co: (17, 1, 0)  TC: 10
 P: 37  R: 8
 
 ---
@@ -333,7 +333,7 @@ You turn forward-left.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [5, 6]  Dx: Northeast  Co: (17, 1)  TC: 11
+St: [5, 6]  Dx: Northeast  Co: (17, 1, 0)  TC: 11
 P: 37  R: 7
 
 ---
@@ -346,7 +346,7 @@ You turn right because 6 > 5.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: []  Dx: Southeast  Co: (18, 0)  TC: 12
+St: []  Dx: Southeast  Co: (18, 0, 0)  TC: 12
 P: 18  R: 9
 
 ---
@@ -359,7 +359,7 @@ You turn right.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: []  Dx: Southwest  Co: (18, 0)  TC: 13
+St: []  Dx: Southwest  Co: (18, 0, 0)  TC: 13
 P: 18  R: 11
 
 ---
@@ -372,7 +372,7 @@ You get 11 from R.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [11]  Dx: Southwest  Co: (17, 1)  TC: 14
+St: [11]  Dx: Southwest  Co: (17, 1, 0)  TC: 14
 P: 37  R: 11
 
 ---
@@ -385,7 +385,7 @@ You push 3.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [3, 11]  Dx: Southwest  Co: (16, 2)  TC: 15
+St: [3, 11]  Dx: Southwest  Co: (16, 2, 0)  TC: 15
 P: 56  R: 11
 
 ---
@@ -398,7 +398,7 @@ You push 4.
 (r[375}.904.}5p@:}<]
 ([=}(}##}{(][#(}()){
 
-St: [4, 3, 11]  Dx: Southwest  Co: (15, 3)  TC: 16
+St: [4, 3, 11]  Dx: Southwest  Co: (15, 3, 0)  TC: 16
 P: 75  R: 11
 
 ---
@@ -411,7 +411,7 @@ You turn forward-left.
 (r[375}.904.}5p@:}<]
 ([=}(}##}{(][#(}()){
 
-St: [4, 3, 11]  Dx: South  Co: (15, 3)  TC: 17
+St: [4, 3, 11]  Dx: South  Co: (15, 3, 0)  TC: 17
 P: 75  R: 10
 
 ---
@@ -424,7 +424,7 @@ You turn backward-right.
 (r[375}.904.}5p@:}<]
 ([=}(}##}{(][#(}()){
 
-St: [4, 3, 11]  Dx: Northwest  Co: (15, 3)  TC: 18
+St: [4, 3, 11]  Dx: Northwest  Co: (15, 3, 0)  TC: 18
 P: 75  R: 13
 
 ---
@@ -437,7 +437,7 @@ You push 2.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [2, 4, 3, 11]  Dx: Northwest  Co: (14, 2)  TC: 19
+St: [2, 4, 3, 11]  Dx: Northwest  Co: (14, 2, 0)  TC: 19
 P: 54  R: 13
 
 ---
@@ -450,7 +450,7 @@ You set R to 2.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [4, 3, 11]  Dx: South  Co: (13, 1)  TC: 20
+St: [4, 3, 11]  Dx: South  Co: (13, 1, 0)  TC: 20
 P: 33  R: 2
 
 ---
@@ -463,7 +463,7 @@ You turn left.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [4, 3, 11]  Dx: East  Co: (13, 1)  TC: 21
+St: [4, 3, 11]  Dx: East  Co: (13, 1, 0)  TC: 21
 P: 33  R: 0
 
 ---
@@ -476,7 +476,7 @@ You push 9.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [9, 4, 3, 11]  Dx: East  Co: (14, 1)  TC: 22
+St: [9, 4, 3, 11]  Dx: East  Co: (14, 1, 0)  TC: 22
 P: 34  R: 0
 
 ---
@@ -489,7 +489,7 @@ You turn forward-left.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [9, 4, 3, 11]  Dx: Northeast  Co: (14, 1)  TC: 23
+St: [9, 4, 3, 11]  Dx: Northeast  Co: (14, 1, 0)  TC: 23
 P: 34  R: -1
 
 ---
@@ -502,7 +502,7 @@ You turn right.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [9, 4, 3, 11]  Dx: Southeast  Co: (14, 1)  TC: 24
+St: [9, 4, 3, 11]  Dx: Southeast  Co: (14, 1, 0)  TC: 24
 P: 34  R: 1
 
 ---
@@ -515,7 +515,7 @@ You turn forward-right.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [9, 4, 3, 11]  Dx: South  Co: (14, 1)  TC: 25
+St: [9, 4, 3, 11]  Dx: South  Co: (14, 1, 0)  TC: 25
 P: 34  R: 2
 
 ---
@@ -528,7 +528,7 @@ You push 2.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [2, 9, 4, 3, 11]  Dx: South  Co: (14, 2)  TC: 26
+St: [2, 9, 4, 3, 11]  Dx: South  Co: (14, 2, 0)  TC: 26
 P: 54  R: 2
 
 ---
@@ -541,7 +541,7 @@ You get 54 from P.
 (r[375}.904.}5@4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [74, 2, 9, 4, 3, 11]  Dx: South  Co: (14, 3)  TC: 27
+St: [74, 2, 9, 4, 3, 11]  Dx: South  Co: (14, 3, 0)  TC: 27
 P: 74  R: 2
 
 ---
@@ -554,7 +554,7 @@ You turn forward-left.
 (r[375}.904.}5@4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [74, 2, 9, 4, 3, 11]  Dx: Southeast  Co: (14, 3)  TC: 28
+St: [74, 2, 9, 4, 3, 11]  Dx: Southeast  Co: (14, 3, 0)  TC: 28
 P: 74  R: 1
 
 ---
@@ -567,7 +567,7 @@ You turn backward-right.
 (r[375}.904.}5@4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [74, 2, 9, 4, 3, 11]  Dx: West  Co: (14, 3)  TC: 29
+St: [74, 2, 9, 4, 3, 11]  Dx: West  Co: (14, 3, 0)  TC: 29
 P: 74  R: 4
 
 ---
@@ -580,7 +580,7 @@ You push 5.
 (r[375}.904.}@p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [5, 74, 2, 9, 4, 3, 11]  Dx: West  Co: (13, 3)  TC: 30
+St: [5, 74, 2, 9, 4, 3, 11]  Dx: West  Co: (13, 3, 0)  TC: 30
 P: 73  R: 4
 
 ---
@@ -593,7 +593,7 @@ You turn backward-right.
 (r[375}.904.}@p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [5, 74, 2, 9, 4, 3, 11]  Dx: Northeast  Co: (13, 3)  TC: 31
+St: [5, 74, 2, 9, 4, 3, 11]  Dx: Northeast  Co: (13, 3, 0)  TC: 31
 P: 73  R: 7
 
 ---
@@ -606,7 +606,7 @@ You push 2.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [2, 5, 74, 2, 9, 4, 3, 11]  Dx: Northeast  Co: (14, 2)  TC: 32
+St: [2, 5, 74, 2, 9, 4, 3, 11]  Dx: Northeast  Co: (14, 2, 0)  TC: 32
 P: 54  R: 7
 
 ---
@@ -619,7 +619,7 @@ You turn forward-left.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [2, 5, 74, 2, 9, 4, 3, 11]  Dx: North  Co: (14, 2)  TC: 33
+St: [2, 5, 74, 2, 9, 4, 3, 11]  Dx: North  Co: (14, 2, 0)  TC: 33
 P: 54  R: 6
 
 ---
@@ -632,7 +632,7 @@ You push 9.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [9, 2, 5, 74, 2, 9, 4, 3, 11]  Dx: North  Co: (14, 1)  TC: 34
+St: [9, 2, 5, 74, 2, 9, 4, 3, 11]  Dx: North  Co: (14, 1, 0)  TC: 34
 P: 34  R: 6
 
 ---
@@ -645,7 +645,7 @@ You turn forward-left.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [9, 2, 5, 74, 2, 9, 4, 3, 11]  Dx: Northwest  Co: (14, 1)  TC: 35
+St: [9, 2, 5, 74, 2, 9, 4, 3, 11]  Dx: Northwest  Co: (14, 1, 0)  TC: 35
 P: 34  R: 5
 
 ---
@@ -658,7 +658,7 @@ You turn left because 2 < 9.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [5, 74, 2, 9, 4, 3, 11]  Dx: Southwest  Co: (13, 0)  TC: 36
+St: [5, 74, 2, 9, 4, 3, 11]  Dx: Southwest  Co: (13, 0, 0)  TC: 36
 P: 13  R: 3
 
 ---
@@ -671,7 +671,7 @@ You swap 74 and 5.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [74, 5, 2, 9, 4, 3, 11]  Dx: Southwest  Co: (12, 1)  TC: 37
+St: [74, 5, 2, 9, 4, 3, 11]  Dx: Southwest  Co: (12, 1, 0)  TC: 37
 P: 32  R: 3
 
 ---
@@ -684,7 +684,7 @@ You push 8.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [8, 74, 5, 2, 9, 4, 3, 11]  Dx: Southwest  Co: (11, 2)  TC: 38
+St: [8, 74, 5, 2, 9, 4, 3, 11]  Dx: Southwest  Co: (11, 2, 0)  TC: 38
 P: 51  R: 3
 
 ---
@@ -697,7 +697,7 @@ You push 4.
 (r[375}.90@.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Southwest  Co: (10, 3)  TC: 39
+St: [4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Southwest  Co: (10, 3, 0)  TC: 39
 P: 70  R: 3
 
 ---
@@ -710,7 +710,7 @@ You turn backward-left.
 (r[375}.90@.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (10, 3)  TC: 40
+St: [4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (10, 3, 0)  TC: 40
 P: 70  R: 0
 
 ---
@@ -723,7 +723,7 @@ You go east.
 (r[375}.904@}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (11, 3)  TC: 41
+St: [4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (11, 3, 0)  TC: 41
 P: 71  R: 0
 
 ---
@@ -736,7 +736,7 @@ You turn backward-right.
 (r[375}.904@}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Southwest  Co: (11, 3)  TC: 42
+St: [4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Southwest  Co: (11, 3, 0)  TC: 42
 P: 71  R: 3
 
 ---
@@ -749,7 +749,7 @@ You turn forward-left.
 (r[375}.904@}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: South  Co: (11, 3)  TC: 43
+St: [4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: South  Co: (11, 3, 0)  TC: 43
 P: 71  R: 2
 
 ---
@@ -762,7 +762,7 @@ You turn right.
 (r[375}.904@}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: West  Co: (11, 3)  TC: 44
+St: [4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: West  Co: (11, 3, 0)  TC: 44
 P: 71  R: 4
 
 ---
@@ -775,7 +775,7 @@ You push 4.
 (r[375}.90@.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: West  Co: (10, 3)  TC: 45
+St: [4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: West  Co: (10, 3, 0)  TC: 45
 P: 70  R: 4
 
 ---
@@ -788,7 +788,7 @@ You push 0.
 (r[375}.9@4.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: West  Co: (9, 3)  TC: 46
+St: [0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: West  Co: (9, 3, 0)  TC: 46
 P: 69  R: 4
 
 ---
@@ -801,7 +801,7 @@ You push 9.
 (r[375}.@04.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [9, 0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: West  Co: (8, 3)  TC: 47
+St: [9, 0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: West  Co: (8, 3, 0)  TC: 47
 P: 68  R: 4
 
 ---
@@ -814,7 +814,7 @@ You go west.
 (r[375}@904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [9, 0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: West  Co: (7, 3)  TC: 48
+St: [9, 0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: West  Co: (7, 3, 0)  TC: 48
 P: 67  R: 4
 
 ---
@@ -827,7 +827,7 @@ You turn backward-right.
 (r[375}@904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [9, 0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Northeast  Co: (7, 3)  TC: 49
+St: [9, 0, 4, 4, 8, 74, 5, 2, 9, 4, ...]  Dx: Northeast  Co: (7, 3, 0)  TC: 49
 P: 67  R: 7
 
 ---
@@ -840,7 +840,7 @@ You turn left.
 (r[375}@904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [9, 0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Northwest  Co: (7, 3)  TC: 50
+St: [9, 0, 4, 4, 8, 74, 5, 2, 9, 4, ...]  Dx: Northwest  Co: (7, 3, 0)  TC: 50
 P: 67  R: 5
 
 ---
@@ -853,7 +853,7 @@ You push 1.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [1, 9, 0, 4, 4, 8, 74, 5, 2, 9, 4, ...]  Dx: Northwest  Co: (6, 2)  TC: 51
+St: [1, 9, 0, 4, 4, 8, 74, 5, 2, 9, ...]  Dx: Northwest  Co: (6, 2, 0)  TC: 51
 P: 46  R: 5
 
 ---
@@ -866,7 +866,7 @@ You turn backward-right.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [1, 9, 0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (6, 2)  TC: 52
+St: [1, 9, 0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (6, 2, 0)  TC: 52
 P: 46  R: 8
 
 ---
@@ -879,7 +879,7 @@ You push 9.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [9, 1, 9, 0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (7, 2)  TC: 53
+St: [9, 1, 9, 0, 4, 4, 8, 74, 5, 2, 9, 4, ...]  Dx: East  Co: (7, 2, 0)  TC: 53
 P: 47  R: 8
 
 ---
@@ -892,7 +892,7 @@ You turn left.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [9, 1, 9, 0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: North  Co: (7, 2)  TC: 54
+St: [9, 1, 9, 0, 4, 4, 8, 74, 5, 2, 9, ...]  Dx: North  Co: (7, 2, 0)  TC: 54
 P: 47  R: 6
 
 ---
@@ -905,7 +905,7 @@ You turn left because 1 < 9.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [9, 0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: West  Co: (7, 1)  TC: 55
+St: [9, 0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: West  Co: (7, 1, 0)  TC: 55
 P: 27  R: 4
 
 ---
@@ -918,7 +918,7 @@ You turn forward-right.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [9, 0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Northwest  Co: (7, 1)  TC: 56
+St: [9, 0, 4, 4, 8, 74, 5, 2, 9, 4, ...]  Dx: Northwest  Co: (7, 1, 0)  TC: 56
 P: 27  R: 5
 
 ---
@@ -931,7 +931,7 @@ You set R to 9.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Southeast  Co: (6, 0)  TC: 57
+St: [0, 4, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Southeast  Co: (6, 0, 0)  TC: 57
 P: 6  R: 9
 
 ---
@@ -944,7 +944,7 @@ You turn right because 4 > 0.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Southwest  Co: (7, 1)  TC: 58
+St: [4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Southwest  Co: (7, 1, 0)  TC: 58
 P: 27  R: 11
 
 ---
@@ -957,7 +957,7 @@ You push 1.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Southwest  Co: (6, 2)  TC: 59
+St: [1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Southwest  Co: (6, 2, 0)  TC: 59
 P: 46  R: 11
 
 ---
@@ -970,7 +970,7 @@ You push 5.
 (r[37@}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Southwest  Co: (5, 3)  TC: 60
+St: [5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Southwest  Co: (5, 3, 0)  TC: 60
 P: 65  R: 11
 
 ---
@@ -983,7 +983,7 @@ You turn forward-left.
 (r[37@}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: South  Co: (5, 3)  TC: 61
+St: [5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: South  Co: (5, 3, 0)  TC: 61
 P: 65  R: 10
 
 ---
@@ -996,7 +996,7 @@ You turn backward-right.
 (r[37@}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Northwest  Co: (5, 3)  TC: 62
+St: [5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Northwest  Co: (5, 3, 0)  TC: 62
 P: 65  R: 13
 
 ---
@@ -1009,7 +1009,7 @@ You get 65 from P.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [44, 5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: Northwest  Co: (4, 2)  TC: 63
+St: [44, 5, 1, 4, 8, 74, 5, 2, 9, 4, ...]  Dx: Northwest  Co: (4, 2, 0)  TC: 63
 P: 44  R: 13
 
 ---
@@ -1022,7 +1022,7 @@ You push 0.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [0, 44, 5, 1, 4, 8, 74, 5, 2, 9, 4, ...]  Dx: Northwest  Co: (3, 1)  TC: 64
+St: [0, 44, 5, 1, 4, 8, 74, 5, 2, 9, ...]  Dx: Northwest  Co: (3, 1, 0)  TC: 64
 P: 23  R: 13
 
 ---
@@ -1035,7 +1035,7 @@ You turn backward-right.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [0, 44, 5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (3, 1)  TC: 65
+St: [0, 44, 5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (3, 1, 0)  TC: 65
 P: 23  R: 16
 
 ---
@@ -1048,7 +1048,7 @@ You swap 44 and 0.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [44, 0, 5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (4, 1)  TC: 66
+St: [44, 0, 5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (4, 1, 0)  TC: 66
 P: 24  R: 16
 
 ---
@@ -1061,7 +1061,7 @@ You turn backward-right.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [44, 0, 5, 1, 4, 8, 74, 5, 2, 9, 4, ...]  Dx: Southwest  Co: (4, 1)  TC: 67
+St: [44, 0, 5, 1, 4, 8, 74, 5, 2, 9, ...]  Dx: Southwest  Co: (4, 1, 0)  TC: 67
 P: 24  R: 19
 
 ---
@@ -1074,7 +1074,7 @@ You get 19 from R.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [19, 44, 0, 5, 1, 4, 8, 74, 5, 2, ...]  Dx: Southwest  Co: (3, 2)  TC: 68
+St: [19, 44, 0, 5, 1, 4, 8, 74, 5, ...]  Dx: Southwest  Co: (3, 2, 0)  TC: 68
 P: 43  R: 19
 
 ---
@@ -1087,7 +1087,7 @@ You turn left.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [19, 44, 0, 5, 1, 4, 8, 74, 5, 2, ...]  Dx: Southeast  Co: (3, 2)  TC: 69
+St: [19, 44, 0, 5, 1, 4, 8, 74, 5, ...]  Dx: Southeast  Co: (3, 2, 0)  TC: 69
 P: 43  R: 17
 
 ---
@@ -1100,7 +1100,7 @@ You push 7.
 (r[3@5}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [7, 19, 44, 0, 5, 1, 4, 8, 74, 5, ...]  Dx: Southeast  Co: (4, 3)  TC: 70
+St: [7, 19, 44, 0, 5, 1, 4, 8, 74, ...]  Dx: Southeast  Co: (4, 3, 0)  TC: 70
 P: 64  R: 17
 
 ---
@@ -1113,7 +1113,7 @@ You turn backward-right.
 (r[3@5}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [7, 19, 44, 0, 5, 1, 4, 8, 74, 5, 2, 9, ...]  Dx: West  Co: (4, 3)  TC: 71
+St: [7, 19, 44, 0, 5, 1, 4, 8, 74, 5, 2, ...]  Dx: West  Co: (4, 3, 0)  TC: 71
 P: 64  R: 20
 
 ---
@@ -1126,7 +1126,7 @@ You push 3.
 (r[@75}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [3, 7, 19, 44, 0, 5, 1, 4, 8, 74, 5, 2, ...]  Dx: West  Co: (3, 3)  TC: 72
+St: [3, 7, 19, 44, 0, 5, 1, 4, 8, 74, 5, ...]  Dx: West  Co: (3, 3, 0)  TC: 72
 P: 63  R: 20
 
 ---
@@ -1139,7 +1139,7 @@ You turn left.
 (r[@75}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [3, 7, 19, 44, 0, 5, 1, 4, 8, 74, 5, 2, ...]  Dx: South  Co: (3, 3)  TC: 73
+St: [3, 7, 19, 44, 0, 5, 1, 4, 8, 74, 5, ...]  Dx: South  Co: (3, 3, 0)  TC: 73
 P: 63  R: 18
 
 ---
@@ -1152,7 +1152,7 @@ You turn backward-right.
 (r[@75}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [3, 7, 19, 44, 0, 5, 1, 4, 8, 74, ...]  Dx: Northwest  Co: (3, 3)  TC: 74
+St: [3, 7, 19, 44, 0, 5, 1, 4, 8, ...]  Dx: Northwest  Co: (3, 3, 0)  TC: 74
 P: 63  R: 21
 
 ---
@@ -1165,7 +1165,7 @@ You turn left.
 (r[@75}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [3, 7, 19, 44, 0, 5, 1, 4, 8, 74, ...]  Dx: Southwest  Co: (3, 3)  TC: 75
+St: [3, 7, 19, 44, 0, 5, 1, 4, 8, ...]  Dx: Southwest  Co: (3, 3, 0)  TC: 75
 P: 63  R: 19
 
 ---
@@ -1178,7 +1178,7 @@ You turn right because 7 > 3.
 (r[375}.904.}5p4:}<]
 ([@}(}##}{(][#(}()){
 
-St: [19, 44, 0, 5, 1, 4, 8, 74, 5, 2, ...]  Dx: Northwest  Co: (2, 4)  TC: 76
+St: [19, 44, 0, 5, 1, 4, 8, 74, 5, ...]  Dx: Northwest  Co: (2, 4, 0)  TC: 76
 P: 82  R: 21
 
 ---
@@ -1191,7 +1191,7 @@ You get 21 from R.
 (@[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [21, 19, 44, 0, 5, 1, 4, 8, 74, 5, ...]  Dx: Northwest  Co: (1, 3)  TC: 77
+St: [21, 19, 44, 0, 5, 1, 4, 8, 74, ...]  Dx: Northwest  Co: (1, 3, 0)  TC: 77
 P: 61  R: 21
 
 ---
@@ -1204,7 +1204,7 @@ You turn forward-left.
 (@[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [21, 19, 44, 0, 5, 1, 4, 8, 74, 5, 2, 9, ...]  Dx: West  Co: (1, 3)  TC: 78
+St: [21, 19, 44, 0, 5, 1, 4, 8, 74, 5, 2, ...]  Dx: West  Co: (1, 3, 0)  TC: 78
 P: 61  R: 20
 
 ---
@@ -1217,7 +1217,7 @@ You turn forward-left.
 (@[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [21, 19, 44, 0, 5, 1, 4, 8, 74, 5, ...]  Dx: Southwest  Co: (1, 3)  TC: 79
+St: [21, 19, 44, 0, 5, 1, 4, 8, 74, ...]  Dx: Southwest  Co: (1, 3, 0)  TC: 79
 P: 61  R: 19
 
 ---
@@ -1230,7 +1230,7 @@ You turn forward-left.
 (@[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [21, 19, 44, 0, 5, 1, 4, 8, 74, 5, 2, ...]  Dx: South  Co: (1, 3)  TC: 80
+St: [21, 19, 44, 0, 5, 1, 4, 8, 74, 5, ...]  Dx: South  Co: (1, 3, 0)  TC: 80
 P: 61  R: 18
 
 ---
@@ -1243,7 +1243,7 @@ You turn left.
 (@[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [21, 19, 44, 0, 5, 1, 4, 8, 74, 5, 2, 9, ...]  Dx: East  Co: (1, 3)  TC: 81
+St: [21, 19, 44, 0, 5, 1, 4, 8, 74, 5, 2, ...]  Dx: East  Co: (1, 3, 0)  TC: 81
 P: 61  R: 16
 
 ---
@@ -1256,7 +1256,7 @@ You turn left.
 (@[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [21, 19, 44, 0, 5, 1, 4, 8, 74, 5, 2, ...]  Dx: North  Co: (1, 3)  TC: 82
+St: [21, 19, 44, 0, 5, 1, 4, 8, 74, 5, ...]  Dx: North  Co: (1, 3, 0)  TC: 82
 P: 61  R: 14
 
 ---
@@ -1269,7 +1269,7 @@ You push 9.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [9, 21, 19, 44, 0, 5, 1, 4, 8, 74, 5, ...]  Dx: North  Co: (1, 2)  TC: 83
+St: [9, 21, 19, 44, 0, 5, 1, 4, 8, 74, ...]  Dx: North  Co: (1, 2, 0)  TC: 83
 P: 41  R: 14
 
 ---
@@ -1282,7 +1282,7 @@ You push 5.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [5, 9, 21, 19, 44, 0, 5, 1, 4, 8, 74, ...]  Dx: North  Co: (1, 1)  TC: 84
+St: [5, 9, 21, 19, 44, 0, 5, 1, 4, 8, ...]  Dx: North  Co: (1, 1, 0)  TC: 84
 P: 21  R: 14
 
 ---
@@ -1295,7 +1295,7 @@ You turn right because 9 > 5.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [21, 19, 44, 0, 5, 1, 4, 8, 74, 5, 2, 9, ...]  Dx: East  Co: (1, 0)  TC: 85
+St: [21, 19, 44, 0, 5, 1, 4, 8, 74, 5, 2, ...]  Dx: East  Co: (1, 0, 0)  TC: 85
 P: 1  R: 16
 
 ---
@@ -1308,7 +1308,7 @@ You turn backward-right.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [21, 19, 44, 0, 5, 1, 4, 8, 74, 5, ...]  Dx: Southwest  Co: (1, 0)  TC: 86
+St: [21, 19, 44, 0, 5, 1, 4, 8, 74, ...]  Dx: Southwest  Co: (1, 0, 0)  TC: 86
 P: 1  R: 19
 
 ---
@@ -1321,7 +1321,7 @@ You turn left because 19 < 21.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [44, 0, 5, 1, 4, 8, 74, 5, 2, 9, 4, ...]  Dx: Southeast  Co: (0, 1)  TC: 87
+St: [44, 0, 5, 1, 4, 8, 74, 5, 2, 9, ...]  Dx: Southeast  Co: (0, 1, 0)  TC: 87
 P: 20  R: 17
 
 ---
@@ -1334,7 +1334,7 @@ You push 9.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [9, 44, 0, 5, 1, 4, 8, 74, 5, 2, 9, ...]  Dx: Southeast  Co: (1, 2)  TC: 88
+St: [9, 44, 0, 5, 1, 4, 8, 74, 5, 2, ...]  Dx: Southeast  Co: (1, 2, 0)  TC: 88
 P: 41  R: 17
 
 ---
@@ -1347,7 +1347,7 @@ You turn left.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [9, 44, 0, 5, 1, 4, 8, 74, 5, 2, 9, ...]  Dx: Northeast  Co: (1, 2)  TC: 89
+St: [9, 44, 0, 5, 1, 4, 8, 74, 5, 2, ...]  Dx: Northeast  Co: (1, 2, 0)  TC: 89
 P: 41  R: 15
 
 ---
@@ -1360,7 +1360,7 @@ You push 3.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [3, 9, 44, 0, 5, 1, 4, 8, 74, 5, 2, ...]  Dx: Northeast  Co: (2, 1)  TC: 90
+St: [3, 9, 44, 0, 5, 1, 4, 8, 74, 5, ...]  Dx: Northeast  Co: (2, 1, 0)  TC: 90
 P: 22  R: 15
 
 ---
@@ -1373,7 +1373,7 @@ You turn right because 9 > 3.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [44, 0, 5, 1, 4, 8, 74, 5, 2, 9, 4, ...]  Dx: Southeast  Co: (3, 0)  TC: 91
+St: [44, 0, 5, 1, 4, 8, 74, 5, 2, 9, ...]  Dx: Southeast  Co: (3, 0, 0)  TC: 91
 P: 3  R: 17
 
 ---
@@ -1386,7 +1386,7 @@ You swap 0 and 44.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [0, 44, 5, 1, 4, 8, 74, 5, 2, 9, 4, ...]  Dx: Southeast  Co: (4, 1)  TC: 92
+St: [0, 44, 5, 1, 4, 8, 74, 5, 2, 9, ...]  Dx: Southeast  Co: (4, 1, 0)  TC: 92
 P: 24  R: 17
 
 ---
@@ -1399,7 +1399,7 @@ You turn backward-left.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [0, 44, 5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: North  Co: (4, 1)  TC: 93
+St: [0, 44, 5, 1, 4, 8, 74, 5, 2, 9, 4, ...]  Dx: North  Co: (4, 1, 0)  TC: 93
 P: 24  R: 14
 
 ---
@@ -1412,7 +1412,7 @@ You turn right because 44 > 0.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (4, 0)  TC: 94
+St: [5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (4, 0, 0)  TC: 94
 P: 4  R: 16
 
 ---
@@ -1425,7 +1425,7 @@ You get 16 from R.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [16, 5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (5, 0)  TC: 95
+St: [16, 5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (5, 0, 0)  TC: 95
 P: 5  R: 16
 
 ---
@@ -1438,7 +1438,7 @@ You set R to 16.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (6, 0)  TC: 96
+St: [5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (6, 0, 0)  TC: 96
 P: 6  R: 16
 
 ---
@@ -1451,7 +1451,7 @@ You get 16 from R.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [16, 5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (7, 0)  TC: 97
+St: [16, 5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (7, 0, 0)  TC: 97
 P: 7  R: 16
 
 ---
@@ -1464,7 +1464,7 @@ You get 7 from P.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [8, 16, 5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (8, 0)  TC: 98
+St: [8, 16, 5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: East  Co: (8, 0, 0)  TC: 98
 P: 8  R: 16
 
 ---
@@ -1477,7 +1477,7 @@ You turn right because 16 > 8.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: South  Co: (9, 0)  TC: 99
+St: [5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: South  Co: (9, 0, 0)  TC: 99
 P: 9  R: 18
 
 ---
@@ -1490,7 +1490,7 @@ You push 0.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [0, 5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: South  Co: (9, 1)  TC: 100
+St: [0, 5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: South  Co: (9, 1, 0)  TC: 100
 P: 29  R: 18
 
 ---
@@ -1503,7 +1503,7 @@ You push 5.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [5, 0, 5, 1, 4, 8, 74, 5, 2, 9, 4, 3, 11]  Dx: South  Co: (9, 2)  TC: 101
+St: [5, 0, 5, 1, 4, 8, 74, 5, 2, 9, 4, ...]  Dx: South  Co: (9, 2, 0)  TC: 101
 P: 49  R: 18
 
 ---
@@ -1516,7 +1516,7 @@ You push 0.
 (r[375}.9@4.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [0, 5, 0, 5, 1, 4, 8, 74, 5, 2, 9, 4, ...]  Dx: South  Co: (9, 3)  TC: 102
+St: [0, 5, 0, 5, 1, 4, 8, 74, 5, 2, 9, ...]  Dx: South  Co: (9, 3, 0)  TC: 102
 P: 69  R: 18
 
 ---
@@ -1529,7 +1529,7 @@ You turn backward-left.
 (r[375}.9@4.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [0, 5, 0, 5, 1, 4, 8, 74, 5, 2, 9, ...]  Dx: Northeast  Co: (9, 3)  TC: 103
+St: [0, 5, 0, 5, 1, 4, 8, 74, 5, 2, ...]  Dx: Northeast  Co: (9, 3, 0)  TC: 103
 P: 69  R: 15
 
 ---
@@ -1542,7 +1542,7 @@ You push 2.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [2, 0, 5, 0, 5, 1, 4, 8, 74, 5, ...]  Dx: Northeast  Co: (10, 2)  TC: 104
+St: [2, 0, 5, 0, 5, 1, 4, 8, 74, ...]  Dx: Northeast  Co: (10, 2, 0)  TC: 104
 P: 50  R: 15
 
 ---
@@ -1555,7 +1555,7 @@ You get 15 from R.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [15, 2, 0, 5, 0, 5, 1, 4, 8, 74, ...]  Dx: Northeast  Co: (11, 1)  TC: 105
+St: [15, 2, 0, 5, 0, 5, 1, 4, 8, ...]  Dx: Northeast  Co: (11, 1, 0)  TC: 105
 P: 31  R: 15
 
 ---
@@ -1568,7 +1568,7 @@ You turn forward-left.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [15, 2, 0, 5, 0, 5, 1, 4, 8, 74, 5, ...]  Dx: North  Co: (11, 1)  TC: 106
+St: [15, 2, 0, 5, 0, 5, 1, 4, 8, 74, ...]  Dx: North  Co: (11, 1, 0)  TC: 106
 P: 31  R: 14
 
 ---
@@ -1581,7 +1581,7 @@ You turn backward-left.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [15, 2, 0, 5, 0, 5, 1, 4, 8, 74, ...]  Dx: Southwest  Co: (11, 1)  TC: 107
+St: [15, 2, 0, 5, 0, 5, 1, 4, 8, ...]  Dx: Southwest  Co: (11, 1, 0)  TC: 107
 P: 31  R: 11
 
 ---
@@ -1594,7 +1594,7 @@ You push 2.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [2, 15, 2, 0, 5, 0, 5, 1, 4, 8, ...]  Dx: Southwest  Co: (10, 2)  TC: 108
+St: [2, 15, 2, 0, 5, 0, 5, 1, 4, ...]  Dx: Southwest  Co: (10, 2, 0)  TC: 108
 P: 50  R: 11
 
 ---
@@ -1607,7 +1607,7 @@ You push 0.
 (r[375}.9@4.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [0, 2, 15, 2, 0, 5, 0, 5, 1, 4, 8, ...]  Dx: Southwest  Co: (9, 3)  TC: 109
+St: [0, 2, 15, 2, 0, 5, 0, 5, 1, 4, ...]  Dx: Southwest  Co: (9, 3, 0)  TC: 109
 P: 69  R: 11
 
 ---
@@ -1620,7 +1620,7 @@ You turn backward-right.
 (r[375}.9@4.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [0, 2, 15, 2, 0, 5, 0, 5, 1, 4, 8, 74, ...]  Dx: North  Co: (9, 3)  TC: 110
+St: [0, 2, 15, 2, 0, 5, 0, 5, 1, 4, 8, ...]  Dx: North  Co: (9, 3, 0)  TC: 110
 P: 69  R: 14
 
 ---
@@ -1633,7 +1633,7 @@ You push 5.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [5, 0, 2, 15, 2, 0, 5, 0, 5, 1, 4, 8, ...]  Dx: North  Co: (9, 2)  TC: 111
+St: [5, 0, 2, 15, 2, 0, 5, 0, 5, 1, 4, ...]  Dx: North  Co: (9, 2, 0)  TC: 111
 P: 49  R: 14
 
 ---
@@ -1646,7 +1646,7 @@ You push 0.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [0, 5, 0, 2, 15, 2, 0, 5, 0, 5, 1, 4, ...]  Dx: North  Co: (9, 1)  TC: 112
+St: [0, 5, 0, 2, 15, 2, 0, 5, 0, 5, 1, ...]  Dx: North  Co: (9, 1, 0)  TC: 112
 P: 29  R: 14
 
 ---
@@ -1659,7 +1659,7 @@ You turn right because 5 > 0.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [0, 2, 15, 2, 0, 5, 0, 5, 1, 4, 8, 74, ...]  Dx: East  Co: (9, 0)  TC: 113
+St: [0, 2, 15, 2, 0, 5, 0, 5, 1, 4, 8, ...]  Dx: East  Co: (9, 0, 0)  TC: 113
 P: 9  R: 16
 
 ---
@@ -1672,7 +1672,7 @@ You turn right because 2 > 0.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [15, 2, 0, 5, 0, 5, 1, 4, 8, 74, 5, ...]  Dx: South  Co: (10, 0)  TC: 114
+St: [15, 2, 0, 5, 0, 5, 1, 4, 8, 74, ...]  Dx: South  Co: (10, 0, 0)  TC: 114
 P: 10  R: 18
 
 ---
@@ -1685,7 +1685,7 @@ You turn forward-right.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [15, 2, 0, 5, 0, 5, 1, 4, 8, 74, ...]  Dx: Southwest  Co: (10, 0)  TC: 115
+St: [15, 2, 0, 5, 0, 5, 1, 4, 8, ...]  Dx: Southwest  Co: (10, 0, 0)  TC: 115
 P: 10  R: 19
 
 ---
@@ -1698,7 +1698,7 @@ You push 0.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [0, 15, 2, 0, 5, 0, 5, 1, 4, 8, ...]  Dx: Southwest  Co: (9, 1)  TC: 116
+St: [0, 15, 2, 0, 5, 0, 5, 1, 4, 8, ...]  Dx: Southwest  Co: (9, 1, 0)  TC: 116
 P: 29  R: 19
 
 ---
@@ -1711,7 +1711,7 @@ You turn left.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [0, 15, 2, 0, 5, 0, 5, 1, 4, 8, ...]  Dx: Southeast  Co: (9, 1)  TC: 117
+St: [0, 15, 2, 0, 5, 0, 5, 1, 4, 8, ...]  Dx: Southeast  Co: (9, 1, 0)  TC: 117
 P: 29  R: 17
 
 ---
@@ -1724,7 +1724,7 @@ You push 2.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [2, 0, 15, 2, 0, 5, 0, 5, 1, 4, ...]  Dx: Southeast  Co: (10, 2)  TC: 118
+St: [2, 0, 15, 2, 0, 5, 0, 5, 1, ...]  Dx: Southeast  Co: (10, 2, 0)  TC: 118
 P: 50  R: 17
 
 ---
@@ -1737,7 +1737,7 @@ You go southeast.
 (r[375}.904@}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [2, 0, 15, 2, 0, 5, 0, 5, 1, 4, ...]  Dx: Southeast  Co: (11, 3)  TC: 119
+St: [2, 0, 15, 2, 0, 5, 0, 5, 1, ...]  Dx: Southeast  Co: (11, 3, 0)  TC: 119
 P: 71  R: 17
 
 ---
@@ -1750,7 +1750,7 @@ You turn left.
 (r[375}.904@}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [2, 0, 15, 2, 0, 5, 0, 5, 1, 4, ...]  Dx: Northeast  Co: (11, 3)  TC: 120
+St: [2, 0, 15, 2, 0, 5, 0, 5, 1, ...]  Dx: Northeast  Co: (11, 3, 0)  TC: 120
 P: 71  R: 15
 
 ---
@@ -1763,7 +1763,7 @@ You push 9.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [9, 2, 0, 15, 2, 0, 5, 0, 5, 1, ...]  Dx: Northeast  Co: (12, 2)  TC: 121
+St: [9, 2, 0, 15, 2, 0, 5, 0, 5, ...]  Dx: Northeast  Co: (12, 2, 0)  TC: 121
 P: 52  R: 15
 
 ---
@@ -1776,7 +1776,7 @@ You set R to 9.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [2, 0, 15, 2, 0, 5, 0, 5, 1, 4, ...]  Dx: Southeast  Co: (13, 1)  TC: 122
+St: [2, 0, 15, 2, 0, 5, 0, 5, 1, ...]  Dx: Southeast  Co: (13, 1, 0)  TC: 122
 P: 33  R: 9
 
 ---
@@ -1789,7 +1789,7 @@ You push 2.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [2, 2, 0, 15, 2, 0, 5, 0, 5, 1, ...]  Dx: Southeast  Co: (14, 2)  TC: 123
+St: [2, 2, 0, 15, 2, 0, 5, 0, 5, ...]  Dx: Southeast  Co: (14, 2, 0)  TC: 123
 P: 54  R: 9
 
 ---
@@ -1802,7 +1802,7 @@ You push 4.
 (r[375}.904.}5p@:}<]
 ([=}(}##}{(][#(}()){
 
-St: [4, 2, 2, 0, 15, 2, 0, 5, 0, 5, ...]  Dx: Southeast  Co: (15, 3)  TC: 124
+St: [4, 2, 2, 0, 15, 2, 0, 5, 0, ...]  Dx: Southeast  Co: (15, 3, 0)  TC: 124
 P: 75  R: 9
 
 ---
@@ -1815,7 +1815,7 @@ You turn forward-left.
 (r[375}.904.}5p@:}<]
 ([=}(}##}{(][#(}()){
 
-St: [4, 2, 2, 0, 15, 2, 0, 5, 0, 5, 1, 4, ...]  Dx: East  Co: (15, 3)  TC: 125
+St: [4, 2, 2, 0, 15, 2, 0, 5, 0, 5, 1, ...]  Dx: East  Co: (15, 3, 0)  TC: 125
 P: 75  R: 8
 
 ---
@@ -1828,7 +1828,7 @@ You swap 2 and 4.
 (r[375}.904.}5p4@}<]
 ([=}(}##}{(][#(}()){
 
-St: [2, 4, 2, 0, 15, 2, 0, 5, 0, 5, 1, 4, ...]  Dx: East  Co: (16, 3)  TC: 126
+St: [2, 4, 2, 0, 15, 2, 0, 5, 0, 5, 1, ...]  Dx: East  Co: (16, 3, 0)  TC: 126
 P: 76  R: 8
 
 ---
@@ -1841,7 +1841,7 @@ You turn backward-right.
 (r[375}.904.}5p4@}<]
 ([=}(}##}{(][#(}()){
 
-St: [2, 4, 2, 0, 15, 2, 0, 5, 0, 5, ...]  Dx: Southwest  Co: (16, 3)  TC: 127
+St: [2, 4, 2, 0, 15, 2, 0, 5, 0, ...]  Dx: Southwest  Co: (16, 3, 0)  TC: 127
 P: 76  R: 11
 
 ---
@@ -1854,7 +1854,7 @@ You turn backward-right.
 (r[375}.904.}5p4@}<]
 ([=}(}##}{(][#(}()){
 
-St: [2, 4, 2, 0, 15, 2, 0, 5, 0, 5, 1, 4, ...]  Dx: North  Co: (16, 3)  TC: 128
+St: [2, 4, 2, 0, 15, 2, 0, 5, 0, 5, 1, ...]  Dx: North  Co: (16, 3, 0)  TC: 128
 P: 76  R: 14
 
 ---
@@ -1867,7 +1867,7 @@ You push 3.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [3, 2, 4, 2, 0, 15, 2, 0, 5, 0, 5, 1, ...]  Dx: North  Co: (16, 2)  TC: 129
+St: [3, 2, 4, 2, 0, 15, 2, 0, 5, 0, 5, ...]  Dx: North  Co: (16, 2, 0)  TC: 129
 P: 56  R: 14
 
 ---
@@ -1880,7 +1880,7 @@ You push 8.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [8, 3, 2, 4, 2, 0, 15, 2, 0, 5, 0, 5, ...]  Dx: North  Co: (16, 1)  TC: 130
+St: [8, 3, 2, 4, 2, 0, 15, 2, 0, 5, 0, ...]  Dx: North  Co: (16, 1, 0)  TC: 130
 P: 36  R: 14
 
 ---
@@ -1893,7 +1893,7 @@ You turn backward-right.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [8, 3, 2, 4, 2, 0, 15, 2, 0, 5, ...]  Dx: Southeast  Co: (16, 1)  TC: 131
+St: [8, 3, 2, 4, 2, 0, 15, 2, 0, ...]  Dx: Southeast  Co: (16, 1, 0)  TC: 131
 P: 36  R: 17
 
 ---
@@ -1906,14 +1906,15 @@ You get 17 from R.
 (r[375}.904.}5p4:}<]
 ([=}(}##}{(][#(}()){
 
-St: [17, 8, 3, 2, 4, 2, 0, 15, 2, 0, ...]  Dx: Southeast  Co: (17, 2)  TC: 132
+St: [17, 8, 3, 2, 4, 2, 0, 15, 2, ...]  Dx: Southeast  Co: (17, 2, 0)  TC: 132
 P: 57  R: 17
 
 ---
 
 You go upstairs.
 
-TC: 133
+St: [17, 8, 3, 2, 4, 2, 0, 15, 2, ...]  Dx: Southeast  Co: (18, 3, -1)  TC: 133
+P: -22  R: 17
 ```
 {% endraw %}
 

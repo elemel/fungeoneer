@@ -315,7 +315,6 @@ After how many steps do you leave the dungeon?
 
 From here, you can [continue to the answer](../../answers/chapters/09/a-grain-of-truth.md).
 
-
 ### Example
 
 Consider an example dungeon:

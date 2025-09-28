@@ -1,0 +1,23 @@
+.theme-light {
+  color-scheme: light;
+
+  --color-fg-default: #24292f;
+  --color-fg-muted: #57606a;
+  --color-bg-default: #ffffff;
+  --color-bg-subtle: #f6f8fa;
+  --color-border-default: #d0d7de;
+
+  --color-accent-fg: #0969da;
+  --color-accent-emphasis: #054da0;
+  --color-surface-default: #ffffff;
+  --color-canvas-default: #ffffff;
+}
+
+.theme-light body {
+  background-color: var(--color-bg-default);
+  color: var(--color-fg-default);
+}
+
+.theme-light .markdown-body {
+  color: var(--color-fg-default);
+}

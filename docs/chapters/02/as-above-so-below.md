@@ -54,7 +54,6 @@ As before, you leave the dungeon by triggering the staircase tile where you ente
 
 From here, you can [continue to the answer](../../answers/chapters/02/as-above-so-below.md).
 
-
 ### Example
 
 Consider an example dungeon:

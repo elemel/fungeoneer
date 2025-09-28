@@ -1,0 +1,16 @@
+---
+# Jekyll front matter
+---
+
+@import "dark";
+@import "light";
+
+/* Primer-like markdown styling */
+.markdown-body {
+  line-height: 1.6;
+  font-size: 16px;
+}
+
+.container-lg {
+  max-width: 980px;
+}

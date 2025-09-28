@@ -1,0 +1,28 @@
+:root {
+  color-scheme: dark;
+
+  --color-fg-default: #c9d1d9;
+  --color-fg-muted: #8b949e;
+  --color-bg-default: #0d1117;
+  --color-bg-subtle: #161b22;
+  --color-border-default: #30363d;
+
+  --color-accent-fg: #58a6ff;
+  --color-accent-emphasis: #1f6feb;
+  --color-surface-default: #0b1117;
+  --color-canvas-default: #010409;
+}
+
+body {
+  background-color: var(--color-bg-default);
+  color: var(--color-fg-default);
+}
+
+.markdown-body {
+  background-color: transparent;
+  color: var(--color-fg-default);
+}
+
+hr, .border, .Box {
+  border-color: var(--color-border-default);
+}

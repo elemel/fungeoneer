@@ -37,7 +37,6 @@ As demonstrated by the gnome, you leave the dungeon by triggering the staircase 
 
 From here, you can [continue to the answer](../../answers/chapters/01/ground-rules.md).
 
-
 ### Example
 
 Consider an example dungeon:

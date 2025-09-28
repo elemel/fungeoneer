@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <!-- Dynamic page title -->
     <title>
       {% if page.url == "/" %}
         {{ site.title }} | {{ site.tagline }}
@@ -12,10 +13,14 @@
       {% endif %}
     </title>
 
+    <!-- Reset CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+
+    <!-- Custom minimal styles -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
-  <body class="{% if page.theme %}{{ page.theme }}{% endif %}">
+
+  <body class="{% if page.color_scheme %}{{ page.color_scheme }}{% else %}dark{% endif %}">
     <div class="container-lg px-3 my-5 markdown-body">
 
       {% unless page.url == "/" %}

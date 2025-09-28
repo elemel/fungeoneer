@@ -16,36 +16,28 @@
     {% endif %}
   </title>
 
-  <!-- Primer CSS from CDN -->
+  <!-- Primer CSS -->
   <link rel="stylesheet" href="https://unpkg.com/@primer/css/dist/primer.css">
 
-  <!-- Your compiled SCSS overrides for dark/light themes -->
+  <!-- Your compiled dark/light theme overrides -->
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 </head>
 <body class="{{ page.theme | default: '' }}">
 
-  <!-- Header: only on non-front pages -->
-  {% unless page.url == "/" %}
-  <header class="d-flex flex-items-center px-4 py-3 border-bottom">
-    <h1 class="h4 m-0">
-      <a href="{{ '/' | relative_url }}" class="no-underline color-fg-default">
-        {{ site.title }}
-      </a>
-    </h1>
-  </header>
-  {% endunless %}
-
-  <!-- Main content container -->
   <main class="container-lg p-4">
+    {% unless page.url == "/" %}
+      <!-- Regular H1 for the site title -->
+      <h1>
+        <a href="{{ '/' | relative_url }}" class="no-underline color-fg-default">
+          {{ site.title }}
+        </a>
+      </h1>
+    {% endunless %}
+
     <article class="markdown-body">
       {{ content }}
     </article>
   </main>
-
-  <!-- Optional footer -->
-  <footer class="container-lg p-4 border-top">
-    <small>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</small>
-  </footer>
 
 </body>
 </html>

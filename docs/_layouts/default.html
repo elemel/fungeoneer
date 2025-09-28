@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <title>
       {% if page.url == "/" %}
         {{ site.title }} | {{ site.tagline }}
@@ -10,11 +11,13 @@
         {{ page.title }} | {{ site.title }}
       {% endif %}
     </title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-    {{ content_for_head }}
   </head>
-  <body>
+  <body class="{% if page.theme %}{{ page.theme }}{% endif %}">
     <div class="container-lg px-3 my-5 markdown-body">
+
       {% unless page.url == "/" %}
         <h1>
           <a href="{{ '/' | relative_url }}">{{ site.title }}</a>

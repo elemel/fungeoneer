@@ -11,7 +11,6 @@
 
 From here, you can [start in the foreworld](foreworld.md).
 
-
 ## Table of Contents
 
 - [Foreworld](foreworld.md)

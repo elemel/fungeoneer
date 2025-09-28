@@ -1,3 +1,7 @@
+---
+theme: theme-light
+---
+
 ## Afterworld
 
 As you leave the last dungeon, an invisible choir sings, and you are bathed in radiance. A voice booms: "Well done, mortal!"

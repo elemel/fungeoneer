@@ -286,7 +286,6 @@ After how many steps do you leave the dungeon?
 
 From here, you can [continue to the answer](../../answers/chapters/10/behind-the-curtain.md).
 
-
 ### Example
 
 Consider an example dungeon:

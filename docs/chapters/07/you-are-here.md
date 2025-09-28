@@ -165,7 +165,6 @@ You leave the dungeon when your position is outside the dungeon. After how many 
 
 From here, you can [continue to the answer](../../answers/chapters/07/you-are-here.md).
 
-
 ### Example
 
 Consider an example dungeon:

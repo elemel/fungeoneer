@@ -1,2 +1,13 @@
 title: "Call of the Fungeon"
 tagline: "Build a stack machine for a roguelike fungeoid."
+
+defaults:
+  -
+    scope:
+      path: ""        # all files
+    values:
+      layout: default
+
+sass:
+  sass_dir: assets/css
+  style: compressed

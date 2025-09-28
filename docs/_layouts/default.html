@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>
+    {% if page.title %}
+      {{ page.title }}
+    {% else %}
+      {{ content | strip_html | strip_newlines | truncatewords: 10 }}
+    {% endif %}
+  </title>
+
+  <!-- Primer CSS from CDN -->
+  <link rel="stylesheet" href="https://unpkg.com/@primer/css/dist/primer.css">
+
+  <!-- Your compiled overrides -->
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+<body class="{{ page.theme | default: '' }}">
+  <main class="container-lg p-4">
+    <article class="markdown-body">
+      {{ content }}
+    </article>
+  </main>
+</body>
+</html>

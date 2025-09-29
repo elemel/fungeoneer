@@ -282,7 +282,7 @@ Whenever you step onto a mimic tile, pop a number from the stack. Act as if you 
 
 Whenever you step onto a passage tile, search for the next passage tile in your facing direction. If you find one, push your position onto the stack, then move to the other passage tile, and finally push your position onto the stack again. This counts as a single step, and lets you pass through any tile, including wall tiles.
 
-After how many steps do you leave the dungeon?
+After how many ticks do you leave the dungeon?
 
 From here, you can [continue to the answer](../../answers/chapters/10/behind-the-curtain.md).
 

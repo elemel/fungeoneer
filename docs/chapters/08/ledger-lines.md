@@ -190,7 +190,7 @@ Whenever you step onto a poker tile, pop two arguments from the stack: first `b`
 
 Whenever you step onto an S-getter tile, get the stack size as a number, then push that number onto the stack. For an S-setter tile, pop a number from the stack, then set the stack size to that number.
 
-After how many steps do you leave the dungeon?
+After how many ticks do you leave the dungeon?
 
 From here, you can [continue to the answer](../../answers/chapters/08/ledger-lines.md).
 

@@ -203,7 +203,7 @@ The bitwise operators reinterpret their arguments as unsigned 32-bit integers af
 
 Inverters, and-gates, or-gates, and exclusive-or-gates have their usual meanings. Shifters move the bits of `a` to the left by `b % 32` bit positions. The shift is circular: bits that disappear on one side reappear on the other.
 
-After how many steps do you leave the dungeon?
+After how many ticks do you leave the dungeon?
 
 From here, you can [continue to the answer](../../answers/chapters/09/a-grain-of-truth.md).
 

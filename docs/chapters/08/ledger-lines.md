@@ -1791,4 +1791,4 @@ P: -56  R: 62  S: 9
 ```
 {% endraw %}
 
-You leave the example dungeon after 171 steps.
+You leave the example dungeon after 121 steps.

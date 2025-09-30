@@ -1362,4 +1362,4 @@ P: -57  R: 4  S: 8
 ```
 {% endraw %}
 
-You leave the example dungeon after 87 steps.
+You leave the example dungeon after 87 ticks.

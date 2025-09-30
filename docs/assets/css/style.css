@@ -27,9 +27,16 @@ body.dark h1, body.dark h2, body.dark h3 {
   border-bottom: 2px solid #333;
 }
 
-body.dark code,
-body.dark pre {
+body.dark code {
   background-color: #333;
+}
+
+body.dark pre {
+  background-color: #222;
+}
+
+body.dark pre code {
+  background-color: transparent;
 }
 
 /* Light theme overrides */
@@ -50,9 +57,16 @@ body.light h1, body.light h2, body.light h3 {
   border-bottom: 2px solid #ccc;
 }
 
-body.light code,
-body.light pre {
+body.light code {
   background-color: #ccc;
+}
+
+body.light pre {
+  background-color: #ddd;
+}
+
+body.light pre code {
+  background-color: transparent;
 }
 
 /* === HEADINGS === */

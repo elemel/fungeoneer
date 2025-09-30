@@ -1,8 +1,8 @@
 /* Basic typography */
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-  line-height: 1.5;
-  font-size: 16px;
+  line-height: 1.6;
+  font-size: 17px;
   margin: 0;
   padding: 0;
 }
@@ -16,7 +16,7 @@ body.dark {
 }
 
 body.dark a {
-  color: #9e3;
+  color: #8e3;
 }
 
 body.dark blockquote {
@@ -39,7 +39,7 @@ body.light {
 }
 
 body.light a {
-  color: #08e;
+  color: #38e;
 }
 
 body.light blockquote {
@@ -104,6 +104,7 @@ ul, ol {
 code {
   font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
   font-size: 15px;
+  line-height: 1.5;
   padding: 0.2em 0.4em;
   border-radius: 4px;
 }

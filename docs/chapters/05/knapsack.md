@@ -139,7 +139,7 @@ The log below shows you exploring the example dungeon, with your location marked
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: []  Dx: East  Co: (10, 1)  TC: 0
+St: []  Dx: East  Co: (10, 1, 0)  Tk: 0
 
 ---
 
@@ -151,7 +151,7 @@ You push 5.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [5]  Dx: East  Co: (11, 1)  TC: 1
+St: [5]  Dx: East  Co: (11, 1, 0)  Tk: 1
 
 ---
 
@@ -163,7 +163,7 @@ You push 8.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [8, 5]  Dx: East  Co: (12, 1)  TC: 2
+St: [8, 5]  Dx: East  Co: (12, 1, 0)  Tk: 2
 
 ---
 
@@ -175,7 +175,7 @@ You get 0 from C.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [0, 8, 5]  Dx: East  Co: (13, 1)  TC: 3
+St: [0, 8, 5]  Dx: East  Co: (13, 1, 0)  Tk: 3
 
 ---
 
@@ -187,7 +187,7 @@ You turn right.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [0, 8, 5]  Dx: South  Co: (13, 1)  TC: 4
+St: [0, 8, 5]  Dx: South  Co: (13, 1, 0)  Tk: 4
 
 ---
 
@@ -199,7 +199,7 @@ You push 4.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [4, 0, 8, 5]  Dx: South  Co: (13, 2)  TC: 5
+St: [4, 0, 8, 5]  Dx: South  Co: (13, 2, 0)  Tk: 5
 
 ---
 
@@ -211,7 +211,7 @@ You push 9.
 ]970CcAA:cA6c@=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [9, 4, 0, 8, 5]  Dx: South  Co: (13, 3)  TC: 6
+St: [9, 4, 0, 8, 5]  Dx: South  Co: (13, 3, 0)  Tk: 6
 
 ---
 
@@ -223,7 +223,7 @@ You turn left because 4 < 9.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B=@7CBaA=
 
-St: [0, 8, 5]  Dx: East  Co: (13, 4)  TC: 7
+St: [0, 8, 5]  Dx: East  Co: (13, 4, 0)  Tk: 7
 
 ---
 
@@ -235,7 +235,7 @@ You push 7.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==@CBaA=
 
-St: [7, 0, 8, 5]  Dx: East  Co: (14, 4)  TC: 8
+St: [7, 0, 8, 5]  Dx: East  Co: (14, 4, 0)  Tk: 8
 
 ---
 
@@ -247,7 +247,7 @@ You set C to 7.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7@BaA=
 
-St: [0, 8, 5]  Dx: East  Co: (15, 4)  TC: 9
+St: [0, 8, 5]  Dx: East  Co: (15, 4, 0)  Tk: 9
 C: 7
 
 ---
@@ -260,7 +260,7 @@ You set B to 0.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7C@aA=
 
-St: [8, 5]  Dx: East  Co: (16, 4)  TC: 10
+St: [8, 5]  Dx: East  Co: (16, 4, 0)  Tk: 10
 C: 7
 
 ---
@@ -273,7 +273,7 @@ You get 0 from A.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CB@A=
 
-St: [0, 8, 5]  Dx: East  Co: (17, 4)  TC: 11
+St: [0, 8, 5]  Dx: East  Co: (17, 4, 0)  Tk: 11
 C: 7
 
 ---
@@ -286,7 +286,7 @@ You set A to 0.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBa@=
 
-St: [8, 5]  Dx: East  Co: (18, 4)  TC: 12
+St: [8, 5]  Dx: East  Co: (18, 4, 0)  Tk: 12
 C: 7
 
 ---
@@ -299,7 +299,7 @@ You turn left because 5 < 8.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA@
 
-St: []  Dx: North  Co: (19, 4)  TC: 13
+St: []  Dx: North  Co: (19, 4, 0)  Tk: 13
 C: 7
 
 ---
@@ -312,7 +312,7 @@ You push 6.
 ]970CcAA:cA6c9=[#]#@
 #=34Bc[#=37B==7CBaA=
 
-St: [6]  Dx: North  Co: (19, 3)  TC: 14
+St: [6]  Dx: North  Co: (19, 3, 0)  Tk: 14
 C: 7
 
 ---
@@ -325,7 +325,7 @@ You push 9.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [9, 6]  Dx: North  Co: (19, 2)  TC: 15
+St: [9, 6]  Dx: North  Co: (19, 2, 0)  Tk: 15
 C: 7
 
 ---
@@ -338,7 +338,7 @@ You push 2.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [2, 9, 6]  Dx: North  Co: (19, 1)  TC: 16
+St: [2, 9, 6]  Dx: North  Co: (19, 1, 0)  Tk: 16
 C: 7
 
 ---
@@ -351,7 +351,7 @@ You turn left.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [2, 9, 6]  Dx: West  Co: (19, 1)  TC: 17
+St: [2, 9, 6]  Dx: West  Co: (19, 1, 0)  Tk: 17
 C: 7
 
 ---
@@ -364,7 +364,7 @@ You swap 9 and 2.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [9, 2, 6]  Dx: West  Co: (18, 1)  TC: 18
+St: [9, 2, 6]  Dx: West  Co: (18, 1, 0)  Tk: 18
 C: 7
 
 ---
@@ -377,7 +377,7 @@ You push 8.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [8, 9, 2, 6]  Dx: West  Co: (17, 1)  TC: 19
+St: [8, 9, 2, 6]  Dx: West  Co: (17, 1, 0)  Tk: 19
 C: 7
 
 ---
@@ -390,7 +390,7 @@ You turn left.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [8, 9, 2, 6]  Dx: South  Co: (17, 1)  TC: 20
+St: [8, 9, 2, 6]  Dx: South  Co: (17, 1, 0)  Tk: 20
 C: 7
 
 ---
@@ -403,7 +403,7 @@ You set A to 8.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [9, 2, 6]  Dx: South  Co: (17, 2)  TC: 21
+St: [9, 2, 6]  Dx: South  Co: (17, 2, 0)  Tk: 21
 A: 8  C: 7
 
 ---
@@ -416,7 +416,7 @@ You turn right.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [9, 2, 6]  Dx: West  Co: (17, 2)  TC: 22
+St: [9, 2, 6]  Dx: West  Co: (17, 2, 0)  Tk: 22
 A: 8  C: 7
 
 ---
@@ -429,7 +429,7 @@ You set B to 9.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [2, 6]  Dx: West  Co: (16, 2)  TC: 23
+St: [2, 6]  Dx: West  Co: (16, 2, 0)  Tk: 23
 A: 8  B: 9  C: 7
 
 ---
@@ -442,7 +442,7 @@ You push 4.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [4, 2, 6]  Dx: West  Co: (15, 2)  TC: 24
+St: [4, 2, 6]  Dx: West  Co: (15, 2, 0)  Tk: 24
 A: 8  B: 9  C: 7
 
 ---
@@ -455,7 +455,7 @@ You turn left.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [4, 2, 6]  Dx: South  Co: (15, 2)  TC: 25
+St: [4, 2, 6]  Dx: South  Co: (15, 2, 0)  Tk: 25
 A: 8  B: 9  C: 7
 
 ---
@@ -468,7 +468,7 @@ You turn left.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [4, 2, 6]  Dx: East  Co: (15, 2)  TC: 26
+St: [4, 2, 6]  Dx: East  Co: (15, 2, 0)  Tk: 26
 A: 8  B: 9  C: 7
 
 ---
@@ -481,7 +481,7 @@ You set B to 4.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [2, 6]  Dx: East  Co: (16, 2)  TC: 27
+St: [2, 6]  Dx: East  Co: (16, 2, 0)  Tk: 27
 A: 8  B: 4  C: 7
 
 ---
@@ -494,7 +494,7 @@ You set A to 2.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [6]  Dx: East  Co: (17, 2)  TC: 28
+St: [6]  Dx: East  Co: (17, 2, 0)  Tk: 28
 A: 2  B: 4  C: 7
 
 ---
@@ -507,7 +507,7 @@ You turn left.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [6]  Dx: North  Co: (17, 2)  TC: 29
+St: [6]  Dx: North  Co: (17, 2, 0)  Tk: 29
 A: 2  B: 4  C: 7
 
 ---
@@ -520,7 +520,7 @@ You push 8.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [8, 6]  Dx: North  Co: (17, 1)  TC: 30
+St: [8, 6]  Dx: North  Co: (17, 1, 0)  Tk: 30
 A: 2  B: 4  C: 7
 
 ---
@@ -533,7 +533,7 @@ You turn left because 6 < 8.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: []  Dx: West  Co: (17, 0)  TC: 31
+St: []  Dx: West  Co: (17, 0, 0)  Tk: 31
 A: 2  B: 4  C: 7
 
 ---
@@ -546,7 +546,7 @@ You push 0.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [0]  Dx: West  Co: (16, 0)  TC: 32
+St: [0]  Dx: West  Co: (16, 0, 0)  Tk: 32
 A: 2  B: 4  C: 7
 
 ---
@@ -559,7 +559,7 @@ You set A to 0.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: []  Dx: West  Co: (15, 0)  TC: 33
+St: []  Dx: West  Co: (15, 0, 0)  Tk: 33
 B: 4  C: 7
 
 ---
@@ -572,7 +572,7 @@ You push 2.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [2]  Dx: West  Co: (14, 0)  TC: 34
+St: [2]  Dx: West  Co: (14, 0, 0)  Tk: 34
 B: 4  C: 7
 
 ---
@@ -585,7 +585,7 @@ You get 0 from A.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [0, 2]  Dx: West  Co: (13, 0)  TC: 35
+St: [0, 2]  Dx: West  Co: (13, 0, 0)  Tk: 35
 B: 4  C: 7
 
 ---
@@ -598,7 +598,7 @@ You push 6.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [6, 0, 2]  Dx: West  Co: (12, 0)  TC: 36
+St: [6, 0, 2]  Dx: West  Co: (12, 0, 0)  Tk: 36
 B: 4  C: 7
 
 ---
@@ -611,7 +611,7 @@ You get 4 from B.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [4, 6, 0, 2]  Dx: West  Co: (11, 0)  TC: 37
+St: [4, 6, 0, 2]  Dx: West  Co: (11, 0, 0)  Tk: 37
 B: 4  C: 7
 
 ---
@@ -624,7 +624,7 @@ You get 0 from A.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [0, 4, 6, 0, 2]  Dx: West  Co: (10, 0)  TC: 38
+St: [0, 4, 6, 0, 2]  Dx: West  Co: (10, 0, 0)  Tk: 38
 B: 4  C: 7
 
 ---
@@ -637,7 +637,7 @@ You set B to 0.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [4, 6, 0, 2]  Dx: West  Co: (9, 0)  TC: 39
+St: [4, 6, 0, 2]  Dx: West  Co: (9, 0, 0)  Tk: 39
 C: 7
 
 ---
@@ -650,7 +650,7 @@ You get 0 from B.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [0, 4, 6, 0, 2]  Dx: West  Co: (8, 0)  TC: 40
+St: [0, 4, 6, 0, 2]  Dx: West  Co: (8, 0, 0)  Tk: 40
 C: 7
 
 ---
@@ -663,7 +663,7 @@ You push 5.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [5, 0, 4, 6, 0, 2]  Dx: West  Co: (7, 0)  TC: 41
+St: [5, 0, 4, 6, 0, 2]  Dx: West  Co: (7, 0, 0)  Tk: 41
 C: 7
 
 ---
@@ -676,7 +676,7 @@ You push 8.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [8, 5, 0, 4, 6, 0, 2]  Dx: West  Co: (6, 0)  TC: 42
+St: [8, 5, 0, 4, 6, 0, 2]  Dx: West  Co: (6, 0, 0)  Tk: 42
 C: 7
 
 ---
@@ -689,7 +689,7 @@ You turn left.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [8, 5, 0, 4, 6, 0, 2]  Dx: South  Co: (6, 0)  TC: 43
+St: [8, 5, 0, 4, 6, 0, 2]  Dx: South  Co: (6, 0, 0)  Tk: 43
 C: 7
 
 ---
@@ -702,7 +702,7 @@ You get 7 from C.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [7, 8, 5, 0, 4, 6, 0, 2]  Dx: South  Co: (6, 1)  TC: 44
+St: [7, 8, 5, 0, 4, 6, 0, 2]  Dx: South  Co: (6, 1, 0)  Tk: 44
 C: 7
 
 ---
@@ -715,7 +715,7 @@ You set B to 7.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [8, 5, 0, 4, 6, 0, 2]  Dx: South  Co: (6, 2)  TC: 45
+St: [8, 5, 0, 4, 6, 0, 2]  Dx: South  Co: (6, 2, 0)  Tk: 45
 B: 7  C: 7
 
 ---
@@ -728,7 +728,7 @@ You set A to 8.
 ]970Cc@A:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [5, 0, 4, 6, 0, 2]  Dx: South  Co: (6, 3)  TC: 46
+St: [5, 0, 4, 6, 0, 2]  Dx: South  Co: (6, 3, 0)  Tk: 46
 A: 8  B: 7  C: 7
 
 ---
@@ -741,7 +741,7 @@ You turn left.
 ]970Cc@A:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [5, 0, 4, 6, 0, 2]  Dx: East  Co: (6, 3)  TC: 47
+St: [5, 0, 4, 6, 0, 2]  Dx: East  Co: (6, 3, 0)  Tk: 47
 A: 8  B: 7  C: 7
 
 ---
@@ -754,7 +754,7 @@ You set A to 5.
 ]970CcA@:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [0, 4, 6, 0, 2]  Dx: East  Co: (7, 3)  TC: 48
+St: [0, 4, 6, 0, 2]  Dx: East  Co: (7, 3, 0)  Tk: 48
 A: 5  B: 7  C: 7
 
 ---
@@ -767,7 +767,7 @@ You swap 4 and 0.
 ]970CcAA@cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [4, 0, 6, 0, 2]  Dx: East  Co: (8, 3)  TC: 49
+St: [4, 0, 6, 0, 2]  Dx: East  Co: (8, 3, 0)  Tk: 49
 A: 5  B: 7  C: 7
 
 ---
@@ -780,7 +780,7 @@ You get 7 from C.
 ]970CcAA:@A6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [7, 4, 0, 6, 0, 2]  Dx: East  Co: (9, 3)  TC: 50
+St: [7, 4, 0, 6, 0, 2]  Dx: East  Co: (9, 3, 0)  Tk: 50
 A: 5  B: 7  C: 7
 
 ---
@@ -793,7 +793,7 @@ You set A to 7.
 ]970CcAA:c@6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [4, 0, 6, 0, 2]  Dx: East  Co: (10, 3)  TC: 51
+St: [4, 0, 6, 0, 2]  Dx: East  Co: (10, 3, 0)  Tk: 51
 A: 7  B: 7  C: 7
 
 ---
@@ -806,7 +806,7 @@ You push 6.
 ]970CcAA:cA@c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [6, 4, 0, 6, 0, 2]  Dx: East  Co: (11, 3)  TC: 52
+St: [6, 4, 0, 6, 0, 2]  Dx: East  Co: (11, 3, 0)  Tk: 52
 A: 7  B: 7  C: 7
 
 ---
@@ -819,7 +819,7 @@ You get 7 from C.
 ]970CcAA:cA6@9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [7, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (12, 3)  TC: 53
+St: [7, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (12, 3, 0)  Tk: 53
 A: 7  B: 7  C: 7
 
 ---
@@ -832,7 +832,7 @@ You push 9.
 ]970CcAA:cA6c@=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [9, 7, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (13, 3)  TC: 54
+St: [9, 7, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (13, 3, 0)  Tk: 54
 A: 7  B: 7  C: 7
 
 ---
@@ -845,7 +845,7 @@ You turn left because 7 < 9.
 ]970CcAA:cA6c9@[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [6, 4, 0, 6, 0, 2]  Dx: North  Co: (14, 3)  TC: 55
+St: [6, 4, 0, 6, 0, 2]  Dx: North  Co: (14, 3, 0)  Tk: 55
 A: 7  B: 7  C: 7
 
 ---
@@ -858,7 +858,7 @@ You turn left.
 ]970CcAA:cA6c9@[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [6, 4, 0, 6, 0, 2]  Dx: West  Co: (14, 3)  TC: 56
+St: [6, 4, 0, 6, 0, 2]  Dx: West  Co: (14, 3, 0)  Tk: 56
 A: 7  B: 7  C: 7
 
 ---
@@ -871,7 +871,7 @@ You push 9.
 ]970CcAA:cA6c@=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (13, 3)  TC: 57
+St: [9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (13, 3, 0)  Tk: 57
 A: 7  B: 7  C: 7
 
 ---
@@ -884,7 +884,7 @@ You get 7 from C.
 ]970CcAA:cA6@9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [7, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (12, 3)  TC: 58
+St: [7, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (12, 3, 0)  Tk: 58
 A: 7  B: 7  C: 7
 
 ---
@@ -897,7 +897,7 @@ You push 6.
 ]970CcAA:cA@c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [6, 7, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (11, 3)  TC: 59
+St: [6, 7, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (11, 3, 0)  Tk: 59
 A: 7  B: 7  C: 7
 
 ---
@@ -910,7 +910,7 @@ You set A to 6.
 ]970CcAA:c@6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [7, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (10, 3)  TC: 60
+St: [7, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (10, 3, 0)  Tk: 60
 A: 6  B: 7  C: 7
 
 ---
@@ -923,7 +923,7 @@ You get 7 from C.
 ]970CcAA:@A6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [7, 7, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (9, 3)  TC: 61
+St: [7, 7, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (9, 3, 0)  Tk: 61
 A: 6  B: 7  C: 7
 
 ---
@@ -936,7 +936,7 @@ You swap 7 and 7.
 ]970CcAA@cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [7, 7, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (8, 3)  TC: 62
+St: [7, 7, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (8, 3, 0)  Tk: 62
 A: 6  B: 7  C: 7
 
 ---
@@ -949,7 +949,7 @@ You set A to 7.
 ]970CcA@:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [7, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (7, 3)  TC: 63
+St: [7, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (7, 3, 0)  Tk: 63
 A: 7  B: 7  C: 7
 
 ---
@@ -962,7 +962,7 @@ You set A to 7.
 ]970Cc@A:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (6, 3)  TC: 64
+St: [9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (6, 3, 0)  Tk: 64
 A: 7  B: 7  C: 7
 
 ---
@@ -975,7 +975,7 @@ You get 7 from C.
 ]970C@AA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [7, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (5, 3)  TC: 65
+St: [7, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (5, 3, 0)  Tk: 65
 A: 7  B: 7  C: 7
 
 ---
@@ -988,7 +988,7 @@ You set C to 7.
 ]970@cAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (4, 3)  TC: 66
+St: [9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (4, 3, 0)  Tk: 66
 A: 7  B: 7  C: 7
 
 ---
@@ -1001,7 +1001,7 @@ You push 0.
 ]97@CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [0, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (3, 3)  TC: 67
+St: [0, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (3, 3, 0)  Tk: 67
 A: 7  B: 7  C: 7
 
 ---
@@ -1014,7 +1014,7 @@ You push 7.
 ]9@0CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (2, 3)  TC: 68
+St: [7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (2, 3, 0)  Tk: 68
 A: 7  B: 7  C: 7
 
 ---
@@ -1027,7 +1027,7 @@ You push 9.
 ]@70CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (1, 3)  TC: 69
+St: [9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (1, 3, 0)  Tk: 69
 A: 7  B: 7  C: 7
 
 ---
@@ -1040,7 +1040,7 @@ You turn right.
 ]@70CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: North  Co: (1, 3)  TC: 70
+St: [9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: North  Co: (1, 3, 0)  Tk: 70
 A: 7  B: 7  C: 7
 
 ---
@@ -1053,7 +1053,7 @@ You push 1.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: North  Co: (1, 2)  TC: 71
+St: [1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: North  Co: (1, 2, 0)  Tk: 71
 A: 7  B: 7  C: 7
 
 ---
@@ -1066,7 +1066,7 @@ You push 1.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: North  Co: (1, 1)  TC: 72
+St: [1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: North  Co: (1, 1, 0)  Tk: 72
 A: 7  B: 7  C: 7
 
 ---
@@ -1079,7 +1079,7 @@ You turn left.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (1, 1)  TC: 73
+St: [1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (1, 1, 0)  Tk: 73
 A: 7  B: 7  C: 7
 
 ---
@@ -1092,7 +1092,7 @@ You turn left.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: South  Co: (1, 1)  TC: 74
+St: [1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: South  Co: (1, 1, 0)  Tk: 74
 A: 7  B: 7  C: 7
 
 ---
@@ -1105,7 +1105,7 @@ You push 1.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [1, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: South  Co: (1, 2)  TC: 75
+St: [1, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: South  Co: (1, 2, 0)  Tk: 75
 A: 7  B: 7  C: 7
 
 ---
@@ -1118,7 +1118,7 @@ You push 9.
 ]@70CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [9, 1, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: South  Co: (1, 3)  TC: 76
+St: [9, 1, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, ...]  Dx: South  Co: (1, 3, 0)  Tk: 76
 A: 7  B: 7  C: 7
 
 ---
@@ -1131,7 +1131,7 @@ You turn left because 1 < 9.
 ]970CcAA:cA6c9=[#]#6
 #@34Bc[#=37B==7CBaA=
 
-St: [1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (1, 4)  TC: 77
+St: [1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (1, 4, 0)  Tk: 77
 A: 7  B: 7  C: 7
 
 ---
@@ -1144,7 +1144,7 @@ You push 3.
 ]970CcAA:cA6c9=[#]#6
 #=@4Bc[#=37B==7CBaA=
 
-St: [3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (2, 4)  TC: 78
+St: [3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (2, 4, 0)  Tk: 78
 A: 7  B: 7  C: 7
 
 ---
@@ -1157,7 +1157,7 @@ You push 4.
 ]970CcAA:cA6c9=[#]#6
 #=3@Bc[#=37B==7CBaA=
 
-St: [4, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (3, 4)  TC: 79
+St: [4, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (3, 4, 0)  Tk: 79
 A: 7  B: 7  C: 7
 
 ---
@@ -1170,7 +1170,7 @@ You set B to 4.
 ]970CcAA:cA6c9=[#]#6
 #=34@c[#=37B==7CBaA=
 
-St: [3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (4, 4)  TC: 80
+St: [3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (4, 4, 0)  Tk: 80
 A: 7  B: 4  C: 7
 
 ---
@@ -1183,7 +1183,7 @@ You get 7 from C.
 ]970CcAA:cA6c9=[#]#6
 #=34B@[#=37B==7CBaA=
 
-St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (5, 4)  TC: 81
+St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (5, 4, 0)  Tk: 81
 A: 7  B: 4  C: 7
 
 ---
@@ -1196,7 +1196,7 @@ You turn left.
 ]970CcAA:cA6c9=[#]#6
 #=34B@[#=37B==7CBaA=
 
-St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: North  Co: (5, 4)  TC: 82
+St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, ...]  Dx: North  Co: (5, 4, 0)  Tk: 82
 A: 7  B: 4  C: 7
 
 ---
@@ -1209,7 +1209,7 @@ You get 7 from C.
 ]970C@AA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [7, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, ...]  Dx: North  Co: (5, 3)  TC: 83
+St: [7, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, ...]  Dx: North  Co: (5, 3, 0)  Tk: 83
 A: 7  B: 4  C: 7
 
 ---
@@ -1222,7 +1222,7 @@ You go north.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [7, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, ...]  Dx: North  Co: (5, 2)  TC: 84
+St: [7, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, ...]  Dx: North  Co: (5, 2, 0)  Tk: 84
 A: 7  B: 4  C: 7
 
 ---
@@ -1235,7 +1235,7 @@ You push 6.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [6, 7, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, ...]  Dx: North  Co: (5, 1)  TC: 85
+St: [6, 7, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, ...]  Dx: North  Co: (5, 1, 0)  Tk: 85
 A: 7  B: 4  C: 7
 
 ---
@@ -1248,7 +1248,7 @@ You turn left.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [6, 7, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, ...]  Dx: West  Co: (5, 1)  TC: 86
+St: [6, 7, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, ...]  Dx: West  Co: (5, 1, 0)  Tk: 86
 A: 7  B: 4  C: 7
 
 ---
@@ -1261,7 +1261,7 @@ You set A to 6.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [7, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (4, 1)  TC: 87
+St: [7, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, ...]  Dx: West  Co: (4, 1, 0)  Tk: 87
 A: 6  B: 4  C: 7
 
 ---
@@ -1274,7 +1274,7 @@ You push 4.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [4, 7, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, ...]  Dx: West  Co: (3, 1)  TC: 88
+St: [4, 7, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, ...]  Dx: West  Co: (3, 1, 0)  Tk: 88
 A: 6  B: 4  C: 7
 
 ---
@@ -1287,7 +1287,7 @@ You turn right because 7 > 4.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: North  Co: (2, 1)  TC: 89
+St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, ...]  Dx: North  Co: (2, 1, 0)  Tk: 89
 A: 6  B: 4  C: 7
 
 ---
@@ -1300,7 +1300,7 @@ You turn right.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (2, 1)  TC: 90
+St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (2, 1, 0)  Tk: 90
 A: 6  B: 4  C: 7
 
 ---
@@ -1313,7 +1313,7 @@ You push 4.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [4, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (3, 1)  TC: 91
+St: [4, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, ...]  Dx: East  Co: (3, 1, 0)  Tk: 91
 A: 6  B: 4  C: 7
 
 ---
@@ -1326,7 +1326,7 @@ You set A to 4.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (4, 1)  TC: 92
+St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (4, 1, 0)  Tk: 92
 A: 4  B: 4  C: 7
 
 ---
@@ -1339,7 +1339,7 @@ You push 6.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [6, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (5, 1)  TC: 93
+St: [6, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, ...]  Dx: East  Co: (5, 1, 0)  Tk: 93
 A: 4  B: 4  C: 7
 
 ---
@@ -1352,7 +1352,7 @@ You get 7 from C.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [7, 6, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, ...]  Dx: East  Co: (6, 1)  TC: 94
+St: [7, 6, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, ...]  Dx: East  Co: (6, 1, 0)  Tk: 94
 A: 4  B: 4  C: 7
 
 ---
@@ -1365,7 +1365,7 @@ You set C to 7.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [6, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (7, 1)  TC: 95
+St: [6, 7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, ...]  Dx: East  Co: (7, 1, 0)  Tk: 95
 A: 4  B: 4  C: 7
 
 ---
@@ -1378,7 +1378,7 @@ You set A to 6.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (8, 1)  TC: 96
+St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (8, 1, 0)  Tk: 96
 A: 6  B: 4  C: 7
 
 ---
@@ -1391,7 +1391,7 @@ You turn right.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: South  Co: (8, 1)  TC: 97
+St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, ...]  Dx: South  Co: (8, 1, 0)  Tk: 97
 A: 6  B: 4  C: 7
 
 ---
@@ -1404,7 +1404,7 @@ You swap 3 and 7.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [3, 7, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: South  Co: (8, 2)  TC: 98
+St: [3, 7, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, ...]  Dx: South  Co: (8, 2, 0)  Tk: 98
 A: 6  B: 4  C: 7
 
 ---
@@ -1417,7 +1417,7 @@ You swap 7 and 3.
 ]970CcAA@cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: South  Co: (8, 3)  TC: 99
+St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, ...]  Dx: South  Co: (8, 3, 0)  Tk: 99
 A: 6  B: 4  C: 7
 
 ---
@@ -1430,7 +1430,7 @@ You turn left because 3 < 7.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#@37B==7CBaA=
 
-St: [1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (8, 4)  TC: 100
+St: [1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (8, 4, 0)  Tk: 100
 A: 6  B: 4  C: 7
 
 ---
@@ -1443,7 +1443,7 @@ You push 3.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=@7B==7CBaA=
 
-St: [3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (9, 4)  TC: 101
+St: [3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (9, 4, 0)  Tk: 101
 A: 6  B: 4  C: 7
 
 ---
@@ -1456,7 +1456,7 @@ You push 7.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=3@B==7CBaA=
 
-St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (10, 4)  TC: 102
+St: [7, 3, 1, 1, 9, 7, 0, 9, 6, 4, 0, ...]  Dx: East  Co: (10, 4, 0)  Tk: 102
 A: 6  B: 4  C: 7
 
 ---
@@ -1469,7 +1469,7 @@ You set B to 7.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37@==7CBaA=
 
-St: [3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (11, 4)  TC: 103
+St: [3, 1, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: East  Co: (11, 4, 0)  Tk: 103
 A: 6  B: 7  C: 7
 
 ---
@@ -1482,7 +1482,7 @@ You turn left because 1 < 3.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B@=7CBaA=
 
-St: [1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: North  Co: (12, 4)  TC: 104
+St: [1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: North  Co: (12, 4, 0)  Tk: 104
 A: 6  B: 7  C: 7
 
 ---
@@ -1495,7 +1495,7 @@ You get 7 from C.
 ]970CcAA:cA6@9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [7, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: North  Co: (12, 3)  TC: 105
+St: [7, 1, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: North  Co: (12, 3, 0)  Tk: 105
 A: 6  B: 7  C: 7
 
 ---
@@ -1508,7 +1508,7 @@ You turn left because 1 < 7.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (12, 2)  TC: 106
+St: [9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (12, 2, 0)  Tk: 106
 A: 6  B: 7  C: 7
 
 ---
@@ -1521,7 +1521,7 @@ You get 6 from A.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [6, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (11, 2)  TC: 107
+St: [6, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (11, 2, 0)  Tk: 107
 A: 6  B: 7  C: 7
 
 ---
@@ -1534,7 +1534,7 @@ You push 5.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [5, 6, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (10, 2)  TC: 108
+St: [5, 6, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: West  Co: (10, 2, 0)  Tk: 108
 A: 6  B: 7  C: 7
 
 ---
@@ -1547,14 +1547,15 @@ You turn right.
 ]970CcAA:cA6c9=[#]#6
 #=34Bc[#=37B==7CBaA=
 
-St: [5, 6, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: North  Co: (10, 2)  TC: 109
+St: [5, 6, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: North  Co: (10, 2, 0)  Tk: 109
 A: 6  B: 7  C: 7
 
 ---
 
 You go upstairs.
 
-TC: 110
+St: [5, 6, 9, 7, 0, 9, 6, 4, 0, 6, 0, 2]  Dx: North  Co: (10, 1, -1)  Tk: 110
+A: 6  B: 7  C: 7
 ```
 
 You leave the example dungeon after 110 ticks.

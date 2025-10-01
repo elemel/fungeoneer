@@ -209,7 +209,8 @@ map: |
   })[})#RR])([{)"g&KyE=BKc(\""z}lCEts5F\{=aVK1IQhe&89tGpK<dqAOIw"1~GbO{"1c="7=WKj#
   )e62tT&7ZTwv5Om"("Z=)[]R{]{}P){={(=+<#}#RI{###R(##}))]#####=(P#[{[)[(}]P(=]#[#]#
 
-answer: 26174
+answer: |
+  26174
 
 example_map: |
   =52]$##[]##[23085=##
@@ -1470,4 +1471,5 @@ example_log: |
   St: [2, 5, 4, 2, 51, 8, 91, 67, 68, 4, ...]  Dx: South  Co: (2, 1, -1)  Tk: 96
   P: -78  R: 2  S: 31
 
-example_answer: 96
+example_answer: |
+  96

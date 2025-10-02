@@ -4,7 +4,7 @@
 
 You have entered the seventh dungeon. You stand at the bottom of the staircase where you entered, facing east. In a haystack by the staircase, you find a needle: a magic pin. Out of concern for any beast of burden that may stray here to feed, you decide to keep the pin. You press it into the symbol of the staircase on your magic map.
 
-With every step you take in the dungeon, the magic pin mirrors your movement on the map, reflecting your location. As register P, the pin also reveals your position as a number, starting from zero at the top-left symbol, and increasing with each symbol in left-to-right, top-to-bottom reading order. Blank spaces are ignored.
+With every move you make in the dungeon, the magic pin moves along on the map, reflecting your location. As register P, the pin also reveals your position as a number, starting from zero at the top-left symbol, and increasing with each symbol in left-to-right, top-to-bottom reading order. Blank spaces are ignored.
 
 Anchored by the pin, you consult the map:
 
@@ -12,9 +12,9 @@ Anchored by the pin, you consult the map:
 {{ problem.map }}
 ```
 
-This dungeon contains altar tiles (marked `_` on the map), along with getters and setters for register P (marked `p` or `P`). Whenever you step onto an altar tile, pop a number `b` from the stack, then get your position as another number `a`, then push `a` onto the stack, and finally set your position to `b`. This teleports you to the corresponding location.
+This dungeon contains altar tiles (marked `_` on the map), along with getters and setters for register P (marked `p` or `P`). Whenever you trigger an altar tile, pop a number `b` from the stack, then get your position as another number `a`, then push `a` onto the stack, and finally set your position to `b`. This teleports you to the corresponding location.
 
-Whenever you step onto a P-getter tile, get your position as a number, then push that number onto the stack. For a P-setter tile, pop a number from the stack, then set your position to that number. As above, this teleports you to the corresponding location.
+Whenever you trigger a P-getter tile, get your position as a number, then push that number onto the stack. For a P-setter tile, pop a number from the stack, then set your position to that number. As above, this teleports you to the corresponding location.
 
 You leave the dungeon when your position is outside the dungeon. After how many ticks do you leave the dungeon?
 

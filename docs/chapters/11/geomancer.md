@@ -303,17 +303,15 @@ RvN9U~~YR0=e<Q(gLB"#|"A0]FR(~x^""""y\wnp9a#yOmy~}"#"M3hO}sljC(TF8kl-"Ha(Qi\"eR
 ```
 {% endraw %}
 
-
 This dungeon contains reader tiles (marked `?` on the map) and writer tiles (marked `!`).
 
-Whenever you step onto a reader tile, pop a number `a` from the stack. Find the tile at position `a`, then get the extended ASCII code of that tile as another number `b`. Finally, push `b` onto the stack.
+Whenever you trigger a reader tile, pop a number `a` from the stack. Find the tile at position `a`, then get the extended ASCII code of that tile as another number `b`. Finally, push `b` onto the stack.
 
-Whenever you step onto a writer tile, pop two numbers from the stack: first `b`, then `a`. Find the tile at position `a`, then set the extended ASCII code of that tile to `b % 256`.
+Whenever you trigger a writer tile, pop two numbers from the stack: first `b`, then `a`. Find the tile at position `a`, then set the extended ASCII code of that tile to `b % 256`.
 
 After how many ticks do you leave the dungeon?
 
 From here, you can [continue to the answer](../../answers/chapters/11/geomancer.md).
-
 
 ## Example
 
@@ -329,7 +327,7 @@ R8=##)[(({##)#[
 ```
 {% endraw %}
 
-Below is a log of walking through the example dungeon. Your location is marked `@` on the map.
+The log below shows you exploring the example dungeon, with your location marked `@` on the map.
 
 {% raw %}
 ```
@@ -2514,4 +2512,4 @@ Stack (60):
 ```
 {% endraw %}
 
-You leave the example dungeon after 74 steps.
+You leave the example dungeon after 74 ticks.

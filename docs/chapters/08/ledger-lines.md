@@ -4,7 +4,7 @@
 
 You have entered the eighth dungeon. You stand at the bottom of the staircase where you entered, facing east. A gnome sits on the bottom stair, sipping from a flask of mushroom brew. As he looks up at you, then down at the purse of stacking on your belt, you recognize him as the cartographer from the first dungeon. He leans forward, as if about to speak. With a magic marker and a flick of the wrist, he scribbles a line of credit onto your purse, in the shape of register S. He pauses for a moment, then sits back, taking another sip.
 
-Register S serves as both stack size and stack pointer. It always points to the slot just above the top of the stack. Initially, register S points to slot 0, indicating that the stack is empty. Pushing writes a number to slot S, then increments S. Popping decrements S, then reads a number from slot S.
+Register S serves as both stack size and stack pointer, always pointing to the slot just above the top of the stack. It initially points to slot 0, indicating an empty stack. Pushing writes a number to slot S, then increments S. Popping decrements S, then reads a number from slot S.
 
 The stack is invalid if the stack size is less than 0, which is called stack underflow, or greater than the stack limit, called stack overflow.
 
@@ -18,11 +18,11 @@ This dungeon contains tiles with peekers (marked `,` on the map) and pokers (mar
 
 Peekers and pokers access a unified view of stack and inventory. They apply to the stack for an address of zero or higher, or the inventory for a negative address. Registers A through Z are mapped to address -1 through -26, respectively.
 
-Whenever you step onto a peeker tile, pop an argument `a` from the stack. Then get another number `b` from slot `a`. Finally, push `b` onto the stack.
+Whenever you trigger a peeker tile, pop an argument `a` from the stack. Then get another number `b` from slot `a`. Finally, push `b` onto the stack.
 
-Whenever you step onto a poker tile, pop two arguments from the stack: first `b`, then `a`. Set the number in slot `a` to `b`.
+Whenever you trigger a poker tile, pop two arguments from the stack: first `b`, then `a`. Set the number in slot `a` to `b`.
 
-Whenever you step onto an S-getter tile, get the stack size as a number, then push that number onto the stack. For an S-setter tile, pop a number from the stack, then set the stack size to that number.
+Whenever you trigger an S-getter tile, get the stack size as a number, then push that number onto the stack. For an S-setter tile, pop a number from the stack, then set the stack size to that number.
 
 After how many ticks do you leave the dungeon?
 

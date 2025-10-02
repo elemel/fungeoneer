@@ -40,3 +40,4 @@ From here, you can [start in the foreworld](foreworld.md).
   - [Answer to Chapter 9: A Grain of Truth](answers/chapters/09/a-grain-of-truth.md)
   - [Answer to Chapter 10: Behind the Curtain](answers/chapters/10/behind-the-curtain.md)
   - [Answer to Chapter 11: Geomancer](answers/chapters/11/geomancer.md)
+- [Credits](credits.md)

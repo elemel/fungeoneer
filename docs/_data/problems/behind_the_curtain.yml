@@ -1,4 +1,4 @@
-map: |
+map: |-
   ##})]R)Riyp=[R#}}]#}]}_[()[R{}=#=P{{{#{()_##)R{{RhJ>}##{=](}R[)}}[#{}RR][[##{((#
   #=CR}Tc2vfV:ZT&gf.N.t%^AwDCu:~r:vcT&)jC*Ik09hU3/caCoCB}7d]*O*g)6O&d>ot5eaj""~b(#
   =3&Vrcy0N/2IBDib3vKtxb-wfp|MfE[#[Gxqiodex^C:lvY{wfEz1=5{Oxr=V5v=kzrx#"Q)B"h{=H#]
@@ -209,17 +209,17 @@ map: |
   })[})#RR])([{)"g&KyE=BKc(\""z}lCEts5F\{=aVK1IQhe&89tGpK<dqAOIw"1~GbO{"1c="7=WKj#
   )e62tT&7ZTwv5Om"("Z=)[]R{]{}P){={(=+<#}#RI{###R(##}))]#####=(P#[{[)[(}]P(=]#[#]#
 
-answer: |
+answer: |-
   26174
 
-example_map: |
+example_map: |-
   =52]$##[]##[23085=##
   ="<2]8""=0455607050=
   ###.']#]["["8['=[376
   =6547=]""4=1.2".[9[]
   [##]7=]42=##=8[##=1[
 
-example_log: |
+example_log: |-
   =52]$##[]##[23085=##
   ="@2]8""=0455607050=
   ###.']#]["["8['=[376
@@ -1471,5 +1471,5 @@ example_log: |
   St: [2, 5, 4, 2, 51, 8, 91, 67, 68, 4, ...]  Dx: South  Co: (2, 1, -1)  Tk: 96
   P: -78  R: 2  S: 31
 
-example_answer: |
+example_answer: |-
   96

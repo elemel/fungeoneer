@@ -1,4 +1,4 @@
-map: |
+map: |-
   #Po]}#[RR){{{#R}(]#=[))R[}({##{}#{()R##R]{(R#{#[{]#]]{P#[)[}[=((#####}#=()(DR{([
   [MK*#}u.If()+ct50fviqCReGJ-b7{Ii4FDy[Xn=jEnKzcfmqb+|k{M>mD|doG0G>7~w1G-8:o-r]n(&
   ]yD]r#m}KG%|Yywh[{6xUFAp=p|{DYTuI4Um2.dH&6/NLzedGjBpfrHu+cGj^+bu=####CzH3(lG>}5Z
@@ -188,17 +188,17 @@ map: |
   }gR)X]jBX[&Y(C)0xV#]#7#S[3vO\h[;}A[OnzOdyQae\WBJOnTW/TQ}({m6&w3GH/~jgrXE7tGcK}<}
   ))#R({#}#R{{]R##]{}#]##{#[}#}[##[#}{}))[#{)<#[#[[#(=)}([#(}]R#[}{([=#({][##}#}{)
 
-answer: |
+answer: |-
   24782
 
-example_map: |
+example_map: |-
   ]###=&2^=97=#####[]#
   99~45:^]7:&:~12~\~4=
   9##<173013|^40=#]299
   =4|60#=8]##~##\###1]
   ####]##==78=##=12&2[
 
-example_log: |
+example_log: |-
   ]###=&2^=97=#####[]#
   99~45:^]7:&:~12~\~4=
   9##@173013|^40=#]299
@@ -1333,5 +1333,5 @@ example_log: |
   St: [1, 7, 3, 0, 1, 7, 0, 1]  Dx: West  Co: (3, 2, -1)  Tk: 87
   P: -57  R: 4  S: 8
 
-example_answer: |
+example_answer: |-
   87

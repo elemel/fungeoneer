@@ -18,7 +18,7 @@ After how many ticks do you leave the dungeon?
 
 From here, you can [continue to the answer](../../answers/chapters/11/geomancer.md).
 
-## Example
+### Example
 
 Consider an example dungeon:
 

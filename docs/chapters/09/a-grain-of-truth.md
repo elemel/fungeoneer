@@ -5,7 +5,7 @@
 You have entered the ninth dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
 
 ```
-{{ problem.map -}}
+{{ problem.map }}
 ```
 
 This dungeon contains tiles with bitwise operators: inverters (marked `~` on the map), and-gates (marked `&`), or-gates (marked `|`), exclusive-or-gates (marked `^`), and shifters (marked `\`). Inverters are unary, while the other bitwise operators are binary.
@@ -26,13 +26,13 @@ From here, you can [continue to the answer](../../answers/chapters/09/a-grain-of
 Consider an example dungeon:
 
 ```
-{{ problem.example_map -}}
+{{ problem.example_map }}
 ```
 
 The log below shows you exploring the example dungeon, with your location marked `@` on the map.
 
 ```
-{{ problem.example_log -}}
+{{ problem.example_log }}
 ```
 
 You leave the example dungeon after {{ problem.example_answer }} ticks.

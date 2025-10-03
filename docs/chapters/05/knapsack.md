@@ -25,7 +25,7 @@ Consider an example dungeon:
 {{ problem.example_map }}
 ```
 
-The log below shows you exploring the example dungeon, with your location marked `@` on the map.
+The log below shows you exploring the example dungeon, with your location marked `@` on the map. The status lines now also show the most recently used registers.
 
 ```
 {{ problem.example_log }}

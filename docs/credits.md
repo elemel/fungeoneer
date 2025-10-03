@@ -2,7 +2,7 @@
 
 Written by [Mikael Lind](https://github.com/elemel).
 
-Inspirations:
+Influences:
 
 - Language design: [Befunge](https://en.wikipedia.org/wiki/Befunge) and other [fungeoids](https://esolangs.org/wiki/Fungeoid).
 - Interface conventions: [NetHack](https://www.nethack.org/) and other [roguelikes](https://en.wikipedia.org/wiki/Roguelike).

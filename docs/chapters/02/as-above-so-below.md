@@ -8,7 +8,7 @@ You have entered another dungeon. You stand at the bottom of the staircase where
 {{ problem.map }}
 ```
 
-The top level is shown at the top of the map, and the bottom level at the bottom. A dungeon with two or more levels is considered deep, while a shallow dungeon only has a single level.
+The top level is shown at the top of the map, and the bottom level at the bottom.
 
 There are many staircase tiles in this dungeon: staircases down (marked `>` on the map) and staircases up (marked `<`). Whenever you trigger a staircase-down tile, move down to the next lower level, increasing your z-coordinate by one. For a staircase-up tile, move up to the next higher level, decreasing your z-coordinate by one. The vertical move happens during the same tick, without triggering any additional tile.
 

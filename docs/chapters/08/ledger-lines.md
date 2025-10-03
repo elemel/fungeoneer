@@ -18,11 +18,9 @@ This dungeon contains tiles with peekers (marked `,` on the map) and pokers (mar
 
 Peekers and pokers access a unified view of stack and inventory. They apply to the stack for an address of zero or higher, or the inventory for a negative address. Registers A through Z are mapped to address -1 through -26, respectively.
 
-Whenever you trigger a peeker tile, pop an argument `a` from the stack. Then get another number `b` from slot `a`. Finally, push `b` onto the stack.
+Whenever you trigger a peeker tile, pop an argument `a` from the stack. Then get another number `b` from slot `a`. Finally, push `b` onto the stack. For a poker tile, pop two arguments from the stack: first `b`, then `a`. Set the number in slot `a` to `b`.
 
-Whenever you trigger a poker tile, pop two arguments from the stack: first `b`, then `a`. Set the number in slot `a` to `b`.
-
-Whenever you trigger an S-getter tile, get the stack size as a number, then push that number onto the stack. For an S-setter tile, pop a number from the stack, then set the stack size to that number.
+For an S-getter tile, get the stack size as a number, then push that number onto the stack. For an S-setter tile, pop a number from the stack, then set the stack size to that number.
 
 After how many ticks do you leave the dungeon?
 

@@ -277,7 +277,7 @@ example_log: |-
 
   ---
 
-  You get -2 from R.
+  You get -2 from register R.
 
   #)}{{)[#}}{)RR]]#[R)
   ])3}4:).)rR29)8328[=
@@ -329,7 +329,7 @@ example_log: |-
 
   ---
 
-  You set R to 6.
+  You set register R to 6.
 
   #)}{{)[#}}{)RR]]#[R)
   ])3}4:).)rR29)8328[=
@@ -472,7 +472,7 @@ example_log: |-
 
   ---
 
-  You set R to 6.
+  You set register R to 6.
 
   #)}{{)[#}}{)RR]]#[R)
   ])3}4:).)rR29)8328[=
@@ -524,7 +524,7 @@ example_log: |-
 
   ---
 
-  You get 7 from R.
+  You get 7 from register R.
 
   #)}{{)[#}}{)RR]]#[R)
   ])3}4:).)@R29)8328[=
@@ -576,7 +576,7 @@ example_log: |-
 
   ---
 
-  You set R to 7.
+  You set register R to 7.
 
   #)}{{)[#}}{)RR]]#[R)
   ])3}4:).)r@29)8328[=
@@ -810,7 +810,7 @@ example_log: |-
 
   ---
 
-  You set R to 8.
+  You set register R to 8.
 
   #)}{{)[#}}{)RR]]#[@)
   ])3}4:).)rR29)8328[=
@@ -1070,7 +1070,7 @@ example_log: |-
 
   ---
 
-  You set R to 8.
+  You set register R to 8.
 
   #)}{{)[#}}{)R@]]#[R)
   ])3}4:).)rR29)8328[=
@@ -1148,7 +1148,7 @@ example_log: |-
 
   ---
 
-  You set R to 9.
+  You set register R to 9.
 
   #)}{{)[#}}{)@R]]#[R)
   ])3}4:).)rR29)8328[=
@@ -1213,7 +1213,7 @@ example_log: |-
 
   ---
 
-  You set R to 2.
+  You set register R to 2.
 
   #)}{{)[#}}{)RR]]#[R)
   ])3}4:).)r@29)8328[=
@@ -1278,7 +1278,7 @@ example_log: |-
 
   ---
 
-  You get 5 from R.
+  You get 5 from register R.
 
   #)}{{)[#}}{)RR]]#[R)
   ])3}4:).)rR29)8328[=
@@ -1356,7 +1356,7 @@ example_log: |-
 
   ---
 
-  You get 8 from R.
+  You get 8 from register R.
 
   #)}{{)[#}}{)RR]]#[R)
   ])3}4:).)rR29)8328[=
@@ -1369,7 +1369,7 @@ example_log: |-
 
   ---
 
-  You get 8 from R.
+  You get 8 from register R.
 
   #)}{{)[#}}{)RR]]#[R)
   ])3}4:).)rR29)8328[=
@@ -1395,7 +1395,7 @@ example_log: |-
 
   ---
 
-  You set R to 8.
+  You set register R to 8.
 
   #)}{{)[#}}{)RR]]#[R)
   ])3}4:).)rR29)8328[=
@@ -1447,7 +1447,7 @@ example_log: |-
 
   ---
 
-  You set R to 4.
+  You set register R to 4.
 
   #)}{{)[#}}{)RR]]#[R)
   ])3}4:).)rR29)8328[=
@@ -1538,7 +1538,7 @@ example_log: |-
 
   ---
 
-  You get 6 from R.
+  You get 6 from register R.
 
   #)}{{)[#}}{)RR]]#[R)
   ])3}4:).)@R29)8328[=
@@ -1694,7 +1694,7 @@ example_log: |-
 
   ---
 
-  You get 13 from R.
+  You get 13 from register R.
 
   #)}{{)[#}}{)RR]]#[R)
   ])3}4:).)rR29)8328[=
@@ -1785,7 +1785,7 @@ example_log: |-
 
   ---
 
-  You set R to 4.
+  You set register R to 4.
 
   #)}{{)[#}}{)RR]]#[R)
   ])3}4:).)rR29)8328[=
@@ -1798,7 +1798,7 @@ example_log: |-
 
   ---
 
-  You set R to 13.
+  You set register R to 13.
 
   #)}{{)[#}}{)RR]]#[R)
   ])3}4:).)rR29)8328[=

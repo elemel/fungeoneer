@@ -488,7 +488,7 @@ example_log: |-
 
   ---
 
-  You get 4 from S.
+  You get 4 from register S.
 
   #[60799895..08S@35=#
   #];##=0;00=]<8727];#
@@ -501,7 +501,7 @@ example_log: |-
 
   ---
 
-  You set S to 4.
+  You set register S to 4.
 
   #[60799895..08@s35=#
   #];##=0;00=]<8727];#
@@ -774,7 +774,7 @@ example_log: |-
 
   ---
 
-  You get 13 from S.
+  You get 13 from register S.
 
   #[60799895..08Ss35=#
   #];##=0;00=]<8727];#
@@ -1203,7 +1203,7 @@ example_log: |-
 
   ---
 
-  You get 12 from S.
+  You get 12 from register S.
 
   #[60799895..08Ss35=#
   #];##=0;00=]<8727];#
@@ -1372,7 +1372,7 @@ example_log: |-
 
   ---
 
-  You get 9 from S.
+  You get 9 from register S.
 
   #[60799895..08Ss35=#
   #];##=0;00=]<8727];#

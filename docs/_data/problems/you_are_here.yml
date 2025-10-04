@@ -714,7 +714,7 @@ example_log: |-
 
   ---
 
-  You get 50 from P.
+  You get 50 from register P.
 
   ===[052542=#[==93=][
   88.].#_167@#]202297=
@@ -987,7 +987,7 @@ example_log: |-
 
   ---
 
-  You get 61 from P.
+  You get 61 from register P.
 
   ===[052542=#[==93=][
   88.].#_167p#]202297=
@@ -1260,7 +1260,7 @@ example_log: |-
 
   ---
 
-  You get 10 from P.
+  You get 10 from register P.
 
   ===[052542=#[==93=][
   88.].#_167@#]202297=
@@ -1312,7 +1312,7 @@ example_log: |-
 
   ---
 
-  You set P to 30.
+  You set register P to 30.
 
   ===[052542=#[==93=][
   88.].#_167@#]202297=
@@ -1403,7 +1403,7 @@ example_log: |-
 
   ---
 
-  You set P to 8.
+  You set register P to 8.
 
   ===[0525@2=#[==93=][
   88.].#_167p#]202297=
@@ -1455,7 +1455,7 @@ example_log: |-
 
   ---
 
-  You get 48 from P.
+  You get 48 from register P.
 
   ===[052542=#[==93=][
   88.].#_167p#]202297=

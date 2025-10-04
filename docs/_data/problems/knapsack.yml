@@ -165,7 +165,7 @@ example_log: |-
 
   ---
 
-  You get 0 from Z.
+  You get 0 from register Z.
 
   ##=ZA265A:0=[cbz3=##
   =By9c2A5=[c.==<022@=
@@ -191,7 +191,7 @@ example_log: |-
 
   ---
 
-  You set Z to 2.
+  You set register Z to 2.
 
   ##=ZA265A:0=[cbz3=##
   =By9c2A5=[c.==<022z=
@@ -230,7 +230,7 @@ example_log: |-
 
   ---
 
-  You set A to 0.
+  You set register A to 0.
 
   ##=ZA265A:0=[cbz3=##
   =By9c2A5=[c.==<022z=
@@ -269,7 +269,7 @@ example_log: |-
 
   ---
 
-  You set A to 8.
+  You set register A to 8.
 
   ##=ZA265A:0=[cbz3=##
   =By9c2A5=[c.==<022z=
@@ -334,7 +334,7 @@ example_log: |-
 
   ---
 
-  You get 0 from B.
+  You get 0 from register B.
 
   ##=ZA265A:0=[cbz3=##
   =By9c2A5=[c.==<022z=
@@ -360,7 +360,7 @@ example_log: |-
 
   ---
 
-  You get 0 from X.
+  You get 0 from register X.
 
   ##=ZA265A:0=[cbz3=##
   =By9c2A5=[c.==<022z=
@@ -425,7 +425,7 @@ example_log: |-
 
   ---
 
-  You set A to 5.
+  You set register A to 5.
 
   ##=ZA265A:0=[cbz3=##
   =By9c2@5=[c.==<022z=
@@ -451,7 +451,7 @@ example_log: |-
 
   ---
 
-  You get 0 from C.
+  You get 0 from register C.
 
   ##=ZA265A:0=[cbz3=##
   =By9@2A5=[c.==<022z=
@@ -477,7 +477,7 @@ example_log: |-
 
   ---
 
-  You get 0 from Y.
+  You get 0 from register Y.
 
   ##=ZA265A:0=[cbz3=##
   =B@9c2A5=[c.==<022z=
@@ -490,7 +490,7 @@ example_log: |-
 
   ---
 
-  You set B to 0.
+  You set register B to 0.
 
   ##=ZA265A:0=[cbz3=##
   =@y9c2A5=[c.==<022z=
@@ -529,7 +529,7 @@ example_log: |-
 
   ---
 
-  You set Z to 7.
+  You set register Z to 7.
 
   ##=ZA265A:0=[cbz3=##
   =By9c2A5=[c.==<022z=
@@ -555,7 +555,7 @@ example_log: |-
 
   ---
 
-  You set Y to 2.
+  You set register Y to 2.
 
   ##=ZA265A:0=[cbz3=##
   =By9c2A5=[c.==<022z=
@@ -568,7 +568,7 @@ example_log: |-
 
   ---
 
-  You set B to 6.
+  You set register B to 6.
 
   ##=ZA265A:0=[cbz3=##
   =By9c2A5=[c.==<022z=
@@ -607,7 +607,7 @@ example_log: |-
 
   ---
 
-  You get 7 from Z.
+  You get 7 from register Z.
 
   ##=ZA265A:0=[cbz3=##
   =By9c2A5=[c.==<022z=
@@ -633,7 +633,7 @@ example_log: |-
 
   ---
 
-  You get 5 from A.
+  You get 5 from register A.
 
   ##=ZA265A:0=[cbz3=##
   =By9c2A5=[c.==<022z=
@@ -672,7 +672,7 @@ example_log: |-
 
   ---
 
-  You get 0 from C.
+  You get 0 from register C.
 
   ##=ZA265A:0=[cbz3=##
   =By9c2A5=[c.==<022z=
@@ -698,7 +698,7 @@ example_log: |-
 
   ---
 
-  You set C to 9.
+  You set register C to 9.
 
   ##=ZA265A:0=[cbz3=##
   =By9c2A5=[c.==<022z=
@@ -750,7 +750,7 @@ example_log: |-
 
   ---
 
-  You set C to 6.
+  You set register C to 6.
 
   ##=ZA265A:0=[cbz3=##
   =By9c2A5=[c.==<022z=
@@ -802,7 +802,7 @@ example_log: |-
 
   ---
 
-  You get 6 from C.
+  You get 6 from register C.
 
   ##=ZA265A:0=[cbz3=##
   =By9c2A5=[@.==<022z=
@@ -867,7 +867,7 @@ example_log: |-
 
   ---
 
-  You set X to 5.
+  You set register X to 5.
 
   ##=ZA265A:0=[cbz3=##
   =By9c2A5=[c.==<022z=
@@ -919,7 +919,7 @@ example_log: |-
 
   ---
 
-  You get 6 from C.
+  You get 6 from register C.
 
   ##=ZA265A:0=[cbz3=##
   =By9c2A5=[c.==<022z=
@@ -932,7 +932,7 @@ example_log: |-
 
   ---
 
-  You get 7 from Z.
+  You get 7 from register Z.
 
   ##=ZA265A:0=[cbz3=##
   =By9c2A5=[c.==<022z=
@@ -958,7 +958,7 @@ example_log: |-
 
   ---
 
-  You get 2 from Y.
+  You get 2 from register Y.
 
   ##=ZA265A:0=[cbz3=##
   =B@9c2A5=[c.==<022z=
@@ -984,7 +984,7 @@ example_log: |-
 
   ---
 
-  You set Z to 6.
+  You set register Z to 6.
 
   ##=@A265A:0=[cbz3=##
   =By9c2A5=[c.==<022z=
@@ -997,7 +997,7 @@ example_log: |-
 
   ---
 
-  You set A to 1.
+  You set register A to 1.
 
   ##=Z@265A:0=[cbz3=##
   =By9c2A5=[c.==<022z=
@@ -1049,7 +1049,7 @@ example_log: |-
 
   ---
 
-  You set A to 5.
+  You set register A to 5.
 
   ##=ZA265@:0=[cbz3=##
   =By9c2A5=[c.==<022z=
@@ -1127,7 +1127,7 @@ example_log: |-
 
   ---
 
-  You set C to 8.
+  You set register C to 8.
 
   ##=ZA265A:0=[cbz3=##
   =By9c2A5=[c.==<022z=
@@ -1192,7 +1192,7 @@ example_log: |-
 
   ---
 
-  You set Z to 3.
+  You set register Z to 3.
 
   ##=ZA265A:0=[cbz3=##
   =By9c2A5=[c.==<022z=
@@ -1257,7 +1257,7 @@ example_log: |-
 
   ---
 
-  You get 3 from Z.
+  You get 3 from register Z.
 
   ##=ZA265A:0=[cb@3=##
   =By9c2A5=[c.==<022z=
@@ -1270,7 +1270,7 @@ example_log: |-
 
   ---
 
-  You get 6 from B.
+  You get 6 from register B.
 
   ##=ZA265A:0=[c@z3=##
   =By9c2A5=[c.==<022z=
@@ -1283,7 +1283,7 @@ example_log: |-
 
   ---
 
-  You get 8 from C.
+  You get 8 from register C.
 
   ##=ZA265A:0=[@bz3=##
   =By9c2A5=[c.==<022z=

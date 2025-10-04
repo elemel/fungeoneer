@@ -6,9 +6,9 @@ You have entered the eighth dungeon. You stand at the bottom of the staircase wh
 
 Register S serves as both stack size and stack pointer, always pointing to the slot just above the top of the stack. It initially points to slot 0, indicating an empty stack. Pushing writes a number to slot S, then increments S. Popping decrements S, then reads a number from slot S.
 
-The stack is invalid if the stack size is less than 0, which is called stack underflow, or greater than the stack limit, called stack overflow.
+The stack is invalid if the stack size goes below 0, which is called stack underflow, or above the stack limit, called stack overflow.
 
-With plenty of challenges ahead, you consult the map:
+You consult the map:
 
 ```
 {{ problem.map }}

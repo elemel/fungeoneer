@@ -4,7 +4,7 @@
 
 You have entered the seventh dungeon. You stand at the bottom of the staircase where you entered, facing east. In a haystack by the staircase, you find a needle: a magic pin. Out of concern for any beast of burden that may stray here to feed, you decide to keep the pin. You press it into the symbol of the staircase on your magic map.
 
-With every move you make in the dungeon, the magic pin moves along on the map, reflecting your location. As register P, the pin also reveals your position as a number, starting from zero at the top-left symbol, and increasing with each symbol in left-to-right, top-to-bottom reading order.
+With every move you make in the dungeon, the pin moves along on the map, reflecting your location. As register P, the pin also reveals your position as a number, starting from zero at the top-left symbol, and increasing with each symbol in left-to-right, top-to-bottom reading order.
 
 Anchored by the pin, you consult the map:
 

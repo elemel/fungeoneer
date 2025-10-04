@@ -4,7 +4,7 @@
 
 You have entered the sixth dungeon. You stand at the bottom of the staircase where you entered, facing east. A skeleton is slumped against the staircase. A glimmer on its bony fist catches your eye: a ring of revolution. You cautiously retrieve the ring, claiming it as register R.
 
-The ring of revolution tracks your rotation in octants (increments of 45 degrees), starting at zero for east. Turning left (counter-clockwise) decreases the rotation, while turning right (clockwise) increases it. The rotation does not reset after a full revolution of eight octants, instead extending arbitrarily high or low.
+The ring tracks your rotation in octants (increments of 45 degrees), starting at zero for east. Turning left (counter-clockwise) decreases the rotation, while turning right (clockwise) increases it. The rotation does not reset after a full revolution of eight octants, instead extending arbitrarily high or low.
 
 After slipping the ring onto your right ring finger, you turn your attention to the map:
 

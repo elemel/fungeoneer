@@ -1,6 +1,8 @@
 # Call of the Fungeon
 
-Coding puzzle meets dungeon crawler: build a stack machine for Fungeon, a roguelike fungeoid.
+Coding puzzle meets dungeon crawler: build a stack machine for Fungeon, a roguelike fungeoid. Issue reports are welcome.
+
+From here, you can [visit the website](https://elemel.se/call-of-the-fungeon/).
 
 
 ## Local development

@@ -9,6 +9,8 @@
 > For as long as I remember<br>
 > By the beating of the heart of time
 
+Welcome to a coding puzzle where you build a [stack machine](https://en.wikipedia.org/wiki/Stack_machine) for Fungeon, an [esoteric programming language](https://en.wikipedia.org/wiki/Esoteric_programming_language).
+
 From here, you can [start in the foreworld](foreworld.md).
 
 

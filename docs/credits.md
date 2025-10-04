@@ -1,6 +1,6 @@
 ## Credits
 
-Written by [Mikael Lind](https://github.com/elemel).
+Written by [Mikael Lind](https://github.com/elemel). Issue reports are welcome on the [GitHub repository](https://github.com/elemel/call-of-the-fungeon).
 
 Influences:
 

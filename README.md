@@ -1,8 +1,8 @@
-# Call of the Fungeon
+# Fungeoneer
 
 Coding puzzle meets dungeon crawler: build a stack machine for Fungeon, a roguelike fungeoid. Issue reports are welcome.
 
-From here, you can [visit the website](https://elemel.se/call-of-the-fungeon/).
+From here, you can [visit the website](https://elemel.se/fungeoneer/).
 
 
 ## Local development
@@ -21,7 +21,7 @@ Expected output:
 Configuration file: docs/_config.yml
 To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
             Source: docs
-       Destination: /Users/elemel/play/call-of-the-fungeon/_site
+       Destination: /Users/elemel/play/fungeoneer/_site
  Incremental build: disabled. Enable with --incremental
       Generating...
    GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.

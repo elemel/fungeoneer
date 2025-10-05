@@ -1,4 +1,4 @@
-# Call of the Fungeon
+# Fungeoneer
 
 > Beneath an underground sky<br>
 > On my way to the other side<br>

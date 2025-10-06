@@ -12,9 +12,9 @@ Anchored by the pin, you consult the map:
 {{ problem.map }}
 ```
 
-This dungeon contains getters and setters for register P (marked `p` or `P`  on the map), along with altar tiles (marked `_`). Whenever you trigger a P-getter tile, get your position as a number, then push that number onto the stack. For a P-setter tile, pop a number from the stack, then set your position to that number. This teleports you to the corresponding location.
+This dungeon introduces getters and setters for register P (marked `p` or `P`  on the map), along with altar tiles (marked `_`). Whenever you trigger a P-getter tile, push your position onto the stack. For a P-setter tile, pop your position from the stack. This teleports you to the corresponding location.
 
-For an altar tile, pop a number `b` from the stack, then get your position as another number `a`, then push `a` onto the stack, and finally set your position to `b`. As above, this teleports you to the corresponding location.
+For an altar tile, swap your position and the number at the top of the stack. As above, this teleports you to the corresponding location.
 
 You leave the dungeon when your position is outside the dungeon. After how many ticks do you leave the dungeon?
 

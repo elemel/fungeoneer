@@ -8,7 +8,7 @@ You have entered the last dungeon. You stand at the bottom of the staircase wher
 {{ problem.map }}
 ```
 
-This dungeon contains reader tiles (marked `?` on the map) and writer tiles (marked `!`).
+This dungeon introduces tiles with readers (marked `?` on the map) and writers (marked `!`).
 
 Whenever you trigger a reader tile, pop a number `a` from the stack. Find the tile at position `a`, then get the extended ASCII code of that tile as another number `b`. Finally, push `b` onto the stack.
 

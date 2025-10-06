@@ -8,7 +8,7 @@ You have entered the ninth dungeon. You stand at the bottom of the staircase whe
 {{ problem.map }}
 ```
 
-This dungeon contains tiles with bitwise operators: inverters (marked `~` on the map), and-gates (marked `&`), or-gates (marked `|`), exclusive-or-gates (marked `^`), and shifters (marked `\`). Inverters are unary, while the other bitwise operators are binary.
+This dungeon introduces tiles with bitwise operators: inverters (marked `~` on the map), and-gates (marked `&`), or-gates (marked `|`), exclusive-or-gates (marked `^`), and shifters (marked `\`). Inverters are unary, while the other bitwise operators are binary.
 
 The binary bitwise operators handle arguments and results in the same way as the arithmetic operators (`+`, `-`, `*`, `/`, and `%`). Inverters are also similar, but pop only one argument from the stack.
 

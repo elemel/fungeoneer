@@ -8,7 +8,7 @@ You have entered the fourth dungeon. You stand at the bottom of the staircase wh
 {{ problem.map }}
 ```
 
-This dungeon contains tiles with arithmetic operators: adders (marked `+` on the map), subtractors (marked `-`), multipliers (marked `*`), dividers (marked `/`), and modulators (marked `%`).
+This dungeon introduces tiles with arithmetic operators: adders (marked `+` on the map), subtractors (marked `-`), multipliers (marked `*`), dividers (marked `/`), and modulators (marked `%`).
 
 Whenever you trigger an operator tile, pop two arguments from the stack: first `b`, then `a`. Apply the corresponding operator to `a` and `b`, with `a` as the left operand and `b` as the right. Push the result `c` onto the stack.
 

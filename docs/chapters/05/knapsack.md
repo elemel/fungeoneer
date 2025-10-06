@@ -8,7 +8,7 @@ You have entered the fifth dungeon. You stand at the bottom of the staircase whe
 {{ problem.map }}
 ```
 
-This dungeon contains tiles with getters (marked by lowercase letters on the map) and setters (marked by uppercase letters). These tiles operate on your inventory slots, also known as registers. Each register contains a number, all initially zero. Register names are case-insensitive: both `a` and `A` refer to register A. Registers P, R, and S are missing from the map.
+This dungeon introduces tiles with getters (marked by lowercase letters on the map) and setters (marked by uppercase letters). These tiles operate on your inventory slots, also known as registers. Each register contains a number, all initially zero. Register names are case-insensitive: both `a` and `A` refer to register A. Registers P, R, and S are missing from the map.
 
 Whenever you trigger a getter tile, get the number from the corresponding register, then push that number onto the stack. For a setter tile, pop a number from the stack, then set the corresponding register to that number.
 

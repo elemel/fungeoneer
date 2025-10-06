@@ -8,7 +8,7 @@ You have entered the tenth dungeon. You stand at the bottom of the staircase whe
 {{ problem.map }}
 ```
 
-This dungeon contains stash tiles (marked `'` on the map), mimic tiles (marked `$`), and passage tiles (marked `"`). Whenever you trigger a stash tile, move forward to the next tile immediately, without triggering that tile. Push the extended ASCII code (0 through 255) of that tile onto the stack. All of this happens within the same tick, and lets you stand on any tile, including wall tiles.
+This dungeon introduces tiles with stashes (marked `'` on the map), mimics (marked `$`), and passages (marked `"`). Whenever you trigger a stash tile, move forward to the next tile immediately, without triggering that tile. Push the extended ASCII code (0 through 255) of that tile onto the stack. All of this happens within the same tick, and lets you stand on any tile, including wall tiles.
 
 For a mimic tile, pop a number from the stack. Act as if you triggered a symbol with that number as extended ASCII code. If the imitated symbol is a wall symbol, move backward to the tile before the mimic tile, then turn as specified by the wall symbol. All of this happens within the same tick.
 

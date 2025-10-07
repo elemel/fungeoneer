@@ -12,11 +12,13 @@ After slipping the ring onto your right ring finger, you turn your attention to 
 {{ problem.map }}
 ```
 
+Your direction can now also be diagonal: southeast, southwest, northwest, or northeast.
+
 This dungeon introduces wall tiles for turning diagonally: backward-left-turners (marked `{` on the map), forward-left-turners (marked `(`), forward-right-turners (marked `)`), and backward-right-turners (marked `}`).
 
-Your direction can now also be diagonal: southeast, southwest, northwest, or northeast. As before, wall tiles block you from moving forward to them, but you still trigger them from the adjacent tile. For a backward-left-turner tile, turn 135 degrees to the left. For a forward-left-turner tile, turn 45 degrees to the left. For a forward-right-turner tile, turn 45 degrees to the right. For a backward-right-turner tile, turn 135 degrees to the right.
+As before, wall tiles block you from moving forward to them, but you still trigger them from the adjacent tile. For a backward-left-turner tile, turn 135 degrees to the left. For a forward-left-turner tile, turn 45 degrees to the left. For a forward-right-turner tile, turn 45 degrees to the right. For a backward-right-turner tile, turn 135 degrees to the right.
 
-This dungeon also introduces tiles with getters and setters for register R (marked `r` or `R`). For an R-getter tile, get your rotation as a number, then push that number onto the stack. For an R-setter tile, pop a number from the stack, then set your rotation to that number, changing your direction accordingly.
+This dungeon also introduces tiles with getters and setters for register R (marked `r` or `R`). For an R-getter tile, push your rotation onto the stack. For an R-setter tile, pop your rotation from the stack, changing your direction accordingly.
 
 After how many ticks do you leave the dungeon?
 

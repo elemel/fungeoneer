@@ -12,7 +12,7 @@ This dungeon introduces tiles with readers (marked `?` on the map) and writers (
 
 Whenever you trigger a reader tile, pop a number `a` from the stack. Find the tile at position `a`, then get the extended ASCII code of that tile as another number `b`. Finally, push `b` onto the stack.
 
-For a writer tile, pop two numbers from the stack: first `b`, then `a`. Find the tile at position `a`, then set the extended ASCII code of that tile to `b % 256`.
+For a writer tile, pop two numbers from the stack: first `a`, then `b`. Find the tile at position `a`, then set the extended ASCII code of that tile to `b % 256`.
 
 After how many ticks do you leave the dungeon?
 

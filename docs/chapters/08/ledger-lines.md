@@ -2,21 +2,21 @@
 
 {% assign problem = site.data.problems.ledger_lines %}
 
-You have entered the eighth dungeon. You stand at the bottom of the staircase where you entered, facing east. A gnome sits on the bottom stair, sipping from a flask of mushroom brew. As he looks up at you, then down at the purse of stacking on your belt, you recognize him as the cartographer from the first dungeon. He leans forward, as if about to speak. With a magic marker and a flick of the wrist, he scribbles a line of credit onto your purse, in the shape of register S. He pauses for a moment, then sits back, taking another sip.
+You have entered the eighth dungeon. You stand at the bottom of the staircase where you entered, facing east. A gnome sits on the bottom stair, sipping from a flask of mushroom brew. As he looks up at you, then down at the purse of stacking on your belt, you recognize him as the cartographer from the first dungeon. He leans forward, as if about to speak. With a magic marker and a flick of the wrist, he scribbles a line of credit onto your purse, in the shape of an S. He pauses for a moment, then sits back, taking another sip.
 
-Register S serves as both stack size and stack pointer, always pointing to the slot just above the top of the stack. It initially points to slot 0, indicating an empty stack. Pushing writes a number to slot S, then increments S. Popping decrements S, then reads a number from slot S.
+The purse of stacking now tracks the stack size as register S. The stack size is initially zero, indicating an empty stack. Stack slots are indexed from zero. Pushing writes a number to slot S, then increments register S. Popping decrements register S, then reads a number from slot S.
 
-The stack is invalid if the stack size goes below 0, which is called stack underflow, or above the stack limit, called stack overflow.
+A stack size below zero causes stack underflow, while one above the stack limit causes stack overflow.
 
-You consult the map:
+With your affairs in order, you consult the map:
 
 ```
 {{ problem.map }}
 ```
 
-This dungeon introduces tiles with getters and setters for register S (marked `s` or `S`  on the map), along with peekers (marked `,`) and pokers (marked `;`). Whenever you trigger an S-getter tile, get the stack size as a number, then push that number onto the stack. For an S-setter tile, pop a number from the stack, then set the stack size to that number.
+This dungeon introduces tiles with getters and setters for register S (marked `s` or `S`  on the map), along with peekers (marked `,`) and pokers (marked `;`). Whenever you trigger an S-getter tile, push the stack size onto the stack. For an S-setter tile, pop the stack size from the stack.
 
-Peekers and pokers treat the stack and inventory as a unified sequence of slots. Slots with index zero or higher refer to the stack. Slots with a negative index refer to the inventory. Registers A through Z are mapped to slot index -1 through -26, respectively.
+Peekers and pokers treat the inventory and stack as a single sequence of slots: indices below zero refer to the inventory, while zero and above refer to the stack. Registers A through Z are mapped to slots -1 through -26, respectively.
 
 For a peeker tile, pop an argument `a` from the stack. Then get another number `b` from slot `a`. Finally, push `b` onto the stack. For a poker tile, pop two arguments from the stack: first `b`, then `a`. Set the number in slot `a` to `b`.
 

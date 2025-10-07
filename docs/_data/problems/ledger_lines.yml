@@ -1,1433 +1,1615 @@
 map: |-
-  #Rmj]=(=)[REWpdK>{}#]##}(R(R][]{bRRB_KR)=1P][=}{{}[{{(](]}}{#}R]R]#R)[==#)]]#R##
-  #1jpI{p>qEy>{}}{=H#A]{)ef)L4]Bl[4SbI0:dnNvFWz[ob{0Va40:*lUdtzDbqflVJ8tHrt{M}C(Y#
-  #ENUn][cpp3vNz=oTb+6=4-1gBpN(1le(.2(X#v(b>fk0AfgBf5Ym1{v*mAq+Sxm=U#}AJ%}p78Z=d}]
-  {hB.4}HNh}y[2vRy70+Jm=U/nAhUvgXUW>pLqVkIo]O(bNj>[C[Sf7[;gd#dwk7xu{X5DKqosyFU=8q[
-  #s[1b7dw=w/vQVdP.4nI(w]Fe-BJ}8vr>#=(G(%mY8XMaL>yV(D/sCN4Rs+4493Vxc-ZtNxVT0iTR+cR
-  [VMR)AlQc(Jvi4}Q)M-(q%5#w#FOO#]:]J]pY3,#[R5(+c;I#kHtzf6EiyL=I/r#C.]#bCLytl.Knwg[
-  RTJjgmoOwAy6=TT%-6VM8yDBbV55.2Lt*{=pHBduIC{=eBS52z3UBe{V/R[=tEUj}AvoNaqky>IaXJ+=
-  [c>{lGD=XdE=V+{0mV+wK=0qO[+]/z=X9#F=h/E:[DK7w{#u(t}Q5sHmVDN1R:V*RrR;QvRGA/qLlcy(
-  ]zB_z1FgKN*)Zku#sc4Z{Cfy8WW>Vfy4]uumu#OyJQG:Z%)O_L>[bHEBcufnf34}9wl[wUIo#sc:2zI{
-  ][RuuxEn*Xs8J>erIDBh=l2#m}a#Rp=8Q#l#ROi]>M16F/[({664)%=mh17#d1Fi#egjZY}#=hGK2(e#
-  )8Zi=#I0YDF+0cL)l+JUU)Db}34ux:#Op>*b0#B#*k))H{]#=fGtnWKjr8b=+IDZb>MxWfJx9gb=bY0)
-  Pq]J{((fCKVbJN*dXi]C]k<lG}Fqv#qEiFKrx(Eh_0X4EDAcLhyIbL*0t*Vajo2GKfztQ-sFtvoxR}8{
-  {]i#7B#Wok[Qpn6f#HpPc)p09YdH(O#H#y0#D)T)k:CqHJziq>8Gnv}93**]BcHi%CxLfsl*pJot.JL)
-  {M##88]EmBeLGZJ(Aim;ZjS[[tMvXha47cc72Wh#e0O2nDYm=B6l)nW_t9=}1r:=Tmp{x0xVk+{=v#Q[
-  )]rW#}#CD7L(q*+lTr#]7xV{](y8#x7*r*wpRn){y>TZ}#[=y4:+avfB1ppskVy9%2aY=BfBy:}n{IT)
-  {Qs0jtHLtrajAqR(.T0]EB+OJ99G3BHppic1JRLftp1H+usQ,pTv4bygo]#j/1T9NAzk}lH(WWItb}6}
-  #JE8j#{{>e8(yY(*ZV#6g(jz{#N#Z5]cL]OI0oYZ,3gdJ4/H9Vmw3tQ,j*)hgG[g:lR:%)sJR3K==nN}
-  #39)U2MD)41(YmN)j>V3WgM2CS1522+p6pi*ff-ko;rA}lY={#-lzY>l];Cllmsgb}l1})(RRzva{vK(
-  ]L2VrNlkD=j=x7oV[t9v}K[N*.=##)->Wzy8ToCWq+l>Vdh>(K;c,gh=ye#V(8K*Hekq+:FzQ)%.71W]
-  ##{#(}#[)))){)#]{#=})#]((P####{)]#{[)[[})[P)##R=[#=#=(}}-R}#=#{{{[#[Rs8([}#[)}{#
+  })]]]}}}(#[##[)#]}(=w)}#}}]=R>{}[)]]](}=W56}{R][((#}{R}[]{##={[({#](][()=uj}####
+  Le[*N9im(v#Z]Rk6Y4Ld}U5NDDmyl4}D/tdU28l6fbjT-]Zz3=5J}KAG7b,Mu8noYZhgI.=5bmKUIrq)
+  AjV4zIv)m#>Tuq#O#}Upv%jR3*75F.A*]HibYL>ib=b[(O(fy*/7#lHtFq{aLg4d9%Zj,=F>DN(rl#a}
+  6h)jQCKz8cZVEi[#tC+G)aT+,:agFBixpbvsYBpV-AimVawOv.*7t/RD(ksFQr(k#>#KL}V,#{LQ)2=)
+  no#Z5cQe>x)Vea>-Oi#=aqMT3wII1L62xyQKpNnRI>=g-8jnKg{v9YtNv/UdYyE7e/Z2z3:N+3h9dRF[
+  Z4#m-V##={:w)=My7t7]]OZgGMwu5#rM]1{ayu]k0=m(2)a5*.OA;cO#SwO(-]ew#Z40Ms(Ot,>nn#O[
+  51#KM5Jw#{obx77SkV(-RApG:xHN3jzTUL-)TeruhlAlZYSB3}Go}JOMYR+r/vRO[a1q1=c{]Wz3lF)[
+  Geb-O(vw#[#a[3R]),7[n85JwnTIv{=n)airDa(g{jB,RjhKT:]1DAwiywsojfRF4F)6;yuKNqeKw{7#
+  Q7BC(OAa+iXBWQZC)>vRjlQ5k(+UfD#G#Otf%aB*dk[#gBi6rQ{yC;GF}axF30TpyYYA8Exzl>})mu{#
+  =Q#CN#:{(5#taeQzX.sR5UZ+kA2IsbJjztl{gc(L84A,xUxtlT#QT0qTy/2[)Gu%{/wbBvyJ}7VVzUh=
+  )TGydknvp)n0e#9vpBfK2oAX9D4p7KlD(0U+VA,+o#I#5E-)GRDzBVuM>G.I91I[n(6AuK(C]W)CuZu7
+  ](Y/#W}xLBY*.Bm2F(B%yRK}dFGI##}:LT}hmIVtY4#>HXWi5ws=EShjbLkl:hAJG4nyeA}=:tN72R1U
+  {3UvYpAK6CLrWyjpGTqh[wa:>l>5I.0bj2JXbBq:Xu}WnM<9B)ze:KD4Vy+aEemE2rp>qHq8ZJhRHk=J
+  ]bgh,7a(Z#/=#{8=0adU0DHPqrp737{E#1F(zphn+JOtvz}g){#{{x=YvLfT1zg+][#z[G*IO8}5LF;,
+  ]z%n{v)0m=#].b[}bVNq)weVfyj9gghqDbZriKy3,e2HRd}9KhL]Ycmt]pEfvy8U/#[q:>lF2I}ZT#Uf
+  PRipovE-5.f-Nr+gOW]2-q[R=#XT2NA(HUnW3iSt*bRByn4vpaD6]Kh)kV]IqpI)*3#m=Oz9vzJ,-)kQ
+  ]b4oM4#{>##(Z#=K#{#%/B9C}.XakC1*GL)F-vRv=Eq>[OY#mEQ}+IfnLCLE7.[+X3#mj8(#glRT*}0h
+  {y]pZ>KjcC:7l.e5O#FjBaM-(15mn5a=iIup[/1k[#/OjXb-5gu>v:+CU]z%R{}m>r9FJSk3#0=vz(f0
+  )UcuJ3JsOu]#>tXSaX}IRl__[{){)M8S0w3d]GnpI>eXpi,pGYJ7swl=khH.f(aUIqTB{{s)S-V7mcGY
+  })(((=}))]##R;O()##]R=XujWXN4=]={]R{]([[{{])##{}[[{([}{)}R*J>]=kj())ht=#(({RvF=]
 
-  }]##=[#R(#]{(([{<W1)>](R}}{[)R={#[##}R#}##}(=#{=)R{}()}]]]R][{{][[#[]RN}{}[=#=))
-  R6z:+Y{<=R{<ns(rU.==T#(v=b9YCwQew{wr/>=[>TvhpbAHx[YJvy2fQnp.yVG3-.5(M5MT8do(sJf_
-  (q-ZmgqolDk>iJzZUI>pB3qTx[bx7vx[JOfY{tJM3<D;[J9Dgpg7TIeYMQ1gIOwZVlVkrm)-y5]]#q9]
-  =2mOhpb]mi{eBv{#2#x}*{c}PFP48k>bI<A;qpY)Cex#Sdd<>b*tXf(U(V8[7f}Ka}=ag=>HK5O(rRW#
-  R-9OkIlbL/6R*}n2}l).JoNRVR[2E#0[<>(/wr)qk((/,k<xM.8Uc77y+{(D>J2WtjNWauKl5,:Gbl2]
-  zNwELMHrv=W=3>H,VR)l05)YD{SG4Zvd>n;0d=n77yZ(x}0/i#jorehJ2zm>8ylJ)[vph1(#kSK-n8yR
-  pJD(RZ5>]Kc5f-ab%1/.=h+{ctG[9#1zm*Xv(=:hI64>/iVGYA33.D[P-Ui8Q)8R[)kV9+a9r<D*juQ{
-  [;<SCT0wRDIe2)+34fKE8Uql79i(=:XTI5BeBF{zTUTBTsYeI3=QGhEkDuFXDRN]tSn6N{0+)fMV)CU}
-  #Hq.Dc[>2)l+c5g4[pyF[>gU#)M<*A#Lh5N)XQ2cGdRmXc}G*T<uk8d7R(wRs2ZY(2br57kr6X(p5Op(
-  [CR[v(3kT7Jgs<h+J(B.rW).u2w1/y:E;Uti)x=2<}D#*FxV9Y)9(8f}Lngg.}z:.8%R#gQGI#l#.A%}
-  [69W0u7>nX%ypZpGF>[sdudsu1sFY,8iT<a/Zxorv;0.0qif==sUZ:=k)h[+pE[z.<IkW#/y#6#Pv9I(
-  [zomM5>%4pWu:R{]jqap/6fs23gR)0fm>:.%]LGW#+r#Y>zr>8nh0Rp=/*c[BrvBa8)dM-a#Z#6#m=6R
-  }o7ey[1}0EO*]-2#yh0[]47KC.,16An0htuh-SexCp6i5MUO2<6Qb#]39p(wJ*tJ1Y-dKrc4#4#xQ.}=
-  )YR/21==NhWE-OF2TFD}8Oxza{u#-:#Au}RjLls9R.iz.lotZXL)p]r]3q*z4SogWM%5IrgoBIgph+1#
-  {n((DZUeOeeYT-54/g[j.NY.>.h0>pY7cKwg(z{:G<>I8g:hs=i7>LnJQ+)za>c{yykX.>#6f#)OXJb}
-  (VtG*NHAD%e9krhC-vJ4K/x]V-Iz%FcMa.roYt+[)Rz>}u%5Y8kL)#E#7%W#{(J,#Zxt1l[Y.XCzV:n{
-  [Is9phT><n(i#4[x(HS{J4{{]k=k,gSD+)Ep(>#%n(Zw.-nO(1vxsg8xS/qX#=-St}p7(rMVv}aqvbL{
-  {7>.k3aGDx]fKgknk<=FA4qkK)R)CKEBuR{]R{O#l})=(a(ZuZFcTZ<[[#{#[rRo0C(Co{=Iu]vCpCx#
-  )u(-9I2S995.U4ZCkcZ)I6/O=bl2Ug4<:e;_[:BTtQ%<>Q[<2L[+}xT(,XB-DjX/hApiE9bvZA5*EHh[
-  )({}{]]#{}hsR}qBR({[##][)}(R(]]R]R(}.R#P)#R{##P}]]]#[[)RB>#[}Rm{=#([]R(]]_###{##
+  ](=))}}[RRi=##[R##}{##)}){[#R<}R=H.oRp-jCz3l:0)}[({)]]{>=({#{()#[#[)]=[[#{####R}
+  [2mAOipE/UzX%NV2vE8*:]V6fAOfSCz;3D>QCvX7Ia:FowHIr;{W0[BAw%uZ{:,}#wb=6>Q:r6SN8Yv[
+  PM#}sB,2tL<L[c(QVJZw7{9#C}u=8.,=DFtgT=<}(R]H((+5MM=;*vO]0:4DY5]txi]{O=Q<.z#[rQW#
+  #N##OgB%W)[UoqV4)l:B>-*L]d>HY--7ylad-LHK+xO%aAJ[ciCQYosZY{b4wY#Ax<#=#xgE)/,cd[0#
+  )uN#=z4O<{[2rX<iX(jO8HK{f=RMhqyRZ={5e)6j=<E)fI:[RGm9py+F;ahCNntMCAn+WHJHD3mxu]e#
+  =.3dj4cff7aQ:W>9csrhVNmo({u##*)chpspKx.70}dRgNv9ZFJEw*ZWagr;{j*t#UGh)dQ)sD<%dF}#
+  [Tf)laKmjp1.2/cqmR:R6ur{>h#{#Zz[lx(YRIW6R[jB1]MFHkR>o7evdEHs.Nfd7.z]g6=TZpz{r][#
+  }qOoHtw7AcjcQmep#g{t-m]QR2Rqmy;:5Jjyw,Fji.bH>729:31=QcfO}EM5YX]==>90*w*EM::hW2W[
+  #j#38*e8+4}qf[=2D<BL(+LdNMTou(xJo1ZAtGRw]li)CTrsqnpOB9r9:O3gzW9)}).L=>[Zk<.cU2,#
+  #Gb#>yWf];knh+tH(%q>sg+)=n))#7H[Nar{c{h*.5QvMRQ_6}nXa4s{{}X%(G8}#LVcSd##t)>,Zbl}
+  #RXT4U0R1u].t[Jm[TY7>(IDmd}#Ts.xv[5[mA#u6*(Q#Qf.pM}GqAK-<vRnb4B{,MOs2DG.}(H#zpC}
+  {H{Rn-#:#}h3hcA}zF7%[D}NB(YR4-WMYVa4GR+t(gE<YB5>U=zubnkIdWgEWx[.(:fV[yFt291F[aA#
+  (aT*l]WQ1](qR=]fTlrxG%{h<W<Eu}{#U(M#QUNih{IjNGr[>{f:}v=Tu#Je#A>#=k]<5O4te.2hfQ}}
+  ]tc)1X=7rWDIYVKwmEn6HtA-enZ:>1Lyeitw+lOE1z3vNh2rxD.58va(j]88{y:N6CWO:ovI]/k]H]n{
+  )JBEA0bn:(XSAr]bvY]5weYrR})>+9N6v]60h*xR4%dpshZ/Ym=4>={])om[9dWJ.0iR[<KF-wVfaHe=
+  )*2pL}HV###mN#RGrmXqOAxy}7KO]yF{z#kmT[Rw56e,]X-jR%qms>U[Muq/#Sy#HMER0*R%b)Q:(f2#
+  =[O-=d}H<{#rA*[Qh)Mxf.{(E)#RykB]cHZ>W8>Q2>2<AxT15JpV2U9RUnmuVctKTe1sHfgkYENt7R)R
+  {D77]<J:DS=kRRVhCpgqQc*e8X9aXHUVdnfGC(T9#-Z#}+.#bp]<z(G1IqCippJj<2uHQ05Z>=Ro=Ri=
+  ]YZ###D=k4]8<VRo/ME]:.Xw#}O6IyHnH>fBR9Tih<N%q3S*}lG7n(Wz]SztU6cp*9=)-6}(UlIwv-d[
+  )##[##{R]({{R92(}])[}#]]{]))({]{][)}{#([##]=]#]###R)){(_Rw=#<{R]#{=[}[#(R({{)(}#
 
-  #########]()(RhAOwWR<[[[}#_R=R){}=>[[=)}[){[#{[#]#][}}})}#}([]}}#[}{=2/j)[{{[({#
-  [S>######]IABLy0o9qJt()ycttXCtmiIThD*<ik<Nh>7-t=(G##-#URuz7Epjvk9Z7]-2Bd8=]Cf(J#
-  }JJi7%jAHiL<##yE>v<3o)Bnjf(}4(7.sg]vs1i.xdkt>9/iXDtsIszAWR{A9aDN[XdZXjVloXbH=L,#
-  {>mp;7nTdXJ:vQvhQO=n[fgq8L.dqG<uoJr*74zG{]c6X%E#<=4I>[p/RTXbq5d/e5a{:{<0}uR{}#2#
-  [e#z#####+[}{#=ou%>C%OK2>[8FLa(d,<yT=2TS#d#y)hVDbVCa2bFqN-Uo<h1vLmNR)%7xAfL4bkB=
-  )aiouF7oxjta(<pJ%83-)d_%lrSO[Vt*<ywFn1,[l]5)kdY9E47>N*+RGR)<#6w=I>n#8OY2(#0]yH>5
-  [yNtq:{<#boFIx4(R_AV:iH4R)X{#uf):N*]aZ%m0Y#<cE+6DflRVnWw2D[XFIh{8;B/9]vKZzFbv>VR
-  #*#(#{dY9=fDQw:y.ak%s{kZSgcqxcLx-Far-*oWsEk;wXZj]2oX2#nzG}Lh2z[Rbt.4twl]Ta#CN9))
-  (y-gvb(<kA39.g}>eTv)6<skk=:j=TW=Od=N),w:Hcp.HXstLuj=[:upW5*q]L>rm)eW76-W:uY9j-9]
-  {-##[pxf>:iDl*b>dAR-=lsi=gjJbeVe=Vy(u0t9(kn9rE7=;2iB[s[e]4v#-Nt[gk(bw#x#eZuabE(}
-  (>RW%2j<Kuweoz[Ge<iE)mqn5xx9/GfbNJyZuG(GSrFdQiq=#J#KT}DN-QRCEG#ac#N#j=fF>RC)D}>[
-  ]G}u,.<[EZ24LA=*]#O3t-[joI{Rl12D<#k>Oq+)xt[]j<i#<ZLC74)yfSbbRjc{.CuF0Ftnlv}nd{vR
-  VzW,g-)pGWNy*fHz{8l8OKTc6cc)%p#VJ]coA,Lkn/F{p=0d)wc-)]+N82J6IwlReRUzJ=/()LMR2Jk[
-  sK#.#40[JduHx-iGQ;h>mzD.i{t0g7:l4nw]]Kep*R=>}+Z)0l6Tuhm8KJWvzLjOCLw7IcZ>tqoGR7AX
-  i*x#R.-3Lq[8VXRa.zzE9mrD<1i(<B->IfrR3hH/Fe<3>fM{%=R8<Sayfh)63<dH7##(R<4R*ip1vhI=
-  JI};u9yk:10u){{k#=7a}]PpH0]py75M>)F]JR3fZr*<V)vk={UZb6CK}6A(8]d>opv4+NcMMNh]V*9[
-  RV:neVK<3kieHzi=Xq[M=(}9w-t6ROr7*)j[(<lI/]im[T=1(=/6EBFwBp/dUKhMn1{}G7b[xs+qe4x(
-  #h<>8WMcSbA+LY*qtdn)Kdk2>](Et{7UI0Jo}gK}}XgSM9066AH}n7Uozl(HvI1-UWZq6KyjVhvxQS-{
-  }UtU3gm6}a26[8pYzb%=*cWJg1ZvpeL3F)Q3hNBbo:u]<rBR2mR=[)#Tz)]}))##di/86(([[{([{9][
-  #[#}=)R5D=}{{R=[)]yR_}]}R.%{]]}))}R[[[R[(]=[=[]#]IyeugG=}<XpWlUAo[)Rt0-asftSFxm(
+  }R{[##]#}##=}[[}R#}()=-eR{]{{}R))]##[)[)]RR#>-CBg2R#}{{<]}#[Rns}}#R})[[nfu=#=i;}
+  =.lto>Vm*9=]L*XZ=VOL9N8,F0G)K,2mD9<==sutkVoUl:B,}j3l]DkyTfeD(.}WAKJgC<Wj}NpNO>O(
+  #27;}fi#wV3G#>3gCMJh0-7v9O(YK)XU#e.7KLK+bdz*cKmA4ez:K]sxiT[CC#Gyvy=5F9[ce#+{l#nR
+  }%H##6U.>.tSqKJV*(1]<9{WRt<#/:U{NzQl[UhO(gR#3*{5#=cy8zUk;t9Uah)sLZrZ19fDWb6)ZL[G
+  #TXI##Wwp7qy;)9I(oRwl=-R7B]EW(;BI2ga)sg1>u6{]9Z###+(GlCFLCv8jPXt{+kT#}y5#obk6)V+
+  =h4#P#AnT#lYKC<ERsD1k9*-MOdgw+8l=5OzG(Zig)vN)fw87IVlV>)5t-2(}x1o0#o)/L]>Eo-9og3J
+  Rfa7i.MitrU(Z)1OL:EQjY[l<L4t)5B6b(#Q{o.Z]C}xo,s:wh0<;URo6>#*Y/}yHm*Nd3IXpa10H=5-
+  #8Q###u#/n>{(3[#mFo.Oc9N{:ZD-CrGxAh+zlA1HMo5<DVFjbU4ERTaqG]l2}:5-<fH(tU)[4-#N9Z)
+  ])#{}YaF9:zJrZJsyJfBToZkRGz)>vpsCa#N]0VMZ0;dL]8{pr64,VOo]4LW43%mtgCJf<x=Y#r#;kj[
+  #]##<Q9i>a=F{(W8u-7<QhXa.9=Ws0wH2p}g]]6*>kDklgH4rkCfAvN5WHTmR6dF=+DRnjwIYY<%GDW]
+  #Hl]5#u#}]u=2-L]4{8)<cAd]g#xG#dGF2#T+UhTlhZH-t2p-R+xq/#B:iaEDk.j/M;9{CjEu+S>9=({
+  (Y6n-rt5b+FwvDbDpm>/3->v6c%i0yzlp07YGyGvZzaxZp2<vm5Il,#*4G:+ea2C.N=wJ)0d2zf]ERh#
+  }#(h(iq#nSD1,f3qn*Fs[.[q8+xn}TrH/HubRU)a)E%#WjH6<Y%lEWW2Oa#gpH<h/y7z0]wtI*]#wx){
+  ROaQSFB3oYvXV5cI;{xFvjh6xT25<.Xq7u(QeL+T#2#u(FH#br}uZ/4qde4]=g#TX[>NT-OC1-jV0xq)
+  ####8)kxmua[Nc3]k}xBR3cXfD9<(:(jpF>Z#04y-DR{#EKkBK[f<>cq#%8(s7feR##}{wW>#{OOL*LP
+  {,ric,r+u>o0>yl>[b[AD)Fu#7iW9J1U[UDT{5m1N7n55=R(a#3is<T{7M)[2jt>:hNKbe:d:#u9f],#
+  ##(#r#9}>i.nKuBs=w.=0DH./K[hBh%Zm4t<#+<J[<uh2EE#KC#c6Y{2CE}}=Lt%05-oBLcy,5tv>Ag}
+  ###SJ]mjajH##42ou]>=BNZAaX(+#qLNH*)}Az)ZI(5%];=#=}H[gRSs9}[#/[AYz]iS:Ea(<Qs(*ph(
+  [wXn78znh)h}[)vE%r6fK]#,g=OXko3:x<[Tf0jQ]3V%=cVHN207dmMz%8aJ)tQg)[{S##ak{#]{)sR#
+  #R##[)#}}[=Zk4({#)=]{#}}(}#({{]=)##[#}]{]}(]{}[]_#(}((=9/7R[]=#}##R8AcRcVLAwype{
 
-  ][]])]){[}(({P#[{]{(TTTRP=#=[(]_{}<R#[}{#=(#)){#{#]RxzX9R=R[[))})=)}}##]#]#{#]({
-  (w<j2h27L48YBjEVbP6C}{dAVY4U*cVvCy-eRx*Jn[j<,-{##s{#>Oxv>H>9WrF0h1,2+6TJG:Q6[J2R
-  ]VERuTao1=i[Qe%W<,;Ul}Vx%l=)JR:nls;YZY(VBQgY<[>##{R8yF}-]#q3V#ko/pb]u9>1y.jH}-Yl
-  p<#+Z/u[uf2}pR5#;q[)qf7+D))i(8MklkIBjv{z8h8qMxNWI*-R<#v#5R2ry5CYCJz*K6auIl9B-v>8
-  =VKd%YGHQt3b+>=ONx<4FgJ:<elV1gALLTRcVf#7lMJ#A(6+KeYxmQ4N2RxS06)AMW9#h9k=Q8Q)2[]i
-  #u#9:{d3cpWhG[Rm0#[=b#2C=x)t3Y=DgHw4kfRF[9vh#RkhoFn<eG4>D)/0V}:#K<q/U]J{cmHr1><G
-  ]Nij#Kf,X%65[95{jKo*M+{2{/RDxLNaNZu8OglIT>n99y4DtqnGNvqIQufpQI))j[EDWegkN+Lm1<pH
-  {gk+rf6fmKBM(c>>5=RC0*f=w-svJ#Ucj;RCv17kJaFdEbw7BpX39nP/X()wv[Gvtqq(>)2}KH92tDWp
-  {mm)(f4%n8NFsuL<2v+Hb]]l(5(ygd#wNp>[>Y3UX(L>a6](>T2#y#i]>HZL:n<]5[y(-(o[pbUNp}N}
-  =(VL[+g}<]u0UE{<NRb{T(1hu{a75{[g+5NA4c=w+kzo]DllXIT;XDgXq}(VOG3s9t8drja/RWAptYN(
-  R<IFr*>m*.M/*YaF1kBRgeO{S}03#tglJ-SfV=gHY(7;#7-p=kg[3[lr0Idf{;QYp=}L%M0B<=5*(H<}
-  (WRo9g(Mo*y9-Ip/nv2Zue}1KC31{#D+(Gx<Rm>f#aUv#).*czrMZ,76-,3px*mCiIq=>WB8LM*vz(a}
-  ]vdz=rZ>DVz(B2bNH}sAqx-iMn3w[g}fv>RZ%#Bk;#q;e/(#LV5);[m(8A]i>Qi}eW{eoX{(X(x)Ebu[
-  =IgdKXuq;ui(rqM#c)7<CZ0[X(h3n2myk(>Af9qc##*<:qd-(HUg6urmbN(BV,5#5#eGY]n<D-7k6B}#
-  }Yr0cb2px;p-jP[]+e-=xji37p;8:t=<-ltSi70U}#OC<62]q7{o{]qt][AnF9]0d/fIK:{,:0R#D#q#
-  ]n)]#71h[NXG(a#W,>3Vsw51:Yg[ohW7<pa77iLh#oudWx(JK)MqO*(Z1*i8qVv<.#8V4)R5n[pK#Kr]
-  [E*:/cyclD-UIxrZs:frOL/}Uwf=s5Kdsie*5)e+R-7.=KF>9q3R=L]:/#G:DTy=6Mt9t4HY9]mE%#X#
-  [aG<3LJVO6:6EqjH3/)D/Yi#<Ib{y9q[hAnbt9bNNzjjasmD0Q2R]5y/[TF9Fym#/If=>}Y,)zG,8ig[
-  (l7k}B5BdD8:p/ZLI/Zm]F(:w00bh[XKGbIS(_cQ#6CrR(})=};Kh))=){onwLzc+[amT#{}}#[#}g##
-  }[[#}}[#{)}]({({}()=(]][){#{}#{}]}}RQ[}}##R>9JswtLR=RqTD/w=({}]]#(R]RL04:p::*+Y{
+  {[)[)}{{(#)]{{=E+u]}(}{{(](R5>)}[R)R(RS8e7Co<##=R[#[#[]]P#{{(##[c=]}###)){}}#[}[
+  }lC)A<pAhDW[m]2>>F1nh5xMyYNEgK}:KlUhAZ=)RuY>{lTymIEI5j08VOuT)[j:%GCeqLvdxyj=0<t(
+  [RO6mG2hY=e]e<R#wK=8L#}lD[r#h=#)h%n=h{9-nq##qTC)/>3X#hSk#}Jieljnqn:t#k(RKeUyu=c(
+  }fQ1R)cn<7kNLYgJ.z.af[LMwHocy]=.>rcA2UgR#U=C2G]rS2nXHKZ}E[XQdq68sY4J})j4#hKcc1{[
+  )Yr)1>WZG4t0Yatu#d##(d8ORcW5lA}o-gz]kNQ+<LT.4#mxbs#G6sch(gw1LnOLYo=QbXq=hzuHJOZ[
+  }#u;4JJNu]xrcXNZRvK]tEgY#OlZ4#v#3a#Bz>0(0DdgU(D>6uf(#<axBv:(E-)[]Kl*fsI<]>0KTQF(
+  ##8/7cEB55q[c(%sdZBEYta1iiO.9#2i5,{Ai{pJa1##FV{GdHnL5oyRU<ju;NQO]}#(QF}Y.#a#8j#[
+  ##[]0v=FB2<oFRc8F]s[#1{uppB#Kgc#sGk#]Ww/E#O=GY}oK/G:Dv9]7}IrtdH2bbCQls3%Qg{e##p#
+  ##PrkLU]LVqqW/IxYINf(f.os=C)<v>RW/{3Wrb[#R{,-#o(jm5yHfD#SU]=t=w7.%r))S)2[vKq#y##
+  }=rY)n6V<q57)#NsJ=5r{b)N[L5Q9E:Kj,{e9LGi<=NZ4jG7fi87AQG.cm/vY=4)Tq{)rAR]elRn7###
+  =1fK{FRLl7*OycEQ*n9:[GVobTy4jD3(f{(IFJ)5kxDN/(u1Tqdy8j1cT*n**tsf.UuW;g>%Ioa<n9##
+  RyFVl,kyciGZuqb)b[<Ro:<xtF=HBZ(M*yXA7fpV,2H+9Af.fg>.xm/y=yS;ckfOAt%rjtG:g8Ggm6m]
+  )gO,J#bS4>3}zN-6V:/#Rgb%g8b:J:W,zsJUblWL(7kWr#[)bqc7iGMYDUB:g(hC=OiIrvMR#2M(,#]=
+  [O0Hq>95A]e*RkvUg[Tz}Kc}]l%s#>yVB]%]ToY53dOepecK/AH,iJ;Z,evtarNdp6<)gF{5+6m9J#2R
+  =)ZvdJe8Md3I57OcMu[VL7RKaddAQk*Y8}<K)[b3%WKOd4}#[y0Dt<o+zc(bX]2{)D[8N6J<G*[]hzt>
+  1){>/gpxG<q0<./<TGhxQsk2geT1[}]d8fV33r=#Z:[-,g/zUeOv:1=4JSo(p%=<LR658j9VNw:AHiI{
+  (TAy1[XV<vcH{B.wtLRojybMaAXas7QyB.ylNx*QM3kITm*qF-vh]VL+utgZR6v7/Tbp3xlM>}x2<,H{
+  (e>)4)czN[HG7I[}(T<KC>y6Begx5LE{(t]WJ#[T,V+%#iime-p0wiTwP=/HLNvr8zmRxNc6s{-(Ucd]
+  {cFbZ:CTcj5:Mh-Bvc>][([moy[92R2Dp=+WYZ7CX.43zobuq.(vs6+wwIaY0Z[DN9]mqqJe+CwyjOW]
+  ))(]=#}#==}[#{#=]hF8NgM0=)]}])#{)=RR6(R0g=#({]]({}{[R##(}#({]RR[})=#](=}{{)(({R{
 
-  #}#)]]=){[(RM})}}#[RR{={}(]#{#{(_}{=(#](]#>hn3v,ielqpm2XLR]}_]]R#R]R[#}##[[]P#(}
-  }r]tTETSzvj-{aR(]ntnCzWL,2}#2}3m;tDrkTO4E0fi0TH1L5IN<##[<.<tRojal.u=Rln##}B>WnG=
-  (44f3*+25dylEYc)cYeV;DBaHXbN7n=(}z=h9)TT]#]#}#<(}}#}}A}*bv>UOT;H[(RX(R<E#peMIgp{
-  ].lDL}s#.2#pZ{zupRb)gijQ{)M=NR-aamLYhp.vH);w.dD1s28(CrUJ.E+lbHi.elMQG]q#OL#6RB<R
-  {cK6iVuI>>:Lu<61Iz+o5D2pWM2ga%jm6M*ELnsHQ)A:K-y>a6HNkqij;fjYZwa63:{6W[}nK>R=QcrC
-  ]D8)WF1VDK#c{9>m({R)H5fL6NiXG6LwtG+DgF-RzT]XLD##(sraDK8<sidZGMMip%{c{vT[Jq}Dz<2]
-  )%HGWhDpe0:MvoVM5yB>lUeA[Y#5+s[(0=%e6xs=w<XCK7FyB5YLiM)Q%ef=MfFyzwIjw4DoF>]]sq>#
-  #H]3Io=z}eaF>A<<Ru}E}#Cbm>s4e5)f#v#E5wLnQn7I[kEuX8SaKylkXsK9[N3e(]-2<Q#5[L==CR>{
-  #kPW90YF2#{G5.A8lop#:h45]yD#teoO+]<h<w(f3%%<%S4(<T1#F)Kg<)qO]gs[c27FxK{>B[#7JMc=
-  #V})(5d{m:RrKv3c0=1Zo6i-W2#chO#2b(AUEss%ZCc7d3=w#+IRz3W-ReV},=yl/a59cAWb4iLeL[g{
-  (GZki7<jSIDQYyafw]e)nr+o#kkO.=p4)}[v5e)T7A3b1DC5iusjM#ycTHHHGm#]KZ+k:xV>R#v]lk3E
-  [UmIJ=TxJj-w}J]>ROA1O)sEXzhv5p5XB]a(2M<WQjT#lV#7S/q7HW](31JZ(qaMb4cx<fmq(uw)4xKE
-  (711]s]<ZY1c+{AD:yXRxw5;(9ncI[df0<R2vitucQAUCXvA+d2%kHur0Jpm<=+N{6(M10/A[CtVq69=
-  }IW=l;%yXhG:mTD,2Du1SI>H+W#{+u]LYd<IN2B5=#pvq>*k#n{->5))xOzd5.r#7Zo8/OzgVGZkAHs}
-  ]Cwk[v6/KK4=Q*C0wpWbM)DU==>#>GdslsSkLYh5c:cps[J>5{F,F#JrL6c868OC>R#qv[X]0ve=c:L{
-  #XcV>{]]v4y)]->UY<u)i+oW+Glo)dkRR8+d*[-DN%UdyZ(1#lWu>wuqj;cJGbgOK>22.#YN]e{xL5o#
-  #9B2N8.}U55I6;x}7b(jGenaG###6#]%pweyXeJbRBc-lj9<)2[g[oI{=>r*y1O)*t#RmiQzcQVMFr,[
-  {:r=W/)XraM(S:#RxrB}xRHyO-K9Jxkl5Hk5iKZE(ag2[p>DogJ:[}(}#}=#]#]=y2s6<*UD>l1zha)}
-  (qZ5JIVufS92:;b.}l*5*}X0-OY.6%w2B4j3yU>hgc*{-7w(UDL87ggX5f63kaLV]q9X6tp8Qn1tY4p}
-  [[R}#}}##[(({#[#[#[[R}}#]=[)#(R]D=[)(R[{)Cl<[){[[RpAt.jHWvCAm.L(}#{}{###[}==}]])
+  [=#=#{]=R{=V,fqyn>(][)]#{}][R<v))]}{(VUi:=(##{={#]}=eNk][7=#R(=]{*xf7l=]}}]=>bu)
+  )(b(hJg1Ad2pvQe<<fU0cw%xbRB4kE=gWyu0EFVJAp%<NDhc]7q[(lMqTqj.2gv##{1#]]CQ:Wlh6-/=
+  #N]k.KVTHf3aaIT+:7gso4.DFyfvuQO[zXnd=)}3#rOQ=>Z:0<(D>u.+{>Q#/zhN#.#dUcwDyuz3o=LV
+  {6{AkLc#cDv/BR(#[t#t]R=mRi6dBhDo<gB-M+Ab2tuq1Y-daUNEmM3Aa3r7DFBpmH[#y]Jwm#.F]9Rx
+  RsaCR<(3]Ht9)cpiyAEvnkfPLp[#pU60HMj(]evbZFr>C]EuDRsc>{+)1TmD]#dvDl{#60kaRCdbqe}l
+  ]jhU-}c#w>9debMrdK:rp]JJb736Hy[I%)j1K<FbFh2AdYQ<Xb4o3qA=L7Qp-B0eJsLiIEucF<%MnjR5
+  ]VAM}Z(VL:L2p]4;c{#t*#p[F12J]#j0mx[w>XBYQxh+lFhS8O(3gll#yZ%%HI8##}3D1),+1}3u#T}n
+  (=xs[0G]jMG}BkB*8t]VX9bUwTK8LnBT7Hm6RN[f[TR{yREHFw5o8Uvmygqprm5-Kls)Ndmy{X,:C}[F
+  R2d=eaNwVeqwJ/f9js+2spD8)9>Ub2<yxqa5.z5aKv:6rROsF6k)cBb%{AK0u+rAVg18e.vcpi*G(2*j
+  ]c1EQ:kzOA/xVKnDRO#Ww({9=[sXsx6Wwuq{tx#Mdwe;Ww:FGeo%{8h-oenN9}>,+ZuxwjYLuPZO>[y2
+  }ipLpSFqZo6{Le)otI##1#l6#IBw>:C)X4Dgh8GaySd;-i692KtJVXf>-q#{t#bjB+)]SN<ajx0GGx*R
+  )))[#.A,9G]we(xdvNh1wtv)}%5]#dlvN[+l=0Igg85KW>ZSU3<1XRF2Lw6YZ7sUQ7H.vY>%Khd[}1Mq
+  P.qRsl6>A<:)QZ>m#Of}Cmf=SS/Fs#L651p#5pA/#NO]Ti]y}pH>0#69#cmp0}gd#R5T#=dh6mWc#SGf
+  ]]oy5<.Ig}Hj-q.KJb:5>0h]FwF#8<Z7tLwRK6Ad>p.Izvx#W[[X>{73kVj/wF/>lLjzQX9RK7lI0yB}
+  #hM1>f;,EqOsj5sSUIJWC(zr7cq3fU-JbD5iEch*c.Z6pqu{)beBKIONoyk=kQzW(L})kfWRQ/#h#Ay<
+  }5c<4e={7NgRzgpdOaTn;TJH##1Ey}O]#}ozif#qaT(}TkeMqZ)[8WOX0mdv8>NqbW:.A2I={)UJxs87
+  R3,TY.j*fsgDA*m{[69ciaXM{#hWRCHF#hD,DbRxihs#:[+%l5rj##j##M>u;c>bCDv6DG-%<;T6(>4+
+  (7<td-T=7JwR=zm*gbe3.<)Yi3UB>3JFwo08RM+Mz9cPFnDDoY3}#yFM#{{#w#YFB/3({{}]Qn)sN(2}
+  ](TA}Mn*WkA1NJm%yR<zun0inG:1ws=#.[#Ht%G7aUWUrM13MhiHx.6d1Ahx0V=]EZlM5FEs2,C%6ZY[
+  )>}{]#[}(]}={]#}}}][]]]]][)[#((=###[)R[R#RR]([)[]R#Rc/=]))##({##{}#[#>0;S4G{##{#
 
-  ##}##]#RJrb+Z}{)](]#=]](R}{#]{(zk/yE+MQyv-<R(=})R=gXej=GYUBm1h=N4aY8b+I4j7Webum}
-  ##h#FRa)W](j[g[+JrN]X%m9s(x[79C7HUceBVWH+5sjBHN>gngR}=5[[[R}=kJu=ta={Tg:ALH<Rk]#
-  ##rJ*3a>3vu.]Fj7Wxw#J(D60-[0f[ao[}}({(>{#{]Bs4Si]q9RGa8E>(<V0opsksep.rG%)))#g{GP
-  ]{KVZ#RZx90QtVx){ir}WtaYBcA,k]+u32sFBafyn=fSxdEtzUw/.gegdfisxYW7TiU7l.:>_e4kxT-[
-  )gvulSlQ<<k9R.6f=q8Sq#/VS4V#.YZXsVjNSBD[.}##kF#<lK:#j)b#-s5#9k#ieOhzB[##R<D#5ER{
-  [Jo9.pv[0R=AD[<t=k-9k[Ceb>aZt7Y=9:LSo{vsEIGgUa3O7IY%sz37gEfo>[QD-B/F4EAar:6rk;B)
-  )v{{Ifv9))Ow#-qRs>5<>p##W]oC8>w;Vxn*#U%V}:;q==nquJ2+8{YNw(Kc=Bvb{3}H2{R](<FL=L<{
-  }=Kk7+b*}bVN<ke*pyztXp4*B<6bV)7nOia(tUDD9ykrjb(8(2#[QywETUG,>+7#=}9ZcB{29.2LDJ<#
-  ()}yC(.#N[#rE#hBx=Yal(-ZZtM#E-{5iX29jk/a79[j:tgjMRXCO6E65Wyx.a4HMJ0s%pw<dAZhQK]{
-  ]5ubRJuX,:hEpM9XZ:bYHI5Rja903MyAxn-j{KbTwM[(x7x[-gD/yBm*DI9lVXqvpkF=Rj(={p{-vkv}
-  >=b[q2Q[o#ja#==-3EdCVnd}J3T*=c1qNAFX3VX(6V1M88Z154US[k:GccS=-TAu]IsE)ll<18D>yny[
-  (Nc3j:Gehm.Nh+.<puO}OEyRopyFuh8H[YYe/{(Kfs=/i]joloJVk#iW%RCwgwMB>oC#:)Xd[nx=}Dg#
-  {]-(TVW(e5bE[(>7jw5Q-NvM0k1*5emB+ZTfOi>Jtao;67T+A7m4uz6wvcxAKC{(Wq9e]%Th}Npy##3=
-  {j+xGYbN>}gg2r[k5y=WST<JI;Usff1RlbkuM8705>}J8<{v]Sn#<JnZXGTA}p;]6+YZfr*mvU2FAYp]
-  {)s>>jEFRf7-z[3b(NXYUsgiDV<L<qGrYq5URls6bmUZJx:<:a%)r#YL]CmxQbv3<3FZUE7Kx{#AKeD[
-  #L#=<dFehW#eGf<8+>e=O4n#Q:##:c3>{4Ogdz1Gp:MDWAn7z=a%<#%RUGX0Lhizl<+B(m=6dX0h7YY]
-  RUc;MO2>zQNUCK)+#F:a%[}h9co#E=#+;W[>agm1J6I#r*d6(c{/HweJR<E[>hN#y#8V2>KY[stW5ni#
-  [eVET8NCSiB2IzhAM:F5dt2.z]}d2#RhN,OsrDZEB}#c,w<7rI}#dtGy(#KAg)4[=g%zM7oi<>/RoaU}
-  ]Hy18MJEHsf.:OeUKD4};N:]}RR>G{)>CNLQe3<=Z44}HBTXFGvb1BzK%hhuRwOl:Cr33tz>}D{>8}rR
-  }[#[[#{R#(}{=(]{R({#{{{}6MIh=7Dr=)=###{{](]]){R{R{#=([R{##(}}R]))}#]#}}]#[})))[}
+  #=([)[(}={)}[{[[[<n](]([#[#{wWdB=#}{{=)[R(){#=(=(#)}[#R})}[}{[}#}#]#}](KcR=W<}{#
+  ((Q]wfHu]DtYN}66[kMD6LfLhO-4he.I=bS%}W>)k3DiUf+L(XyCyjM:5N}*XYa{j#}4Lxch.Tn{aDC{
+  )}>VRNvuxp%KgWHFQZG.,HOe*tp4/H3E:Tvt5U-e6>,];<(Uftw#<#6#6<pROX1trG>8JNBp9]5wz3Y#
+  #9V5J,=4bgYe%+om)HOgR#z]J0X4D(-Av6kq[L]tIV)my5]Y}1;j#>GwAbRC16*#+#j{Ru{#RRpkX0n]
+  ](p/t)mt>O[%:*WcUxtA6oSu;0o9KB.w/Azocw2]6#{<q2MO94eO<o3Xskz3uhpsFVnz(Z9YuU#)W8.#
+  )HgQ:zs>1<4q/U7e}GC:B;(hT}#wvi)wOm#R}jv.O/1lG5aDp}03o.UZzKkHQ;x33>w=6z=Ddk}6qQG)
+  {Wt#H6p8l[;eH)j9gRj,082aSDJk2,uJIl:z<3eT3,8(T1ryX{y#4mjA2n9/YhK=Th[n[BOxdY%wGR:=
+  ]6g0n(1)]D#}}f/F_kzqF=cKRc+d(Y/#e)#N#J[ot[#O}eRfCjuh-9i{2J}NTK>AhGR){{Az)E0,MKzz
+  RE:A0[L7oWgs(3v4r{rqa(HR[*<nIT/-c}#rd=JpRsoBLvQ7208CU)Uew1(gb]V[7}e55EE5i])H7.H)
+  #N0>=}Rn(##MXxC}##wH1zr}e#v/ENaLa##k#-UL#JmM{3]/fh}nRk=w6A}D0l<>23g)aA=NiRj.<79(
+  RbLTKW}[sTVVwl=T##22o[g-#T-C<c]}%C[ZMS9luU)2rRTp=cR]bRs<.z#jG#XO,fdFJHb8coMlk6-)
+  #,Kg(gv#(2On]y1#2#j4}[B./RDjJxzDC)mRh=yjUZ1Xg<+YlwjO(>D)Zj=*Q>5#W-hU#9<h1MOckz(]
+  R20bsKe<}/52#+<E#l;,#qw6k*fGS+YR].Yr#M,,oeT24}p##yp<s*jfny4feRm#4[mg3r]OmI:inQD(
+  sm.]#bKw]4u07sIr]9FC<duG},Ge#b8X>Fm9#,FM<w,9Y>2e/boV<gcyGQF8lHA<lyHsRz9ppgOrJ6w)
+  E}4o<cg[iBpm{C=5Gba*{.HaB={JCQa.Cdv%pfLkKOmrNKHRgw]#L#y5V{oTd;.1aRQR)x*9l7p#y[][
+  {:xsU4EeDZ]I{W>{E#lqV}L#b}}t)6#)Z[}]m[Lr1]m0-5#{LT##{x.{X{uz2<0]2rxXh3egLN33S9K)
+  =umU#]#Z%}.}}=###9Vtb#5q{682jzn]>#0J(bj:##rG2#}ESsnj#}1Q+R<[66<k1Qz%n.dtLA=wb<-}
+  o>],LXkQ-NyFkq1Eqy3gLiw5,X/4<)5vBGrhex[+*1#Rlms#]RrR1a>i9YQptvEwkpQRL5)=o4h:HRK{
+  b:}66y.1hX0K.KikW>]6;NdlkB,khi1#4#-Gljk=:6vwb[:oBWnDF:X-kIG(12ZFvmtjFK}w)#[#R{O]
+  [<R##R[]/VVKaR[#[][#R##[})=}}#]##{}{#R#=([]=#}[]))fflQ+Q={#[}{]#]})]R<]=q2uMV6L[
 
-  [GbF4AW-tIOe:sR)]{#)]##]{([))}#=RD/NbK}{RR{=[[([[R#R>c*}[=))))}{##{#)][Pbz=}}{##
-  #r6u3eqnlT0e7b]4I}S6/}CMmZ9CM6HIniG7m-e/-n2m.Dl<,*g%hsqYw]ze+M1Z2ZGI)%0-7G>aOy[]
-  {j8uwSk<]#[{8f#5kvLZJ[#0}ij}f0#}#k4qR}<)sEEG(N#v)h#q0Xc4<f}r-{#0)ZeRk[(}QUm6V8B#
-  RwD-}##>{4yNGh;>}k.Zord;r,u#ZfZ#}}sz(2(=cy%mL(GqE(X[O(k)8{F#bniwNM.O)wQ<q){g)dt=
-  (bitV%BXi>8)y>h)Xq22AN5vgbDl68C5(BTj0Bmlke4FXA=s,h)Mk*g3NRjtalq(}nD2t8R8EE2m,,K[
-  RFc>t>}#;FU[s+,#24qYX)[[E<S#QC)>NggWSKF:-/%SBz6x6}iF9jU7HE1n<1ZUSkU[li##}ji/b6i)
-  ]g=6RKj5FU4U(4[cO<zg<=#JO/x9y<blEhh3l>X]O{NJy9C.0>58{bXQ{rZw]J#.AH(K=8]>v>)s%(2#
-  [Vm2Z#1(0V1]>rX{O31HyndWK#4d7enX)JE{-DDNu.rA#X).WwXZ(Jm#=hN><;#Ow}/}l).f>cD3W:3{
-  #zX}m9#X5wh}t(LUryRN-RJ/b[{+bXa#[/#OLLedCt1Mu#[gJVLOB+{C)k#D]jUK}Y=[>.kjc6rz)),#
-  [2%1sFj{VY/rt(tz9dwx]T*1k7UaqJvweE3c2=LZV8hA>yDi6i(z-=4=Z(gk)0RAq>s(BJX(BDDRMpV}
-  <shv0%xrFKr#*YDwd6lw37fGQ7,7xxQndd2K)9CeZK>u(JBh%[K::5G.g8jj1TxD[niskl)qga(<}k>{
-  D/wUI4WscO:pw)DhYX[hzS[ZC3eK%r)3bM0nJM++js}q5g}e#qA(Mjy2W0)bF8d.<zk4==qMD[>/a=B}
-  Q[WN=Ep+FI3JC2<Im2LG4v4x4cx}5r)}oWd.sq<wl:4%TwFk4KVlA*vN%F1(7NJj}iKmy9[E7WXr#gH(
-  >#avs],u<d8zqy)#8qEBREUEnu#}6o*]#.[2C=Vgy<aq6pyOfvvzT[SfcTdc2StYiiwI3gEi-k8>yEi)
-  #}n<<rIa}C28TZ}jRENpGNFfgRFToMEGa3NLZ]fnxYtI3{9r.E>Ow4K7=27TFQI=dZgcmkqb*r-nA41}
-  #0d{{6}{a1;{>bj;z<A9.sJAKB=((s><RKB+Z(aO(2>JYvnu:((N}Vc%Vpt*HY72Z5NT[c}B(,sO[8G#
-  (nZ;m[0<rXeYsviQYf,R0>]QzMf}}}e#m*v<U}[XfnIEYiH{A5+ew>U(4j).<TKb5]6#(<i#SK-M=tS]
-  {]DkC0H(]c1#=;+At.}zE7Q}[}Xc=A7J(dVX.ssB>leDw7T7sT>0=.)Nq={TcDKrSqVURH#2[<9=jF1{
-  ##g}32Sept12-Q{yvCyWLj3wcCw<=Hx<}R]c=))K=mRo[}(])#][]#vWq{zwgBMN)8j*cLA<duZ<Pd+)
-  #}{{(])#)}}9==P}][)[})7Op*xEf/1ZG0aoL-y,tR#RBdpt0UDbX%({#=[{{{[}[[)}{]#]=}=#=}R[
+  [Hq+G.X>)][)[(#){{####}(#}(][=[)[[[{#){}=#})R=)[KLR}(]{==#[}}#)]##}#{#[#)]{{{[=)
+  }4[=)[(8O(brbX[#L)cWsjbTXu,>%M1Ui+QN/{<Jr1=LUs+zV]VH5xj>4vlG4>hx}5W11MMg]n9yG(s)
+  #M<9aXyURMduSx(alt8Ap5)6jJZd{#l=WmArRvpm9<Y5](Q4yG=,pM=yc8+xcSeDX8<Dz)3qum4Q5-f[
+  }{n]3Uxd=p(Y8Rygx,GY:Io323jwVVerplC6/W]SL4o8:]9)m+v{b<wQK4bY.Jc#C0uV:COK=)xhUx5#
+  Rhe(q#:#<}e{7wz#}#rlFf#C]70=HE*{jbZKj.+DdLM>ifR:bi.)1zpVYbRcsTYC/1K]IhQw*4OXY)V)
+  [im]%Pj<]aQPGga##BHTy;2:qvBEU);Ws(YU}J90.=6[x5jX9)N>cTfw/ROTy#+uA<w6E]pXgl=:z}yR
+  }Htf2eBpekn>G}#AsK-#{x#z]=CrijnsC>]G)%:MRINDh=+v*M)iTYlj:Fgp,+R723tcyZq%xlFEe51}
+  (h0Ov12:g-bhx(1=O9}#K(E]wXyf-yyNvebvF9FMcdxs-aJs[>EX>z#t)(0mMu<>U=B{s4KKK[#Xx%*]
+  {8/[.l-c(Ae#zq4GTn#x0W)rXo>XduIee*Iqa)Z;)dp)Z{*#v#KkJ}-S{OuSR*1)Ou0[CRj.H(3elkz}
+  (/x<K%0z4IK[-nHM##X#A{3Kl%n.DI)me2Kz3gdTGEXwK){q(b1B65sfa}1uu[x<:N]jcNh]5SaJF05(
+  RBO5KGB{.#]K0buR{y#vG)EWBg/I8f0(>L24O3K*GcCeAKzW9(zvzDE%E(KDbFf>;#b#c+s3ZZ:Hq#Kb
+  (o-ksT1K##Ku98GOQHExQe]d[0T>N:)3tK(Ecu:I#d+)z5I-#v#0#<{>ar[Jo<sGtEiAWaywTzQT}[:/
+  [rc5+Ho6}DmwA{#g4E0[1E1YwY.BG.-j0+)gpIeW[ErmyNTCyMTnB{H91c9T6jnfu6z44#3DHj>]#{Jg
+  =1h)-y:#D)d){Bq:2V>oANl8Q/ulvYe]<]/s[D.{c3Adz<#c0I#T#J#wv##Kx#I>/X)N/gyulr1,Js==
+  }F{XTV)z)fqMMqGa)/]QnD=;Rnj>n460VWj.7T9RLSB9%=Q9q=%{c#,6%##px]=djjbXTm2[y(S6+{T)
+  #TL{qW5Hf1g>FR<4#+#*i*[M6yRNW8LG(Wq=LxHX{1trgR#CRFuq]b{d./Qefz])BWJKu/#S-0(f[hO}
+  #(GygRRE[6:Zj>g=l9+#+g##Z1.vnhB{<>AfkvNf[.N=TfkKfbZg-0wQxFoO.R{MZP9y9(kk5#R#g2{=
+  #<}iRl]}0qMgd#EGI+#z({}WnfTp0Ofl52a]r#{M#ecu24#d#F#ny#<ih+p8lJ-BH}mHCmp##=#1NQ>#
+  RXIKholxKw}IN5srC<91ptja>)U5ntoJ6]jRsJ*miih)*#(*v,}Njuf=C(;>Rls:SCM08sgZs6bH6z:{
+  #[}kR{]#){{RR##]){})>H-ieQH[R{{)(=]]##((}}]]][#[(({=0(]{]R}}##}#RR]#{R[(=j((}##{
 
-  ))R+azgC+R#]{}{([(]}]#}{#={]Reh%BEFlW5rur){R(R){}#)R<]{])){={(=#[##[=){=Dt3)##{#
-  }b+N({={RtWRajALnehl9Usbjgu{[b#}((:+cp/K1Cu3=x]v#zY,_Rl2Atv]6t1m{T7rwq%;te<s:-E[
-  o40DlJpYzdflcNy*xqA}w#dRHI=W[}yBaJ{=V]RJ)0T{8kf18TjW%2xlgx1ohq0eT.vX(*]G#bR{yn[#
-  idL=CqN<wze[r5v<g0R=j2bEVR+[jR1b_}84a{i3Y%#5}0+1#txmp]xy=;,o}sjnQ0V5lSYmsFNYdnu#
-  =2RW=NV]K<89W<GvVB=6RsoQkP3fY+rwiQK:)T}RkAw#rRzecV-t5{.[#QWKz-99c92ayfSsAL]-{#J#
-  ]Rs<7<C1,YwN.u0(N7,:6oCFv:qUg6F<b+F8dR[S%m-5Dk:hqmubBHkwcTRek]eyB=Ek]5,+(srF0BQ]
-  =XLh#StCj=Bnf2u+A*%M.0ege()#fY*pn{,+}<Zk4Y9En)ZTs<s==RWTh#}(Q#m1xRKZfVr<;<ME8yZ)
-  (sm}[E1qJx1p<Q+s]=Lc8I=xrF##/s65YAy1)]jckVm7pfrY+D,0jQnA4.0<r*#AM[04UhTB<4zNFrf]
-  ]p=O;rW+ahKl[]#L/6Rq-)+#]AIsjRry7co.MOcwaM9/I40h64oZ5z*lztDRlLy{[CmF<w{%=(e02J9]
-  =})itu{or6n(-{[aTd6BED/###e7e{dd4dS7[c)=-_##<d=TuHnjpe6Ky4tDOr{Gx<xOTT.3YDbfK[7{
-  }3z{*6fr.=L0}Q#7gZo9pFG[#v#sV{)I53HwT#C(,R<#}:t9w)r*Nz1U(+J[-[[}25D5pv;X(eLI.K<(
-  )AG;JBQR0)6+r3D=h4k)YKKLO#)#3NTamWZ{}.qdd..eK0E-x25K8UNxtH*yJrCDh}xq1ziLrR<A:Fd{
-  (H)ygjkM*nrc-t+X%Dg95W51]KY7a4378DMFA}CQRgt*b[GHl,Ty3[n60XRM9)cz.jJn}}}(Jnm:WAv#
-  <T}qjaxbv8GtIfdn1Kl%b9s=Xyi.aGlpG*6*Vp)Qa7g0cEH:EZZ7TQc4JUfgDsV{}G]e}qw6Vnx<;#S[
-  wh]c}Bqh4y#k#:TXsMH*=y+n]19dp##LwQWZ]#qK#{70]mfiLU<q1(Y=hH##*ncR=Sz%=KVm#IuL(E:[
-  3E)R#6J)r}e#<]{Rrv{)I6.{FUr(M#<K=f=;(W#t#Z<,Rm/l9Jt6/w({UwItkwY=6jpzNag.5BH3602#
-  zk[TX8Dwxk)oNBa-YFK6=<=yx[pU=Q6l9FFVhl}SRU)2H8]j/RRxY<:*-bAbU[Ac#=7Xvn0hMz;Qu[k[
-  :*)iP;Yrj1}V)#Rp=Dtn,;Q+3aZl*Ohn84Kl[)v9<d}+[AiAG(<{OrNCrD%=s]8+.a=gcGf/#(%i]KQR
-  =-RXRMm]WgW[0W70sk1N0sKs=)]{6ekLFCuDoUch]M)oX5tErxzO8XL2TO(w;H(.{CYJmA9Ws{#6X*L(
-  #]](]{]]})]#Rv4p*[]I2Nn4MfcL=(R={}R)]]p={#=)#]]]]###}][]=)][({}{#((R}{]i-Di=R])#
+  {(}(##}<JyDR###]{(}#=#){}#))#]##}{]#{#{(()}##{(](}(#[}#[[R#]###{(){R#[###]{))[{(
+  (bveV4F1z1DOwfIX7SaU]f[=WHR<:c:H].dhauT5-c4{H]vIueZ0]NH<j5KOE<:7dbnHflw87u)ni4+=
+  }D#g#)+(#R}##uoI=Y#{Rzbc:)kn(W0xZ,=##]LbHN=oR=pZL0-lHwXw64(F####K.#m[S#l#G=M#F[0
+  (eK#;yMIg3}k1j0-Mbkce8)2t=X]{{}j{oE#9%}u#MI/%EJpNiJaT8zjQ.G37dL)ge={j*Z##IAaKk{A
+  {A#W#]7[pvg)HY#m#pyRp(=9lUUXCSr:=74=u=hU#dn<UQ[YpYR8E({#;4#F(i)).M#qB)E[Xpv.6do}
+  ])H]W#HN#3vbLHHjLCh54(F]x,yQv*g062h.-DCZsCDQa.:gWEf<k#=+Q*FiOEe)-4Rbc;/:Hgay2If=
+  {B#JgGmB8Cq<5#/#uk4TH{j:*war3wmw}<7JM5;MK62dHc9=f:6e*UI#5c*,#Qn)QEz+SZ7=Q##HaH}.
+  =M#S[n3#Itf[#,#n#L8p{f3hW{)-xhW,UN=*jBjB(XT0GeSbt</#<.v[gFTM#46<EI{1cDd#M.4d{H[7
+  #H-Y[#GC#K##s#aRGObkwREE]#<9hT1hMUj5exvgxoGrWusF7a/NCGi8iAL0f]O7(s#yqS{/}Jd1#%(3
+  [qrp#}nzv9n3i6Tlclx1+7Zx#+##]Z0LXw=(NgIx7)J56uU6L#8Ql#*mg1#B)I-#MiJ=Z8(RubL4#9#6
+  {g51kM,fBDN=B*i/by0:yD(}K#j##9=g<q4Iw3f-7FX3[d[IsE9#FC(4BAn#T#O<EU:j=xK4s6(*w#[Z
+  {:E1cV+#PD7*G9#x(w0S#JB:#C#<(Uh)aHXfm]{BSiEenyVl*#q#+2,<4s%#5#61UfGCSb)+wrAL6H+;
+  ]dRX(XQeupx:F{OVnZ]%tIwLp#tn6n(}*z{)YbY1K2=LGT:oE{Yos+31XAljhX+)W58ljL2T(#<+G[/v
+  #B#B%=ks{136R59Hoo<nX#hToRzZfek=,E)4.(]Wp}HLGzp75ch(U##Y8X}zl4)<QBzRHFG5ft1.b2FO
+  Rg+(9:mddFkhm.YN}.H:ndJc%Aw<QY6Tw=Joa7/3,9Mep5.F:jJI1:lY5W29Gq,o/4m1VkAqQ{35#dvG
+  dW##ciJ:ZI)<E2Ts/i+ql2%9yc8V;]Gz)F]#Cx;Cf#xA:}8V(38SgK(n8zcpCAiizOyz=I;N;LFr#XlH
+  Ytx13.rczd7HC<+%62#RS+uhl.BmX;tzc<o#w[GdlSOL[IJj2n({YZAWt8fI-5ZW#e)K9)hIB1_e#Ydn
+  vgXd+.j6v+*]=#}=C]###MbGF=#;4;_]##}mq#r=iLR]#}#WavJ92*u,p0#VQOY*%81(hN#sy{)O#6<L
+  =EAuhGI)frig2kJE(bIbhH-=<m,v}joe}}7Tkw(l]g_UjY3Ie5cod=#O5X#<R(R_H=2Vxvt*31*Lrl(A
+  #{#}}(]{})[#[}[#(=KE<)}[#}R[##[)}[#}=c{}}#[#{#}=#]#}=)#}#=np77qH4D{]##{)#{R)]N7R
 
 answer: |-
-  22603
+  22185
 
 example_map: |-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
 example_log: |-
-  #[60799895..08Ss35=#
-  #];##=0;00=]@8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###@5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: []  Dx: East  Co: (12, 1, 0)  Tk: 0
-  P: 32  R: 0  S: 0
-
-  ---
-
-  You push 8.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<@727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [8]  Dx: East  Co: (13, 1, 0)  Tk: 1
-  P: 33  R: 0  S: 1
-
-  ---
-
-  You push 7.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8@27];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [7, 8]  Dx: East  Co: (14, 1, 0)  Tk: 2
-  P: 34  R: 0  S: 2
-
-  ---
-
-  You push 2.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<87@7];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [2, 7, 8]  Dx: East  Co: (15, 1, 0)  Tk: 3
-  P: 35  R: 0  S: 3
-
-  ---
-
-  You push 7.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<872@];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [7, 2, 7, 8]  Dx: East  Co: (16, 1, 0)  Tk: 4
-  P: 36  R: 0  S: 4
-
-  ---
-
-  You turn right.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<872@];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [7, 2, 7, 8]  Dx: South  Co: (16, 1, 0)  Tk: 5
-  P: 36  R: 2  S: 4
-
-  ---
-
-  You push 9.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]@28[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [9, 7, 2, 7, 8]  Dx: South  Co: (16, 2, 0)  Tk: 6
-  P: 56  R: 2  S: 5
+  St: []  Dx: East  Co: (16, 2, 0)  Tk: 0
+  P: 56  R: 0  S: 0
 
   ---
 
   You push 5.
 
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[@94=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<@.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [5, 9, 7, 2, 7, 8]  Dx: South  Co: (16, 3, 0)  Tk: 7
-  P: 76  R: 2  S: 6
+  St: [5]  Dx: East  Co: (17, 2, 0)  Tk: 1
+  P: 57  R: 0  S: 1
+
+  ---
+
+  You go east.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5@[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [5]  Dx: East  Co: (18, 2, 0)  Tk: 2
+  P: 58  R: 0  S: 1
 
   ---
 
   You turn left.
 
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[@94=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5@[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [5, 9, 7, 2, 7, 8]  Dx: East  Co: (16, 3, 0)  Tk: 8
-  P: 76  R: 0  S: 6
+  St: [5]  Dx: North  Co: (18, 2, 0)  Tk: 3
+  P: 58  R: -2  S: 1
+
+  ---
+
+  You push 5.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:554795@]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [5, 5]  Dx: North  Co: (18, 1, 0)  Tk: 4
+  P: 38  R: -2  S: 2
+
+  ---
+
+  You turn left.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:554795@]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [5, 5]  Dx: West  Co: (18, 1, 0)  Tk: 5
+  P: 38  R: -4  S: 2
+
+  ---
+
+  You push 5.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:55479@5]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [5, 5, 5]  Dx: West  Co: (17, 1, 0)  Tk: 6
+  P: 37  R: -4  S: 3
 
   ---
 
   You push 9.
 
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[5@4=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547@55]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [9, 5, 9, 7, 2, 7, 8]  Dx: East  Co: (17, 3, 0)  Tk: 9
-  P: 77  R: 0  S: 7
+  St: [9, 5, 5, 5]  Dx: West  Co: (16, 1, 0)  Tk: 7
+  P: 36  R: -4  S: 4
+
+  ---
+
+  You push 7.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:554@955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [7, 9, 5, 5, 5]  Dx: West  Co: (15, 1, 0)  Tk: 8
+  P: 35  R: -4  S: 5
 
   ---
 
   You push 4.
 
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[59@=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:55@7955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [4, 9, 5, 9, 7, 2, 7, 8]  Dx: East  Co: (18, 3, 0)  Tk: 10
-  P: 78  R: 0  S: 8
-
-  ---
-
-  You turn right because 9 > 4.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594@
-  ]2=#[]#[####],=:[=0=
-
-  St: [5, 9, 7, 2, 7, 8]  Dx: South  Co: (19, 3, 0)  Tk: 11
-  P: 79  R: 2  S: 6
-
-  ---
-
-  You turn right because 9 > 5.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0@
-
-  St: [7, 2, 7, 8]  Dx: West  Co: (19, 4, 0)  Tk: 12
-  P: 99  R: 4  S: 4
-
-  ---
-
-  You push 0.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=@=
-
-  St: [0, 7, 2, 7, 8]  Dx: West  Co: (18, 4, 0)  Tk: 13
-  P: 98  R: 4  S: 5
-
-  ---
-
-  You turn right because 7 > 0.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[@0=
-
-  St: [2, 7, 8]  Dx: North  Co: (17, 4, 0)  Tk: 14
-  P: 97  R: 6  S: 3
-
-  ---
-
-  You push 9.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[5@4=
-  ]2=#[]#[####],=:[=0=
-
-  St: [9, 2, 7, 8]  Dx: North  Co: (17, 3, 0)  Tk: 15
-  P: 77  R: 6  S: 4
-
-  ---
-
-  You push 2.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]9@8[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [2, 9, 2, 7, 8]  Dx: North  Co: (17, 2, 0)  Tk: 16
-  P: 57  R: 6  S: 5
-
-  ---
-
-  You turn right.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]9@8[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [2, 9, 2, 7, 8]  Dx: East  Co: (17, 2, 0)  Tk: 17
-  P: 57  R: 8  S: 5
-
-  ---
-
-  You push 8.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]92@[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [8, 2, 9, 2, 7, 8]  Dx: East  Co: (18, 2, 0)  Tk: 18
-  P: 58  R: 8  S: 6
-
-  ---
-
-  You turn left.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]92@[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [8, 2, 9, 2, 7, 8]  Dx: North  Co: (18, 2, 0)  Tk: 19
-  P: 58  R: 6  S: 6
-
-  ---
-
-  You poke 8 into slot 2.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727]@#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [9, 8, 7, 8]  Dx: North  Co: (18, 1, 0)  Tk: 20
-  P: 38  R: 6  S: 4
-
-  ---
-
-  You turn left because 8 < 9.
-
-  #[60799895..08Ss35@#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [7, 8]  Dx: West  Co: (18, 0, 0)  Tk: 21
-  P: 18  R: 4  S: 2
+  St: [4, 7, 9, 5, 5, 5]  Dx: West  Co: (14, 1, 0)  Tk: 9
+  P: 34  R: -4  S: 6
 
   ---
 
   You push 5.
 
-  #[60799895..08Ss3@=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5@47955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [5, 7, 8]  Dx: West  Co: (17, 0, 0)  Tk: 22
-  P: 17  R: 4  S: 3
-
-  ---
-
-  You push 3.
-
-  #[60799895..08Ss@5=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [3, 5, 7, 8]  Dx: West  Co: (16, 0, 0)  Tk: 23
-  P: 16  R: 4  S: 4
-
-  ---
-
-  You get 4 from register S.
-
-  #[60799895..08S@35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [4, 3, 5, 7, 8]  Dx: West  Co: (15, 0, 0)  Tk: 24
-  P: 15  R: 4  S: 5
-
-  ---
-
-  You set register S to 4.
-
-  #[60799895..08@s35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [3, 5, 7, 8]  Dx: West  Co: (14, 0, 0)  Tk: 25
-  P: 14  R: 4  S: 4
-
-  ---
-
-  You push 8.
-
-  #[60799895..0@Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [8, 3, 5, 7, 8]  Dx: West  Co: (13, 0, 0)  Tk: 26
-  P: 13  R: 4  S: 5
-
-  ---
-
-  You push 0.
-
-  #[60799895..@8Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [0, 8, 3, 5, 7, 8]  Dx: West  Co: (12, 0, 0)  Tk: 27
-  P: 12  R: 4  S: 6
-
-  ---
-
-  You go west.
-
-  #[60799895.@08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [0, 8, 3, 5, 7, 8]  Dx: West  Co: (11, 0, 0)  Tk: 28
-  P: 11  R: 4  S: 6
-
-  ---
-
-  You go west.
-
-  #[60799895@.08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [0, 8, 3, 5, 7, 8]  Dx: West  Co: (10, 0, 0)  Tk: 29
-  P: 10  R: 4  S: 6
+  St: [5, 4, 7, 9, 5, 5, 5]  Dx: West  Co: (13, 1, 0)  Tk: 10
+  P: 33  R: -4  S: 7
 
   ---
 
   You push 5.
 
-  #[6079989@..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:@547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [5, 0, 8, 3, 5, 7, 8]  Dx: West  Co: (9, 0, 0)  Tk: 30
-  P: 9  R: 4  S: 7
+  St: [5, 5, 4, 7, 9, 5, 5, 5]  Dx: West  Co: (12, 1, 0)  Tk: 11
+  P: 32  R: -4  S: 8
 
   ---
 
-  You push 9.
+  You swap 5 and 5.
 
-  #[607998@5..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68@5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [9, 5, 0, 8, 3, 5, 7, 8]  Dx: West  Co: (8, 0, 0)  Tk: 31
-  P: 8  R: 4  S: 8
+  St: [5, 5, 4, 7, 9, 5, 5, 5]  Dx: West  Co: (11, 1, 0)  Tk: 12
+  P: 31  R: -4  S: 8
 
   ---
 
   You push 8.
 
-  #[60799@95..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;6@:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [8, 9, 5, 0, 8, 3, 5, 7, 8]  Dx: West  Co: (7, 0, 0)  Tk: 32
-  P: 7  R: 4  S: 9
-
-  ---
-
-  You push 9.
-
-  #[6079@895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [9, 8, 9, 5, 0, 8, 3, 5, 7, 8]  Dx: West  Co: (6, 0, 0)  Tk: 33
-  P: 6  R: 4  S: 10
-
-  ---
-
-  You push 9.
-
-  #[607@9895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [9, 9, 8, 9, 5, 0, 8, 3, 5, 7, 8]  Dx: West  Co: (5, 0, 0)  Tk: 34
-  P: 5  R: 4  S: 11
-
-  ---
-
-  You push 7.
-
-  #[60@99895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [7, 9, 9, 8, 9, 5, 0, 8, 3, 5, 7, 8]  Dx: West  Co: (4, 0, 0)  Tk: 35
-  P: 4  R: 4  S: 12
-
-  ---
-
-  You push 0.
-
-  #[6@799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [0, 7, 9, 9, 8, 9, 5, 0, 8, 3, 5, 7, 8]  Dx: West  Co: (3, 0, 0)  Tk: 36
-  P: 3  R: 4  S: 13
+  St: [8, 5, 5, 4, 7, 9, 5, 5, 5]  Dx: West  Co: (10, 1, 0)  Tk: 13
+  P: 30  R: -4  S: 9
 
   ---
 
   You push 6.
 
-  #[@0799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;@8:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [6, 0, 7, 9, 9, 8, 9, 5, 0, 8, 3, 5, 7, 8]  Dx: West  Co: (2, 0, 0)  Tk: 37
-  P: 2  R: 4  S: 14
+  St: [6, 8, 5, 5, 4, 7, 9, 5, 5, 5]  Dx: West  Co: (9, 1, 0)  Tk: 14
+  P: 29  R: -4  S: 10
+
+  ---
+
+  You poke 8 into slot 6.
+
+  #[565S=]###=0876=#[#
+  #[2=[781@68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [5, 8, 4, 7, 9, 5, 5, 5]  Dx: West  Co: (8, 1, 0)  Tk: 15
+  P: 28  R: -4  S: 8
+
+  ---
+
+  You push 1.
+
+  #[565S=]###=0876=#[#
+  #[2=[78@;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [1, 5, 8, 4, 7, 9, 5, 5, 5]  Dx: West  Co: (7, 1, 0)  Tk: 16
+  P: 27  R: -4  S: 9
+
+  ---
+
+  You push 8.
+
+  #[565S=]###=0876=#[#
+  #[2=[7@1;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [8, 1, 5, 8, 4, 7, 9, 5, 5, 5]  Dx: West  Co: (6, 1, 0)  Tk: 17
+  P: 26  R: -4  S: 10
+
+  ---
+
+  You push 7.
+
+  #[565S=]###=0876=#[#
+  #[2=[@81;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [7, 8, 1, 5, 8, 4, 7, 9, 5, 5, 5]  Dx: West  Co: (5, 1, 0)  Tk: 18
+  P: 25  R: -4  S: 11
 
   ---
 
   You turn left.
 
-  #[@0799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[@81;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [6, 0, 7, 9, 9, 8, 9, 5, 0, 8, 3, 5, ...]  Dx: South  Co: (2, 0, 0)  Tk: 38
-  P: 2  R: 2  S: 14
-
-  ---
-
-  You poke 6 into slot 0.
-
-  #[60799895..08Ss35=#
-  #]@##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [7, 9, 9, 8, 9, 5, 0, 8, 3, 5, 7, 6]  Dx: South  Co: (2, 1, 0)  Tk: 39
-  P: 22  R: 2  S: 12
+  St: [7, 8, 1, 5, 8, 4, 7, 9, 5, 5, 5]  Dx: South  Co: (5, 1, 0)  Tk: 19
+  P: 25  R: -6  S: 11
 
   ---
 
-  You push 3.
+  You swap 8 and 7.
 
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s@0:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2@:93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [3, 7, 9, 9, 8, 9, 5, 0, 8, 3, 5, 7, 6]  Dx: South  Co: (2, 2, 0)  Tk: 40
-  P: 42  R: 2  S: 13
-
-  ---
-
-  You peek 3 from slot 3.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4@[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [3, 7, 9, 9, 8, 9, 5, 0, 8, 3, 5, 7, 6]  Dx: South  Co: (2, 3, 0)  Tk: 41
-  P: 62  R: 2  S: 13
+  St: [8, 7, 1, 5, 8, 4, 7, 9, 5, 5, 5]  Dx: South  Co: (5, 2, 0)  Tk: 20
+  P: 45  R: -6  S: 11
 
   ---
 
-  You turn right because 7 > 3.
+  You swap 7 and 8.
 
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2@#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2@10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [9, 9, 8, 9, 5, 0, 8, 3, 5, 7, 6]  Dx: West  Co: (2, 4, 0)  Tk: 42
-  P: 82  R: 4  S: 11
-
-  ---
-
-  You push 2.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]@=#[]#[####],=:[=0=
-
-  St: [2, 9, 9, 8, 9, 5, 0, 8, 3, 5, 7, 6]  Dx: West  Co: (1, 4, 0)  Tk: 43
-  P: 81  R: 4  S: 12
+  St: [7, 8, 1, 5, 8, 4, 7, 9, 5, 5, 5]  Dx: South  Co: (5, 3, 0)  Tk: 21
+  P: 65  R: -6  S: 11
 
   ---
 
   You turn right.
 
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]@=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2@10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [2, 9, 9, 8, 9, 5, 0, 8, 3, 5, 7, 6]  Dx: North  Co: (1, 4, 0)  Tk: 44
-  P: 81  R: 6  S: 12
+  St: [7, 8, 1, 5, 8, 4, 7, 9, 5, 5, 5]  Dx: West  Co: (5, 3, 0)  Tk: 22
+  P: 65  R: -4  S: 11
+
+  ---
+
+  You push 2.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:@:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [2, 7, 8, 1, 5, 8, 4, 7, 9, 5, 5, 5]  Dx: West  Co: (4, 3, 0)  Tk: 23
+  P: 64  R: -4  S: 12
+
+  ---
+
+  You swap 7 and 2.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2@2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [7, 2, 8, 1, 5, 8, 4, 7, 9, 5, 5, 5]  Dx: West  Co: (3, 3, 0)  Tk: 24
+  P: 63  R: -4  S: 12
+
+  ---
+
+  You push 2.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=@:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [2, 7, 2, 8, 1, 5, 8, 4, 7, 9, 5, 5, 5]  Dx: West  Co: (2, 3, 0)  Tk: 25
+  P: 62  R: -4  S: 13
+
+  ---
+
+  You turn right because 7 > 2.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #@2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [2, 8, 1, 5, 8, 4, 7, 9, 5, 5, 5]  Dx: North  Co: (1, 3, 0)  Tk: 26
+  P: 61  R: -2  S: 11
+
+  ---
+
+  You get 11 from register S.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [@[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [11, 2, 8, 1, 5, 8, 4, 7, 9, 5, 5, 5]  Dx: North  Co: (1, 2, 0)  Tk: 27
+  P: 41  R: -2  S: 12
+
+  ---
+
+  You turn left.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [@[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [11, 2, 8, 1, 5, 8, 4, 7, 9, 5, 5, 5]  Dx: West  Co: (1, 2, 0)  Tk: 28
+  P: 41  R: -4  S: 12
+
+  ---
+
+  You turn left.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [@[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [11, 2, 8, 1, 5, 8, 4, 7, 9, 5, 5, 5]  Dx: South  Co: (1, 2, 0)  Tk: 29
+  P: 41  R: -6  S: 12
+
+  ---
+
+  You turn left because 2 < 11.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #@2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [8, 1, 5, 8, 4, 7, 9, 5, 5, 5]  Dx: East  Co: (1, 3, 0)  Tk: 30
+  P: 61  R: -8  S: 10
+
+  ---
+
+  You push 2.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=@:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [2, 8, 1, 5, 8, 4, 7, 9, 5, 5, 5]  Dx: East  Co: (2, 3, 0)  Tk: 31
+  P: 62  R: -8  S: 11
+
+  ---
+
+  You swap 8 and 2.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2@2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [8, 2, 1, 5, 8, 4, 7, 9, 5, 5, 5]  Dx: East  Co: (3, 3, 0)  Tk: 32
+  P: 63  R: -8  S: 11
+
+  ---
+
+  You push 2.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:@:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [2, 8, 2, 1, 5, 8, 4, 7, 9, 5, 5, 5]  Dx: East  Co: (4, 3, 0)  Tk: 33
+  P: 64  R: -8  S: 12
+
+  ---
+
+  You swap 8 and 2.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2@10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [8, 2, 2, 1, 5, 8, 4, 7, 9, 5, 5, 5]  Dx: East  Co: (5, 3, 0)  Tk: 34
+  P: 65  R: -8  S: 12
+
+  ---
+
+  You push 1.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:@0[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [1, 8, 2, 2, 1, 5, 8, 4, 7, 9, 5, 5, 5]  Dx: East  Co: (6, 3, 0)  Tk: 35
+  P: 66  R: -8  S: 13
+
+  ---
+
+  You push 0.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:1@[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [0, 1, 8, 2, 2, 1, 5, 8, 4, 7, 9, 5, 5, 5]  Dx: East  Co: (7, 3, 0)  Tk: 36
+  P: 67  R: -8  S: 14
+
+  ---
+
+  You turn left.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:1@[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [0, 1, 8, 2, 2, 1, 5, 8, 4, 7, 9, 5, ...]  Dx: North  Co: (7, 3, 0)  Tk: 37
+  P: 67  R: -10  S: 14
+
+  ---
+
+  You push 9.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::@3288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [9, 0, 1, 8, 2, 2, 1, 5, 8, 4, 7, 9, ...]  Dx: North  Co: (7, 2, 0)  Tk: 38
+  P: 47  R: -10  S: 15
+
+  ---
+
+  You push 1.
+
+  #[565S=]###=0876=#[#
+  #[2=[78@;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [1, 9, 0, 1, 8, 2, 2, 1, 5, 8, 4, 7, ...]  Dx: North  Co: (7, 1, 0)  Tk: 39
+  P: 27  R: -10  S: 16
+
+  ---
+
+  You turn right.
+
+  #[565S=]###=0876=#[#
+  #[2=[78@;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [1, 9, 0, 1, 8, 2, 2, 1, 5, 8, 4, 7, ...]  Dx: East  Co: (7, 1, 0)  Tk: 40
+  P: 27  R: -8  S: 16
+
+  ---
+
+  You poke 9 into slot 1.
+
+  #[565S=]###=0876=#[#
+  #[2=[781@68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [0, 1, 8, 2, 2, 1, 5, 8, 4, 7, 9, 5, 9, 5]  Dx: East  Co: (8, 1, 0)  Tk: 41
+  P: 28  R: -8  S: 14
+
+  ---
+
+  You push 6.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;@8:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [6, 0, 1, 8, 2, 2, 1, 5, 8, 4, 7, 9, ...]  Dx: East  Co: (9, 1, 0)  Tk: 42
+  P: 29  R: -8  S: 15
+
+  ---
+
+  You push 8.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;6@:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [8, 6, 0, 1, 8, 2, 2, 1, 5, 8, 4, 7, ...]  Dx: East  Co: (10, 1, 0)  Tk: 43
+  P: 30  R: -8  S: 16
+
+  ---
+
+  You swap 6 and 8.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68@5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [6, 8, 0, 1, 8, 2, 2, 1, 5, 8, 4, 7, ...]  Dx: East  Co: (11, 1, 0)  Tk: 44
+  P: 31  R: -8  S: 16
+
+  ---
+
+  You push 5.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:@547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [5, 6, 8, 0, 1, 8, 2, 2, 1, 5, 8, 4, ...]  Dx: East  Co: (12, 1, 0)  Tk: 45
+  P: 32  R: -8  S: 17
+
+  ---
+
+  You push 5.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5@47955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [5, 5, 6, 8, 0, 1, 8, 2, 2, 1, 5, 8, ...]  Dx: East  Co: (13, 1, 0)  Tk: 46
+  P: 33  R: -8  S: 18
 
   ---
 
   You push 4.
 
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #@,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:55@7955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [4, 2, 9, 9, 8, 9, 5, 0, 8, 3, 5, 7, 6]  Dx: North  Co: (1, 3, 0)  Tk: 45
-  P: 61  R: 6  S: 13
-
-  ---
-
-  You get 13 from register S.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #@30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [13, 4, 2, 9, 9, 8, 9, 5, 0, 8, 3, ...]  Dx: North  Co: (1, 2, 0)  Tk: 46
-  P: 41  R: 6  S: 14
+  St: [4, 5, 5, 6, 8, 0, 1, 8, 2, 2, 1, 5, ...]  Dx: East  Co: (14, 1, 0)  Tk: 47
+  P: 34  R: -8  S: 19
 
   ---
 
-  You turn right.
+  You push 7.
 
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #@30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:554@955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [13, 4, 2, 9, 9, 8, 9, 5, 0, 8, 3, 5, ...]  Dx: East  Co: (1, 2, 0)  Tk: 47
-  P: 41  R: 8  S: 14
-
-  ---
-
-  You push 3.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s@0:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [3, 13, 4, 2, 9, 9, 8, 9, 5, 0, 8, 3, ...]  Dx: East  Co: (2, 2, 0)  Tk: 48
-  P: 42  R: 8  S: 15
-
-  ---
-
-  You push 0.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s3@:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [0, 3, 13, 4, 2, 9, 9, 8, 9, 5, 0, 8, ...]  Dx: East  Co: (3, 2, 0)  Tk: 49
-  P: 43  R: 8  S: 16
-
-  ---
-
-  You swap 3 and 0.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30@5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [3, 0, 13, 4, 2, 9, 9, 8, 9, 5, 0, 8, ...]  Dx: East  Co: (4, 2, 0)  Tk: 50
-  P: 44  R: 8  S: 16
-
-  ---
-
-  You push 5.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:@]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [5, 3, 0, 13, 4, 2, 9, 9, 8, 9, 5, 0, ...]  Dx: East  Co: (5, 2, 0)  Tk: 51
-  P: 45  R: 8  S: 17
-
-  ---
-
-  You turn right.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:@]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [5, 3, 0, 13, 4, 2, 9, 9, 8, 9, 5, ...]  Dx: South  Co: (5, 2, 0)  Tk: 52
-  P: 45  R: 10  S: 17
+  St: [7, 4, 5, 5, 6, 8, 0, 1, 8, 2, 2, 1, ...]  Dx: East  Co: (15, 1, 0)  Tk: 48
+  P: 35  R: -8  S: 20
 
   ---
 
   You push 9.
 
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;@[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547@55]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [9, 5, 3, 0, 13, 4, 2, 9, 9, 8, 9, ...]  Dx: South  Co: (5, 3, 0)  Tk: 53
-  P: 65  R: 10  S: 18
-
-  ---
-
-  You turn right.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;@[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [9, 5, 3, 0, 13, 4, 2, 9, 9, 8, 9, 5, ...]  Dx: West  Co: (5, 3, 0)  Tk: 54
-  P: 65  R: 12  S: 18
-
-  ---
-
-  You poke 9 into slot 5.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[@9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [3, 0, 13, 4, 2, 9, 9, 8, 9, 5, 9, 8, ...]  Dx: West  Co: (4, 3, 0)  Tk: 55
-  P: 64  R: 12  S: 16
-
-  ---
-
-  You turn left.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[@9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [3, 0, 13, 4, 2, 9, 9, 8, 9, 5, 9, ...]  Dx: South  Co: (4, 3, 0)  Tk: 56
-  P: 64  R: 10  S: 16
-
-  ---
-
-  You turn left.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[@9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [3, 0, 13, 4, 2, 9, 9, 8, 9, 5, 9, 8, ...]  Dx: East  Co: (4, 3, 0)  Tk: 57
-  P: 64  R: 8  S: 16
-
-  ---
-
-  You push 9.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;@[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [9, 3, 0, 13, 4, 2, 9, 9, 8, 9, 5, 9, ...]  Dx: East  Co: (5, 3, 0)  Tk: 58
-  P: 65  R: 8  S: 17
-
-  ---
-
-  You turn left.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;@[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [9, 3, 0, 13, 4, 2, 9, 9, 8, 9, 5, ...]  Dx: North  Co: (5, 3, 0)  Tk: 59
-  P: 65  R: 6  S: 17
+  St: [9, 7, 4, 5, 5, 6, 8, 0, 1, 8, 2, 2, ...]  Dx: East  Co: (16, 1, 0)  Tk: 49
+  P: 36  R: -8  S: 21
 
   ---
 
   You push 5.
 
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:@]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:55479@5]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [5, 9, 3, 0, 13, 4, 2, 9, 9, 8, 9, ...]  Dx: North  Co: (5, 2, 0)  Tk: 60
-  P: 45  R: 6  S: 18
-
-  ---
-
-  You turn right because 9 > 5.
-
-  #[60799895..08Ss35=#
-  #];##@0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [3, 0, 13, 4, 2, 9, 9, 8, 9, 5, 9, 8, ...]  Dx: East  Co: (5, 1, 0)  Tk: 61
-  P: 25  R: 8  S: 16
+  St: [5, 9, 7, 4, 5, 5, 6, 8, 0, 1, 8, 2, ...]  Dx: East  Co: (17, 1, 0)  Tk: 50
+  P: 37  R: -8  S: 22
 
   ---
 
-  You push 0.
+  You push 5.
 
-  #[60799895..08Ss35=#
-  #];##=@;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:554795@]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [0, 3, 0, 13, 4, 2, 9, 9, 8, 9, 5, 9, ...]  Dx: East  Co: (6, 1, 0)  Tk: 62
-  P: 26  R: 8  S: 17
-
-  ---
-
-  You poke 0 into slot 3.
-
-  #[60799895..08Ss35=#
-  #];##=0@00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [0, 13, 4, 2, 9, 9, 8, 9, 5, 9, 8, 0, ...]  Dx: East  Co: (7, 1, 0)  Tk: 63
-  P: 27  R: 8  S: 15
-
-  ---
-
-  You push 0.
-
-  #[60799895..08Ss35=#
-  #];##=0;@0=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [0, 0, 13, 4, 2, 9, 9, 8, 9, 5, 9, 8, ...]  Dx: East  Co: (8, 1, 0)  Tk: 64
-  P: 28  R: 8  S: 16
-
-  ---
-
-  You push 0.
-
-  #[60799895..08Ss35=#
-  #];##=0;0@=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [0, 0, 0, 13, 4, 2, 9, 9, 8, 9, 5, 9, ...]  Dx: East  Co: (9, 1, 0)  Tk: 65
-  P: 29  R: 8  S: 17
-
-  ---
-
-  You continue straight because 0 = 0.
-
-  #[60799895..08Ss35=#
-  #];##=0;00@]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [0, 13, 4, 2, 9, 9, 8, 9, 5, 9, 8, ...]  Dx: East  Co: (10, 1, 0)  Tk: 66
-  P: 30  R: 8  S: 15
+  St: [5, 5, 9, 7, 4, 5, 5, 6, 8, 0, 1, 8, ...]  Dx: East  Co: (18, 1, 0)  Tk: 51
+  P: 38  R: -8  S: 23
 
   ---
 
   You turn right.
 
-  #[60799895..08Ss35=#
-  #];##=0;00@]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:554795@]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [0, 13, 4, 2, 9, 9, 8, 9, 5, 9, 8, ...]  Dx: South  Co: (10, 1, 0)  Tk: 67
-  P: 30  R: 10  S: 15
-
-  ---
-
-  You turn right because 13 > 0.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61@]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [4, 2, 9, 9, 8, 9, 5, 9, 8, 0, 5, 7, 6]  Dx: West  Co: (10, 2, 0)  Tk: 68
-  P: 50  R: 12  S: 13
+  St: [5, 5, 9, 7, 4, 5, 5, 6, 8, 0, 1, ...]  Dx: South  Co: (18, 1, 0)  Tk: 52
+  P: 38  R: -6  S: 23
 
   ---
 
-  You push 1.
+  You go south.
 
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=6@=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5@[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [1, 4, 2, 9, 9, 8, 9, 5, 9, 8, 0, 5, 7, 6]  Dx: West  Co: (9, 2, 0)  Tk: 69
-  P: 49  R: 12  S: 14
+  St: [5, 5, 9, 7, 4, 5, 5, 6, 8, 0, 1, ...]  Dx: South  Co: (18, 2, 0)  Tk: 53
+  P: 58  R: -6  S: 23
+
+  ---
+
+  You push 2.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:@=
+  #####]19;=]=###]##[]
+
+  St: [2, 5, 5, 9, 7, 4, 5, 5, 6, 8, 0, ...]  Dx: South  Co: (18, 3, 0)  Tk: 54
+  P: 78  R: -6  S: 24
+
+  ---
+
+  You turn left.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:@=
+  #####]19;=]=###]##[]
+
+  St: [2, 5, 5, 9, 7, 4, 5, 5, 6, 8, 0, 1, ...]  Dx: East  Co: (18, 3, 0)  Tk: 55
+  P: 78  R: -8  S: 24
+
+  ---
+
+  You turn right because 5 > 2.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2@
+  #####]19;=]=###]##[]
+
+  St: [5, 9, 7, 4, 5, 5, 6, 8, 0, 1, 8, ...]  Dx: South  Co: (19, 3, 0)  Tk: 56
+  P: 79  R: -6  S: 22
+
+  ---
+
+  You turn right.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2@
+  #####]19;=]=###]##[]
+
+  St: [5, 9, 7, 4, 5, 5, 6, 8, 0, 1, 8, 2, ...]  Dx: West  Co: (19, 3, 0)  Tk: 57
+  P: 79  R: -4  S: 22
+
+  ---
+
+  You push 2.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:@=
+  #####]19;=]=###]##[]
+
+  St: [2, 5, 9, 7, 4, 5, 5, 6, 8, 0, 1, 8, ...]  Dx: West  Co: (18, 3, 0)  Tk: 58
+  P: 78  R: -4  S: 23
+
+  ---
+
+  You swap 5 and 2.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,@2=
+  #####]19;=]=###]##[]
+
+  St: [5, 2, 9, 7, 4, 5, 5, 6, 8, 0, 1, 8, ...]  Dx: West  Co: (17, 3, 0)  Tk: 59
+  P: 77  R: -4  S: 23
+
+  ---
+
+  You peek 4 from slot 5.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=@:2=
+  #####]19;=]=###]##[]
+
+  St: [4, 2, 9, 7, 4, 5, 5, 6, 8, 0, 1, 8, ...]  Dx: West  Co: (16, 3, 0)  Tk: 60
+  P: 76  R: -4  S: 23
+
+  ---
+
+  You turn left because 2 < 4.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9@,:2=
+  #####]19;=]=###]##[]
+
+  St: [9, 7, 4, 5, 5, 6, 8, 0, 1, 8, 2, ...]  Dx: South  Co: (15, 3, 0)  Tk: 61
+  P: 75  R: -6  S: 21
+
+  ---
+
+  You turn right.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9@,:2=
+  #####]19;=]=###]##[]
+
+  St: [9, 7, 4, 5, 5, 6, 8, 0, 1, 8, 2, 2, ...]  Dx: West  Co: (15, 3, 0)  Tk: 62
+  P: 75  R: -4  S: 21
+
+  ---
+
+  You push 9.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,@=,:2=
+  #####]19;=]=###]##[]
+
+  St: [9, 9, 7, 4, 5, 5, 6, 8, 0, 1, 8, 2, ...]  Dx: West  Co: (14, 3, 0)  Tk: 63
+  P: 74  R: -4  S: 22
+
+  ---
+
+  You peek 2 from slot 9.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8@9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [2, 9, 7, 4, 5, 5, 6, 8, 0, 1, 8, 2, ...]  Dx: West  Co: (13, 3, 0)  Tk: 64
+  P: 73  R: -4  S: 22
+
+  ---
+
+  You push 8.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s@,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [8, 2, 9, 7, 4, 5, 5, 6, 8, 0, 1, 8, ...]  Dx: West  Co: (12, 3, 0)  Tk: 65
+  P: 72  R: -4  S: 23
+
+  ---
+
+  You get 23 from register S.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6@8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [23, 8, 2, 9, 7, 4, 5, 5, 6, 8, 0, ...]  Dx: West  Co: (11, 3, 0)  Tk: 66
+  P: 71  R: -4  S: 24
 
   ---
 
   You push 6.
 
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=@1=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.@s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [6, 1, 4, 2, 9, 9, 8, 9, 5, 9, 8, 0, ...]  Dx: West  Co: (8, 2, 0)  Tk: 70
-  P: 48  R: 12  S: 15
-
-  ---
-
-  You turn left because 1 < 6.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]@61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [4, 2, 9, 9, 8, 9, 5, 9, 8, 0, 5, 7, 6]  Dx: South  Co: (7, 2, 0)  Tk: 71
-  P: 47  R: 10  S: 13
+  St: [6, 23, 8, 2, 9, 7, 4, 5, 5, 6, 8, ...]  Dx: West  Co: (10, 3, 0)  Tk: 67
+  P: 70  R: -4  S: 25
 
   ---
 
-  You peek 8 from slot 4.
+  You go west.
 
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[@3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[@6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [8, 2, 9, 9, 8, 9, 5, 9, 8, 0, 5, 7, 6]  Dx: South  Co: (7, 3, 0)  Tk: 72
-  P: 67  R: 10  S: 13
+  St: [6, 23, 8, 2, 9, 7, 4, 5, 5, 6, 8, 0, ...]  Dx: West  Co: (9, 3, 0)  Tk: 68
+  P: 69  R: -4  S: 25
 
   ---
 
   You turn left.
 
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[@3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[@6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [8, 2, 9, 9, 8, 9, 5, 9, 8, 0, 5, 7, 6]  Dx: East  Co: (7, 3, 0)  Tk: 73
-  P: 67  R: 8  S: 13
-
-  ---
-
-  You push 3.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,@;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [3, 8, 2, 9, 9, 8, 9, 5, 9, 8, 0, 5, 7, 6]  Dx: East  Co: (8, 3, 0)  Tk: 74
-  P: 68  R: 8  S: 14
+  St: [6, 23, 8, 2, 9, 7, 4, 5, 5, 6, 8, ...]  Dx: South  Co: (9, 3, 0)  Tk: 69
+  P: 69  R: -6  S: 25
 
   ---
 
-  You poke 3 into slot 8.
+  You turn right because 23 > 6.
 
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3@1;5s7[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;@]=###]##[]
 
-  St: [2, 9, 9, 3, 9, 5, 9, 8, 0, 5, 7, 6]  Dx: East  Co: (9, 3, 0)  Tk: 75
-  P: 69  R: 8  S: 12
+  St: [8, 2, 9, 7, 4, 5, 5, 6, 8, 0, 1, 8, ...]  Dx: West  Co: (9, 4, 0)  Tk: 70
+  P: 89  R: -4  S: 23
+
+  ---
+
+  You poke 2 into slot 8.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19@=]=###]##[]
+
+  St: [9, 7, 4, 5, 5, 6, 8, 0, 1, 8, 2, 2, ...]  Dx: West  Co: (8, 4, 0)  Tk: 71
+  P: 88  R: -4  S: 21
+
+  ---
+
+  You push 9.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]1@;=]=###]##[]
+
+  St: [9, 9, 7, 4, 5, 5, 6, 8, 0, 1, 8, 2, ...]  Dx: West  Co: (7, 4, 0)  Tk: 72
+  P: 87  R: -4  S: 22
 
   ---
 
   You push 1.
 
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;@;5s7[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]@9;=]=###]##[]
 
-  St: [1, 2, 9, 9, 3, 9, 5, 9, 8, 0, 5, 7, 6]  Dx: East  Co: (10, 3, 0)  Tk: 76
-  P: 70  R: 8  S: 13
+  St: [1, 9, 9, 7, 4, 5, 5, 6, 8, 0, 1, 8, ...]  Dx: West  Co: (6, 4, 0)  Tk: 73
+  P: 86  R: -4  S: 23
 
   ---
 
-  You poke 1 into slot 2.
+  You turn right.
 
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1@5s7[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]@9;=]=###]##[]
 
-  St: [9, 9, 3, 9, 5, 9, 8, 0, 1, 7, 6]  Dx: East  Co: (11, 3, 0)  Tk: 77
-  P: 71  R: 8  S: 11
+  St: [1, 9, 9, 7, 4, 5, 5, 6, 8, 0, 1, 8, ...]  Dx: North  Co: (6, 4, 0)  Tk: 74
+  P: 86  R: -2  S: 23
+
+  ---
+
+  You push 1.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:@0[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [1, 1, 9, 9, 7, 4, 5, 5, 6, 8, 0, 1, ...]  Dx: North  Co: (6, 3, 0)  Tk: 75
+  P: 66  R: -2  S: 24
+
+  ---
+
+  You swap 1 and 1.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2:@93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [1, 1, 9, 9, 7, 4, 5, 5, 6, 8, 0, 1, ...]  Dx: North  Co: (6, 2, 0)  Tk: 76
+  P: 46  R: -2  S: 24
+
+  ---
+
+  You push 8.
+
+  #[565S=]###=0876=#[#
+  #[2=[7@1;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [8, 1, 1, 9, 9, 7, 4, 5, 5, 6, 8, 0, ...]  Dx: North  Co: (6, 1, 0)  Tk: 77
+  P: 26  R: -2  S: 25
+
+  ---
+
+  You turn left because 1 < 8.
+
+  #[565S@]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [1, 9, 9, 7, 4, 5, 5, 6, 8, 0, 1, 8, ...]  Dx: West  Co: (6, 0, 0)  Tk: 78
+  P: 6  R: -4  S: 23
+
+  ---
+
+  You set register S to 1.
+
+  #[565@=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [5]  Dx: West  Co: (5, 0, 0)  Tk: 79
+  P: 5  R: -4  S: 1
 
   ---
 
   You push 5.
 
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;@s7[594=
-  ]2=#[]#[####],=:[=0=
+  #[56@S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [5, 9, 9, 3, 9, 5, 9, 8, 0, 1, 7, 6]  Dx: East  Co: (12, 3, 0)  Tk: 78
-  P: 72  R: 8  S: 12
+  St: [5, 5]  Dx: West  Co: (4, 0, 0)  Tk: 80
+  P: 4  R: -4  S: 2
 
   ---
 
-  You get 12 from register S.
+  You push 6.
 
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5@7[594=
-  ]2=#[]#[####],=:[=0=
+  #[5@5S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [12, 5, 9, 9, 3, 9, 5, 9, 8, 0, 1, 7, 6]  Dx: East  Co: (13, 3, 0)  Tk: 79
-  P: 73  R: 8  S: 13
+  St: [6, 5, 5]  Dx: West  Co: (3, 0, 0)  Tk: 81
+  P: 3  R: -4  S: 3
+
+  ---
+
+  You push 5.
+
+  #[@65S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [5, 6, 5, 5]  Dx: West  Co: (2, 0, 0)  Tk: 82
+  P: 2  R: -4  S: 4
+
+  ---
+
+  You turn left.
+
+  #[@65S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [5, 6, 5, 5]  Dx: South  Co: (2, 0, 0)  Tk: 83
+  P: 2  R: -6  S: 4
+
+  ---
+
+  You push 2.
+
+  #[565S=]###=0876=#[#
+  #[@=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [2, 5, 6, 5, 5]  Dx: South  Co: (2, 1, 0)  Tk: 84
+  P: 22  R: -6  S: 5
+
+  ---
+
+  You turn left.
+
+  #[565S=]###=0876=#[#
+  #[@=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [2, 5, 6, 5, 5]  Dx: East  Co: (2, 1, 0)  Tk: 85
+  P: 22  R: -8  S: 5
+
+  ---
+
+  You turn right because 5 > 2.
+
+  #[565S=]###=0876=#[#
+  #[2@[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [6, 5, 5]  Dx: South  Co: (3, 1, 0)  Tk: 86
+  P: 23  R: -6  S: 3
+
+  ---
+
+  You turn left because 5 < 6.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[@2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [5]  Dx: East  Co: (3, 2, 0)  Tk: 87
+  P: 43  R: -8  S: 1
+
+  ---
+
+  You push 2.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=@::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [2, 5]  Dx: East  Co: (4, 2, 0)  Tk: 88
+  P: 44  R: -8  S: 2
+
+  ---
+
+  You swap 5 and 2.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2@:93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [5, 2]  Dx: East  Co: (5, 2, 0)  Tk: 89
+  P: 45  R: -8  S: 2
+
+  ---
+
+  You swap 2 and 5.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2:@93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [2, 5]  Dx: East  Co: (6, 2, 0)  Tk: 90
+  P: 46  R: -8  S: 2
+
+  ---
+
+  You push 9.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::@3288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [9, 2, 5]  Dx: East  Co: (7, 2, 0)  Tk: 91
+  P: 47  R: -8  S: 3
+
+  ---
+
+  You push 3.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::9@288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [3, 9, 2, 5]  Dx: East  Co: (8, 2, 0)  Tk: 92
+  P: 48  R: -8  S: 4
+
+  ---
+
+  You push 2.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93@88]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [2, 3, 9, 2, 5]  Dx: East  Co: (9, 2, 0)  Tk: 93
+  P: 49  R: -8  S: 5
+
+  ---
+
+  You push 8.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::932@8]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [8, 2, 3, 9, 2, 5]  Dx: East  Co: (10, 2, 0)  Tk: 94
+  P: 50  R: -8  S: 6
+
+  ---
+
+  You push 8.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::9328@]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [8, 8, 2, 3, 9, 2, 5]  Dx: East  Co: (11, 2, 0)  Tk: 95
+  P: 51  R: -8  S: 7
+
+  ---
+
+  You turn right.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::9328@]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [8, 8, 2, 3, 9, 2, 5]  Dx: South  Co: (11, 2, 0)  Tk: 96
+  P: 51  R: -6  S: 7
+
+  ---
+
+  You get 7 from register S.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6@8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [7, 8, 8, 2, 3, 9, 2, 5]  Dx: South  Co: (11, 3, 0)  Tk: 97
+  P: 71  R: -6  S: 8
+
+  ---
+
+  You turn right because 8 > 7.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]@###]##[]
+
+  St: [8, 2, 3, 9, 2, 5]  Dx: West  Co: (11, 4, 0)  Tk: 98
+  P: 91  R: -4  S: 6
+
+  ---
+
+  You turn right.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]@###]##[]
+
+  St: [8, 2, 3, 9, 2, 5]  Dx: North  Co: (11, 4, 0)  Tk: 99
+  P: 91  R: -2  S: 6
+
+  ---
+
+  You get 6 from register S.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6@8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [6, 8, 2, 3, 9, 2, 5]  Dx: North  Co: (11, 3, 0)  Tk: 100
+  P: 71  R: -2  S: 7
+
+  ---
+
+  You push 8.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::9328@]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [8, 6, 8, 2, 3, 9, 2, 5]  Dx: North  Co: (11, 2, 0)  Tk: 101
+  P: 51  R: -2  S: 8
+
+  ---
+
+  You swap 6 and 8.
+
+  #[565S=]###=0876=#[#
+  #[2=[781;68@5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [6, 8, 8, 2, 3, 9, 2, 5]  Dx: North  Co: (11, 1, 0)  Tk: 102
+  P: 31  R: -2  S: 8
+
+  ---
+
+  You turn right because 8 > 6.
+
+  #[565S=]###@0876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [8, 2, 3, 9, 2, 5]  Dx: East  Co: (11, 0, 0)  Tk: 103
+  P: 11  R: 0  S: 6
+
+  ---
+
+  You push 0.
+
+  #[565S=]###=@876=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [0, 8, 2, 3, 9, 2, 5]  Dx: East  Co: (12, 0, 0)  Tk: 104
+  P: 12  R: 0  S: 7
+
+  ---
+
+  You push 8.
+
+  #[565S=]###=0@76=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
+
+  St: [8, 0, 8, 2, 3, 9, 2, 5]  Dx: East  Co: (13, 0, 0)  Tk: 105
+  P: 13  R: 0  S: 8
 
   ---
 
   You push 7.
 
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s@[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=08@6=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [7, 12, 5, 9, 9, 3, 9, 5, 9, 8, 0, ...]  Dx: East  Co: (14, 3, 0)  Tk: 80
-  P: 74  R: 8  S: 14
-
-  ---
-
-  You turn left.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s@[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [7, 12, 5, 9, 9, 3, 9, 5, 9, 8, 0, ...]  Dx: North  Co: (14, 3, 0)  Tk: 81
-  P: 74  R: 6  S: 14
+  St: [7, 8, 0, 8, 2, 3, 9, 2, 5]  Dx: East  Co: (14, 0, 0)  Tk: 106
+  P: 14  R: 0  S: 9
 
   ---
 
-  You turn right because 12 > 7.
+  You push 6.
 
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1=@]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=087@=#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [5, 9, 9, 3, 9, 5, 9, 8, 0, 1, 7, 6]  Dx: East  Co: (14, 2, 0)  Tk: 82
-  P: 54  R: 8  S: 12
-
-  ---
-
-  You turn right.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1=@]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [5, 9, 9, 3, 9, 5, 9, 8, 0, 1, 7, 6]  Dx: South  Co: (14, 2, 0)  Tk: 83
-  P: 54  R: 10  S: 12
+  St: [6, 7, 8, 0, 8, 2, 3, 9, 2, 5]  Dx: East  Co: (15, 0, 0)  Tk: 107
+  P: 15  R: 0  S: 10
 
   ---
 
-  You push 7.
+  You turn right because 7 > 6.
 
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s@[594=
-  ]2=#[]#[####],=:[=0=
+  #[565S=]###=0876@#[#
+  #[2=[781;68:5547955]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [7, 5, 9, 9, 3, 9, 5, 9, 8, 0, 1, 7, 6]  Dx: South  Co: (14, 3, 0)  Tk: 84
-  P: 74  R: 10  S: 13
-
-  ---
-
-  You turn left because 5 < 7.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],@:[=0=
-
-  St: [9, 9, 3, 9, 5, 9, 8, 0, 1, 7, 6]  Dx: East  Co: (14, 4, 0)  Tk: 85
-  P: 94  R: 8  S: 11
+  St: [8, 0, 8, 2, 3, 9, 2, 5]  Dx: South  Co: (16, 0, 0)  Tk: 108
+  P: 16  R: 2  S: 8
 
   ---
 
-  You swap 9 and 9.
+  You push 9.
 
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=@[=0=
+  #[565S=]###=0876=#[#
+  #[2=[781;68:5547@55]
+  [s[=2::93288]###<5.[
+  #=2:2:10[.6s8,9=,:2=
+  #####]19;=]=###]##[]
 
-  St: [9, 9, 3, 9, 5, 9, 8, 0, 1, 7, 6]  Dx: East  Co: (15, 4, 0)  Tk: 86
-  P: 95  R: 8  S: 11
-
-  ---
-
-  You turn left.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=@[=0=
-
-  St: [9, 9, 3, 9, 5, 9, 8, 0, 1, 7, 6]  Dx: North  Co: (15, 4, 0)  Tk: 87
-  P: 95  R: 6  S: 11
-
-  ---
-
-  You turn left.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=@[=0=
-
-  St: [9, 9, 3, 9, 5, 9, 8, 0, 1, 7, 6]  Dx: West  Co: (15, 4, 0)  Tk: 88
-  P: 95  R: 4  S: 11
-
-  ---
-
-  You continue straight because 9 = 9.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],@:[=0=
-
-  St: [3, 9, 5, 9, 8, 0, 1, 7, 6]  Dx: West  Co: (14, 4, 0)  Tk: 89
-  P: 94  R: 4  S: 9
-
-  ---
-
-  You peek 0 from slot 3.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####]@=:[=0=
-
-  St: [0, 9, 5, 9, 8, 0, 1, 7, 6]  Dx: West  Co: (13, 4, 0)  Tk: 90
-  P: 93  R: 4  S: 9
-
-  ---
-
-  You turn right.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####]@=:[=0=
-
-  St: [0, 9, 5, 9, 8, 0, 1, 7, 6]  Dx: North  Co: (13, 4, 0)  Tk: 91
-  P: 93  R: 6  S: 9
-
-  ---
-
-  You get 9 from register S.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1==]928[
-  #4,[;9[,3;1;5@7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [9, 0, 9, 5, 9, 8, 0, 1, 7, 6]  Dx: North  Co: (13, 3, 0)  Tk: 92
-  P: 73  R: 6  S: 10
-
-  ---
-
-  You turn left because 0 < 9.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]1@=]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [9, 5, 9, 8, 0, 1, 7, 6]  Dx: West  Co: (13, 2, 0)  Tk: 93
-  P: 53  R: 4  S: 8
-
-  ---
-
-  You push 1.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]@==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [1, 9, 5, 9, 8, 0, 1, 7, 6]  Dx: West  Co: (12, 2, 0)  Tk: 94
-  P: 52  R: 4  S: 9
-
-  ---
-
-  You turn right.
-
-  #[60799895..08Ss35=#
-  #];##=0;00=]<8727];#
-  #s30:5]=61=]@==]928[
-  #4,[;9[,3;1;5s7[594=
-  ]2=#[]#[####],=:[=0=
-
-  St: [1, 9, 5, 9, 8, 0, 1, 7, 6]  Dx: North  Co: (12, 2, 0)  Tk: 95
-  P: 52  R: 6  S: 9
+  St: [9, 8, 0, 8, 2, 3, 9, 2, 5]  Dx: South  Co: (16, 1, 0)  Tk: 109
+  P: 36  R: 2  S: 9
 
   ---
 
   You go upstairs.
 
-  St: [1, 9, 5, 9, 8, 0, 1, 7, 6]  Dx: North  Co: (12, 1, -1)  Tk: 96
-  P: -68  R: 6  S: 9
+  St: [9, 8, 0, 8, 2, 3, 9, 2, 5]  Dx: South  Co: (16, 2, -1)  Tk: 110
+  P: -44  R: 2  S: 9
 
 example_answer: |-
-  96
+  110

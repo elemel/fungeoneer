@@ -18,7 +18,7 @@ This dungeon introduces tiles with getters and setters for register S (marked `s
 
 Peekers and pokers treat the inventory and stack as a single sequence of slots: indices below zero refer to the inventory, while zero and above refer to the stack. Registers A through Z are mapped to slots -1 through -26, respectively.
 
-For a peeker tile, pop argument `a` from the stack, then push the number in slot `a` onto the stack. For a poker tile, pop two arguments from the stack: first `a`, then `b`. Write `b` to slot `a`.
+For a peeker tile, pop a number `a` from the stack. Read another number `b` from slot `a`. Push `b` onto the stack. For a poker tile, pop two numbers from the stack: first `a`, then `b`. Write `b` to slot `a`.
 
 After how many ticks do you leave the dungeon?
 

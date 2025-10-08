@@ -10,7 +10,7 @@ You have entered the fourth dungeon. You stand at the bottom of the staircase wh
 
 This dungeon introduces tiles with arithmetic operators: adders (marked `+` on the map), subtractors (marked `-`), multipliers (marked `*`), dividers (marked `/`), and modulators (marked `%`).
 
-Whenever you trigger an operator tile, pop two arguments from the stack: first `a`, then `b`. Apply the operator with `b` as the left operand and `a` as the right, then push the result onto the stack.
+Whenever you trigger an operator tile, pop two numbers from the stack: first `a`, then `b`. Apply the operator with `b` as the left operand and `a` as the right, then push the result onto the stack.
 
 Adders, subtractors, and multipliers perform addition, subtraction, and multiplication, respectively. Dividers perform floor division, rounding down toward negative infinity.
 

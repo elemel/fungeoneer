@@ -18,7 +18,7 @@ This dungeon introduces wall tiles for turning diagonally: backward-left-turners
 
 As before, wall tiles block you from moving forward to them, but you still trigger them from the adjacent tile. For a backward-left-turner tile, turn 135 degrees to the left. For a forward-left-turner tile, turn 45 degrees to the left. For a forward-right-turner tile, turn 45 degrees to the right. For a backward-right-turner tile, turn 135 degrees to the right.
 
-This dungeon also introduces tiles with getters and setters for register R (marked `r` or `R`). For an R-getter tile, push your rotation onto the stack. For an R-setter tile, pop your rotation from the stack, changing your direction accordingly.
+This dungeon also introduces tiles with getters and setters for register R (marked `r` or `R`). For an R-getter tile, push register R onto the stack. For an R-setter tile, pop register R from the stack, changing your direction accordingly.
 
 After how many ticks do you leave the dungeon?
 
@@ -33,7 +33,7 @@ Consider an example dungeon:
 {{ problem.example_map }}
 ```
 
-The log below shows you exploring the example dungeon, with your location marked `@` on the map. The status lines now also show your rotation (labeled `R`).
+The log below shows you exploring the example dungeon, with your location marked `@` on the map. The status lines now also show your rotation as register R (labeled `R`).
 
 ```
 {{ problem.example_log }}

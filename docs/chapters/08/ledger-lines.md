@@ -14,7 +14,7 @@ With your affairs in order, you consult the map:
 {{ problem.map }}
 ```
 
-This dungeon introduces tiles with getters and setters for register S (marked `s` or `S`  on the map), along with peekers (marked `,`) and pokers (marked `;`). Whenever you trigger an S-getter tile, push the stack size onto the stack. For an S-setter tile, pop the stack size from the stack.
+This dungeon introduces tiles with getters and setters for register S (marked `s` or `S`  on the map), along with peekers (marked `,`) and pokers (marked `;`). Whenever you trigger an S-getter tile, push register S onto the stack. For an S-setter tile, pop register S from the stack. This resizes the stack.
 
 Peekers and pokers treat the inventory and stack as a single sequence of slots: indices below zero refer to the inventory, while zero and above refer to the stack. Registers A through Z are mapped to slots -1 through -26, respectively.
 
@@ -33,7 +33,7 @@ Consider an example dungeon:
 {{ problem.example_map }}
 ```
 
-The log below shows you exploring the example dungeon, with your location marked `@` on the map. The status lines now also show the stack size (labeled `S`).
+The log below shows you exploring the example dungeon, with your location marked `@` on the map. The status lines now also show the stack size as register S (labeled `S`).
 
 ```
 {{ problem.example_log }}

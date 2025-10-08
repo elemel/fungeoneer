@@ -14,7 +14,7 @@ The binary bitwise operators handle arguments and results in the same way as the
 
 The bitwise operators reinterpret their arguments as unsigned 32-bit integers after popping them from the stack. Then they apply the corresponding operations to the arguments. Finally, each operator reinterprets the result as a signed 32-bit integer before pushing it onto the stack.
 
-Inverters, and-gates, or-gates, and exclusive-or-gates have their usual meanings. Shifters move the bits of `a` to the left by `b % 32` bit positions. The shift is circular: bits that disappear on one side reappear on the other.
+Inverters, and-gates, or-gates, and exclusive-or-gates have their usual meanings. Shifters move the bits of `b` to the left by `a % 32` bit positions. The shift is circular: bits that disappear on one side reappear on the other.
 
 After how many ticks do you leave the dungeon?
 

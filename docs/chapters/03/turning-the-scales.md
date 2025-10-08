@@ -4,7 +4,9 @@
 
 You have entered the third dungeon. You stand at the bottom of the staircase where you entered, facing east. On the bottom stair, you spot a purse of stacking, clearly left behind by accident. You grab it for safekeeping.
 
-Though empty for the time being, the purse has plenty of room for a tall stack of numbers. Adding a number to the top is called pushing, while removing one is called popping. After securing the purse to your belt, you consult the map:
+Though empty for the time being, the purse has plenty of room for a tall stack of numbers. Adding a number to the top is called pushing, while removing one is called popping.
+
+After securing the purse to your belt, you consult the map:
 
 ```
 {{ problem.map }}

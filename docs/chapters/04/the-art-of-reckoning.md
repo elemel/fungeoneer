@@ -12,9 +12,9 @@ This dungeon introduces tiles with arithmetic operators: adders (marked `+` on t
 
 Whenever you trigger an operator tile, pop two numbers from the stack: first `a`, then `b`. Apply the operator with `b` as the left operand and `a` as the right, then push the result onto the stack.
 
-Adders, subtractors, and multipliers perform addition, subtraction, and multiplication, respectively. Dividers perform floor division, rounding down toward negative infinity.
+Adders, subtractors, and multipliers perform addition, subtraction, and multiplication, respectively. Dividers perform floor division, rounding down toward negative infinity. Modulators perform floor modulo, where the result has the same sign as the divisor.
 
-Modulators perform the modulo operation: `c = b % a`, where the result `c` has the same sign as the divisor `a`. Alternatively, the modulo operation can be expressed using floor division: `c = b - (b / a) * a`.
+All numbers on the stack are signed 32-bit integers, and all operators perform signed 32-bit arithmetic. Numeric underflow and overflow are fully supported, but division by zero is strictly forbidden.
 
 After how many ticks do you leave the dungeon?
 

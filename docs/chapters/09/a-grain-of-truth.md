@@ -16,7 +16,7 @@ For the other bitwise operator tiles, pop two numbers from the stack: first `a`,
 
 And-gates, or-gates, and exclusive-or-gates perform bitwise-and, bitwise-or, and bitwise-exclusive-or, respectively.
 
-Shifters perform an arithmetic shift: move the bits of `b` to the left by `a` bit positions, or to the right if `a` is negative.
+Shifters perform bit shifting, moving the bits of `b` to the left by `a` bit positions, or to the right if `a` is negative. Right shifts are arithmetic, preserving the sign of `b`.
 
 After how many ticks do you leave the dungeon?
 

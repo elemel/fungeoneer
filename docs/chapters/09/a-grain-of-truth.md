@@ -10,7 +10,7 @@ You have entered the ninth dungeon. You stand at the bottom of the staircase whe
 
 This dungeon introduces tiles with bitwise operators: inverters (marked `~` on the map), and-gates (marked `&`), or-gates (marked `|`), exclusive-or-gates (marked `^`), and shifters (marked `\`).
 
-Whenever you trigger an inverter tile, apply bitwise inversion to the top number on the stack.
+Whenever you trigger an inverter tile, apply bitwise inversion to the number at the top of the stack.
 
 For the other bitwise operator tiles, pop two numbers from the stack: first `a`, then `b`. Apply the operator with `b` as the left operand and `a` as the right. Push the result onto the stack.
 

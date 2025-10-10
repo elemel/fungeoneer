@@ -8,13 +8,15 @@ You have entered the ninth dungeon. You stand at the bottom of the staircase whe
 {{ problem.map }}
 ```
 
-This dungeon introduces tiles with bitwise operators: inverters (marked `~` on the map), and-gates (marked `&`), or-gates (marked `|`), exclusive-or-gates (marked `^`), and shifters (marked `\`). Inverters are unary, while the other bitwise operators are binary.
+This dungeon introduces tiles with bitwise operators: inverters (marked `~` on the map), and-gates (marked `&`), or-gates (marked `|`), exclusive-or-gates (marked `^`), and shifters (marked `\`).
 
-The binary bitwise operators handle arguments and results in the same way as the arithmetic operators (`+`, `-`, `*`, `/`, and `%`). Inverters are also similar, but pop only one argument from the stack.
+Whenever you trigger an inverter tile, apply bitwise inversion to the top number on the stack.
 
-The bitwise operators reinterpret their arguments as unsigned 32-bit integers after popping them from the stack. Then they apply the corresponding operations to the arguments. Finally, each operator reinterprets the result as a signed 32-bit integer before pushing it onto the stack.
+For the other bitwise operator tiles, pop two numbers from the stack: first `a`, then `b`. Apply the operator with `b` as the left operand and `a` as the right. Push the result onto the stack.
 
-Inverters, and-gates, or-gates, and exclusive-or-gates have their usual meanings. Shifters move the bits of `b` to the left by `a % 32` bit positions. The shift is circular: bits that disappear on one side reappear on the other.
+And-gates, or-gates, and exclusive-or-gates perform bitwise-and, bitwise-or, and bitwise-exclusive-or, respectively.
+
+Shifters perform an arithmetic shift: move the bits of `b` to the left by `a` bit positions, or to the right if `a` is negative.
 
 After how many ticks do you leave the dungeon?
 

@@ -12,7 +12,7 @@ Unrolling the scroll, you identify it as a magic map. It ripples and shifts into
 
 The dungeon is arranged as a grid of tiles. The directions on the map are right for east, down for south, left for west, and up for north. The staircase tile is marked `<` on the map.
 
-You discover a contraption that was rolled into the map: an amulet of timekeeping. You sling it around your neck, hanging close to your heart. With every tick of the clockwork, you are compelled to move forward to the next tile and trigger its effect. You trigger only one tile per tick. If triggering a tile causes you to move again during the same tick, no further tile is triggered by the additional move. Triggering a floor tile (marked `&nbsp;` or `.`) has no effect.
+You discover a contraption that was rolled into the map: an amulet of timekeeping. You sling it around your neck, hanging close to your heart. With every tick of the clockwork, you are compelled to move forward to the next tile and trigger its effect. You trigger only one tile per tick. If triggering a tile causes you to move again during the same tick, no further tile is triggered by the additional move. Triggering a floor tile (marked <code>&nbsp;</code> or `.`) has no effect.
 
 Besides the staircase and floor tiles, the dungeon also contains wall tiles of different kinds: left-turners (marked `[`), right-turners (marked `]`), and halters (marked `#`). Wall tiles block you from moving forward to them, but you still trigger them from the adjacent tile. For a left-turner tile, turn 90 degrees to the left. For a right-turner tile, turn 90 degrees to the right. For a halter tile, do not turn at all, effectively halting forever.
 

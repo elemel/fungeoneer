@@ -10,7 +10,7 @@ Though empty for the time being, the purse has plenty of room for a tall stack o
 {{ problem.map }}
 ```
 
-This dungeon introduces tiles with digits (marked `0` through `9` on the map), swappers (marked `:`), and junctions (marked `=`). Whenever you trigger a digit tile, push the corresponding number onto the stack. For a swapper tile, swap the two numbers at the top of the stack.
+This dungeon introduces tiles with digits (marked `0` through `9` on the map), swappers (marked `\`), and junctions (marked `=`). Whenever you trigger a digit tile, push the corresponding number onto the stack. For a swapper tile, swap the two numbers at the top of the stack.
 
 For a junction tile, pop two numbers from the stack: first `a`, then `b`. If `b` is less than `a`, turn 90 degrees to the left. If `b` is greater than `a`, turn 90 degrees to the right. If the numbers are equal, do not turn at all.
 

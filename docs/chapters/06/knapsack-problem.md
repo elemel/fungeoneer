@@ -1,6 +1,6 @@
-## Chapter 6: Knapsack
+## Chapter 6: Knapsack Problem
 
-{% assign problem = site.data.problems.knapsack %}
+{% assign problem = site.data.problems.knapsack_problem %}
 
 You have entered the sixth dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
 
@@ -14,7 +14,7 @@ When you trigger a getter tile, push the corresponding register onto the stack. 
 
 After how many ticks do you leave the dungeon?
 
-From here, you can [continue to the answer](../../answers/chapters/06/knapsack.md).
+From here, you can [continue to the answer](../../answers/chapters/06/knapsack-problem.md).
 
 
 ### Example

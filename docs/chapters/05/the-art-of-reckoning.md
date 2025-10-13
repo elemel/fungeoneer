@@ -1,8 +1,8 @@
-## Chapter 4: The Art of Reckoning
+## Chapter 5: The Art of Reckoning
 
 {% assign problem = site.data.problems.the_art_of_reckoning %}
 
-You have entered the fourth dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
+You have entered the fifth dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
 
 ```
 {{ problem.map }}
@@ -17,7 +17,7 @@ Modulators perform floor modulo, where the result has the same sign as the divis
 
 After how many ticks do you leave the dungeon?
 
-From here, you can [continue to the answer](../../answers/chapters/04/the-art-of-reckoning.md).
+From here, you can [continue to the answer](../../answers/chapters/05/the-art-of-reckoning.md).
 
 
 ### Example

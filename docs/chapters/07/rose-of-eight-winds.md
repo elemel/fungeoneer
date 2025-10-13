@@ -1,8 +1,8 @@
-## Chapter 6: Rose of Eight Winds
+## Chapter 7: Rose of Eight Winds
 
 {% assign problem = site.data.problems.rose_of_eight_winds %}
 
-You have entered the sixth dungeon. You stand at the bottom of the staircase where you entered, facing east. A skeleton is slumped against the staircase. A glimmer on its bony fist catches your eye: a ring of revolution. You cautiously retrieve the ring, claiming it as register R.
+You have entered the seventh dungeon. You stand at the bottom of the staircase where you entered, facing east. A skeleton is slumped against the staircase. A glimmer on its bony fist catches your eye: a ring of revolution. You cautiously retrieve the ring, claiming it as register R.
 
 The ring tracks your rotation in octants (increments of 45 degrees), starting at zero for east. Turning left (counter-clockwise) decreases the rotation, while turning right (clockwise) increases it. The rotation does not reset after a full revolution of eight octants, instead extending arbitrarily high or low.
 
@@ -22,7 +22,7 @@ This dungeon also introduces tiles with getters and setters for register R (mark
 
 After how many ticks do you leave the dungeon?
 
-From here, you can [continue to the answer](../../answers/chapters/06/rose-of-eight-winds.md).
+From here, you can [continue to the answer](../../answers/chapters/07/rose-of-eight-winds.md).
 
 
 ### Example

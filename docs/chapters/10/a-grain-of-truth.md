@@ -1,8 +1,8 @@
-## Chapter 9: A Grain of Truth
+## Chapter 10: A Grain of Truth
 
 {% assign problem = site.data.problems.a_grain_of_truth %}
 
-You have entered the ninth dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
+You have entered the tenth dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
 
 ```
 {{ problem.map }}
@@ -20,7 +20,7 @@ Shifters perform bit shifting, moving the bits of `b` to the left by `a` bit pos
 
 After how many ticks do you leave the dungeon?
 
-From here, you can [continue to the answer](../../answers/chapters/09/a-grain-of-truth.md).
+From here, you can [continue to the answer](../../answers/chapters/10/a-grain-of-truth.md).
 
 
 ### Example

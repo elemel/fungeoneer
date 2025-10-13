@@ -1,1331 +1,1365 @@
 map: |-
-  ][DUhcx-mfkvvy9AItW-CLKL+c%z*GxA2qzwCZeN3VB=[[]][[=[Am4=[X/=[[]][[[[[8=xZkm98M=]
-  =tzxTV>qB9ow2iK*cBL*bi*-D8w][=][]][]=]][[[[=moG5.B3dc%-gT+gTalyxl+>DdM4[=[cn=]=[
-  c]u[DB1CoWYk8M4H048y/7cyl5Cjn6Hh[v\Uaqvv7ItwaQgzmbe[5[]I[Z]2]=MB<>Igo/AjN9Ii\T%C
-  MJ0dI=o[yBnh4====3\nfVl2nU5KtAa\eCx+5cceU1Y[0Dj4Jv\w\[]6[%[j[\]][[]]/CO=X6Q=d[cx
-  ZzH[%%0=5zH7y+eyLOGXIJz5O0CdhUtBz-a5NbaiM9yG\IUG\xijvbK6BD+*7FCQhW-yv34fujahV]bx
-  5eTJM4+89bHFK*yQoj/AHFWfw9HWd\7K5CmGt18[]=GKi-Ui0gKTNnM+4%=>maexLt7TILggl1x2icA=
-  QC[=eVqw9GkAO=>+4[[[][]]]]D[]>*MAlmKC9CIaw\y.BYBDBz8D5ZF.yKaaVUto=m6gezNnuAyhmt=
-  *=vAXCuQJ>>=][>-]][][[]]lv9.tiB\wJM8Q[]]]a]]q[]v]92L2[[W[/-[]B]]]Qe]BEhja[wjU]I-
-  b[]Ga4uwOcFx0Cg7.Yy6y1.8gDeZU1htNva+dN7cvN>[v[[Q]obKG[]Y[W%[>hq>[XQ[\cZIq]EB2>k=
-  U[X>8fl8i7CN]]3C\[]]][[[/[n]]][U>4[[.[[[]EL]Y][x[tA.Z]]T]Wg][f]d[UT[+yxG3[++M]km
-  V[\G>G3n0wZ3][.Cx]][[]][=WezggZx/zQuW3b*D8%g>/Ol*k.zHWe07nJ8Ll30*dAV8Vq-WFu95=u\
-  5]6fZ+aIxvBX[[li/[[[[[[[][%[][[lM%]]e]]]]WY]c[]u[mm8v>]A[ww][z]u]oN7Q=z.4aI=%0Cy
-  m[V%Q*LgzLuUOeC=5>][[]]]][n[]]]EOC[]=4H>[nV]b][H[ddH7k[Z[iA][-]kYUM[t4L4b]Q]aivm
-  7]GbL+3Y=Z[g][9>gC\HjT6bo45n*tKMtwTN*t.EzXvgt>Deo>O+%1XdN/jhlCA1.LYMwfNHD.fYJ1fc
-  3]LiY=Dx>bLg][[[=y8bB5nZbOmiwggzE5[[>XbF6\NV]1IZQyN+aMa.+7X-IybEbiXwwvq=G[J[F]dl
-  b]uZd\MabbDnI>7LC=W4+O6VIAJ1qmIb=]][>Baql3Mvumn\lk\Fizx.YNy.8DBemQ5xU1.Q7[6[=[Kw
-  7=5Nu/C[v]*eJzl\]4iKnt*kZuYNeJ09[Vl6QLQmcY3d1dkkK9z7KMG=[[=VLN[]72C+T5d9x.-X2EFL
-  kw]>>\IF=]]4>[[]][[][[[][[=h43H7YgCX>][=4=g[]][5[]I8]7.8DCO1d>9+YT*8==ME=[f[>]o]
-  +O.oKvqz%Xt\wV-+M%9UwV%9MOzddD-gcyHe1IOxHUz=e2a=[9F6cM7cbf\-n*t1gABC1W2%7wXTYvU[
-  [=xQTxV-X1nXvoz9%GG.4JI*XAgE3dxX>=FlyNuikNf[[[[[][]f7XdxDTCeYFL0To90zF=xvg=]=j4=
+  ][-lQy.=[=][d6H6-=m/UiX8-l2204Kt4-GxnlO4:qJj>]=YY970l]=G9==]]=jUKo>w847JH2oq.5=[
+  =JF9EVuTINzu:_A5_-AW8kJEvX:An][a=[][=6==b54gCz/wJUV6EM3Be7>=XFh>ELvz8Io%-mQVuVL=
+  ]lq[X7ZX=5]]o=TC]d[Fy%CmOW>ELgtco]xy6V80iTA]1=+DIw%X+o-0]u[ICZanAcYDcycD9xl/qaZ]
+  CL36Zd=.=N>]_h==fu3EMCa%ZimwHf%e=gg4gm1g*6Cm3eZ+Y_OfqIH_O7QkX[=xcNF:Hfl\L6]]=>g[
+  YA5=5=.7[te[K=Y_OTX=:ZaJdqiAmXUX>h]BX*nCw1cWx9>OD8Kmnh7nTi=9[[JhD%h*+iQFM11Zdk6o
+  +ElU=73m4hf%*1l6Mtqm>=>o][x[b=BjYWvXm8QO*x3DmjA.jzB.OBvfDB_xMbOeyay][Ib=]J[]-]Eu
+  x_c_>cwI=+HCeo*t\xuT]F=Z-2KWi=-m[o>]*\tQ4Ogj4uWZ0>][2_*z>QC_[YZ1ULVNJ>XLyLDiY=tq
+  zW+2inv82B=iHk]-7=1G7mVFCKKKIi.nxW:M2A4eiZW9EQo%ZWc88zNQybZQ-akBQmK\d1\V5uGZqb7=
+  _W1=>WTuknD%>tduhqqeWNkXnud0-5NV6md4D85qoG\oXl5]]Z[]hNg8WxLe]fu[]]V]M3[n[JD[0c-[
+  jMq]BNcDtT[Z]<0w8*]Z495KOuc40oFKY+=A5/Z:ocE:Tx-DbfwyU4vzbLC1ft5XqJ7>*aj8\9V=Mt>M
+  mtJwc*5L+\4ZXkTlw-kWgwxCa>9ziy8]V2ox/YKOaNHj6d8NieX>>G>2DY-mo4C7[[Z[H[fIkeHOBhXY
+  dji.Q/:x=Nb.zkZBKl>Eyy2kw>m:VOe0ekAM=[O:]=Acm9damvfzz+G0yhoV9[:[[>w=x[zD[38]v=E=
+  %tUivz6k>egeWm]At4A=]L1=g]I7Ao*k=k]=968W5m3exA5DK1zoyFf>_/F7U-ty+-/o9qzCCQxlz=3[
+  2o-H[:Hh[i]Wk=Q_aXGWl.Z4I[[*k[4]XnTlOxL:*y4VN0wXcFk=DIG_=l_.2DGtLH4:8KyT7ZXHMy-A
+  \7A4=zabgDiavni4WBciYB+KF2u\f6z6dXVKEdXnkv.AbM>_i6L9QEZ3iJm_X++JotnbT_a6yUCY4LY=
+  nC1B[:MV]Zg*t>Y.bj1+:cWGxd5=n]Au4FE>d[]1]DaVjq_Z1=]I=cT9]Nw_]]h]][][=m6OYh3bg=+[
+  l8ww]gT21aCjHBN[5WIfJc3owIqHwOTzqwv8wNy1vu07+/iqZ8/.k4=D]W3-f*VYCzmuNG.:FFe76>n[
+  =E=W]>xH==F_cbjx7[=z_I3TDUZxIC4./7cE8d+DAbG=miWGN6JGq=Fq=C7*M5_2-ixoi-722Ma[7]8[
+  [Gk+N*\WwMYdibwo*bG3xcHm9_N8Vuvl+tf*.d+=[]][]cBA/FU.4=]][[]=Y2nyyv4aeL_uaV.4zUF[
+  ]=]C85==57QTGJkY5imO2gAMD49K=>=]]aa.GXL2fg\K8VhQ5m51_YXvVC*EZv=3BVVJ2>=J[=Amz[[[
 
-  []===g][=gh7dFcqfxLZ8CK3%n0E10Z7z=>3Ic640ehn=>jCjztVE9z8wwCdGLJnvct5GxGzIDhmwh][
-  ]WOJCT<4ZFm-gx5GZVQ*iy.u5m8GmJ>uA4iCI\tN/U=]m[][=L2y]=J1t9][[[[4FG<iIiD]][[[[]x]
-  [h2>Wz[]i[A7=][][ZOD=[][[[>xJJTuNLVx2*2F5h3YgQ[AfXwg-O8C%cL3u=cud<jEfiA.vDqk-LB[
-  =meQnNNb=hlDm.L=>.jB+qVg+6[gFyWATGIlEC/NHMT\x\vZTLt.M>J+x.-\1UwqJaVz4jOCMnWM\qfD
-  o+E[dI/x7>Hg=]MKLkE\A>N+UX+JgY7g.Ge8-MJuz-76noLw9yAqW>m=]u5]]I[I[][[][j[][][][Qg
-  B3W8cm1-U\qM]Axocq4=.ATGDcdqe2GgBUX6qVMM1buv*xHiHc.YIzW\WDB<[0[3]][[]]c][[][]]>7
-  [zV=wK5ceTgGiQ<wvq-OGc\aJ4Y=+<]]=2bKI6G+]>j=G>=KaE3l7\7W[9/-[1]U]][[[[t[[][[][aq
-  ]7+jDqXFO<<g]G<[]y[]E=25\hixQdCvFYQUuYEw.Vhjy5.XvJ9cvUkBqZluj3I.zN%YaZ>[][[]]]OM
-  oQKbGAzw24g+%zDKBx>\ay[]]>knB6[inWazj1BvN=<YlKaUxFixvvya.+GW<7]<TBiE6YC+ym1GA<8J
-  b6t<0kTUvgVVWF[[]7OEt][[[[]l]D[2<8]][]]N]7[Uk[WK=gX6Az8O=Ng=yO>q\-AH%6wcV+*c=[8y
-  jTe]<0.M0][5]>\vLET8Gm=]]]]Y[7]Z]y]][]jghH2\<A86>/.Q]g][cC>[]N[[[[[]]]]]]][].[C9
-  -TX]EM8yI[[v[m[[[VTOf]8[[[[L[v[.]%]]][LD[f]nFYte]]]]]<[[iqFVUBIo2b7ZGY8y%T8Za=uj
-  AY\[wVDX>]]U[B][[<>UFka1=[[i[E]h]x]][]v<Wt\16T90F\ACcbQiL[][[K[[][[][][[[]]]v4O\
-  \GG]/eiJg>=21iA<..I08]vDiIkOy\vVv3F\TkEhwY1gN<=nd<jHy/6F%c3Y6DG*vwEeL%JE44gWw3vw
-  =w9Dii9v<g=jAz+lqZWoxhOf9x\GYQGWVI%t<]o[]I]-D[]=K/c-HgXBNjy-fKclTqVxHX7XGAU]e]VG
-  [.kI.e0Zz1fZD<-A7>[wJ[][>K=mfCVqK2LT<[X[]D[>Ibgkt/ze\c%iNOmE87QahuaYwm*LenIb2=\W
-  [7[[=c2AXII%6hGCA6[DzCTwTcx9IQCho0\U9-lTuBQu6bGa3OJ.>8KIhLK/J>hG9gqJ1VZlk6DjEHot
-  ]5w<<2kI[>T><>][[[]36>[][[\q]k[4[>[]<EQ>Oj3Q>zt9z5eAG4ibMu0Ww<b*+GN8Fmk044=]<]FJ
-  [Uk[M[=VWx22Gnd1zVTlWxwjXK83>+>..G7Olk+lmA3\zK3jX=][>4d9OYul6hzBg/FJaxOj+j2WOB=e
-  [[]]k+ZmqfoMKoDyKZ8===[[[][]]=2[<>VDA3==[=0BhioTHAn31tHtN*DmoD6D83GnGj%Dw+16b>d=
+  [==yj=.oQ3K=[[]==[][]]][][=aw][jE\/=]][=QoAQ<IAmj1/uUXMd\Yj\38QF0Q<9zzQ+QQqjBL=[
+  ]tj]]9]==[]D-2F319-T3.DmDfwj>XYjl+wEjkZ0tCHo7JzwnuQ-8qe7CX<7tcL<j04vwlM_LnlFJaX[
+  =v>]*d_MejbdkG>WvwyYhHXeU%<oKOjMWI=7[]]w=LfAq][>=[][=][47-M.GIi74Gnuy9z8DCfTAT=[
+  =nU]>E[QH4<5nLWhN1JuB9=.[MqD=1gv6m+qFji4=.q3f*xgI=fCIu>qq75b4AOi8G.0GFyo1ibhq<b=
+  9AF=v.xbZ:-uLM.W5Eg_3M_>][]]F]9-<\z6y01ji/E9\_<GBmh3Z_DvDAx\9ze0:WWB8CGG1>UgZ=0X
+  +J\v[c[aoDm]]]]_i[][<Q<:f.C-ZzKWt=*Z[=>q-][[t[0dftw]i[yw[[_[][][[=hDgI]]]h]>]LxL
+  =FIV<X[Vtb%_2qT:30z/ugDoB4+%77Ma>b<-=Wne2aCO=[qu=<M2CLah<]H]zCAnvjgxV<u][Q[1[23c
+  [+LI:E]qTc=h/%5LT>[][XC=V%tMWi%Jndo_t_=yn[kV-a-**NXhi34G%Wv5GEV1Vd1vKzG8Eb1.D=ec
+  =Dqv<hg2hvKc<tEb4+G4IIH1MZ3bgazvvbiZVI65719k/%N/a:NkGU*.-n==>]>/BuxHM>5][E[T][VQ
+  lLjIO5=5M/xhvnO2N[90]B]NXgnE6xXVJn\h0kJkqHwCb\I>bC1C4[dN>e9k[u44\V[<>h=m_W1cWz<Z
+  _D0wuq=gEhah9i]]XuHmi.:Xq<UQfw844Gzqy-DV=*Gnv]:zG]7<<]<GKeg=Kq22_B8:GjlwvfgKVyNn
+  VMHffO]9YhNYEDNX-U<t>]X\C<0d2mAJaag2IDJ64Aq3nv/5zDIdC=k25UvfvdZKa<[[][]]]X[>c]E]
+  6NV24q]6<TyAb>whNEvm>=YJC34zUk5g87lu17maW91fA4o0E9df***<-%Cc24[>IqfG3n7FFvfi=[Y[
+  4a=/3Xoz+X8Nc_F:-v*XZ:3y_5hG%Xt-QhW=8A6h\.2IeC=]>LW*8g-9H]>ih*Y1Kv_mn_IwTBNb3kU%
+  5y=qd3vfOGggVyY2aj%\LyX\x:Glfv/aWnl=WA[Tw]9[]E<8CTXg5Q[]>L/5HfuUT\=Uq\tDivyBX=im
+  .1=Dd[BQIUbG8<MTF\cnV3+1x-wKLATv]L_<EmafAENOftDWZlUlT+gT%WVE%Hl4Yayy3F/Kyyof3q==
+  T.6I43O5n3dM]>W\>DaMb==B%hIaA[n]][]\==uk\iH1Kq=jUY4[=WiVdaaVnGBa9\7Qlj>M.f2v]<h[
+  [j]Wc<==kD[>bB>TjXbZ/fQTe+3Yw.=6J3e4VeGwU-7fc3B-dU/MdEiYFjy>D62qY3_1+x0:W8a2ouN[
+  ]3>[[4Qh:*4J>]DdnTWuK>mxn\92adqO0oElV4o>[]>2>hoCLeDYCYYgUO0CmTjTC_kIAj%gm=FXwKx]
+  ][]]]==ogQi7KEDge6k=[[=2fDdIN<=J63c>%-YzYq933+1d--:zczCl\:DjeMhF%H4Q><39e*2=[]][
 
-  ][]]=m1m%8Q0fD0DK5QukVzLcz5L-GYL01<[2L=[[[f=X<>Ql2j]][=CW1GgCbD+][Yxal\%iW=][[]]
-  =6Jt7[]=e]>7ZIj2\mDL1AAwXTEXu0<IVC8Q[tMjxbFbJ1U+fDz218MB9HwICIuX3wJQmgQem*HyU]d=
-  VBk<kLE1E6NFJzFhWfyexk2Hx><][[[[=t-Ivegm3l7Bi6W*FcFz1j1vdvEm9Lzh93./%][mU8bIE=W>
-  782W>UTa5/W*8=4z<[O%I*ocHMBU.gb[y[[[[q8[n>-Ay*+2bqk92<FDLvQ9>=D76-i/ya]h[[A[+jf-
-  cuOV[=Y>x<[cGOatyjMOY<fzxIQoJ/13*u-E\w%kd[.L=9D][]a]><\Ig62Mj4*zU0=OQ3KvV]U[I7Xe
-  ga=y4U%fQT+mhdmw/7014yEYt6noj-.g%mIWcKI7-YGj%At3nl5%Nai=]]]]]9[0[TN]NN]HB[5[/8<g
-  FW]a[3>]l[]>[l][n]0]][]]][][]]Q[g[][>cOlt<406<d][[u]]]V8]][[]c[C[\u]Ut[8d]Z]QujI
-  azoy5\mmONa4jI[=2Zl.qq6AvA-/.8Cnt%tKlx-uj[9.B.2]]=iJ%+o>[]][[3]J[4D]yo<a7xF[JNAT
-  G.OZ]Kl]6[[oQf\o%]<XYkfUI<]][]2[h[[[[]YdKeLQff0GNIm7Vxi5m8ufHhvc.6GE/bJ-U[jMecov
-  8y734f*FE83d=+zBU[]]]]][[8][[[v[N[]]]G+i[]]MZxuqfNtOOg8ykuAaKD<HNnA1Ewu49qj=vLhO
-  BFY9=tYMnxfT*<CcM]]][=7\VQ%X3doMLFH\hm-EeJe3ui\6<I.[[[0y[]<]]\va[I[[oM00]O9]n+b>
-  hj+4[YV]7[]9g]CXV][[[W]][-[[[]U]C[][[\9]]][[5ei[]C7[-[ufBhfLnkdaCCLXObCL]wz]NEo]
-  *ATl>J4[<[]XYIcH8M<]]8[][6[>Ka9yTxvj8XYEY=]]>M5TT-ynh[vc[]X][Myx]o[WWyo3[xi[ZMo]
-  I%5A5N=wf<][a[LTc[m[]f]][h[][]5]i][[]%=6TWh.GOi-CL%OHwWMoClXE/mlChMKEH-qoDbYXYt=
-  KUb+=D33haZTDKqAT[n[[C]][W]][[T[O[]]]ZX[]0]]OH9[[khmA]k6Jk8vgK1ihLZj/i%>>3I]Y/*7
-  V1=NuJu+2u>2mJ>hF<1fN4C*<=[[]]T]O]]]]DQ=U3q<eeE[[wbDd[=UugiCa=Z=oWt9.2HBdq]]fGnt
-  QFI5aqZDQqWw3-LUHCU8Uhi%0wfMFzgZwdbWYl>euh[]=IIe\m[.<N]4[hQUx<Y+-K>Vb2-WB9hkDz>A
-  [>]f]AXY3<n<=<23c>Q[]<[[iq[][[G[j<4l+V[<BLny<i\Z7uLYmae--1bLB.hiXaKQyJ45-Fn7UL]f
-  ]6]omZnj=]*=>MatiUYQ29>Dj0Qu<]<6L[[]]]]>7Nt3X*.g0v0I<c=yg2X0uU5wOC[=iAVZ-=[[]=[>
-  ]jcF1WDxYzUm=[[[]==DBZX[]C-F=][]><izq390zbk4===][[]=[==[]==[]]xkg1zy=[=q3qqxC<%=
+  [][XhVT:0F8avZXEME*4VLjKl1OiTN+0gBbUd8tv\GmH%xTk5cgK=][>z:mIDEY+1+*G0YZof==*=]>]
+  [%v\mKHIoqXB0>uZOD2NJtBk09q=<ZavDEIV>I2iKD+QiOvvNIa>xewJ][g=]][[[]]=Y0=KOqMt+=1[
+  ]><>thACnxakKd<Of9\wf]>HL:NBd*G9ydKWjk8OY%fU6xW<=>[=T\+kgND=haeeL16=zXnweXDcXq4>
+  oA-y<[][[XD9d>x]][][d]Bb==Qv7xh3%zKuNXmlDYX:9IqCqINWU.<TWX]>qL7WABhGLO6ehHDfd>f[
+  =4EL29>qzi>]=N6==fIthdL<OeFYeTqwmY>[[]][L=[[[][OBJ>dgFY-iB4a4UuZCaoqvVc-d<68EbH[
+  \BhH]CZ[]>U.*u..ZuHd-BgyLa%hFWcDyl]][[<N>xal=e\k4:L46Jd[]/[[[][[]>jWONEUeQz<q]q[
+  =12y2Qh4]zF]C=A>G[]>j[6:/H]Af[]]<Gw1TAD+=k*gZef40D2=FHgHehmkx*9EEqoq:5132:qvBQ=]
+  [nBZ]4W>4q0AcWu[9<fcwU2JI_]aH[][[B]]]]][m9]>4FN_6DvkVFzmoFo>acZ+mCoQ/:w>c/K9x9a=
+  ]*M0[1C]]cV[]uWiDMeVK+O4>JOO0zcQ+CU%LiTWfW[-8.DEv8e/*Zj=]y[e<f<]]X]o]<Wt[[5[U[GH
+  [:C7[U9=g3Z-EBk*hUld0>cyD2v+0xicwjZdgX=Lbt[W8-E<2*V=Obku<\]F96.C*/xO<e54vVu3.=No
+  ]Qxv[XN1=V8OeJoxhfAv[4Zz[4]MJ]][>GL*J7j:xfim[w[b2[]m0ZVdcloI39wNKx1Gav/EfHH2y6f*
+  KqOyxof-Fv4n%k%7-XV4<bzIcAB\Xe8wX.QNNn9lAGWF3fnOL=0Eu1_l]V]]][[[]m]K[oT>6eA<D]K4
+  TAZY]9z>EKYQg<mbDwww<Z_16=]xx][>]X]][[]qvyHj0HXxBl_[\M]HV-dlbTV<[=%%BJQQedOyc4iX
+  U:ZX]Ee]g=JYXN.K_LKU8x/mg\gL9yIY2e_.n:9%ZW==l4[]<=dV>kYW_a<vNgYo27f+K/e[][=T-=B]
+  =A=Na=g[VlQl_igc_AgIJYFIlI41N8_nd=]]][][a%:nFD/1zNtHvbM3<z[>vKk:aajnE==TObW>XLK[
+  ]o[[[J8]5]K[]JG]=[[]O12W][]>=[[>[c>[][][[*[2FD:+nCx8oVCM_haET.-:4O_cYyNzTeghM=Y]
+  =bfE>L=fEmx0Q<A]<1Biydo83\3MMqBQKfojmTJ*a7l71A/nV8=][T[k=X8jk_0dZCihO_<Ya4//N7V[
+  3Ii]]ZA*=0O</Y<[][]]=f_cxUnON/_>TItw1aTuh8JZ%IMV0hL2f3[Ge8w<M9Kvcn:HzAavhCwVhNy=
+  [W<VHxQ4oL%[<*BxQqQ5e<==L0Ba>[]=[]=0YqI<6o<.<3Hx9XY+y:M[]=V6tzb%0ailuMzOxKzJd[*]
+  ]+xe0\O0hy.90AEa9gwQ9FjLoCeUX:TJF*M<+v_Wk7[=x*>]5xzndD\-eVj:-vW8f4J=<V*o>WuvvO=[
 
-  ]]]]=33MoymFv%NaLY.qIFKv.kCW>[]][[]][[jv=[>ni.<[]=*FJv]=9dcNl+f/5ftoK7Yet5=]==[]
-  >Uk]Xh0XL9<]=4bw6Y4HiDt-hAh.*1]]][[T.HeOBUX56Qwl]O8-ff13kF>xOhWfAxTcD0.6jjK2wLT=
-  ][j[=8\vlBj5i0K7*][[]]]]=<OAT10Q=U5H[+2TAEYNnDtq8QG%nU>H7Ewdyn\0mGoyuE9fnmxv03><
-  [xw]<=GCua>[h[][%[]][vJk3u*n]1[F%nJa9q7lj<b\=][/=cW%G4tKfOQ]<LIoFkqG=>vx1]9]oXc1
-  ]..][W=<%znF4LTAi6/hTmo2Va6.Uw3TDK+GJeB=M]4]\]]H%[>\<J]0]]laQ62unL.Wn[][*1j]kD/X
-  [fn][1hZ[]3]q[][o[][[K[[=0XCuk74a%-hfo>Hh4XY=*D5H=lqtH%Wi14Z>eTMOzJ3DtdcKtI[i1tJ
-  ]>.[>e<G[[6<o[[>N]][[-[]]]]>kIA%5mEi<9][h[4]F][bj[[]c*MT]]]5][[[[]][[]]]Ic>]mo4C
-  a8fIe3u%f]NTq]]II[]][7[[[]][=E*6M>Qlgn9>iTi2l1ED6[]]F/w<z>+I30g[[[[]]]][[lm]o5VM
-  8af=Be]CiMW5D4M83ldf%0Q8CedjzoUV7GjMuEhV*6G2g*\=M-][/Y.O[]]l93cJ\>*N0uLg0T9]9JD>
-  jBXt1]qV7g/5i1Zm*k3M9Iiz4kH7FayzW.3K-wi=-]I[A]]%]D]]8hWH[]][NmM3mBGh*>n\>zW0=Zf=
-  JJ18j9NEA1I\gh>3*7mmef[]][]]yD[Kz2=k6TXEjQxjmq5qi=AxdzDz0Zgwg]j[[M[][]]]]V6[JMt<
-  KmI=qD==Z=f>Hx.Y[=fz39eV>yc.V6hxvWgyY5VVqOfN4k6Y8b6AAkL\8xDc.EfwNV/bjk2b.fANz=Ot
-  3q8]<=5M=TuwlgLI3-gUi>2K/g*<MO[]-W=hV=[[/[9]<]]4[[]]xAtV][]FD[2][Y[[][]]]q4[2]>T
-  kCLb\2HH+Qy2*kKudv3=f>DwXLY.F-tF8L5=[U5UY]7]X]].[][]T0z7][[QK[z][0[]]]>T*TX[1[oQ
-  qqQW][]=8mQ=h][]]m][[]5=v.2jeqKenM[][9kLH1Fbw[k.2vAxDa>qf1ADx4hiqhoW2gi<<X2Xv[ig
-  =CMOFUqk=G<-M0<M2u=>g5fW%D>11A\b]a][[[[4O[D[[[A=*TQc585CXG7hK9=[]][][[]-]65][]WK
-  ]o[jo2*VZ8tiBbez\A+inGEjtfte\/uvZ9J2lT<X\We3>Xw7a>[[*YkF][[*c\txY7<6DTX1*Hk9L[<Z
-  ]<]GE6WQT5Ox/aA[]<F=[]N[[]D]b8F=]%]]]]]T%*J]>[>[][][w=aw[[]\>>IQZLFWg%Wn+0-dA]QG
-  ]+][[[[]82nG<Tcm8l+vBv<MQn=X4L[K*A[>QJ/<Q]][i>t]]][]Fx=5-][>6y-EZDD17HKXy9JC8nz<
-  ]NVHqXaQ+n*8IKYlwv=nqecJ*mjI>][=<][[]][]x/IT=]=avBTyQx=]/MCyhFM299X8x7D=]d=[=[]=
+  ][===]]][[][oOiTabE=]][fOd-QH55aC=]]]]=ix]]]][[=/=\x%]=<>=[]>i8Ehe9Z/IkMnuaAdO<]
+  =9vnT][Hm=+/o<-L\d=IzV>4b02z6UAfuM.%<vtXO=H%xh8-M5[<6G=Ook7VTwv2w9/7+>Xa=][[[>%]
+  +<t<\99O=uQ%Vc\Ogxob[%<o]]>7V/I0myh\==myW9do==]D[<[2B]L[]NDjV66B9L\uYo%_.%a:UK/<
+  x]kwO[lW92t=d<6.KKVK1x[%]>j7QIlWD/9.vt-Y:llC%hhUzo9/CYw=moV<]]]][][]]][[9[]]1<N=
+  .=lg_F<=]N<z0bIQWx_\adVZ1-qKl:Jkv=<vzg0EOJiE>m[>[[<EZax*i2n-:jjVButLfKH7.[D-Mi0=
+  \[_xi=9]F<]lW[.EH1y]k*MItUqb2oHQoA>5fj-u<QDoDvf/GN7-UtA8aH2-XVG79<][]][T]]:]L%4l
+  O]fqJ8O>-OK=W]N<xv]<XZB_8Y7iD6k9oQlIGwD=kbt]]FwcT+fIJITkB+wIYtht27Z%iAD/8IIZaKQ%
+  f]EDj9[<UcD]Y=d82=4v19ElwD1J+H5/Dq*Mj*tijbb<xZFf622dzlQQbM1<t\V>]=1fH>z<TwQ[F7m]
+  -=Zi%MGjinAKTX0DZ+ImlKjT<V0y=[[[[kQhiV961+O0-UnNc*g_>M-KUZ>Fe:mbdzc9WZHjmT:oJEk=
+  i7va6UytT*eG*m*ETM+:\<d2mboyzYi-dhlW32ubctGg507TQkfJmGjtz67x5z:1f_HYG9LTUF+]M[/k
+  g[ym8>[U3f9[-kNE[]f=l=v9+]t]W][d<XJ[T/96O>Q6CjowoeXQQy/3d7ixm\nxnQhaWLhj_bQVXHqB
+  w]Zl924=G+lZ_yne3jKKFo:_m-t7=NudwqLQa:ejIxBMGG6lhIOOv4\8x0D-tmoVTOa_yo=<=GT=eh*\
+  7U:UjG0<_%xyyko*[6F_-iO8lk5>[[]<[H.[:NO][Eah7+yWKoUwWtTwY][[[[]n]-[[jiw67*vq>tq0
+  gGyC-]u[m6e]Cm1]]2kC][yb=fqoK6h8\w*dHmGYzo.D*q%B.DOV<[e]\][[[]]6[H[[i>8[F]L]-k]_
+  YFmQ=KV/>*.fbm=[If=kAVEyC+Hv7.Kl6dDO>OvM\>tn=aWCwWWF0vzWE7b<=9hQ5V_YGN13a1W<i:]a
+  v7ax9n580\7dw>][7]=fw6zoYtF<[[]<[W<3+GG>v]k]LwMzML4:CeQ+0l4Y=][=Vv[]=q-Z*U]Uik]l
+  0DF[<uIyg==Kmu4/ZH7e:A/eaX9xCY5hlgWHOO9N5CdFFMku+EhHZ_vJWo3Ed0iXxjenNkF>A=>vmg[Q
+  Z=lnF:.lf\aNEd[[z>*3J]iWaXDIvI+<=/>U\mXFc]>][][[[:>gK>5Fw9EN*87*m4XF>u=]gH==][[K
+  bq86t:m[[>1J=][[[[==][]=FWi[<DIV=[]][=O[][=y:Yv-eD\bU[9DfInLCeJq*VUz9:lDLxUT9o]3
+  [[=Ec2BD3aex+.TjI%GF4ZvfiiLDK>-OZ5fY:_LaAn=[[]<lGV[][][]\Tk:8-KtFeOMVjxY<:WMc=]]
 
-  []=5=H9o=]=IC7H-%G]=ou8==4=]<wu=0TB5.7zK*Z<l257Ve=[[]]][[]][]][[[[[cAxY1+h=[][[]
-  <wg1Q0YV6YQu317mChxOIOtDD7Z8LBNUoQ%n-JZeNmA9aYGWeHNjl=ZX6a<lLLANd2m[]]][[]L][*k[
-  I*0[y=UaoiuKKVWg/29+H=]zD]ehfjAIf-GYMzAbt.U7%CczL%\uh-<6w\JAcXedTDWM*\dvy62aIc<Q
-  m**[Nm[]Q]<MZ=[[]M]A[n]UY]]]][8%D7-E=]]=TMkcbLfuebABEynVxx4xulw4Di5u0<][]]b]i5[y
-  xxu]I*CjkwAHC=Dq[7[i[K[W=[aJ\Bb*[k=[i[[B]]]]]]]]]a<[]]J]][]]]]][[=+yoOn847y-9U5=
-  +Qx[qa[[J[[vOVbDNKYCHuY\.Um61*bbuQWH26<U]][][][]fHJ3hGDc03Wz<O22vNu\h+z=[]3l-LT[
-  J<C[<5][L][1[u[<].]1]F]v7yv<]\g7]lX[u[I/[][]]][[M[[]][l]][[][]][[Q[]][[8[]<j=cz[
-  ZZ\[4iki=*I=[M]]]w]7[h[7[Cu994\4m<hcQJK<1365EL%5c\2Dco-QW</mBGVkyNJLyNnXlYQIvoF[
-  =D8QcJ253e\l2ghmxDvEni2xX\m7AMj7[[=g6=jdCLj5EB6gcK2E1K89b0*b/j\5B<ao9oJiUJYLajG<
-  LIC4kW]k][[MDHeL5wK7]6[E[6Oq2CUz9\Dkm[HND\*6=]][E[][[[J]][][[[[[=nc+.<x/<GWgb0=g
-  CNhhyY[+][[Z[.<1NhN]]B]B[v[0]8%u[[][]][[]][]g[][B[]][[J][]][[][].[]][[]-N]=9=K4m
-  z0UYIGCfT75<T5c9f.yMfTLu<bQfeu6*nuca31hy8W%oZF][3][[][/[[]][]][]D[]][[]bL]]tmJn*
-  =KzMV[]H][[j[z][]X[Ux<d1lw8%XEdBOlUdY.-wz-]]XO[]G]]]][\[[[[[[[[[i[[[[fc4B][h4h<\
-  [2]3+qNmmEqJOI7TBo6ob<HBcV69+oEZV%I3Fq.]].]]7L]]x][[][Q][[][[][]MaxnT=<]nDQm=jAW
-  ]M[dZ/LvjoaLtIX\wny6HGwhXo=7]IyNcmAfQO-uJmDeu8Q-UbEYxg<%+cxont8M+q5LDUkoDm6B[Vml
-  [I[[]][k[[]=xZJ.QwW<[N[e]=<iO-+zYMoFJY3yuF8WwxHjAfAAhyOeIEJm2qMBF+93c1Axyq]]]VLA
-  ]ahLDo.GxW0+tF03VLxKA5GXkA-0HL4Vakn0ZM+owxH\<G5]J<j0YIFI20wE7tfxAQDHEJH\Nf-8EEEE
-  Emi%a0FOvA8.Kf[dxk5Fm3OFzjdDixXGOnA*cdZM[-[]<v<[o[][]]96Bz-a<<ebG0GEnX2*O=][]]y/
-  W7[][*WOXCX0KvWWEci6NQ5n/ozv.4HnCX+<[[]eh=]][<]]=X1eM2=Aybq<[][]]]]]qO4W0O1hKBaI
-  ==HwN[]/CQAeEz6=]=DCfI[=vzE=<Z==tToZyX75AxbE5TMe0KkI8i3\dxN=*qo71n+JQ5Qq7ZWH0w=]
+  []]=WU+X+*HKC=JA.]]][[=X]]=wY5ZLcTYNLebiHLJoNFnt=[yE_3=.<[[=<=a31fAWKLawwD]=8>F]
+  >Cv%5/eOWIvu\dHZxnL9uU<]WI-%cdnl4aFWQ]=TAJ==[[[[d=l==:nfeTe0i0[TM_nDn<DAuQH2M<W=
+  /7=+elI*Iz6TLTyY17km>kA[2[<[[.\dVII*aaHoZUlX:DcCzKkE.UIznQju\l_EMq6xXyi9]d]3[[A>
+  dj.-[>3IgVt8mw1/QbzO7Ago3<fc0[T/=[JEx1Who/iq>Cu.9o4+dmmjd*5\K-xJoJLj.f0C.UbIz[*[
+  jzc5]e=YVn39c692n3D0FHK7>%Nbmyt1b4-U=]W][[NW<=[<Tj/Qg[C[[]]o[ioFKeH-Q>ibT>]7=]i[
+  .:=.nYA=ghe/9XA\6Nv-bvkOljA9E[7=m6<hLBmLCl90JL6nm4.+zOl5%ew\T9m8:ioA5:455Y/:Zjdl
+  oi]8[]6<8mt:7HlOAyFjy=hF2[z[=f=lZTWUNXI0U]ULqJ[nJf7z0]2[[[[l[d]n][]][[[Q]Y]u.]EE
+  c7=+lFXZ9Iwx\:I*UFmb3zwkAUBjDm>n>vlwYgjW:>X\8=]NF=VY49JEq]]/]N[<2gCng<L0Zg>Ud]n.
+  -A]0=gy*uxN:eg.Of=[[>8HWTt0Eu1xza0ubBZ51:ZHtC[467k+o<8AQq\<8UFHv%j/]]][2[d[v9]Zo
+  z.]8d3b8-.>[]y][.L]][[lz]eb]6[]3TOc9HCMQag>jWyc=bDtA:9h:3OufMKG_CiG3E2\FXUe5.]HJ
+  Nn>]G<A[/:_2n9GOO_9OCLNxHtje+N:n*34Ihh6>J<[6AuF]8]klj]:]w[]/[/[=yf-ehD6YAT/_j[l*
+  uF>U-WGff1+KwJmk6wnmE*t5cq-%ioH%m5v._qwnJ\l/gZntfNNLWzxIVNg+HU3H9o-h/*k.6B7anyK=
+  f\JaUA=Mj2H[w4[]\x[][]Va]x+<J\0Z+%GGkfEfa>h=>A1oe>ee2]L[V][D[F[T7%X+9XW7Dh99<Y:]
+  +1=bm>>_lto3.dhYoKuV0/C1k.Ny.wfU4NQ\QY78OxEnghVxGmyKHm=[zfvG>G[7][xl=<]X>n=8dwF]
+  J7[74gc.<NIOXEyYzG0LH2mKyU%tN2IdNd/h<Awjd<%uNbzy=3A]H[F]1]]:]X]F][Q:.]]\]l1d:ok[
+  9Y[wG[3[+[][t<FW7\WH-HI0:b.v.-=MCKYFdIE</kFCj>Z*]E04_%eC+qZEi2q12k3-\aD1ZtOCVjCI
+  >T=Q5Q_M\Jh-t4YbME9>]qB4]z=]nT3J+Nzw/7.>MJUVk]wUyO09_3F>2Vm85=]GiJh_=Mj<]6<T2.ZO
+  ]Q[-=5=]y6a-H/zHw<w_[]]-CnvVvOa5MN<6b]hj=[<b=]][][<[=<]]=[]v5_q=][]-<BDvUI3Qd=n6
+  ]V]=]7w%4<[]W=[[=i/*+U3FYH0DzAiMWYXoW0YeI33G-\Ht.kUzKcf6l/h:-EvGk\23hLmlOH4=t]YT
+  ]nXi+tuOIa66.iAtTNQxLeeMLVMqu<t>_Y2b=vzF\\HMjcbUN6HG9FCLivJ/T/2bUgy89l/m6g9:i[==
+
+  ]=:Kzbmd==Zw69vAQ7b3.B9cw9vl%6bD_H7uT2k8AKDd1-MxMX86OuI/-ZwNIV:%IN*zIfx%2Vy/H<][
+  <3z\8\L9X1[O/TCIqq=+m4==T*=[]=9mTt]=9UDgc38G:fU.MBd8ngo18YhOFC4y:%c:a%9IkT8k=Jc]
+  =YgTWhUCdnE8ni.WWkie<Jne=1y/]hi8i_X/6C=:8zw*b=[[][][[]=t1F]=Ju3020yH*3kL3*XOo7v<
+  =qZD6<8=*[[=W*Fb\yWefEhHiVKJ[H.+h85OiAtOdd:4<AfVY6gb8jqm979k8jm=[6M_DgJ5=[][*]ug
+  [5]]][[QQ=b[lB6tf1qmi_kh<1lHXB[[[NhX[=3kYG_FqH]XyxA+O.ZITwA*:1hObjVoM<yKt<*xBFn=
+  ]o[j.MUtow:NkH2mKeO9j*VBL1w.o.Tn[=W_tu%CcGFF=c][/[][][2=\58yt:/e8\NGGm]]-z[jy9D]
+  [WiWcVkBQ0U*44ljlcxn\t0l0x7E_dMVNNUO+KK\vbZo*UL:Kx=YjO5kW9BINkebvo3u_1fQLXx*1_E=
+  ].]5x]]T\Cu]F[[]=T.MUdCCT1096[<.<[2-]Wg]]<LCOM[[7[]][]bu[G[]=DUWjEWmi=][Q4<=4C9c
+  ]o[kX]K482MylZ=zw]ac<[:9i=LhZcd07Eg/fUj.gk2-4IO=M[[][]WNj6DNt_ClfMFE1FuWlOHd6=3X
+  [f[oN[EbOv<=o[dCxq4\/MbVAf2Njk=]u[f9[7c[1=<=[y=4h[4+uM_CIm5k6JB04Hu.2hX=QAC=/*yZ
+  [\<ag]UOkTtzCHy%kcB1*0:A/t7aaj+eCVVU9Tu<j+n7ZEugW:BGFowF3zG2:yvjYkvjw+%b=e[uo/:I
+  =d<6B[8bwfqxMvvNEk=[[[GZgi=08NyT3xxFIkXCX7c2[I/D[%z][]]deI2JHaNXy=]]][][[C]jHJOm
+  =jyBv488gu8.Aba%qyv5Z]F1ThtF/bJyauwmiUKi*<4i<M/Q]<hx+UBv\L[q7kVzql%WocF5HfOyQD*=
+  ]EE_t<<xjaON3aizVA[]kxTE7D-6-V%\t1_G393xFy.[_Y=\4:=[]][[[]]E<][=Y8eenuXG<=z=z/Y[
+  ]][:nmoxAbZoD1xLKUC]6.f+5BTDG4aYT\QgV6eZ9O6lvlUyaxynUYNWXDx*VQTo-eG89lcy4.Gw5L0=
+  [of[+m=gEdcee9\]*CC=[q]a35BNZI=[:]Jb[85[E_=et<]cOKY9FavLG2DUU/vAD*-3kANOZ\w3A7+a
+  <YG]0=XIW=[\D]][L[F<ICC2l*n9B5fBF]NF[N7<09j.A74ZgUdD%Bf<2wtwfn_yk_.wtCg8EBl4u=*]
+  =Xl[C][k3-ibYHcQQ1IE15EvBkl_0cWZ=[A=20=8WqO9t0lTem\7UHYW-o*jEQ4gh14F3FkytIvgi57[
+  ]]KyTguAUj1+bfXwj+wf8n*]LAk1cIwf*_b_df5GEk1eY:immd9eOgNijwZG:hDoEbChz*7wkD+KWyT[
+  ]Oax=[]==hI_[]tu=[=Jf=][]=yD9F6<iMM[]*=]i=]]=i[=g23T8X8k3cj=2cbymE_6.gMC_ZGNm[]]
 
 answer: |-
-  8766
+  12257
 
 example_map: |-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
 
 example_log: |-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==@022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[@cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
 
-  St: []  Dx: East  Co: (14, 1, 0)  Tk: 0
+  St: []  Dx: East  Co: (5, 2, 0)  Tk: 0
   A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  L: 0  ...
 
   ---
 
-  You push 0.
+  You get 0 from register C.
 
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<@22z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<@Aa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [0]  Dx: East  Co: (15, 1, 0)  Tk: 1
+  St: [0]  Dx: East  Co: (6, 2, 0)  Tk: 1
   A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  L: 0  ...
-
-  ---
-
-  You push 2.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<0@2z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [2, 0]  Dx: East  Co: (16, 1, 0)  Tk: 2
-  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  L: 0  ...
-
-  ---
-
-  You push 2.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<02@z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [2, 2, 0]  Dx: East  Co: (17, 1, 0)  Tk: 3
-  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  L: 0  ...
-
-  ---
-
-  You get 0 from register Z.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022@=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [0, 2, 2, 0]  Dx: East  Co: (18, 1, 0)  Tk: 4
-  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  Z: 0  ...
-
-  ---
-
-  You turn right because 2 > 0.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z@
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [2, 0]  Dx: South  Co: (19, 1, 0)  Tk: 5
-  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  Z: 0  ...
-
-  ---
-
-  You set register Z to 2.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[@
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [0]  Dx: South  Co: (19, 2, 0)  Tk: 6
-  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  Z: 2  ...
-
-  ---
-
-  You push 0.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A@
-  [][]][]]=c9C0[]][]]]
-
-  St: [0, 0]  Dx: South  Co: (19, 3, 0)  Tk: 7
-  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  Z: 2  ...
-
-  ---
-
-  You turn right.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A@
-  [][]][]]=c9C0[]][]]]
-
-  St: [0, 0]  Dx: West  Co: (19, 3, 0)  Tk: 8
-  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  Z: 2  ...
 
   ---
 
   You set register A to 0.
 
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88@0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<c@a7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [0]  Dx: West  Co: (18, 3, 0)  Tk: 9
-  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  Z: 2  ...
-
-  ---
-
-  You push 8.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A8@A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [8, 0]  Dx: West  Co: (17, 3, 0)  Tk: 10
-  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  Z: 2  ...
+  St: []  Dx: East  Co: (7, 2, 0)  Tk: 2
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  L: 0  ...
 
   ---
 
-  You push 8.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A@8A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [8, 8, 0]  Dx: West  Co: (16, 3, 0)  Tk: 11
-  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  Z: 2  ...
-
-  ---
-
-  You set register A to 8.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=@88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [8, 0]  Dx: West  Co: (15, 3, 0)  Tk: 12
-  A: 8  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  Z: 2  ...
-
-  ---
-
-  You turn left because 0 < 8.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63@A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: []  Dx: South  Co: (14, 3, 0)  Tk: 13
-  A: 8  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  Z: 2  ...
-
-  ---
-
-  You turn right.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63@A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: []  Dx: West  Co: (14, 3, 0)  Tk: 14
-  A: 8  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  Z: 2  ...
-
-  ---
-
-  You push 3.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b6@=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [3]  Dx: West  Co: (13, 3, 0)  Tk: 15
-  A: 8  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  Z: 2  ...
-
-  ---
-
-  You push 6.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b@3=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [6, 3]  Dx: West  Co: (12, 3, 0)  Tk: 16
-  A: 8  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  Z: 2  ...
-
-  ---
-
-  You get 0 from register B.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5@63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [0, 6, 3]  Dx: West  Co: (11, 3, 0)  Tk: 17
-  A: 8  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  Z: 2  ...
-
-  ---
-
-  You push 5.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x@b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [5, 0, 6, 3]  Dx: West  Co: (10, 3, 0)  Tk: 18
-  A: 8  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  Z: 2  ...
-
-  ---
-
-  You get 0 from register X.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=@5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [0, 5, 0, 6, 3]  Dx: West  Co: (9, 3, 0)  Tk: 19
-  A: 8  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Z: 2  ...
-
-  ---
-
-  You turn right because 5 > 0.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a@x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [0, 6, 3]  Dx: North  Co: (8, 3, 0)  Tk: 20
-  A: 8  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Z: 2  ...
-
-  ---
-
-  You push 5.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X@6==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [5, 0, 6, 3]  Dx: North  Co: (8, 2, 0)  Tk: 21
-  A: 8  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Z: 2  ...
-
-  ---
-
-  You turn left because 0 < 5.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5@[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [6, 3]  Dx: West  Co: (8, 1, 0)  Tk: 22
-  A: 8  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Z: 2  ...
-
-  ---
-
-  You push 5.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A@=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [5, 6, 3]  Dx: West  Co: (7, 1, 0)  Tk: 23
-  A: 8  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Z: 2  ...
-
-  ---
-
-  You set register A to 5.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2@5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [6, 3]  Dx: West  Co: (6, 1, 0)  Tk: 24
-  A: 5  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Z: 2  ...
-
-  ---
-
-  You push 2.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c@A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [2, 6, 3]  Dx: West  Co: (5, 1, 0)  Tk: 25
-  A: 5  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Z: 2  ...
-
-  ---
-
-  You get 0 from register C.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9@2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [0, 2, 6, 3]  Dx: West  Co: (4, 1, 0)  Tk: 26
-  A: 5  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Z: 2  ...
-
-  ---
-
-  You push 9.
-
-  []=ZA265A\0=[cbz3=[]
-  =By@c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [9, 0, 2, 6, 3]  Dx: West  Co: (3, 1, 0)  Tk: 27
-  A: 5  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Z: 2  ...
-
-  ---
-
-  You get 0 from register Y.
-
-  []=ZA265A\0=[cbz3=[]
-  =B@9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [0, 9, 0, 2, 6, 3]  Dx: West  Co: (2, 1, 0)  Tk: 28
-  A: 5  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 0  Z: 2  ...
-
-  ---
-
-  You set register B to 0.
-
-  []=ZA265A\0=[cbz3=[]
-  =@y9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [9, 0, 2, 6, 3]  Dx: West  Co: (1, 1, 0)  Tk: 29
-  A: 5  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 0  Z: 2  ...
-
-  ---
-
-  You turn left because 0 < 9.
-
-  []=ZA265A\0=[cbz3=[]
-  @By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [2, 6, 3]  Dx: South  Co: (0, 1, 0)  Tk: 30
-  A: 5  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 0  Z: 2  ...
+  You get 0 from register A.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cA@7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0]  Dx: East  Co: (8, 2, 0)  Tk: 3
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  L: 0  ...
 
   ---
 
   You push 7.
 
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  @]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa@y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [7, 2, 6, 3]  Dx: South  Co: (0, 2, 0)  Tk: 31
-  A: 5  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 0  Z: 2  ...
-
-  ---
-
-  You set register Z to 7.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  @YB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [2, 6, 3]  Dx: South  Co: (0, 3, 0)  Tk: 32
-  A: 5  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 0  Z: 7  ...
+  St: [7, 0]  Dx: East  Co: (9, 2, 0)  Tk: 4
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  L: 0  ...
 
   ---
 
-  You turn left.
+  You get 0 from register Y.
 
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  @YB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7@_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [2, 6, 3]  Dx: East  Co: (0, 3, 0)  Tk: 33
-  A: 5  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 0  Z: 7  ...
-
-  ---
-
-  You set register Y to 2.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  Z@B9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [6, 3]  Dx: East  Co: (1, 3, 0)  Tk: 34
-  A: 5  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 2  Z: 7  ...
+  St: [0, 7, 0]  Dx: East  Co: (10, 2, 0)  Tk: 5
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  Y: 0  ...
 
   ---
 
-  You set register B to 6.
+  You drop 0.
 
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZY@9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y@:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [3]  Dx: East  Co: (2, 3, 0)  Tk: 35
-  A: 5  B: 6  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 2  Z: 7  ...
-
-  ---
-
-  You push 9.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB@\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [9, 3]  Dx: East  Co: (3, 3, 0)  Tk: 36
-  A: 5  B: 6  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 2  Z: 7  ...
+  St: [7, 0]  Dx: East  Co: (11, 2, 0)  Tk: 6
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  Y: 0  ...
 
   ---
 
-  You swap 3 and 9.
+  You duplicate 7.
 
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9@z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_@a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [3, 9]  Dx: East  Co: (4, 3, 0)  Tk: 37
-  A: 5  B: 6  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 2  Z: 7  ...
-
-  ---
-
-  You get 7 from register Z.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\@9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [7, 3, 9]  Dx: East  Co: (5, 3, 0)  Tk: 38
-  A: 5  B: 6  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 2  Z: 7  ...
+  St: [7, 7, 0]  Dx: East  Co: (12, 2, 0)  Tk: 7
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  Y: 0  ...
 
   ---
 
-  You push 9.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z@a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [9, 7, 3, 9]  Dx: East  Co: (6, 3, 0)  Tk: 39
-  A: 5  B: 6  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 2  Z: 7  ...
-
-  ---
-
-  You get 5 from register A.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9@=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [5, 9, 7, 3, 9]  Dx: East  Co: (7, 3, 0)  Tk: 40
-  A: 5  B: 6  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 2  Z: 7  ...
-
-  ---
-
-  You turn right because 9 > 5.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a@x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [7, 3, 9]  Dx: South  Co: (8, 3, 0)  Tk: 41
-  A: 5  B: 6  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 2  Z: 7  ...
-
-  ---
-
-  You turn left because 3 < 7.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]@c9C0[]][]]]
-
-  St: [9]  Dx: East  Co: (8, 4, 0)  Tk: 42
-  A: 5  B: 6  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 2  Z: 7  ...
-
-  ---
-
-  You get 0 from register C.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=@9C0[]][]]]
-
-  St: [0, 9]  Dx: East  Co: (9, 4, 0)  Tk: 43
-  A: 5  B: 6  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 2  Z: 7  ...
-
-  ---
-
-  You push 9.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c@C0[]][]]]
-
-  St: [9, 0, 9]  Dx: East  Co: (10, 4, 0)  Tk: 44
-  A: 5  B: 6  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 2  Z: 7  ...
-
-  ---
-
-  You set register C to 9.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9@0[]][]]]
-
-  St: [0, 9]  Dx: East  Co: (11, 4, 0)  Tk: 45
-  A: 5  B: 6  C: 9  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 2  Z: 7  ...
-
-  ---
-
-  You push 0.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C@[]][]]]
-
-  St: [0, 0, 9]  Dx: East  Co: (12, 4, 0)  Tk: 46
-  A: 5  B: 6  C: 9  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 2  Z: 7  ...
-
-  ---
-
-  You turn left.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C@[]][]]]
-
-  St: [0, 0, 9]  Dx: North  Co: (12, 4, 0)  Tk: 47
-  A: 5  B: 6  C: 9  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 2  Z: 7  ...
-
-  ---
-
-  You push 6.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b@3=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [6, 0, 0, 9]  Dx: North  Co: (12, 3, 0)  Tk: 48
-  A: 5  B: 6  C: 9  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 2  Z: 7  ...
-
-  ---
-
-  You set register C to 6.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==@3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [0, 0, 9]  Dx: North  Co: (12, 2, 0)  Tk: 49
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 2  Z: 7  ...
-
-  ---
-
-  You continue straight because 0 = 0.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.@=<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [9]  Dx: North  Co: (12, 1, 0)  Tk: 50
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 2  Z: 7  ...
-
-  ---
-
-  You turn left.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.@=<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [9]  Dx: West  Co: (12, 1, 0)  Tk: 51
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 2  Z: 7  ...
-
-  ---
-
-  You go west.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c@==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [9]  Dx: West  Co: (11, 1, 0)  Tk: 52
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 2  Z: 7  ...
-
-  ---
-
-  You get 6 from register C.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[@.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [6, 9]  Dx: West  Co: (10, 1, 0)  Tk: 53
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 2  Z: 7  ...
-
-  ---
-
-  You turn left.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[@.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [6, 9]  Dx: South  Co: (10, 1, 0)  Tk: 54
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 2  Z: 7  ...
-
-  ---
-
-  You turn right because 9 > 6.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56@=C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: []  Dx: West  Co: (10, 2, 0)  Tk: 55
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 2  Z: 7  ...
-
-  ---
-
-  You push 6.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X5@==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [6]  Dx: West  Co: (9, 2, 0)  Tk: 56
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 2  Z: 7  ...
-
-  ---
-
-  You push 5.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X@6==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [5, 6]  Dx: West  Co: (8, 2, 0)  Tk: 57
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 2  Z: 7  ...
-
-  ---
-
-  You set register X to 5.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148@56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [6]  Dx: West  Co: (7, 2, 0)  Tk: 58
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 7  ...
-
-  ---
-
-  You push 8.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc14@X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [8, 6]  Dx: West  Co: (6, 2, 0)  Tk: 59
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 7  ...
-
-  ---
-
-  You push 4.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc1@8X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [4, 8, 6]  Dx: West  Co: (5, 2, 0)  Tk: 60
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 7  ...
-
-  ---
-
-  You push 1.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc@48X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [1, 4, 8, 6]  Dx: West  Co: (4, 2, 0)  Tk: 61
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 7  ...
-
-  ---
-
-  You get 6 from register C.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]z@148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [6, 1, 4, 8, 6]  Dx: West  Co: (3, 2, 0)  Tk: 62
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 7  ...
-
-  ---
-
-  You get 7 from register Z.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]@c148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [7, 6, 1, 4, 8, 6]  Dx: West  Co: (2, 2, 0)  Tk: 63
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 7  ...
+  You get 0 from register A.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:@]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 7, 7, 0]  Dx: East  Co: (13, 2, 0)  Tk: 8
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  Y: 0  ...
 
   ---
 
   You turn right.
 
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]@c148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:@]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [7, 6, 1, 4, 8, 6]  Dx: North  Co: (2, 2, 0)  Tk: 64
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 7  ...
-
-  ---
-
-  You get 2 from register Y.
-
-  []=ZA265A\0=[cbz3=[]
-  =B@9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [2, 7, 6, 1, 4, 8, 6]  Dx: North  Co: (2, 1, 0)  Tk: 65
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 7  ...
+  St: [0, 7, 7, 0]  Dx: South  Co: (13, 2, 0)  Tk: 9
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  K: 0  Y: 0  ...
 
   ---
 
-  You turn right because 7 > 2.
+  You get 0 from register X.
 
-  []@ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZ@Yy.65]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [6, 1, 4, 8, 6]  Dx: East  Co: (2, 0, 0)  Tk: 66
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 7  ...
-
-  ---
-
-  You set register Z to 6.
-
-  []=@A265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [1, 4, 8, 6]  Dx: East  Co: (3, 0, 0)  Tk: 67
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 6  ...
+  St: [0, 0, 7, 7, 0]  Dx: South  Co: (13, 3, 0)  Tk: 10
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
 
   ---
 
-  You set register A to 1.
+  You turn left.
 
-  []=Z@265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZ@Yy.65]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [4, 8, 6]  Dx: East  Co: (4, 0, 0)  Tk: 68
-  A: 1  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 6  ...
+  St: [0, 0, 7, 7, 0]  Dx: East  Co: (13, 3, 0)  Tk: 11
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
 
   ---
 
-  You push 2.
+  You set register Y to 0.
 
-  []=ZA@65A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZx@y.65]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [2, 4, 8, 6]  Dx: East  Co: (5, 0, 0)  Tk: 69
-  A: 1  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 6  ...
+  St: [0, 7, 7, 0]  Dx: East  Co: (14, 3, 0)  Tk: 12
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
+
+  ---
+
+  You get 0 from register Y.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxY@.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 0, 7, 7, 0]  Dx: East  Co: (15, 3, 0)  Tk: 13
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
+
+  ---
+
+  You go east.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy@65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 0, 7, 7, 0]  Dx: East  Co: (16, 3, 0)  Tk: 14
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
 
   ---
 
   You push 6.
 
-  []=ZA2@5A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.@5]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [6, 2, 4, 8, 6]  Dx: East  Co: (6, 0, 0)  Tk: 70
-  A: 1  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 6  ...
+  St: [6, 0, 0, 7, 7, 0]  Dx: East  Co: (17, 3, 0)  Tk: 15
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
 
   ---
 
   You push 5.
 
-  []=ZA26@A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.6@]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [5, 6, 2, 4, 8, 6]  Dx: East  Co: (7, 0, 0)  Tk: 71
-  A: 1  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 6  ...
-
-  ---
-
-  You set register A to 5.
-
-  []=ZA265@\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [6, 2, 4, 8, 6]  Dx: East  Co: (8, 0, 0)  Tk: 72
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 6  ...
+  St: [5, 6, 0, 0, 7, 7, 0]  Dx: East  Co: (18, 3, 0)  Tk: 16
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
 
   ---
 
-  You swap 2 and 6.
+  You turn right.
 
-  []=ZA265A@0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.6@]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [2, 6, 4, 8, 6]  Dx: East  Co: (9, 0, 0)  Tk: 73
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 6  ...
+  St: [5, 6, 0, 0, 7, 7, 0]  Dx: South  Co: (18, 3, 0)  Tk: 17
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
+
+  ---
+
+  You turn right because 6 > 5.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\@[
+
+  St: [0, 0, 7, 7, 0]  Dx: West  Co: (18, 4, 0)  Tk: 18
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
+
+  ---
+
+  You swap 0 and 0.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5@=[
+
+  St: [0, 0, 7, 7, 0]  Dx: West  Co: (17, 4, 0)  Tk: 19
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
+
+  ---
+
+  You push 5.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a@\=[
+
+  St: [5, 0, 0, 7, 7, 0]  Dx: West  Co: (16, 4, 0)  Tk: 20
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
+
+  ---
+
+  You get 0 from register A.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]@5\=[
+
+  St: [0, 5, 0, 0, 7, 7, 0]  Dx: West  Co: (15, 4, 0)  Tk: 21
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
+
+  ---
+
+  You turn right.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]@5\=[
+
+  St: [0, 5, 0, 0, 7, 7, 0]  Dx: North  Co: (15, 4, 0)  Tk: 22
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
+
+  ---
+
+  You get 0 from register Y.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxY@.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 0, 5, 0, 0, 7, 7, 0]  Dx: North  Co: (15, 3, 0)  Tk: 23
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
+
+  ---
+
+  You set register B to 0.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]@]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 5, 0, 0, 7, 7, 0]  Dx: North  Co: (15, 2, 0)  Tk: 24
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
+
+  ---
+
+  You get 0 from register A.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3Z@X9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 0, 5, 0, 0, 7, 7, 0]  Dx: North  Co: (15, 1, 0)  Tk: 25
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
+
+  ---
+
+  You turn right.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3Z@X9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 0, 5, 0, 0, 7, 7, 0]  Dx: East  Co: (15, 1, 0)  Tk: 26
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
+
+  ---
+
+  You set register X to 0.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3Za@9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 5, 0, 0, 7, 7, 0]  Dx: East  Co: (16, 1, 0)  Tk: 27
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
+
+  ---
+
+  You push 9.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX@_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [9, 0, 5, 0, 0, 7, 7, 0]  Dx: East  Co: (17, 1, 0)  Tk: 28
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
+
+  ---
+
+  You drop 9.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9@=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 5, 0, 0, 7, 7, 0]  Dx: East  Co: (18, 1, 0)  Tk: 29
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
+
+  ---
+
+  You turn right because 5 > 0.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_@
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 0, 7, 7, 0]  Dx: South  Co: (19, 1, 0)  Tk: 30
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
+
+  ---
+
+  You set register C to 0.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0@
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 7, 7, 0]  Dx: South  Co: (19, 2, 0)  Tk: 31
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
+
+  ---
+
+  You turn right.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0@
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 7, 7, 0]  Dx: West  Co: (19, 2, 0)  Tk: 32
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
 
   ---
 
   You push 0.
 
-  []=ZA265A\@=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a@C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [0, 2, 6, 4, 8, 6]  Dx: East  Co: (10, 0, 0)  Tk: 74
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 6  ...
-
-  ---
-
-  You turn right because 2 > 0.
-
-  []=ZA265A\0@[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [6, 4, 8, 6]  Dx: South  Co: (11, 0, 0)  Tk: 75
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 6  ...
+  St: [0, 0, 7, 7, 0]  Dx: West  Co: (18, 2, 0)  Tk: 33
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
 
   ---
 
-  You go south.
+  You get 0 from register A.
 
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c@==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]@0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [6, 4, 8, 6]  Dx: South  Co: (11, 1, 0)  Tk: 76
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 6  ...
-
-  ---
-
-  You turn left because 4 < 6.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56=@C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [8, 6]  Dx: East  Co: (11, 2, 0)  Tk: 77
-  A: 5  B: 6  C: 6  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 6  ...
+  St: [0, 0, 0, 7, 7, 0]  Dx: West  Co: (17, 2, 0)  Tk: 34
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
 
   ---
 
-  You set register C to 8.
+  You turn right.
 
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==@3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]@0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [6]  Dx: East  Co: (12, 2, 0)  Tk: 78
-  A: 5  B: 6  C: 8  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 6  ...
+  St: [0, 0, 0, 7, 7, 0]  Dx: North  Co: (17, 2, 0)  Tk: 35
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
+
+  ---
+
+  You push 9.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX@_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [9, 0, 0, 0, 7, 7, 0]  Dx: North  Co: (17, 1, 0)  Tk: 36
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
+
+  ---
+
+  You turn left.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX@_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [9, 0, 0, 0, 7, 7, 0]  Dx: West  Co: (17, 1, 0)  Tk: 37
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 0  Y: 0  ...
+
+  ---
+
+  You set register X to 9.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3Za@9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 0, 0, 7, 7, 0]  Dx: West  Co: (16, 1, 0)  Tk: 38
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 9  Y: 0  ...
+
+  ---
+
+  You get 0 from register A.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3Z@X9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 0, 0, 0, 7, 7, 0]  Dx: West  Co: (15, 1, 0)  Tk: 39
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  J: 0  X: 9  Y: 0  ...
+
+  ---
+
+  You set register Z to 0.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3@aX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 0, 0, 7, 7, 0]  Dx: West  Co: (14, 1, 0)  Tk: 40
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 0  Z: 0  ...
 
   ---
 
   You push 3.
 
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C@\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy@ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [3, 6]  Dx: East  Co: (13, 2, 0)  Tk: 79
-  A: 5  B: 6  C: 8  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 6  ...
-
-  ---
-
-  You swap 6 and 3.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3@03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [6, 3]  Dx: East  Co: (14, 2, 0)  Tk: 80
-  A: 5  B: 6  C: 8  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 6  ...
+  St: [3, 0, 0, 0, 7, 7, 0]  Dx: West  Co: (13, 1, 0)  Tk: 41
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 0  Z: 0  ...
 
   ---
 
-  You push 0.
+  You get 0 from register Y.
 
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\@3Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\AB@3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [0, 6, 3]  Dx: East  Co: (15, 2, 0)  Tk: 81
-  A: 5  B: 6  C: 8  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 6  ...
+  St: [0, 3, 0, 0, 0, 7, 7, 0]  Dx: West  Co: (12, 1, 0)  Tk: 42
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 0  Z: 0  ...
+
+  ---
+
+  You set register B to 0.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\A@y3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [3, 0, 0, 0, 7, 7, 0]  Dx: West  Co: (11, 1, 0)  Tk: 43
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 0  Z: 0  ...
+
+  ---
+
+  You set register A to 3.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\@By3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 0, 0, 7, 7, 0]  Dx: West  Co: (10, 1, 0)  Tk: 44
+  A: 3  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 0  Z: 0  ...
+
+  ---
+
+  You swap 0 and 0.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza@ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 0, 0, 7, 7, 0]  Dx: West  Co: (9, 1, 0)  Tk: 45
+  A: 3  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 0  Z: 0  ...
+
+  ---
+
+  You get 3 from register A.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZz@\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [3, 0, 0, 0, 7, 7, 0]  Dx: West  Co: (8, 1, 0)  Tk: 46
+  A: 3  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 0  Z: 0  ...
+
+  ---
+
+  You get 0 from register Z.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZ@a\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 3, 0, 0, 0, 7, 7, 0]  Dx: West  Co: (7, 1, 0)  Tk: 47
+  A: 3  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 0  Z: 0  ...
+
+  ---
+
+  You set register Z to 0.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBY@za\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [3, 0, 0, 0, 7, 7, 0]  Dx: West  Co: (6, 1, 0)  Tk: 48
+  A: 3  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 0  Z: 0  ...
+
+  ---
+
+  You set register Y to 3.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xB@Zza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 0, 0, 7, 7, 0]  Dx: West  Co: (5, 1, 0)  Tk: 49
+  A: 3  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 0  ...
+
+  ---
+
+  You set register B to 0.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.x@YZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 0, 7, 7, 0]  Dx: West  Co: (4, 1, 0)  Tk: 50
+  A: 3  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 0  ...
+
+  ---
+
+  You get 9 from register X.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.@BYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [9, 0, 0, 7, 7, 0]  Dx: West  Co: (3, 1, 0)  Tk: 51
+  A: 3  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 0  ...
+
+  ---
+
+  You go west.
+
+  ]=A_63C45:_5b][][[[[
+  ]8@xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [9, 0, 0, 7, 7, 0]  Dx: West  Co: (2, 1, 0)  Tk: 52
+  A: 3  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 0  ...
+
+  ---
+
+  You push 8.
+
+  ]=A_63C45:_5b][][[[[
+  ]@.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [8, 9, 0, 0, 7, 7, 0]  Dx: West  Co: (1, 1, 0)  Tk: 53
+  A: 3  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 0  ...
+
+  ---
+
+  You turn right.
+
+  ]=A_63C45:_5b][][[[[
+  ]@.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [8, 9, 0, 0, 7, 7, 0]  Dx: North  Co: (1, 1, 0)  Tk: 54
+  A: 3  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 0  ...
+
+  ---
+
+  You turn right because 9 > 8.
+
+  ]@A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 0, 7, 7, 0]  Dx: East  Co: (1, 0, 0)  Tk: 55
+  A: 3  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 0  ...
+
+  ---
+
+  You set register A to 0.
+
+  ]=@_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 7, 7, 0]  Dx: East  Co: (2, 0, 0)  Tk: 56
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 0  ...
+
+  ---
+
+  You drop 0.
+
+  ]=A@63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [7, 7, 0]  Dx: East  Co: (3, 0, 0)  Tk: 57
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 0  ...
+
+  ---
+
+  You push 6.
+
+  ]=A_@3C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [6, 7, 7, 0]  Dx: East  Co: (4, 0, 0)  Tk: 58
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 0  ...
 
   ---
 
   You push 3.
 
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\0@Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_6@C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [3, 0, 6, 3]  Dx: East  Co: (16, 2, 0)  Tk: 82
-  A: 5  B: 6  C: 8  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 6  ...
+  St: [3, 6, 7, 7, 0]  Dx: East  Co: (5, 0, 0)  Tk: 59
+  A: 0  B: 0  C: 0  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 0  ...
+
+  ---
+
+  You set register C to 3.
+
+  ]=A_63@45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [6, 7, 7, 0]  Dx: East  Co: (6, 0, 0)  Tk: 60
+  A: 0  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 0  ...
+
+  ---
+
+  You push 4.
+
+  ]=A_63C@5:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [4, 6, 7, 7, 0]  Dx: East  Co: (7, 0, 0)  Tk: 61
+  A: 0  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 0  ...
+
+  ---
+
+  You push 5.
+
+  ]=A_63C4@:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [5, 4, 6, 7, 7, 0]  Dx: East  Co: (8, 0, 0)  Tk: 62
+  A: 0  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 0  ...
+
+  ---
+
+  You duplicate 5.
+
+  ]=A_63C45@_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [5, 5, 4, 6, 7, 7, 0]  Dx: East  Co: (9, 0, 0)  Tk: 63
+  A: 0  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 0  ...
+
+  ---
+
+  You drop 5.
+
+  ]=A_63C45:@5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [5, 4, 6, 7, 7, 0]  Dx: East  Co: (10, 0, 0)  Tk: 64
+  A: 0  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 0  ...
+
+  ---
+
+  You push 5.
+
+  ]=A_63C45:_@b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [5, 5, 4, 6, 7, 7, 0]  Dx: East  Co: (11, 0, 0)  Tk: 65
+  A: 0  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 0  ...
+
+  ---
+
+  You get 0 from register B.
+
+  ]=A_63C45:_5@][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 5, 5, 4, 6, 7, 7, 0]  Dx: East  Co: (12, 0, 0)  Tk: 66
+  A: 0  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 0  ...
+
+  ---
+
+  You turn right.
+
+  ]=A_63C45:_5@][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 5, 5, 4, 6, 7, 7, 0]  Dx: South  Co: (12, 0, 0)  Tk: 67
+  A: 0  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 0  ...
+
+  ---
+
+  You get 3 from register Y.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\AB@3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [3, 0, 5, 5, 4, 6, 7, 7, 0]  Dx: South  Co: (12, 1, 0)  Tk: 68
+  A: 0  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 0  ...
+
+  ---
+
+  You duplicate 3.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_@a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [3, 3, 0, 5, 5, 4, 6, 7, 7, 0]  Dx: South  Co: (12, 2, 0)  Tk: 69
+  A: 0  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 0  ...
 
   ---
 
   You set register Z to 3.
 
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03@[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxY@xYy.65]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [0, 6, 3]  Dx: East  Co: (17, 2, 0)  Tk: 83
-  A: 5  B: 6  C: 8  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 3  ...
-
-  ---
-
-  You turn left.
-
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03@[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [0, 6, 3]  Dx: North  Co: (17, 2, 0)  Tk: 84
-  A: 5  B: 6  C: 8  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 3  ...
+  St: [3, 0, 5, 5, 4, 6, 7, 7, 0]  Dx: South  Co: (12, 3, 0)  Tk: 70
+  A: 0  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
 
   ---
 
-  You push 2.
+  You turn right.
 
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.==<02@z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxY@xYy.65]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [2, 0, 6, 3]  Dx: North  Co: (17, 1, 0)  Tk: 85
-  A: 5  B: 6  C: 8  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 3  ...
-
-  ---
-
-  You turn left because 0 < 2.
-
-  []=ZA265A\0=[cbz3@[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [6, 3]  Dx: West  Co: (17, 0, 0)  Tk: 86
-  A: 5  B: 6  C: 8  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 3  ...
+  St: [3, 0, 5, 5, 4, 6, 7, 7, 0]  Dx: West  Co: (12, 3, 0)  Tk: 71
+  A: 0  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
 
   ---
 
-  You push 3.
+  You set register Y to 3.
 
-  []=ZA265A\0=[cbz@=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zx@ZxYy.65]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [3, 6, 3]  Dx: West  Co: (16, 0, 0)  Tk: 87
-  A: 5  B: 6  C: 8  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 3  ...
+  St: [0, 5, 5, 4, 6, 7, 7, 0]  Dx: West  Co: (11, 3, 0)  Tk: 72
+  A: 0  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
+
+  ---
+
+  You get 9 from register X.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16z@YZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [9, 0, 5, 5, 4, 6, 7, 7, 0]  Dx: West  Co: (10, 3, 0)  Tk: 73
+  A: 0  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
 
   ---
 
   You get 3 from register Z.
 
-  []=ZA265A\0=[cb@3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16@xYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [3, 3, 6, 3]  Dx: West  Co: (15, 0, 0)  Tk: 88
-  A: 5  B: 6  C: 8  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 3  ...
-
-  ---
-
-  You get 6 from register B.
-
-  []=ZA265A\0=[c@z3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
-
-  St: [6, 3, 3, 6, 3]  Dx: West  Co: (14, 0, 0)  Tk: 89
-  A: 5  B: 6  C: 8  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 3  ...
+  St: [3, 9, 0, 5, 5, 4, 6, 7, 7, 0]  Dx: West  Co: (9, 3, 0)  Tk: 74
+  A: 0  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
 
   ---
 
-  You get 8 from register C.
+  You push 6.
 
-  []=ZA265A\0=[@bz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A1@zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [8, 6, 3, 3, 6, 3]  Dx: West  Co: (13, 0, 0)  Tk: 90
-  A: 5  B: 6  C: 8  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 3  ...
+  St: [6, 3, 9, 0, 5, 5, 4, 6, 7, 7, 0]  Dx: West  Co: (8, 3, 0)  Tk: 75
+  A: 0  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
+
+  ---
+
+  You push 1.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A@6zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [1, 6, 3, 9, 0, 5, 5, 4, 6, 7, 7, 0]  Dx: West  Co: (7, 3, 0)  Tk: 76
+  A: 0  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
+
+  ---
+
+  You set register A to 1.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008@16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [6, 3, 9, 0, 5, 5, 4, 6, 7, 7, 0]  Dx: West  Co: (6, 3, 0)  Tk: 77
+  A: 1  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
+
+  ---
+
+  You push 8.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c00@A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [8, 6, 3, 9, 0, 5, 5, 4, 6, 7, 7, 0]  Dx: West  Co: (5, 3, 0)  Tk: 78
+  A: 1  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
+
+  ---
+
+  You push 0.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c0@8A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 8, 6, 3, 9, 0, 5, 5, 4, 6, 7, 7, 0]  Dx: West  Co: (4, 3, 0)  Tk: 79
+  A: 1  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
+
+  ---
+
+  You push 0.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c@08A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 0, 8, 6, 3, 9, 0, 5, 5, 4, 6, 7, 7, 0]  Dx: West  Co: (3, 3, 0)  Tk: 80
+  A: 1  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
+
+  ---
+
+  You get 3 from register C.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9@008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [3, 0, 0, 8, 6, 3, 9, 0, 5, 5, 4, 6, ...]  Dx: West  Co: (2, 3, 0)  Tk: 81
+  A: 1  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
+
+  ---
+
+  You push 9.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]@c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [9, 3, 0, 0, 8, 6, 3, 9, 0, 5, 5, 4, ...]  Dx: West  Co: (1, 3, 0)  Tk: 82
+  A: 1  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
+
+  ---
+
+  You turn right.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]@c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [9, 3, 0, 0, 8, 6, 3, 9, 0, 5, 5, 4, ...]  Dx: North  Co: (1, 3, 0)  Tk: 83
+  A: 1  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
+
+  ---
+
+  You turn left because 3 < 9.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [@][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [0, 0, 8, 6, 3, 9, 0, 5, 5, 4, 6, 7, 7, 0]  Dx: West  Co: (1, 2, 0)  Tk: 84
+  A: 1  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
 
   ---
 
   You turn left.
 
-  []=ZA265A\0=[@bz3=[]
-  =By9c2A5=[c.==<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [@][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [8, 6, 3, 3, 6, 3]  Dx: South  Co: (13, 0, 0)  Tk: 91
-  A: 5  B: 6  C: 8  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 3  ...
+  St: [0, 0, 8, 6, 3, 9, 0, 5, 5, 4, 6, 7, ...]  Dx: South  Co: (1, 2, 0)  Tk: 85
+  A: 1  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
 
   ---
 
-  You turn left because 6 < 8.
+  You push 9.
 
-  []=ZA265A\0=[cbz3=[]
-  =By9c2A5=[c.=@<022z=
-  7]zc148X56==C3\03Z[Z
-  ZYB9\z9a=x5b63=A88A0
-  [][]][]]=c9C0[]][]]]
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]@c008A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
 
-  St: [3, 3, 6, 3]  Dx: East  Co: (13, 1, 0)  Tk: 92
-  A: 5  B: 6  C: 8  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 3  ...
+  St: [9, 0, 0, 8, 6, 3, 9, 0, 5, 5, 4, 6, ...]  Dx: South  Co: (1, 3, 0)  Tk: 86
+  A: 1  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
+
+  ---
+
+  You turn left because 0 < 9.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]@9\2\[[][][][]a5\=[
+
+  St: [0, 8, 6, 3, 9, 0, 5, 5, 4, 6, 7, 7, 0]  Dx: East  Co: (1, 4, 0)  Tk: 87
+  A: 1  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
+
+  ---
+
+  You push 9.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=@\2\[[][][][]a5\=[
+
+  St: [9, 0, 8, 6, 3, 9, 0, 5, 5, 4, 6, 7, 7, 0]  Dx: East  Co: (2, 4, 0)  Tk: 88
+  A: 1  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
+
+  ---
+
+  You swap 0 and 9.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9@2\[[][][][]a5\=[
+
+  St: [0, 9, 8, 6, 3, 9, 0, 5, 5, 4, 6, 7, 7, 0]  Dx: East  Co: (3, 4, 0)  Tk: 89
+  A: 1  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
+
+  ---
+
+  You push 2.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\@\[[][][][]a5\=[
+
+  St: [2, 0, 9, 8, 6, 3, 9, 0, 5, 5, 4, 6, ...]  Dx: East  Co: (4, 4, 0)  Tk: 90
+  A: 1  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
+
+  ---
+
+  You swap 0 and 2.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2@[[][][][]a5\=[
+
+  St: [0, 2, 9, 8, 6, 3, 9, 0, 5, 5, 4, 6, ...]  Dx: East  Co: (5, 4, 0)  Tk: 91
+  A: 1  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
+
+  ---
+
+  You turn left.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c008A16zxYZxYy.65]
+  ]=9\2@[[][][][]a5\=[
+
+  St: [0, 2, 9, 8, 6, 3, 9, 0, 5, 5, 4, 6, ...]  Dx: North  Co: (5, 4, 0)  Tk: 92
+  A: 1  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
+
+  ---
+
+  You push 8.
+
+  ]=A_63C45:_5b][][[[[
+  ]8.xBYZza\ABy3ZaX9_=
+  [=][[<cAa7y_:a]B]a0C
+  ]9c00@A16zxYZxYy.65]
+  ]=9\2\[[][][][]a5\=[
+
+  St: [8, 0, 2, 9, 8, 6, 3, 9, 0, 5, 5, 4, ...]  Dx: North  Co: (5, 3, 0)  Tk: 93
+  A: 1  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
 
   ---
 
   You go upstairs.
 
-  St: [3, 3, 6, 3]  Dx: East  Co: (14, 1, -1)  Tk: 93
-  A: 5  B: 6  C: 8  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 5  Y: 2  Z: 3  ...
+  St: [8, 0, 2, 9, 8, 6, 3, 9, 0, 5, 5, ...]  Dx: North  Co: (5, 2, -1)  Tk: 94
+  A: 1  B: 0  C: 3  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 9  Y: 3  Z: 3  ...
 
 example_answer: |-
-  93
+  94

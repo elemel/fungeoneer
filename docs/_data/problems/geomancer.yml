@@ -1,1673 +1,1517 @@
 map: |-
-  [)={(OS4Hro=]{({}(0BnC>{{[[R({(RP()R52|DAJ\j--sW06~){{){(]{=[R+avwu6>}([P]=}](}}
-  [EVqGvR){=dw2sQa0?y\nDUeLgVxnbTbbW=wU}{[{[.{{=RBkv4fJEzy>{ZU"".YQ-""~""|8B-2""l{
-  >&P}]{su"t"hW1k%JzqFN)}z!V]aJd">}"4E]zCbH9ZQui6p>JEU>/37j{fw"={8Rh""a'">[J.qPWd=
-  J>G8Wrg{ii^V|ZMeyjnX?bt]e;G8b^cwrWiRo"2l7w}EJz"D+BoGN/L"+(bO1"1,Ga.'=gz^yapZ4{b]
-  %[}mF}6Ucd{i>h43R]>."s}[=vCqFR[X""?ucB,=rY/l0Z."/oZ("G(oMIqZKCd%CCF1]vn)}=^>ep~(
-  !)llT[X"z1USb-[\K4"Ry.TZkAh=6T3ZUnOE77]ykOD]]TwG~}(N^{%[5R+k^.IKw\TwJ.L[g"DcJRt=
-  "R79NZwGt~MZ6ArcpYK=EK{]%N[LZ}%D}|?{tKA=mDTaG=9R4]"f+|cA0Oe(D(FBX)5e5}=6j""5#}b(
-  "(Hz)^8GfZqjXSTXlK.XFy*[qRq^^H"4!"H/f65dBdRK;(bcGsD2Dq.jnEkaLU]ja>EWX\08%"2y"UD=
-  F{oh[(X]|]jGd8>{C]ljn16h8lD[mz"n}6?O-]3wv^]8hqKNopUn)[yFK(DD9jWa-Jj\"VTE|;""g2EP
-  x)^^](|{AGA6}u[+VW['HXjd|ar]f]&^dn+m5RB1-Adj>fT]>(h3(tTlJUl#lR94ac|vGg6KxirN0,CR
-  +=Op(T9"5"78=(&ijy})[0VeOw=sA[(L*.XwA}6]4ucfwc+WL~6Ols\W)[F)"3l6,[0^'vop/BznOzg]
-  9[dklBPV"^"I]"\y#y9p)0XgkpH*iNBFj-iFD{VfO+6JA("O+AMpC"-")YTB)y4)41\>DR]"Cl.[hc][
-  j=r6i"v4"xmMj+>)Y[^Doy.nZ(0FUbe*hm+]wG}p%ZV4}l0wEx3iKLR"3"0zDteZ|=gkHB[9fM%I{na(
-  F[]^xqX"A)<""?NMyl6G&W1Hw1&xLkN6{xp""D7j\~LnRw=jc#xk7a.1B|+k(qv]0{}.7Vmno~zLKiY{
-  =uf5HsH(F]E">"^[Rhwfmsj5Hv*ox8uucT""Ll)g;)gCw=>{}C*I[{p6h{N[[)FdZhYhc|{^LQR]w>K(
-  }g]J1C{>i]Xb([dUIh(t}r-&w9o}+/fmb>9T24W3D317U9D;"g]Y}\KM0"csH1="((m7"}b}zk")WC/[
-  )h]C{\Q(Sr{[x)]MR5#CJC3Ix\}pi}+Axg"["">}8(7G];FgDOn?gOltcGf%tU+""1kr3F>2apddn8I(
-  )>m/C)voqcB})K)dwG)N4cS)OJ\OkC)plze?Xo1XKhECP[-E(^hO{.|tuG^OPK(P]==Ds{RU.]c(10~]
-  [L*OQTFsbk=oUGyZK3]NkrM0C?]}]pDZ(N>Bk~9/~(Fd4eA#mQ(,{)-.)uz99Vv?C+"J)lqTn""0x{f(
-  }{[)[]})[[}}[(}[)[]([}}{]{{](}R[}}]}}{P[](}R)){(}(}){{)]R{}vP'M^RfX{'R{}{]])RT-(
+  }]U((KI+)(=^eBfbg:]{)vW]]]]]("{}}}R{((o4Ab*fzP}{(][){=_RD]}"R==>4a>[}{{((()=I>[]
+  l]=UD5AX3eUmu>(J=H}}[['bA)SOcIR"CWRf*Hf}{c}J)iGd"0RuAYDWOrP0Tqu=ZDc6Es8.^a>W8bT[
+  'n*Mvhf)K)e]{cqpS{Z}.l}J(Cs+L6Dw/Ae-qf\1,5o*z|VVAwq})3J^XA=[#5fE]{]][[_Elu9Rwq}P
+  [~27QG_bTkyhx=X)JR2.NuZv/S7QfMsxecu{*"["0^}s["(Ye7)3uYo~)t-^H2)Y]]V%o5~01&q\ZOk}
+  >~UYt=l6ooLDTg/k]./ED>|/Zc~Ia"o26G\>_{"fS.qj""R"k\).J7Ga3]-)4NG>q2=UX*A>3?k|]Cv(
+  [i/cWeE(L+*l7n#F8dXn%g^3Pd#c=v"=f"rlM>oZiJQs\J?""BMgB]n=Kgpsnn+cQ4:r\{nR[}=.m6q=
+  )h>fiN\,vIJ2/)w2)Gx=CY-RcVx}]"3Wim.]jb){XpIW[s"EbqTu(-PZLZG.R]{r_){*/._(X}LTX{[}
+  }"gGF^t.3Qlf2jt>::3Q6\6>((xRw2JjJ?,>h^4?"kf+hs"|+gi}d_zK2Z&/i+NfE6ivg3wdF1;.RH\R
+  }"{s(M~k![U|9]qvEG2b&_A~Zc9B:~/RI{U6C&gD"DLF\H[44eGL^ejF=gRdoLR~}CY}_dR{[x"ltnK}
+  []\XwmC,]#9h)}'%DX7]wR,C"?>u6}>nU=KX}:]"9I}gRwqTCsj.5.a}nL>-D>RYa{aq&?f8W"u#+F8]
+  {{[Vh2+"a"Yb+PWjmWdXTY_c9Or5xMnTyj95TG7]5qR}}P}TU]l/'X"p(6H\zAe"0spkV[C:vE]9"=N[
+  Rp>{L9[7)W5fLV0[}O%}9]5#2_fXlfk6uD^Z(L9jx_4jE1whj)6Ta(u)v)4:X"n}],]kbNFV5>eHcOo)
+  }54G.IW"==gO}9l[}a=+r(wO&T(lh7mE{8zDdU.*Hd9H%R{g"Nc+l"9J{h&s"""M~5""L{-6-T*:)sx[
+  )i1tMW:-0dm+.vdVDGa_f\Y,^y_FpK(=}'0.gwM&(1[bmdH[]/YA(=jg%"*{i}"vQ"[">h2v0*a}"=4}
+  (069Qk?X9;s2|}??]09r0_oAly"H+"Z'[VI]{K725R}vrt[~"?"bQUQ\+rT0y0<wDvep/WCrmQV9J)((
+  [k[}FJ=0[(Em[Qg5[aBR0Y/V5"jN\)"(b70][NW-MeAh]aaslH(ii)G"=X=^3"^"5uHV^nck26cOb3]P
+  [niEoy,*A&5U9\RO#mtL3|>v(j[Vxd}7sP,p4"}"6yp/5ma_huxt(&.}g[["DD"R14boznj~H)T|uow[
+  {{{sL6Jf=q>\0V)gP}{}R)RB3Lvo>zy((1(_{"'OtVj*|eEyV:7D]!B%F["I#z|n)jDG=">}{4V]vN(}
+  =tvX3nH}v}[([[}=VUEaKagq""F=]]}P>}]&GLz]"{c]"J*L2i(3Wp~zR^1|-6*ogbkQrs?Wp>Fj|_n]
+  =xpV[){)>8zldTd&5KH\EpgYcUQQgaflaXYUd=]([][]}]=})[P[{=)}]P=R[({R==)]]]][}=R(==)(
 
-  })R]})[RR}(}P{{R(}}[))<cR({}[$=jD7VAIgn~|bwlg))}RR))R)}[}[{{][][Rx']<Aop^C|50H})
-  3"=V-Tt^[AIiV*(8t"t"J03""/>"M8x["yRAT4k))})(>Iz/UQ7tvo~I<&z,zS0mMZ}\vi=LQ~tINvA[
-  <sp%e}=V{p>OO(boCq8FzC""s=~(=AC<[{zKrt;B-*bg.BJ9<NgZ<RaD(5ZYy({feyr>)/]<\.rs\]w)
-  }<LxD%=uXTs"u{"Yx"/(ND(7NACc3icY="T?$"c7}}L>>l]f]&RuL>x|Vf+]Kb(1C3EcfQ^v"}Y"KOh=
-  )C""iKMM8iX&<x[j|?<"Dbo>(l~w#(QUiix/89boi0>ym^c]A0(#PTBCk~&O8XArpLalVtLX8Vf<>jB)
-  ]z"".{[yR>u[p)uJg)[s4nwsSB>SyH2+==B==1{"Q)pHXO"(}FQ6{)|/2C'{nbo~Wp1nLwC2VH=y[)F=
-  ]Z"W2".AN6(q>>(%>LB=h=BzToJx0)}Duc7py/AyO\kXq1uZyZVzlBDbxS&&sEpUcnTDis%Nxrl6RWb]
-  }}"Y1{ktRvNz2i|7*\]dBR(.YuiUa']nR\yHOW>+16""RzWot[ELRL?\sX3UG(r{k<5C(X;{/N9{1R1=
-  PQ{z,20v>7sX9V<~MHT=LQOp(Z.l=""6C=fo>K"1O]"K4^>ge{Ypmr]z\if/~XxJh\4px=V>(\bS&a=]
-  (g^X5""qi%B7R4>rv)9Nh4m+"fM~"Mqqc"B"f"WE"c4"<%n{<OJw4u]WVWx"BHo=")j"^pzf\U[Zgdz]
-  ]5|A=e")A{%*hOE"0uizgby>#J2k("cED3dN"]x"5/5kZYYfxT9p(]NMp}R=AduT(5^WNC"FLK"-C14(
-  (Q,nMl3C&(jVW9"t>(Ya2/9/E^f+yKJ[p)HO7a&2Z"&jh&d2}aj1TI4trHVmw""d3S(<*I(1O321"yb}
-  ["dS"kEa-Fx5)X<"nxoJBqh"]btb#*"e0361X-+=Z^RiT0[)bV7>iVVs+Ve|9vL>B3OIJ;EN~Fc{"Rc(
-  )7"s=)w{{3}{+Zs]9a!|.4]a>xD|5YsR?[.S}>cat"OUgt".(-cH>7(]OGm[bH6Mu.x*>1Rx^"C'3}~R
-  )bX0x6v!>'[}<M[Vd)T9Y[=#-iHm[(0>}2kw%|(kG\"r{O<)K]EGr=5l{J).on[k+"zB=>ju""Wj6<|k
-  [->{"es<")(z)9b?M6(R~UU}#DO^A}>R~<&"PDJ{Rxs[}ZW1-Wx};m&VqjMv>([*w}=s""tTW=6Mh[GR
-  [54""AO^""M|.t^VBQ]KbG{}Y>9tkUt8GmJzxf<](+r>]qmRFHE'[297[EN'(u}ZhPc3[b<.u(5){lC[
-  {<Of;3rI3rwMV7niaR0Zz=CymJAy+'v2LM>C3>l|t?j~v~(N~6\pK/Q)[s|=p"[}Rj|Bi""="M=W8la(
-  {Zq.Oh!iI]{!t~>38f#hbcjXydp*C=&v*J<{eocb()]{]v{3NZ9i9IWk9TZlr?Y0T6n/7Q?Zz6K{IM|{
-  (([)NR}))[]P((R*({]]XGoe=}}(P}{}s%=R>](RWxppEw[{[)][[==[){=K~sCsv"R{"%WdR{R(}}((
+  [)}{R][})[)[R}[)){(]{(]{}(){}}]{(]{}[{{[[]}}=P[RVnw6]P]]}=]}Rg#<})<xZ::)})])]<*}
+  )8%jF3y[.4[[*<yjlO/Snw=DTRyYL(+HaL3\/r&q:JG.vaA|7d|Fu^{"k3d[o[}H{""1fQ5b+X<heW+]
+  [3au"JS[XREBi-f9AX(j["h0FQud5WW#x."Hp1~3""^wL7pJ"[]h>f)U|9Nc"""R[(-(BsU*zJ/HZCo{
+  )n>+2{6%n.lDYvzrB&1R[z""?V)-6'd}}]O>#\YD>]=sm#x[/hFQgC"/8h)"D&XpJTLzUHD,f\t7V36}
+  <v)7]~A>[tn)*(]O^.YPd<""6h]0x"%]5](<ABhWc_B%?)[]-J(f"#"Am[r""4I<345c_3^<UVFxRus)
+  >he{#|=A2pHMP/9b2ho|V=o8nW#d:}-ci*a_k<MgAHJK59+ClMi6D""[)2Q"D_pn=f?e>;"+>gR>213]
+  }u<q"GCQTB{p](5rzhT=}"A(saz/68GR(z4-BNR9_YkyH"?)L\bZu"R"6"mo8gL1Jz;GKG--O%ZCAn7}
+  {k/gKli30w#q>.C<70;.-bX<*h"H"Qr[U>7<h~ra5I~zo>cB&=z_jfu(O6%hz>=j%")[}p)y]\uC,|r(
+  ]xUgYXN!qQ]|Hy=vb:8Bl"^=I\"qA]](gN(agg}X=h*Vt=}!f)b2(Ld"m&b=Czv-*ve#sEGD*qq*yga}
+  ]:3X>;lD*~y{MhIK{[tY?k4aoo<^"=<TR]{Ry=YYnc(]\8LMrQ1)+f(hx(<5I<7(~(&4D8JYQw2:w7^)
+  (9T|X:tXJ2v_WarMCP\2=mF"U[3uv[7WL"2IZ2IzwvFwIfKhdcV)R(%(&A){0I>.wqV(l]tp(*Vwqe+}
+  {}<DdADcA4%&pOO6h&\dz4GB_mVg^IiN9L\rM_y/>3qr"u{Q=T}u;"HY6^5K'Ly.TQ+:)R=x[<6^O{/}
+  )6qRh[e('7VQ)}v:\/jt}K6O/p{YU2/7(~x:{OodLt("y/duM6"(Oo"p>{{z"d%KQBk>w##mw)y3A.3(
+  P~_Z^uwn%EhHl0xY(]e>J-7?O[N753-Ze9A-+-mnLhan">;(}t_a]{qtglThf0^rwwc"<G")0|o8"c:R
+  ]{^^Vl[H~WR.l>J&n&z9{)P?[+y>*"Qy"&|j9%x],0:FJjaF?R11".V2R38NXr)"i0E%*Q6_2Fv\idy(
+  {L_1z_1cX/(%pqO5o\r81uYLnD\5Vrl%.N+6>V34]\NCw(I=CF18tT:CM[(HL,GC=z1,.v=D>r(v-Zw}
+  =)uX[*~"[H>J(D:R>6df)=<:mTL\{7%5DgKXK[)oP#P]bL(r|"Ab9t,jBd6J"o=i("B;(Zb{u"Z}oR,=
+  )9\j/H4,d~<].)84L.2Jvfjyg9|8<t1#r&4I3woy4~_j3dV.}&C"#LRe2x0]""jTqq"dam<4ziuR=wST
+  }z=]{([{(nW{]>0(x]&([==/""=~[=(5<mDQOh{NJ;j}255.sk""\&[c%)"w*""])k++M]w}%<2}CT5=
+  ]X\u+C\8<R=gIinj{]~Hw81pK+jj*&5=[}R[](}(([{)[{)[({{{}]}[){P{{R(]})(P}|=R']'{=]){
 
-  [=gLm1W-ss1=}}(]Rj]R'[o]]))}[}[}(([P}[(}PR8](){)}(({([[](][P([]]R=P[((R[L=}{]}({
-  )q1/w=]}}{&DreQ(sz2->]2]|Q<j[W8"-R]taTpSJhuG<)CwCNS{-"c6A[++e4nj3'kxTcm[(I{Z*^fR
-  [uc(5*H\EH<MK\)Hpz~\"B}e}rn7bK"/&{4x]i}}{u-}"q=c"t2R9FoVGw})>-ny0iR<9Oo3E&L]{0I=
-  R8D.MlZ|3S88{]-003{x1)-O=.6fJ4&W]#)N7]*~=Ga<<wCJ}jwR0<"ozOS"3z-hWAy^+f=b]o3Xqp>(
-  ]o)hHDN%ATKr=wjy0G{~?rH<v4OU}V^7>;lNlNJUoV<TpJ3c42ktO6"J"v}1t?-(0K~F9eok7I[;<9](
-  ]rF>R9~Mi<"VN4m"8\f5'M|}B3<P4t]OC[m4[~s{gsqnR7^=2}V>v=*&mX7gA[fN;{ON[DF26PB5x}j{
-  )4H>]c[JrZ[d<<}f<vIMSn\t=C0.uT84YXXsgZKjYeeF-*30O+&q1|=2""Neemh?^1pZ7IvJH~oT/s/[
-  (M&+FbTWxBlac7Z=5czc()br+],DRxIwAm]d9R<p1g#+-}[Y)sD&3vZ-G"M)nwJ}sKeDaqb^j9p6~D=[
-  {Y[5{W&G<q\2cMumX#cmd6X(~74b"M(>4"y~<%y5ZJ*.Wg<^~\>]cfbM"B"4IZ)}e>r~FKc<TQui}tI]
-  }Hz))YE]qJB8RS<q53>Kp%9u8+8O(Ou;GL97,3kpAcUF.))#d"{EY0FUCv**1I8=C+pN}RxKG/~A"\g]
-  (iTv/^s7rd-C)N0R28LwZXK<-yLL}"}BK")g+c9\1.8IY{7R>]"/Z=}3rpDCJw}jVQ57(72g'(.}'"a]
-  ]pR>V1,[leuq4({[<"K>"2dqtD;W="tuf{Q7{A!"UF=^QU|k}9{[I8H(5M-i0A)/c>9&kryK(""9(}IP
-  Q.~kgjYAC67>{-(n\"[EY[J28a1"6]Xzakd;5YL17n4L+0N8#1X<\ibo'bLj[vk<H4;acgXKyL.%-(>(
-  LN])p3E(a'l4~{^)wJ"g(#]><&?iQiw2nifU(<5o}qX[.[Gm#O"s<l}^)z|mX"5(58)s<(By1,"8HK7(
-  ~8[[{ThJ<=^[}og7g4tha"0"""mYb(;<[{yY3}8=IE(15)a]PFp]x"y]G%5ftnrXbK43.<,S9[8~e{I)
-  we<]j]{\M[x2{>GQ\7r+tW)y=TVqMv<42k2k)F6QNDmT*pIMB1kz#1(.]^vd<FW&/[?l1"~yr1zn->Z{
-  =|~vLiMIgMVA6thMsGQlTEwN8<uAm>+|(0=BpA.*nEO<}9y]}[(t(|}}N)R=])a9NT3(?W-[}55fz+9]
-  ]pgd(2VV{|-]xN}Ipp}w9("Tk{x(Oh)L=}<Ly<MdG7H^pfOI^k/k8b[xh88oGdt==12vr.z}yO*08.T)
-  }08&a?eJdSd^Vn<{LH]/zW)\0}D]e)0(K0\#XHn^Q=}>[(=""k8/0R;R>[r}X"{?(Q>C%[^)N[]^I5s{
-  }=f"RlCRUqf*{)1}'="=)[=(]]{)R1mR}R){<jm758AqGO4o*9+JlQRb""U/{[}}}(}[)[}R)]()[[)}
+  R]((]{={}{([(=[}({)]{R)}})){](=qN}{}P=h^M85m}}(]](}[([R]R[{{]R""N}]R(==a)]{({R+}
+  )md*=t.v1lTdw(7c]j[t^+^Oot>3.DL(]mz##e716p7a_xA1-:^-UZ1~Tm:mx9Iyvsp5NwBYBlI|AsQ)
+  [_+F=(e^JL_(p(~dK.qW>(KX.nUeWl9MJya{s8[)=QP%NvS')E=W<U31/(/U/2sm}=/y=~'T)c(mM}}[
+  {U<s[)7Yin9}ULR!_O.\r"=j"7?e*=FC==R<}Z{(<?:klBH+tz~p\d:8WT:>H_S(0_mPd(o^&z3W7f9)
+  )pO#08[<yy2*vji[{q.]"\=p(=.}rc6~.jp}0F*({=["k(}Ckww(46)]B-o)R0972|%a0,&:RLZ;d=R)
+  <A[IpRE{%(:TA(3wBOmM{"9F4]"7eE)+UwJpS5O'7pl}o){%g3y&fiw#*OhFm%>r[}h,<BUR<ag<R*']
+  ?>yZh('}}A^|[0\jVVqX8_BDZ%}C~=?k4DB2N7)K"9{55R]k>vB0]y9=XLzv=pk"0}1aA#|(q][rv4}R
+  {Z4*Um"}=>"q<isM:M(\]sd%"H||Wzui/<7=i>[^"s}{K<fBs2z2MO(K]{?0^<]=^_oyL9r=D"(=X9Y(
+  [cRV}{Q"a8z]/yEE"KI9%jm9miKrKCyW%p9l/xGoHEw].^Z-N5r2|vsY%]Tx,m~h&)Z.K9Dpro~_&LH(
+  =1qA<G)RpIYrT]ji{H1F[Zc[h=}gg>Qb}=+{ePYsD.eHuRnyk})yKZy7{4{8[0os{JaOZ9BIFh["R}Y=
+  (XjjN'>_^ebq=)[:.1#jL}."CuH(^XxR1"+q\s[C&%NA(daE=L.gYjQt^o>kR-<ID(ZQV"UE~96z)}*{
+  [?_~frJ,[6V=R6tLy:0Cp"u"Jf2I2g#BRNr~5)~d<dyMBE8rn-x3>Elx4MlcUyrGKL0rQrmDakVv[iZ]
+  [BhfXKthE-Na3(|\FcqyGlWlWt;fTd.d~yOri.0p8yzY8"C|8o*vhg-]<hnM"Z|})*f<lR.!LLq}4}\)
+  {d:ocY6zO{m+GD[r{"r<%"O2A\1uXC?#1M=(z64=&JZ19<}h.K2zcD}=)^bpn7=zn_qF/Kgh\J942ia]
+  [VHQj=C0z7JYE<IK.Qv?YJ.S:Ir<qv[_4i7[")M=ER.d0FF|fv7\*Gu[J'HAd%36)[h(m|H=i(}fELQ{
+  )o#6=jg&H}0Im0yiE12-:{=E>aOgW58)rU|I<nw|V#6IRK63}a6K--t\cu]6GCj"yRW:]~hl<}[)=+5}
+  .|x[PQ|G&:<4=x-=<"YU\jD"+e)Y"="lxt!"BzR'p=1sOXQNS/>V"izvB]R7HR"pa>\\SHwsL{ea90w{
+  =H='wR6|=x"_"s6pApmjw=Id=pPA"1#aeGxQ"_>5"r3:4a[][Iuc4Rq2F2XY(Q"3O]K}{b[['WAS>q*]
+  R1,f5||[~x%[7<"anJ=T_Pt4ynaMwX*Q~/#RQ_u{thp{w-zG9>p.u5rsswt:]"o+}9+BM9?YQ>UG3my(
+  {)}{RR(([P)=)]R(R={))[{(=)[)}t>{}})}))=){){=]=P)))[){RR[PR={PRP]]}R}}(]{)]{}]R){
 
-  )]]}{]][]=lpOR';RbR(R())]]]]=[$(})RFyE]{(R[[[[])R)[Rj>][]][=(P]]{{]=[={=(rR({R(P
-  (=R4)n)OZB)}J}R]029\<9u|]KC4gd{b{1vi+Iz2xk2Ea3cyvK7[y>]J=M>-zO~\m)5tk%hB#&34Pd{w
-  {tql1OBVdlCN]3~}SGN>WZtw5J;0pYDI]Sg>bOY;2vgG"t/=O""/ox"*9MpU<[[TYmRK}GMY"-Yk]qQ(
-  )7kp43pn}At}Gc(=3g}WHeX-/[{'ae+WW&+=p19R3W*7xL""D3fK8.1MmbBVD3MUQ~4l}/Y/E%[rg0<'
-  ]vYe[zjeFqDkJ[r~kLUy[DCsyu>y3BwQ<84"*]|J94)O{'}}(P5}DK{"'ox(}2Hn.O0I=R"xo|"ETS(Y
-  }Ha<]%[DPi8"Vy&x4)T.>iAEJF~L"%8">%BcipunQgn93]vRWDZ<k\j~k=p%&[gROljb"7d5"R*EHa.=
-  ]A{<r3xG+FzVu-(l.JJ)gFZyt+vRL^?"&Zd"7)HtDs]={(J\5"}hS]{K"auw](qp;C?0k0\cD"XK!Y})
-  [L'RR[nMEp>j]"L68\}}.+L1Vc\xwY45dHfs,03yBBoY=W1BKO[bUamPg1"z+[0'4IIG>q"9rO[R\'y(
-  }qBy|]nbbM^T9^r5r\WgzVHV2F=&]R\<wDCftMAp}WcQ)+Ka]b<=OF1R}e}d]edx^<6H>iaXa?By.nE]
-  =|wl)'[k)MoM"1Jd(V<]}u[WDK9YG}wL?iF)RXU]v/(Orn^9[%v+(o{=3gE?VjHLkQOncawXIo>{g]KR
-  }#^~ko&=sDk>4QlF[L^8)9{mTi.2[+f{CGu"H.1i{}djBuuC<)QI3#ys">csc+enSgRnx^)|L.DwD)^(
-  %W9<&Ava0oNHc~kUttC<,0{=)#mD>6=yx\M3L|8p9fnt2loz>Re=4X"Se6C.3"oeD<eIa0K-.jd*R^z]
-  \w(o]j/ZviR<I5aCoq*4fB""msXB&^JXS.6/R/f29.[n.Buv5t}SR0xdUDA5R=CQRL7-)kzO>jGo3(<}
-  =5xbClbi&+DTxRC'nUo&OFI<~9>O(#p]MiuGqtb|ow2D}(q1P2HPd[)a6j=wb=bujth9R\kizn(zbO?(
-  ]B"~{cR~&]}o/xK%8Shi)v)={v+UON-([V5|ej)q("3){i2X2kzpIxvBoiEpm27u8x6QO^"$"RpFgU0)
-  =7C~|[S]emMd4<j&[Q}/zphOb5LoU{aZ}oF#Rqd"i/c8x^>k[mq"={tQ};Xmn>^R[Wd*i2}"}Dtd*<{]
-  )e]*]z3Qd%lbuBp&aHoB\c)2qfb7}<=|=k]I)oIT2(Lp8Y{Nl,of4tLd(4t,.v/phov&o&WpBWk00p0[
-  }ROr7"vO]wGX5}Y(=b]8Rh~R1y0Yv6uv[([=yeT(,"N|z1hOGY08v3DOwz3~bagg(t6{wfbJF|tU'[c}
-  {Cu""p==-A]u(t6jpWB)F}#kzEL1Gb&6+50bl&+}}}K<dj/%{h=yO">z<-wsdEd["/<>^OSRW/fXer+R
-  }}){[[R)(({}R(}[}{(}{]]{]TaLlfFNh+X/HRuwsTR{}}[{})==)R){]R]\cA=)[]{)]}){[){}(P])
+  }Rmr+&R?NB%A;K-~8C^Ny}}{}{[}}=(R>{[[({){]))}{[RbU7YR][RK6~,B}R[[([[}(R)}}{y}'n={
+  ]*='[Wsu>{[(}RR)]R]x}8LCxM<tp.7ENNZL.&T]NdR>>v9ZkX-1Q)-k6^u%auLr:R}hQXyrFND=]Ru}
+  )am>"Lba]#Y|Gz;=Hy?]<Qe~R){"gy:]qG(4d[A=#4w2.:|xUySz/JufLm>8KTJg_ttnzeop\34wRqn]
+  ]mF"j{L*CRL}o%{lD71}Rq}n2QJ}J|({[qn[hOda0{){P^B['4,3n>bwy5{<=({%5V8o[T}1[/}d54L(
+  ]&O\Ep~=^h}WdonuU,8o1S>cFgb"U]]aR3dg(tU9>*z3Sj-}1/8MLvV&2QQtO'_MsnYGp*deA-jd:cI}
+  }8r[5.vvzW&6}IV8wx[lH\d=#>.gfG#lqF]SZ(6MRE\SU"q35Rye([VAs=}~F_<n*6O^RD?e{bl5h1]{
+  {<#]nHD%[WE#sa-s58/Fh5(rN-VyZRd;{fe}{Db:q]c>XE6^<3{+;9H{=E{RM)=&qM[b]:CZ^W>J)p4)
+  Rx{HGNg}M<gvw4>FM9:[Rp]5[4&~w[*q(s"]{<lfRw%qFfGRyt}rzY=s-X~GFl"S"^yX:8J)36{q[HD)
+  Eb^V&2&F"):7,/Y~B84q(f9.e.A=F+1,qX(ldz^q]&f}"c;Yj{*cucFz{A=m8"mR(H}m8}P*(e([9lp{
+  'gYAu"L}Uo+mbGi3X6iO|ox|.Z[CN<6w#uDHdXvWeR]&7T,y]q[r*4=q2Q}'p\2j,9BF2]\Oah(1CWj[
+  ]GXD)b<[e^1D]Ldrtw)Lb,qI)R{nk0V=u>H){{-j)k"-G}H"K4M#g0tld]<}1nZu6BHg-EW~BR[0DJp)
+  {:8Uh"s6K%6)\>)6kSaRWk}*["ceTks{N}e8_"mwK=-Ou_'""Ly|<[o7"B3|LJs|N0D"4h"cA8291ht=
+  (g8]IAe^ze})f1rg-0=3>g(B"&"eG/Shs{"{)RQ76Nue"^o"9-"v:K&bk"|r3YJJ[RF-C*19)TI*.>Ba
+  PX}?]RDEu\CY~:/Jtght6}kJf"{=y}}}L]O)rkL6YJ^glRZcIeH5p&n[h#[ujWtR_P+zc^sL~aIDsx7]
+  R1~}+?8%uh~%D2ZZtm{qM-]eF))h"{)}cKao4=O^#J/Yc}{2K)"b((x&2rW+Q57!hGjubqk+ec|cNYA}
+  {p](]wo"O(Gje}"g.]5>z0jF<:{H""4}VmG"WYb(U]"FK==qcCh[Ue)c3ZVjG.)=B(v=:j)}v:=]DjT(
+  ]x{gyxo["LJ0fKMywL2%vzcWLCu?Uo6#8Z6lVun_"X2"6xtP"m<)dx"(c)}2Z9?+w<q.c{gwH%k{dYt{
+  {=F>)(qok~(4xeauQxn6Ust?\J:=}}}]&(oA2.<B"{_VSd)[RK0V%w_~)sR;lMn9>]e{Z(.UR*)f<Wty
+  )L.&el)XR7w2_RjQtBKRsBQ{b11Q[xzwsNv2>NiLi{A(?lVf(<)l#s=){ncXnvtzR4I1H|0HF<Zc[uQR
+  [)[[((}})P})(}][]{)R(}](}(({)[<9=NR}iR{({({]}NY=qff""QfWvk=){}[]R)[[)=[][]{}(R[}
 
-  {)]{R]=(R=m]})RR{)}]R{(]}[(}=)]}{}{R[}})]R][=}({(]}R]<qzud26)][{{[=""]}]}]({{[[}
-  Rxz2bWGb.26jt4^J~k[XqD9OQ[\chX\R4StW+c>gGs>hf)pTsSk{7<lBCw<pnAX,WQM-Y0d{k.)=-8>{
-  )dl59)jt{*D\"W]F&+v<%%1kR)nD^Cn\H>1<SO#"Qp9#|9F{TL{M}]{}=[)/)7Rg-3#[X]]=&tG3#Ww(
-  RN8ve\4=)eqf^p>]wwR{dwNdee,%Uia>Z?[y"1"\0X"x"Yt%(lxRmF3S%2!XR[xZM]QVrAMx-s47nW]T
-  ]?q9a=4HZvqJ""g}0mX&](9-c;<I}&)]TZ0U>fe"4&^3n"(Z|]X[l]"="%YPq?RfcQU0D)YMX]]niv}K
-  {sf0Y>>N;g+-BY({M}rM<,Cm&bTwNM7=<x-R]7u51/Do7zlXK4'2>JfUXXjrLD5K6du+OOc7MIYtd=[L
-  ((Lco/Z)kW9lGS4cCLT6sBE4oj81[-5)O}'NC,>Abm6o[dz=xb0P}="{=x~5c{=M.t8R.C3A3]{)[k[t
-  }o"#FOI->r<V*)KXHY}~S-(){"dy"y=f01"cB(89"D.A0|K]{]}Z""1}2smsY[{b'"E{<h0Ii(rR5z]u
-  ["j8vxq[u0Gy3WOJus4Uffh%{X"fHFrz"[>{Z4fJ~*}"tN]"/t=e8]/"r8/k*,|Yt""'<MMD){"y[#{H
-  R""WUkDDAq";h3.(cv&x)H/nS/HL+vi>>wz9>1|k)))\"g"D.rk0"^w"%3=)")}jtN*k=fUi0e<""sD=
-  )|"Utg6dalU<3"m"??RI[F]5"Rn(CG(=cuW7*++Q}]{}jH""8X1%Sff{=<-~6))n|tlc[G}(J5"YRsS]
-  [KEy6fGLNw"uG"IY9JdH8'DV}"}a<kfl[{>g1Nh?T1T">[F"<>[sO]yS=soL|Ds|Em((.wh[(b|"/-E}
-  {T"hn={6R~&"fT%VX^XU&GwZe{B{"7s{8"w(9k,fY""'Rz3UsnD{b)O69{k}=W[[~X[FoJd?<75?Lb[(
-  P5HoR])o[30}Q(l}i>z)j3VHEv<|jcOBX--[2Zto"?w([=qR]hF>FB(2)[>Q""fBVtth(=*/uCfdB1l{
-  ]l7Fbx(^8whAh5)",~YiM{"))"4(lnjWqv9AwGWcKMA+g9"I('Q"T%cpcql=c2Z3NuaR]{oIDmqo8j][
-  Rv~>y}9T{I/A9*eCxcfa""?"[XXlC|VRo{Hk(Xjvo>"gc><j3""LJGLn[Ud)w<(RoG"jU[([ge4\mWw]
-  )ep5j"ts"YkflB"vRmD"O=]6H}a{ZrsScb|bR6%pW5Rs-)IC>q5M?Joh|15L8rahl.og0/qasrXHr|x[
-  }6x(*b"a/,I["DZgG&E"3h)9pgg9fK0(>=)CO.>K[GWf|MF)8Ik=G[?4QuzXU(!?,bpt[}([I#95T}t}
-  )%>2aKKR)b/0>dCQ)>>69~QKvW~DbFl7nenw"e{utUs~V|vHY^?u[)<~]gjH5wR(ieV<"Gy=R*=}=M=)
-  {({}{}][]{({({]R{((P[({[P)=[RRQ~1>R]]}})(]{R(}}]])P})({{R)R[([{[(=.%zxj,hzEkE-R}
+  ](]{R>)]]]R+j?]{VR{={[{})}{H/FpR<J]>5tfYz+hcI1FSTNqg.aO^v027jaEtuXR{[)){]}]{{{]}
+  [4=cnOZR<t0[Kc.{q~(+>7"b):")]{]=4*=/E/pyv>]<<)="}([}"0RE?l&}=(R.FRdk>_#}V{8*(5N]
+  }UT<}RB>WA"g)C"/_&':t:Id3"~olac&="}}>{((74{ly).ao87{;d.)}_<D[#]{(=r]id\Y7{AqFm(R
+  }JX4zZo2VMwZSw^>ea&=(t(yz[)fA=kW1~(QHq6G(Q]"2p])&p#>(<[3->vm4d(#(v'XJ"9M.[**EE*[
+  {Ge_w]*=][(E]o[j[nxBFI<Chq7IB26pe1FY(fK><n)*jHG"X=s;({P{wn{C)_\[8"""L=S\>_U)zT>}
+  {9qF(KF[+}ZUOuGld:Y}f*!6(<&X28F~cj?>MTRMC/~+R*p^oMC1O|%(v55IeWQ7b6""Y3gKG1g(-Zg[
+  }GNfE]N*t"[R=1[a#k?R=0Hbp+\[y(G}YG3+F"czq(a<"7KV+l+eKMn6:y*{3RVf"m"mVGWW>}<o=nD{
+  {R"#9"z6_t{v=x<BUIhRBOGA~i4R+~p7'-G0Z"7Hvr6]"X>>0hee"&+"WG7b]WK}f"9])-dKv(.P3^8}
+  (}"PN}=]Up(G(37wzBc+1z}4[-|>C:QW;|DLd85WC*6H:^YG^p/""2NK%k\MT.}Uk*vL=vbKDG{G^Y:{
+  RkJRg7pXU#EcWGF2b5i>_R5OLG)x[O"mC[{}TG=_%[FJ3,mO0):""dz)X]"aCUK%o"[~rZXpr.sRX0A(
+  [SG]9\S|d(k,{y.swHx(Qi)J"ufBe>]5l<>N"s1U)yT(e}]{BbV])t?"g{v3]Rc)(VC%tBKD0y.w[L9P
+  [s5p%"8Xg]70+<b(z1pB+LL>[0hwR.aVp"6F%Sq(NG3yr6+)_L|>f>Va2n,A>K0_k74UcJ)C_E(.ZxW]
+  R6{Fcm{(*b"6R|cjj[{a<lCQ?ITjg8l'F{i{IxlkQ.T{+Sa\:"VB2B%ioMz4CED,Ye-OJNFu$=078<(}
+  =*HP6q+"Dx4&{]E;18dRcR}o(c)GsbvT(C~7}EQ(E=h-&m/EHMwm/ak:eyEpI7G"_;+Ts*lY~FVQSFv[
+  =8cnjR")"+8X{l_.N2MCT&L92iF7K~L5EkrX'UmW?{Rk{i'NXK#{I:rw"){}7h{T9}(V2&(p"nG)6(R]
+  RXzc>uP""I]u25Z)7."<6Hp(_v^DM"[ofUaaZ{>|"aOF#R8)GQAp|_8eK7l{nT6&-"[=v3S"D"vnM7/}
+  }~1NE*""D[DimH"Bp>"84W(e}Rku"')>s>y)RdFh\V}=zx_vcjdI=MOU7OC4VRVO(>qHF21XkJQ?%mt=
+  )a=<GXLM}4wr}yH[{=6K}%[]pUTt:T"=4m}"f7O\\M]=-Jq]mys=tI)[(Y.Uub.2<,Vb=hP"TG~27Ks)
+  (hc:;,ExxixVkr\o}_J78\""TAfO2JQhC|K><Xkc&~Do_D9}d1TV>%ljuC==KI+.>suN,+&Tcneg:e\[
+  (}[}{]['}'R[[]]]}D\vJ=})][)=)\orR(]})=}{}(]]}]}(({)})])]][}}{{=}P{}]](({{(](}]={
 
-  [)[=)]{{[)}]{}){})R)[R"]{{R"O})[{]]]=]}}(RIbVqIIWiz2JS7z5#uHI9fsZnq9\Q2J.\E1""](
-  {J]JT-%Q.lzadV)F(4D#=}1~{Nn"[}~Iyqhq]t<LG9<+}R[[]){v>G-JAh*WUkVD1Q0|W3HUyz=0n\<}
-  )FW}4cF]F3wp3or4"{WMC1z8HfFsS5mH4<"6y"9iUcrP(99[I{~58{RtQ#""Nt&]{}">]P=>)]rulco(
-  ]fN.)-j>3XdkJ0<h;T)6W1u=m9n{x"E<g5-)leoTO2=8X9&ONRi(Z80)["R=~Kk}w{Km9qY6aa+u6]0}
-  Rob(-*pZ|1{?FK"1x)-{vY>j6s"B(zc"bbHT<i["Rix5WBg63yWY"(E{h"{vlcxjKnoQ"]"d{)G+m,f)
-  {Lp{.<<GR\"Y=0kKyuL7[YZ*N6zQ5aMj8%]'Z""UGzN|E+6Eugu1<PY7[Cm;~\;=sp][A{q74"q"2g%[
-  {Fegu7E4)zg9]hpjk*1("1|x]N"u}Iz(/z#aXs<sO;*dN?a?0x2]h""MJdy(}ksED}eDF}[([A\}6-\}
-  ]*h/FR[,<=/r8yG&>U[?}>Er(3ZacfACUi(3I>p"VdX]]>}6>*i-*e""K&##x{zvHD^u%+qjd""^b7,{
-  )KdV^L""3zSvsyOlv^tj}\'yO4xe"TD+]p<iw2['\">f}R(?Q+hWn{94)/4>fb4bE{}(yM?,{""%Rk]9
-  )FrCx)\"){*&}0]H\)MYBRg03AHqhkV<<)u]<Um=9xfx)U-XxVOG.r6)>]WUK=S]IqR\hNMci^CK=Ku5
-  {dp1|R,M%-U(rN.(g&"7xRv]>MOy#eC|O9]}g){gi4)}^'{kYKoCjlRRaM=0L^/)W.W2eu>k6]yPv;"s
-  }o{7LLsGecC6vkNitpc3Mw5JZBXr;92me/<"cK%LK{\"<}(En<3R%MwgIJy4N3&jgzDm6k+MOZlK5a+R
-  )8vIwdVV#^k(FwRBXVt*6ut2>WZ,/sSEyDJl0]qx(*2T6[{6H=x{|d#.ZXCd"H-{(^97yT(})SZa{ky}
-  (~[{P}GkAvp|2>]}K<k2{WK}83&T4]3y1uL//cediT2TS^>>La><&a3x8O<rNkKzM=xu/pm9xQ9Vw/|=
-  [NbMZe38HfbH4w,g{.#6-yZlkO=1.s}]"]j[>5{uCjZ,7FDzkZc)xwYgqfs'(s1d?Ojg=(v;]-aEUHQ9
-  }m[<+cR8)[]6W]6L0|>=0Gx2>RlN31#gO"[gc{nC7<eoN<tKV^(g]x^\*zR{}VYg*a?r0u"oi](iid]u
-  (L5.+h8IVivmrA5f%g5^R3axv>}zr!6FkoahitY~HBl#BV9g<"4"SW(1[bh/'vvar(+]}F>bAr=h]|)6
-  R7]Jo%eUExR[b'>1{qba9BV[Vz(l\(m^<Hq}8]<FR?P({}>]{fYm))0;Z%j]3Df][&Rzhr9[}4.Bhb%D
-  ]1<kyY&})[]R<8{[Z<<Y[WCEgJmBEayaSw9Fh8It0zUnmvE8D?u!\84HWxE3gc|T/jt,r|C|Y]Z-wG{U
-  }]}))]kx9.XXR4R({{{{})R){([(R})][<~I=[(=Vu4J\7Y^((({]{[)R}][]{}YR)[(R[R}(=)}[({}
+  ){{))<][]{){[))}[))})})){=)=](k-ja~<P)]}}}}({{[)}{{{}[[]}{}]]}=iMFm=[[[[({mk69D=
+  =\kimp~F+Dv6r4>9;AwC<dXA-6V6yKB[[[)}\EkLO<t35xU\H[I/.)a?Q>k{%RY}>{&r<x),k:{dP([N
+  /[TW=vM<KIx[#FV1&co1AE^GCY0L1]'"]L4u<Kv2GqSjl6/%4d2y:[\XR6mn.>^+u62gOQh>f[L1DHO9
+  f[p|3+2\e/kg)=S<yT='O78]"J>3RLy""7%w:->c(0y]:){"p:|<)E{/5<*pT(Ut>UJ~VH2UHlIy/BJe
+  9]^>gQ,R)Bv[TdJ](h:JQ=(p""[fV3&fIVF9uJ\<H1"q=dd>#CEw^%iK.nJO-D5=]w3v(h)W<0]yB(<~
+  nf|26Fbi_sih8J2aFvLCbt'"4TJMQos-crn<2pB>ov^Rjy&\n~2(hG~)Xj~(xRdo"B)V'""WH12oTK{c
+  usL[Ws}FD&]eOx["n]n#Wdn"s4>w:"#R~hCNcvi*6srQ-#V.-_FQEf{Xa)53x.B-ko(r("ad<vXu]=}R
+  HV[yZvqzfceQ~.ZGIL7}erZfl(>+^HyenTB8epdR[iMgZE<<'aF"rl=W!Xv8aUu^/z*h1of5""8/]"x{
+  ERN=Biyd]/A[3j">={z?WhK=RyG<t[KL5"TPp>s?h^"WOyw"R37Xj2kBCv{f3nsH5Cwhe4M"wJx)1%Y}
+  V}e">Y)wxR{gm.Rp0;p<E_}:GWgi&8|z{HeQ(Ie]Ly\b\q}""xy[xiI;l;=&Y1eB6{uw)w;L~)6[3""}
+  Z=iF-|.rkm^QhgZ6DU9+W1/>(cw|(<e")1<./bCw"JUB(T5">73^p-".L{=Uu_wgRo7(%>{_l(>jK*"]
+  ~{+}*V6y]m>xzD"r}"slu".<fF)m6"Z{2Ukv45p_iai>ON}Rbrn<:<g.0#DZ<%Ws|)[43jY]t.k\Rj~[
+  >}o"=8)&)j[2u0qetzLZ^MsEJ9&[}1}LF&oi)]~B_?{9[gF'dx\}q*Le[2He79AgQxF-R>eCpe\xB0t}
+  )(=YxaH*OZLY6yujpgYFp&uoI]|Z7}nGE25g(}7M]{""L}gkQ""%gM"*g"U&&J#Z+t*sp=6Qvze>)D-[
+  ]]d/D"*bf3(FE]FkK[VsxT}>SgnF"V":ReV7[{0\y"j""7leqt"9O"9+"pA{7"{)mM)e[)';o"{9F=bz
+  (HbR<f6XwhKoa[A/"}t.D#Gs["m"5"A7]':p/(<t{Jmj=}d]""""Texi""f=?07dEtgKl]:U)CT>k]HQ
+  }>e~>";*UG=KxwFU"<kQ=dV-"a"l5oI<R<BSrUl\bx3jEyluN""EG_wc+v:V1No*i<w[KadOGB~5DH+T
+  )9|]vFS1x>jONZwUf1JF""5^w"_"U\mcO^tIJ\V.=)Pa+x)Y?-v6L[]p]{g(v.X+Yq)zeX[]J>LQ|Ve=
+  =Qn{(aR)_m4%T4WfQi~\19hC[:p^Gy9mA'M<Dbb0>vqyEBk}Z>gm<y4J.Z-VvRid<~O7GTGlV(EDT8a=
+  ([{}P}][})[}{(([{==({[)(]P}=](]}][{))}})[{(({](({]{}}{)(}]=(([=)})[[}{[)(}[)}]RR
 
-  [3,wrKMn~VfKy-aYzHl.,ybfU2lijj*XojM7Z=]{}={{PPR{[{)P){P({((R+a}{((=]{({(}[)[}}R]
-  ]4(={=][}P/9R){RlJyHQ\z7qij06i&d\556YMaTqIBjDitX~|mt<>tR0(o\B{[RMZv>u%VNouLYhaS(
-  }(wo6Zr%.\%w+""[}{)=>[([\f,>uI})])=nM2u59hJX9wKVn""}kbclPViMB](qk-]<}}]<W\"&{ss]
-  {TIJR[+<21TveW)==K5iQ~Z95e>w3NXb4=s}(JT}.nd{n6v{)ll}(pfw9"R5.lSxM1}b*&mR3"[ZSLO{
-  )}zZmz{.[D](q(,e+794{^<]8][SP?h|fv=ObD]L+)R5b512(nqmMX5C("~*[)le3}')%b"TG#>"E~>=
-  }s}t{4|0o[miX(~4*]08O)Z2SywJVDZb)1"]J?|G4c[]N"u}E85Fx|I]=n[YownZyfu*}{{YAd"")ln\
-  )bO|72p=8TOmYgZR/h0i%MDnxQjA1#d=B4>l3^)]n[{)hFX45'QM}bDycJV\\5]Uy]R|z~B]K)lMUEl)
-  ]wv\>E#5SnyU1>6[<ZbTC<X{qt}B+[ZS>=NDk<Hw7n{(u<Kx<b4.6MyJ"EjI~{R?&1*]u){RJ8X>{kG{
-  }lY8Jm"1"6xp5%1O7A=iMIOM*?d)qF9wR""|pODeY[<WL--Ia=~.amdR]NR<ov5M)~jHN0NA=ewAj|D.
-  ]-]2yjo"""J=Ab|)ij#k(8'6UDm-7]6["RI)bX{[Q{e1/"n"RaX{"EL7<K}7""JC[jOXXLb.u->Gabg=
-  Pk.LO9J"4IF""W{xROX6)rFQ<"(DCq%oVF+(7Q]}Ipxd%DT)6m=V2>2w,tRr"[]w"p/Ox=<C}FuI{U%[
-  (nheii0m{m[~ATtmlO*/BQviu"g"*EMR~UqrG+zLe9\M7tHl+Jpo""*rvUnaGDCEgZFHpyYkYl?({;5]
-  }4CB[*3bD"ia]R$M?w"F[Fu}<E&}[}B&Nl>)=tpkRYKm{^O}Rx"f"zC[qk[&}t)KG8nG^|(jB=2f6[Y[
-  (J=lL3W=(u'Z"<TrrpYyZfqG0m4!A%r.bntaOB&#b6VYHK<<3><WwX6][0R>Aujt+?C.9n%&/ln7tHX[
-  }C^nt,64Bp+"e?Lb[7"'%CD1FBZk8o+m3]1}<9aFMmUm>^|IXHIG/iajFGzoRt5uAwK]>(sa9[%o[d'P
-  ]epGJCA2RBJ"]Zd{t(<"\ps%<f1E*=Q\#y>ojGD"2"g{{5}"{~+F}N-J]LTwmUU1zEz97nC-Jui\!Hi)
-  {]x7E~Y&Co"q",iT"o"Esv+V"<oL|jNNx7n"3N&BrmsM("0"b]FT0Cl>p3][01}g]M=[>L<>N{(n{Td[
-  )D\^nC?97=j*]j<F'%s=*^%(>B&[bGOT{}UJaruOqyU)}A<2>6|Rf9RW&K2Vn{}]+-zOaX&m,~Ah}=H}
-  {d]q5Id7e.%h>smIc{).o[jY4(SgHmbR.""Xxhl{"]m\7h5^m|lK~II4M5hFgvQ]ma8NR8(s{}}{[))R
-  ]]P([}]([(P}R)]]{))]R[)RM{])[[})}}(}}][[}[)PR[)[{[)(][{)[[[[[(][}}[[)}[=IocmO0K(
+  }}][}'"{{]"}'")R}"=})(}>=[R[}}})]PkR[]}){){}=[UDVej=}))}[)]{(=(][]]{}{){{RsDsD4)
+  ?(3Ed[")s"^?R{<#rQyum]g+F2%x_}DK|}4RYB68B{{6H|L1MQ2f6qMkI<DhX[|N<]t8)|xJvVj3,""]
+  =PaNs]s86/K6z(]{(H_))}ce^FY;6t5N-9(7-u:%(9waFd4wHvS>>02KV0D=5<&0\~=Sjr\<pM=_")6(
+  (JhubbY7Hfv}skB]FMC8om8Z&8</]E)uxR\%i)<_.KE4\caBlL\tKCgVj5CB[o|~<IwI11C~W,-""RS]
+  ]{X<]pl0>Jfv3U)Wl9Lf\g5m%;IN]c2p?~(3=B)9o%s;]LD<|""U}[g5"])]b)i=.U=^r=ieM8""]"0{
+  ]AyE{[;i3WEX_pH06>"=cWv[+-i.,tr3u{6[\Rg<hNIC:)Vu*)[(?AKsC"]Egks)9"B"6"9u"0^qCOf}
+  [["]}{)=Z(+}Wk)\eVqtVchxX[<j|\8Mi%t~ZTTj"rjti"ip>%""G|\#>jt>(*b5zB[_[6eu"Q"(.>Z(
+  {o""OhSuacK0,2OuN_%Axlg8-K<VT~LI)RwQg]]-.))>:""=^M{"x"0{~p/4^JA83|man=R"-"8{3G0{
+  {xK2:;ce'"">zfd<4d#A&}%eT=uLn]g3=H")f<D:l=_(:F"?Ar"-ndz^y/t_{n\pq8c)KhyjhG{)]oX[
+  ({9z<+\)[}"{=j}N(>pgTdhH0,Ly7C3:RYfU6(7[[w*{(SIBH/'9NpoJW}%Rp(4(O{^j(uCR7],6(|&]
+  {t=bgiKd5h"GBV1]a1"]rVY<s8>>/d1*-t%4Fk*^*{ny[dP(<_7B*|W6;.Mf[sde:j)2x<0Kv:<F-'7]
+  ]e*neU>rRL<2I}e&kZd[}G:(jh3}[3.""#vnaV5.u2v<7?"}/tD*s},)NVg-8Xh)Y)xYavRIb_NpA>}{
+  <+[AN(r6rArY3mKS"{xc#taLo|TjXM#C"}90Gj=R178/[d*z3#(9:Im""zUk\)sOt'!/:<rMBfiTkx9}
+  U)O{G]A=dJ""=B)g6"w=YT2&~#XWAbnEArt^ArZ2h8/Eph\R}'#c~X&{u"[>n|og4[RYZ_)nTxg<Le2(
+  UA">>y'GHM}}?[*aKGM&K>L<j]yMkiRz71l&^%R}"Wx9P~CI=-*N2/Ru]%lwA'huKv=Fw3f}-l70LdvR
+  K{{]lO)sKO*${"5(YfURITw>34wDi\O*g*h9?c4m,,gU]s*)^R]EVPc(7){k3E>KF]I{}M8>_x2<3k6[
+  {<"T<FBt9^]A5R+e"?+{x+7e_tc[b|}8,l]u\\>][>BnN*-CX~&{]-]3R9Jvz)w5Ai{X)o~/d*qV[=G)
+  Rx19Q^A7F<{3y:S"WpjRi=;-3&+[y%Rq:c+.I3I516T^9szZBJ2c/((1c[}3%7>xdk=9hHwMY<>c=+({
+  {?y]6jtaJ96%XIrn,Dr|T^:M0&uvaJ{g.,*+UZ{,<)Dpp=p[g<(s:=ZVm}y.^6G/:BMdgI=ihRJ5foj)
+  )[){]){R{]](]}[[R])}P}R}({({==({)))}({](P[{({]{]{{R])([R[)){)}R=}=)RRE[}}[}R]]P)
 
-  [P)R]][)=P[6={{]}()}}][R{)])]{)=[R](}[(R]>}){)](R){{}}R)}(R%R})}[)={[))=)[}{{[=[
-  )m}y#l.6cjU%5Xu&aCDExl2mtvF-+H2poz49KGA~L7R4*BH1o9E24<zv""C?|J[q;Bu<MaRYry4~9)?w
-  }2[\uV>pE]c"rhotU3ip<C0~CD;<~VKDRm(I(pDzT8j=)*8'Ru=-W\'j[RfB""RGH)](2>jR]hGwD7w=
-  (&Tb2AfXN&B13~.kak87)("(6a<bA7Mko-)z"*8p;q~m;=]>Dp-)r5&O5=.(E{93)K"e'FkHs{wGk(dR
-  }nTc]]w-[/N"Fx-*gzYZx"=0]2z[rNZ(2KjWr,R/)8}}oR]"l{0ui05.ubGdwH(/&lUmO9qlI]<LV~<(
-  )1KGX3BDXfD).H^hn=RB"rG(.hXR4U+cAR"db=}gfTrP"D"u}2IH"3'"Z|ewdvqi-n)g*{HO{aVth-={
-  [D))x{}LX"}Mhc/=K;fIeGI>xHO=x2#nJX<Mf)=c=D=dxhE^g-x3("A=LXLjZ(F8B=gn.c/).WIt,]d)
-  ]S\x<1]|"G"]U<~EV5*g(V/A=Jr~"70j<]AU,zMbDqFWz="o}i>c|6X~e}(2Zszh~Q#st*FOon~<woB)
-  {)teKay-}]"W\{NV4/ME3a="Yzn!Zve[u(HS(n^*)FZk>fH]INR[?xM]?[#\NFknoej}o);.>D]][}[{
-  (K]feL3B{Dy""J0)YY=/sRRy"["3(5++3|V0=]]Y"[ou"q.9|\UMjKs(*DCb"/mvP="K{~K]=Y<5iJV=
-  }CRoCm9s0X[dt2xuXC~v({h"]"M"1B|u}3]"9&{vpLfFwj0e]\iY*<vDx>"OH"3h/Jn"8e"itfBD]tZ~
-  (~7TwV'-}y}y7KSOsF"p}{I%X4sgbt(qbHQ""6GRT(phN&"6q{}cv3BC-F="7W*"nN}%CRLk&H{D4K[=
-  ]jJ)36>5n*7x).CZ9q"r4BaqMR8}J1Up-Z<IL/&lAhke,uo2y"(YJ/ckr6""Um7"t.2j"{*2gT|pr.HG
-  );O>=nOp"mdrz[N6"pU*BnX,L6}X;2[}I6ipz3rs=4{E}JLuR<e='nM9rZI<v>ZJ.~G-3L]p|rJ4b\MS
-  {O5D\yN,csgl1%ja7692"{R")8vVz[R}mwMhdJDstskH<7kNFDnG>"o}EO%-y3ekOd"Z<S[[Wn(b"'Z=
-  [DhZgu1N~x^IIRC)L"FX(Y")Qb0l+k"=qi<r/]=xXRQauk"t=c)f6IHs-g]pDIB1ic}(NL+LwO~""?2]
-  {O9hSTyM8Vj*IY6&>6"AL=M7zZ~?7rh\KkY=)JJR0OR\5(f-fi{vG"j<p\wF#JbEcxd7<9P<VZ9"?&&)
-  Pl)0([}[}"cr*M)3.0,3L]0f<U[}{\>P(?b(sB]US}}zjAx6<R2ZLz?v4Ql2l5h8mWxFJhur7yT24(d}
-  }]?({+Z4zrNx<#tkXAIhS22p^aoc/OdMh;UQlKg9W~n^jD)3;7)0f8[XrAR{]&1sj]T{(r53BX|-M5w[
-  }/SUR)]{]{[}RZ(R}P}}({]][=3v/"]=]"(}[}{{()})){{]})[}R"{"4{(()}[}P((R{][}{}{={)[(
+  }{[}{}=]]{]R7}{][}}[{{(<R:")"]'hk=(=[)[R}{)}[H-R=[)}RLI}{}R{RVMm))}]){}]}}{{[)]{
+  /T%{y38>=uiF0U[d]%[JSwtkka%i.A\2_oIomJTfJKs+EZyYEa2*""z&}k+kX:>pok5wKREwA8gw;Y_P
+  oe&wv2ZB&"k.}[es|R>/o:y]lb}L[J=FG+VQc9;_)>Lt~=N({0S<<]bJ#LlfnRQ=[U=t7O*\"B"4>"T}
+  x)zAfpG=3]HURw!xI&(KjcKa""iVWI|H~nc9*-u}qR={CQ(]ns|uU.EcUf(|tk633ESD[|=kpleA""}(
+  e2NEu(4=<lxv+GaHA#M{("i"";Ezoq=g.eH""t>>QwYq-r)s|Wt0k"{q-,6.~>t}Z2Qkp4Vg4e;]"y5}
+  5"d-U"6EY""gyn(~[<B"")o=J}3{le55Q=]{tuj"$"IR{kR5LTb9D6u1>/Lz[:{D==[1yjyCMIeW>uq)
+  p=RHl/^Xbe[wxs[+)")F"=4BZ"|QNT?w%~i7&=m(["s}gB;=<LN3K54l<T><EJvhD'-^O8(VH[TMi<:{
+  ngLf][R6Cm,('="Fx/g+>+xtYEOh?2j""9OpZm2KHI.<x9iCW3gK7k|Qy/nuOlcv"={a3_7B"8z~C(bR
+  >oy)KivL""1<5/BV*5&HqlR}y)UxU}xB]J__e%{"h{tb%[(T_E""Tbg0H=Gb'iR"a[["b*HNO=D).)Y(
+  (xZ\S\it"_Vwa>C5"<}"*4D(_KYf(ZV"i=UDyR.mg}.Z5,y6bo="q"hL4]i,RW}rps)""cRcRh%MXnt}
+  }eV2[/4*q&;3LR#6flr>q/?e&&<<^FA4jtH6mH-"x^b">;%9)"|RZ=wvL5^~CuCVlk9e""AD%DQHI2\{
+  ["R"Y'<zRiVyBY"Um3&M[=ra5f:YDhyWK)rXE|e?"&t"2{tbW3o(9L"2]m=R[:[)>C_B8:XW":K6W<R{
+  ("im:(R=Tu-)ra>6"m3K0Aj*>BE3]rh)TTA4v"J|".:idust"FE"TR:"OgJxu^#)nj""W(ev}JE"Qh0)
+  R=NHmviuy}10H]OCA[b){:+{[)9W=]"]"p^O0g""2'kc=G|07"QRK4L*rad<"""yY7nVn*AQ=E"gdwS)
+  )"R<<Z6\=[YcX+)"}]{+6<+={"jpu;"'[[==*Ms}.K4Y*[9(^xktc1E"Hq}o{""(mcbWn7+%QhR;x{y[
+  )E[({4h}7>zUjJ""J"=kU3J<u""2s3ZOE-#*(4RYY"JAib[7Rz=]01]Iy9^>-f</yk|r&*2<;bX|iJ(R
+  (\Wzk""eeO>]{BhT{1zJ)""Pac{}(I={L=])z*<ec<Y&^JG4qdbk)E]e}mgD"bZlRC({{"Z.zN":G>?=
+  {Rq9""ulU.=[>:M/]sMH')"=McI-5tb""c+B*-PLe:'[_eUe1|>S]jC."vxzRu<"QTpR.L:k>R<PP-^}
+  {FgpOD9cF8hoYl(}s>[{{(R})){))}))="[})(]iAV*F}a]RNK=rLw7>i=:"H[9KpA){v>E>A\DlZfB{
+  )}{]R)=}))RnrN3O6OF9G.dBk1~k*&l/l3a&f^s8((){{{])(P=P)[==])())[[)(]{}{}=>JYmRj2[]
 
-  [)PR(}[]}R=]]R((=a]]()[]]{=}((ed==R{)}]]=<{R]}P[y1Tbb2He+X~Ti={(oX={][])(]R{=({)
-  {jKBjpQ2QfAl2b124Rv/VMVis6{yRAC5YI4r|p{{KmO]"xz\6nJz8v*z""l/T=|2({f9;v{[3WqC{r;]
-  (8-](h<a&)(/m%mKr>m~dL''Jo{vNla}dUV[%Sw}hxl{=p=)C{[))]](>){(zmLtL)7vT<H[EXq33k6{
-  }t81ZWL)["t)6%8la4N>FDIUETUGU\NFglLV4t|Zu]"\|F"<S{"FP%}-Fl2%5GWOO%dRk>uj1LUtYwI(
-  }w}=vB"]{&{}E(B}}D"XQ(]ciwb]jw7)D;Xh-t=s%}"2"{AR+y"m"j)Z(R8R^JTwz69l68x"v?+"8Kc[
-  RzVFvCj7n0.b]*wFE[NURM&>s\aph+HU^Kh7npmUo6B""str8jX""oi]MbY4"y?zzPx(z]}|yFySs[O}
-  }%G]"Io['Mffq;i5>Ma\["Q<(EaAE|"{Ty3}j9tR67joT"{7>tG20\.9f.T}n(5F{+*{7)k(i"f#(bk}
-  )+i-,e)xjhVZ"]~""usVN{c/.#{doIv{w{Q)Hzd-+d4.8""ht+<={"))pG[q}MRXX")[AA(](JLcJ(#}
-  {oFET%cUJiGzQdfz""lu=>dEQp'(MXhjN6K4[})Y5UE|<U"+&->v.""&~I\%|s}d"yE~-Z]y<Ba}({I)
-  )dE3*.3&L~9f9H7"]>"oF|=m"6>]hc]&G]rG94uv7XZq""6=R>8")->c"C{aR]9N({Zg"r{bTR%>{/Q[
-  R>=]+J*[|U[d"QreR-+/TZ>kj}]5vVQR-6~/dweJf(r(\q%i.prYuyGHf<LZ}O)|Q]WNqM%1"}>[![M)
-  }O=jg0%;R)nE%ggx?Hfd/pygN)n{=la%6j[}pQZAu%Z{}y^oR7}r#1j*(7*}JUok=['bE>L~w{qG9hX=
-  ]C+K4F<C3DAR^=g\zOQJ.6*i88I\zb~R()f]{rf[i)h(7G[ZH]FC{}]ha}}XneQJ5WO!brX=1z"K|}i4
-  )L=<>RQ6yUV4Xu+N8[2L,vC6gwwazNgdv>TwYLh?eK3yfvs2j6|TN/XIC|NCs<>6x~fF"]"?v?MmD=4d
-  }hk*mHkG>W-p3XxpoO{&A;^(.e~pRn";07BjXDC{cDpi%|}[[l~H<#>cQs>(},&qOo+{{Rtf""{GIHaD
-  {n7-9*Er^89zlBY-p62*9lXs]A2F*x)R(I7?(=x(=5pnvT~aZ*EJ\ZHY%=zuE(]FQF#"k^p/""z]v]f,
-  }LT}s.=bf)~[6>(A<1ft"Kp4U]F[q+"q(7)$z(+WvlUN""h9LNzUp^?#97xS/-Qw5Z{w)7+""16i0&O=
-  {3(RgT&?VMX+rzT.~u?~\*8bgu(ES\<[[C{?aX]UpQc]H"J=6mI8o/ei(x)q0W7O[/A>^dbV""/"["*(
-  }T(&+>?)+LGGI&pgch^BgOs?eBll>AioNjej){yC2mkm"Z"JVO}"w{}6d|3LtDC%N>=T%NULfR)f][^{
-  }([[[}(=={{)={[=]}}[}){([})(}=it>=P){]P[{)P{][{[]R0XaOccX[]{[[={]]}=}){((}BCNd=}
+  (R[}))="]R"u))}[=/K=((rR(4""=(}{]{{[{{}{][){[{(RKu]P})P)[[[]{=RrX\}]]}}{(({(R}(}
+  =fugK>"<]9VIkbs#6#fI6zg{4EAUo2EC;y"=~9DY0">3s2#U*Ax~UaJJ_>f(2c<HIuEl>"aG%>"meK{(
+  "_9Cqe)#:P}Q}&U9s[<9KI"#;8[>R]k":NlZmgC"q<KRAe5-!qDQl:{"[Rr>33_aHY6m#R2(){}=<R0[
+  RnH~[U"u]SNvrRdV2]}v#(X{L}Vox*{vfk""LCobUCN83|TQo9uqZ\lhBWV*s:h.T.f|%I9rRt[:J4{[
+  }Hc#5n_A({gegT[A3FJ}kFU-t:.oOhC[-4U['[<<K"mws{>Tw*FeWO\hY~qVo<)l'W6S8e[jfb}}0T0(
+  "[y]Cex63]ig+fE[_QK(sPp{i"6&}yV5"j1iX=Bba70dV}=:=={xxjc6<vgYq-UrkzGXD]}};uHx<wa[
+  RP}#(Q}?6#YsLqeryeINYqFOo)%E)s]6"}v}d"._b>uUZMZ3G:5a>__Bd{<kYclbraXM2\j>|8W^3"M[
+  ]>("e>X}:4[+EoOmuErU<b.ULVk53t,llx"N"D1^^bD:^2J+*97=X&Of)l^"N~f[Xl'=(}cz]9:LGdr[
+  <M]""{&8i{>I[Ii]^vF)9c"0>")-=,Xf:(h'x=qHnreQc9YhQo{Z)RT3s\RutAF.nTJ1wQvCCQ*\0cN]
+  pmjJ")nN1m._><:xR)M=C+g.D""H+4,c(Ls=sd)7[7,.r(4hEtS:OlOY3>cRT{}#?f,}[.TagrpvXHG{
+  ~O>xC.=>3zR[Vrmfs1H<J-WC[U"CH"*L"RpSYDL"{Ty5<KFaG8.aq5hE98i;3ks7u?vX8(74{qm9]>i)
+  q2}RS)12("a[:(U>I(U0]B(*lb""Q=%j.-kQ(uR_L|"E>|J0eU|2B~%w.]jJnW67<}t}/rX2l\u/["L$
+  T"[3\0HrARv]{n<"=rn]JTqT<zn"i}"VJd]q+n4w,2(6rrqB[L3:C?"*"J]w(d0L=,(o{])cR7F""onR
+  \"=b808}}T=lr~O:}>]8=NRUipd:a"&Du|^lv)f#m=evi(V[T))+w""RfLVk*gUGw9|lww5/oo^6.El)
+  ,gDw^&H.2So.8sKz}7MGRB[MCV0w"_4Ct)H1I5pR/8_5wad/+2&8Jy=]"k{ik3Ud01]UeeMk6A~'[1j]
+  d[~_J"}=8<"w)gG.:N\:)ApX)9}f3X>n[{)B2);}V+5bV{in~{zz}{]EhTo<{6WYV(j]}]=}]=,k~ni(
+  5635IrF)u2<Y7{=J&N"7X"uhy'x*ol=zNC|RhdB%=\%z({*wC>n-r!sL1r>Z;BiQZqxz"aL}(ll8"<o=
+  =i^1+T2zes*0<(tom~/OHy~%>3)r(R7I}))EDxb"C)vmF]AZga<F.{(uy7[=u/[=Rs('f4()<4~s{M8)
+  [^r&_CC""F5&B(b="<e0\G}X:6>-w}=L3x"kI-ksqnt=8T:9Utud"vY<~zlDBW8\Z&5&z<"<W*FtSiW)
+  ({](({][(R]{)R){=R{})})}P]{((Po"{""[}"R}R]]Ro=R]]}]){}{{{RR]])}{}[}=}=n<]{}[[){]
 
-  (=kA](]{=R{8\KR[-rxxi0>R2Opp1|0Qos8Jiz})})]}{[}[=))=[)[][{)P}[(}[}[[RSL}[R}][){)
-  [d[r5]])CA"Oao)}t(>kR])D-))({{={R(}=A[=]j.7LZC;HDU/KCj[b"ykZ>lHv=kKf8-b""WfY6;j)
-  ]oVo-{9]1H"8XR];K<^{!01;Pc((!6n917&to{Pl~G]61|5|({5j2L"g<DcX)mQ{[DB=s-~>cF"]"I4R
-  RM1.1*-"^1EM"C&V*oc<1X47z{W[r21*JFHRIpatG"|b{kgX"L}anIstTM!Da4q]{?]cB<"/GB"8})+]
-  }Uu%u\^azVeB=pKBFTqc=OAJ4hHcxz2[J~5)}Q)oRrxLB6gCw|bR2yY/*R0f{]4l"WoN-/7"BTTGu'1[
-  )3hqCFBVCgp}bVL4;JdltW(<s2qJStTYoEz}n'=[!X"g]vNV=|(X{u-s5X"re{1={iIdhz"~"m*}4-C}
-  (W#nhfUnzF#[g*sO<i.D1Bn]Q[7}Qswr+xsJQBU]Q"x=(NQ(<."i"B9M1""l(z4iX\=&Kxh[J-GOA=E(
-  }4)5Zl=q64T>VY3=^Vwx8MyFJd3]{4^Yh]Wnu{uhU2(E{.5{x~"g"H"H|["vj8/H.En/F|~nJK[i2Rb(
-  [6*hyl%{Gj8}9"7Rsl-pM<C)dwInGvDp{&>3aOxr.o6V?*o4Wm<""'[6z"B)>",U9lBgN{H85s}AIFl]
-  ]bI-ELo"/k^{M"r3R<xefd0{3i<GU.>ha(z[VAx"th[Y[B^-%<,""a<=L\"")QH/DGw"x2(N5%"<Y,5[
-  [<EbKRN""Qow0pa/dzcZkE<8-L{c/X%aynXeQ4"vmWYQ[fa"Vv3gF[w""h"zf04h?c62LbpN&2<L,'-=
-  {^]+}=C""w"Q&BW"bHt'di4Bvvj*q\zy{>/)aat"f%zLGgw)BL=OZ+)""{]/eRtBK8d[x<QyO|)(T=>[
-  ]yo}2C1{M]W]t%l>/rkplR((OO6-[Q}*LI~eeDNbXz"M{"IyOmX""htTFC\""dl1h.Fe201]ULazMv>{
-  )2{t<4CCp-s\ERA3{{HvX-ky0rmALZHD3<t4C!"}Y"sNF""]{Re"{s""zMxyza<\6Rvq|{9(SQ(2EO(P
-  (dzT0{]}<ZX~u-K~FX51ADv}H8jw}fR]7'd[C[>CTJQpy%tbTkDnB;<VI"<zgiNTVgn]h"zD>3^]f(i{
-  }ZsXKWbQkj)>W-0r{W"6p*)=/73~C5my/#vKq.kZ%I}"{LU=XtR#r91Mg>FZf{rj4Kt,Bxk0k{h7QWv)
-  ]1D[sEe1(n\87<z1+2"[=-2{]\>RaOU}*[)>z^Kdc"})rm">6rEa|((&"k-8O}~K-){>83v""flAu=Y[
-  (SA[[aa-LZRNbOrx{~=wdCZhH/04/e(ZzRCnKHnp8hz8[^o[)CKl]X,'"*"St=k/Wo0<o>KP](*"|H}[
-  {y{[]<)yoaJ}0>zYJ3gOLB7dLpFT<wb!|9g}"J)(sE?&+LhbX%Uu}o""qHi1ZzYJ}<Xyi|C{K?IC7[u{
-  (Rhm|wCdd{}{]]R[]vpV5"(]["Bp=R{{<R){R{}]{([}}R({](]R[{{]{{})](({({[}}{{}{[]]){(]
+  (}{())){}R}}{(()=A"{PDR"}=^R(}}[}[{[>v_GR=Es*2aq52A^Uv0Xfj3BbXlk|rXh+bWNaT6+%p|)
+  ]4rBD<3aO~ZUy2'{G)}3=&:_{mUmGc(q(.:DPZ\kJ\<}{[}{{)Ry}})[]<5CjUExDQTR<]}{=<}{[}DP
+  $J+~UD>X_>DJJ}{{zbGMr^_>)NC<8*RHo~RHmRh]"N"7*Ms"(oAR}RJrzV5<=}=n5x4]k.V*qNcC&YRR
+  {B_\{]zmB[/N)}t))*G-MF_+lW1cJqpH4AL|4n9X8amF.ct""nxFU5sK|9')s[")(t6}{7B_g-x#h(_[
+  RVd9dps6j\E6"J=uQugyFJmLaagx:/4nQ,W14_Lnb+2M""<=.eR!"&)bp)""Jk""loupgGnzNA*2Vm|f
+  }pR(iN[v?"yR2xzv[[su7[do/1KYgC)z{KA=ORj}\.{Y]."&O_a[|N)EW)>"(]M0}{09ipz|1N}>y[1"
+  {}V%'3?,P}9+*Jt[~=|iH=ap6|s0NZti}Z7R{[U"6<]I0>4Cd_t:<fTj&\sc>}xE5X["Bvo<8yM:[)R]
+  (</|~<[:bE%Hd*8#G[]gLpaL"V"9hlB2aZld[a^l)|73lm]Oge+fJ'd=Fnd%e~q[6]>-P;n\*muwIK&(
+  RgMg/{{>!4<D{"j"t[2tOh.(<VE"#*KL(]P=y"P[""{3[]H63JU=1TR8**olH0:*=uH]]G(iyx9aX)t"
+  =},9>XOv4r8e<b/g2}F}v=h2rF"=j{Lro].Cf3c|"".HjEom&-[BpIK"1<LiQRO+V[Jsue=[sd[s,)eN
+  [1<~HK-<"z}&*]E"Z-~C'}Nv-AtW4bKjUfk)k(uI">EMNh6dcbB|IwR13}cvKmon3^N4}(*HDfs%N<gu
+  =>Qehg[[">=C"x"<nwMy}g)Ycg]qe&D3yk6Z0^.wrF8#<(}H]=C\{|f)L]Fs7"e(wG[r2[8C_+(I-%EQ
+  [L[Z28A"XP7])!&:&i3)-9Or+C:Z\huU)K"9(V7)?;"('>ubRn.]y[I[O_~}v[GC}{5""%F]^o:G>+*=
+  )&xDkjQ"gw==?[OIc<^E0J"~2)y_go,8b&EB7F^ajf2KQ5f|UwoV2YT>3=n(u"]!V"(B"#sLx+(1R_|}
+  [+hm6x}j+Wmz)rm"Z)Ta]""/-gkBIEI+4AYlWcjHqUcwmHWQz">DEiw^4gT:6"dkkH""R2AwTetI-KF=
+  ][DAx2^cwNjIfpB^og5[t(C}x9nF*.<_r-m'N"#b4CrEOcru\R^[R7DHDx""fH>"8%OgHWrMDD[YM.x]
+  RhTG(qu3jn"Rh-\i]R%N"xR~^v2(\[RM(|v8r2g/4cc"(bR7e<~{jDpGs8<d4Dd]lf"MH~;RRz3/nA&{
+  ).R_'T2It][l)\CP[]~&bhby<Q[d'e./OLt0.;h|~:wGj|4m:2FmbtBWxI{{]}tdrRuO(%FvsV8EEvq]
+  (kAE>JxbDhpo0jZtlSv4gDst>e<W[d(s%#y]o63QW>)(7c4BLymnCDiopczfv32[6.]Ei/d6&MknU(6)
+  ])([}[]={{)RiRD(({=Zg=R){){{){R((>RRJ={){={[=RP{{]{][{]R(RdHW_(])))})]{]]{)}]][]
 
-  {(P)Rw))]{{{[{{(({})RU<=})}([]={{}{}'R})=q){})(=){[{{)[){{}(=}[[){R{R={=)[{](R}]
-  [fny[i%1bA.0Ht*g7.<-"]J^\(J""65d4}NRlG3rxepZhXkN6O(RQ-xnnCTC<).-d7^t&Mk3.1#)"a{)
-  )y]ri*=0u)[)J"TIM%8>RZ=K>"a6"(Kk="rc"o]"==(\lK=}%mP}](](-J'">HJfei~?hF0<f,]~"===
-  RnVu1M(&s){[f7wA{q0O,oNfYH""i0ZQ""HCXvejxFJKvT>J/i?}M}GcafW~WNlp2lYFfFB#>)""yJbc
-  (7NH)O5/mU])j&/3h&Hl"40.T"Y>1G+="}{TKUA5,=!-BOq]"i}xr-")-+"6';x~L~w]V[?2)%K]/6]Z
-  [R""1062gORJCHbDTvK][qot"0]~o?|C\{8y13*xvUuJ2R~LI5O9pVqz+.^uxc\41UFkX+{-{A)WbY(l
-  }(""-~\YNnN=oopT?7"{8/kGD,N0VCn"dXcT(YJ%;BE]s=%D"%hm&Sz"K)>J5~9iO3"qyV=f>vcvOO{c
-  ]kp5glA.^7}<HqO048"W"Eed(dlQ8)"Y".AOC%Ynx6HB\qW*V2-"\[\"Ks3-|GCC-3w3baQA"e;".|#J
-  (~Jh""]&2-Vb5?ynlJ>0109i05V\l'\""M<R^]c\8Ca0ZK4W-6\AJa"r\K3)<9]q=""VRYo}i4VrJO.F
-  {f{Z}"g^R(seR%JM[]6;DOdh}}Im[k<Bjlm^~}xEZEkJXEnwWI.rMb?tfWR~t>}Zg0eRZ5]skc-A|Y1c
-  }M['WuF{}}NFmq!p[j{L}Mwn0Vu}t[>4}e{qm{R]5"oZ|6p-""w];&b3~7l7)&t[{N7m"K[+UQ"QLp~I
-  [j=F>T{"KqSNlmRszSmO.hiisd"4O}"F(<,~F{jk}"m[zJ1imBp^RxW+]th]spzlNfV/wT4]T"n)sR<n
-  (j4THBzI08irC9U<DB]-BgOTR)o9(~(fK.L]&L[{v4-[(y(BBEJq!^oIHQ"}}[)[y[Ppr=HoA8")6,<V
-  RpdB-M?--nE=dbc+Z5e+EELq7c+AD4~c9s~v~596(\wuwoQVhG79o\e51OHC+MlgfcRDg[E"FbC)rM22
-  ]f\=1n6KlrJ7>)m2T[.0[fTJsh70iw*=kAvR9*<V;kq*""}rMfe0MQrm9Vgn;3Z"{"jvIs32<3~pxt>O
-  )=IB?z0cyn=<MxTv?+{)vXjWD\73spNaseMqL&xWpDZMFx1c7Z1kME3,g<oF~lU,CepWVqC|}A}/D1=1
-  [0j)MPOrTY{y0a(ZnQ-ej>C;aU<zYA>")X=<l[94[8OoJpD<bDnnV8c17|i6HehaECt<cve1?}z\#f{o
-  )teC2lG*Jy~*K9mMC1Vlo(}eKy37xb""x*/qv|Y8i%J~ugo>4}9[E?iSW+Tiw0H{m)9Zt<[?J"m(nR{%
-  [qz}UMJttU4R]<s((]P]{[[}[)=[([(lE]"0OW}sw~^22MY&(D"zci?Wx}6{dCC(Hu{zHfc3pB!)>OuF
-  (}{}[)=]QNv""2bmHDp2A""bj+n""qw=)}]][]{]]R{(])]P({])(]{R{])){[{{](}[)[][}}))[]))
+  ])]](}}(](=R())={]}R3R{]=J#R")=CJYsE<{"HURM}[BD4:xfZ_=[)[}({[]{]))=[[3=({)))}]R}
+  =d{9y^:#TkrAMje\dfX>wKnl.k6t-s*1g8faQm;O5^mV+&[{)]}{(u}y}>g.O.I_zi0Oqh6SX:]jO~h]
+  }k&)qp<]]<t*)]{kv%)B}uA<,"3.]0sr"FYHg~c^.Q"wq"*s7&0iRc[ch]">e=icQ""L+_""D|pc3|X}
+  }["iCZ(n0cFMW}G}~:;MV28B&Vu1}{>>y[[){}kg?Q)]B"w(Ap5lgIiEx~7/VAJb2"R"=N"{b"Rg{q~{
+  (J6\fO(g/H]z]4R{^je\gk|k/iZ0/\HLnbxNO\Bc^\A7Xp"(t"zwM"6FOU&"=\1H/yr:a9FhH&K2%M[{
+  ]Mc'A])+VAKlh>kNHQZOD}v=d4)mCNUo"1S)72D='>?rkaCWZ$f"zF]q2\<O.NY%eYC"XIBt[1"<C{)R
+  }E""BWc2bI-GM+:wbNu!+8K&Kq0Uo(j[u"krQI"6q""""<.daOhEt9j\i~n"<)iHxxyq_4.:>"V6Ug4{
+  (o[QMN[vnj.WP{f/zQ(xGn#Jjf6]{gazTlQ\R5"m(]""""{}TV9d]"O3C=)V[bK6%|<6?b[bCv"N]EG(
+  }bKRMuR<fe{KC/)=_)VT\66"C|_kVD+{eeH*8O]_M=Gv1dk"5Urk1;tRS"nKzn7V"p"_Q-jc>L7BAL-{
+  {R'6<1ZjvlMq]6'xNy[fD7C(R("zTRW~Xy{bjb+^%5-]J:l5ANT,L9aH{J[mJ(nq(UR2"t4I/dYV(8c(
+  {v*}8;eC=}{L}Fn2>eW48XD|mep""aT6dbt)Bmfa/<Gmv(_uM/oA(J>="(#h('ib]LF-_w0TKR%_(U"8
+  [<k/x)|I}<{hy0|>(RPwI>N]d6"m9"anp)~x&tu(W}"O9(ZzEUV]%^_]>"WEhlL7[]"Hcq{T{%xZir"b
+  )QQ>=2ASq}%7*[[7n=NL~CzBs&hg8r2#RT[SKF>.fL|kW<MtZ=_U=I{d*[}gt~:zV>(U>n})~=Rr<3i>
+  R9%ypY5EkAZS8Hah4d%dk_Y?c{z"D)Q|"]"OG9yR})"H)t"l-=3__}\<7/3okYUK=>,2njm4=ik=JvF[
+  }[D9bQ[{~}v*("X*){M}d!v=9\jEHG)[)"_x(3f[9B~/ijqt~-<Fj5l\OnAr5jqB&q(b.b(/p7u)J]&}
+  RwV4rw:=&orV#)"4lCZ_vT;nqRMql>FM4>DO{lVg0U=c"69Q00o3Q=VE~>Nm"]<APA]cVuKIT-bSR4-(
+  ]vZ>QH0*Tchr;1%=["-{-gOw{*{0a2{R*-w0Ys:0a*y5m_^#:[]Z{.;3WiJm9InZb5)DZWo>X%uy>{({
+  R/('MG{y;]E35O&xO""gxM/_n"Rh["[]nrC0zt-XlLz(Z]RmTA.3>C_&(U0C.QZ+[[4+x^8ogU6)YoF]
+  )E48<qJ7VD{}}R"]"+[}[={)<2|O9jhQgkO#3:R~q<e[{J{))(%E}Hh]kNM.UBTObor7go^R\(({}((}
+  {))]R)2kZ7Qc^CKc;0hvxG:xIWebre3A1<{}}]])([[}KnswuR[]{]{]](}]]]=[([)}{}})=\sDxBu{
 
-  })=Gen~zv]{({)]=ch5,/|Ta2~U=({]}(R")][]{("E']$)]]RR}}({}{{({R5NiR={([{[R3R]][)}(
-  )yba^\-gtb~74]yWaC8u7l2p^2YX(lcq7L.i)-qO^3%7"]btN*COTrV"wuA}"Kz4""Wrg8o)Hw^m.ml)
-  ](]T(}[RqMPRx5}z}{(<]))]<(fDr%s{FSB02Mb#&9azGM3xGDagnj|C8Kga<"^"q"]L2"^srK*gOM7}
-  )([[,(R2M9A9-py;y"{jTyQ1cpt31%~xXn-bM""Fb~v=|x<61sLdMbJDH%9a9mB8INQ3q7U)<^#Y(.=)
-  [tmm]m11ahPs0)K2M*(MrZ}6R[q<{((s){Cn.9"[.k{qc[J6{oQ3L5YdH(?S)}}=A{g]pCC3~S[T2tb]
-  (t{6NK8Q8Qy^3"G.H"M%D5%J\;J%OW28y{L)(*R=RM4\x2(J~S\}p6a(9]6[X)E(}B?Yg)QIJl}fV7L[
-  {Itm?w{=af=pT&~,)9m|U9zf2f|w]9xdoB]e{]^?{]tA{vV"fkr?]&vF+)<((^]?{T7dTW}(<ozQ]MK)
-  R%fuJ}*ns38Ce)[l-'lLdIxUG{}sFZ{n/EfN3aqG4mf,k{m{*"\L%{dOcq{v[[%Y5]q^C{{8{Ggh{vW]
-  [L[\]qf{g.HM%dfZIF<F(\M9M|[TyW]Zz(]({/v{Hpe,LR"G("gt/f~0-m[we)]RHNgbra3)~8"Q]qH(
-  )%jCYj^GtD?(nt|~Y.v^E^g7im=jv}T1vjjXn0xLKdyeetmizE5,JZFjD/QpV<tVw[q\}hVNaf);hUf]
-  []Qg~9B)h]viOR}+1Ae50mQqRWW+vb<&w{tr]{Y9oh"s&"0FJd4d"DyC])nL|T-Ur|yP7)&q[?{C"Ve}
-  (TN\<1=);}qxa=~Mhm~*gg2C^w[3m"Z0M}h\YIy1dK)i"0"LW""{iDAY1{}i6}""}R]0OLskdg}x)*8{
-  }h]/LN]{n|flyfR/7c^q|/dcGDYAE[fRA{9]N)J=pK3k4tk7\""*]"FUt,}4)0["(}X(Z&}]o.)D}Ft)
-  (ypWtJ{~EO2RkT?m&rDX})&}|RV|[B({|(Z)(LyZEHRnQ|~kK}UV")9."/qp)][d2J"]]](}}D{K}6x{
-  }N(r{)o;gXMX<K%L^x|jsy?x8noZK0?.2XF)OpX;(ZY"y/"7kj/,zU""734uOo.&CC!.T.OdbGm2]W<)
-  (O+lv{+\a=re(bA5Iau-E}V}h=n[fRg=7}zWM]|pO[RQ;b"5&sR0o)"[-)"#7}RGobwI\d+p^%fEruZ)
-  (p(U[z{j)+A=NvN&=%(6}<']}{(K{]<~r2wu4"5lJ"U/R"=tK}?M(]""{5}ItRA""EaGl.][[[]jnFq]
-  }~{KY(X3t}V{]m]k7yvz{B2J&?9+%"C0#YW"jv+=iy'"U}R<~ec3(""vMcUYhqt""ZqE5|UTbL(9,i*(
-  )^QI&E(2.^t/?cIQX/Hi8Y~8Y*7""6um5f1uL2x&3(EZ}}[{{Ef/h"uF"1kz{RkRhB&cJvg6%3mt<+5)
-  [[}[(}[}[{(Rd0+(([==}(]{RGZwP{)]R[({={({)P)([]]){[}=(RR((}](P(}R[}[}]))[R)}=c[{R
+  }})(}}{[{C=[[{((}{(=]}})})[P]R])=Ro]}()}([(]{]{R[R]{{{^=R})=4=([))R{RQfee)R=]{{{
+  {CQn7[ym:];nE-r)R(=<ZMt*f.f}aG?O"(""BdAY3XWRhEN%WCax{t]d6<j&^b_(5]"8W=((1p]_Bzj)
+  )s+2cr{G2y%i8u21x5]y{bZoUp]q+krwW]""P""]\-Cv|3}^^AfEqS(]N)R<(n=}:tMof%5:[%.8Dk1)
+  }HJHkZ(B;LMkN]y*u9L}_Hy[3?eQzU<<v[OjQ{"B-AR:^}&n(S^ovlD_v^h3(O)QL-abygUT1J(W~gg[
+  )m{]1q(0*w=a6N}Fxju&)g04k%%d"9Lv]"L8U"/O")7=(.mE17|[[9a}EqanY9D0C&r-jMIAv3A21zY[
+  wu]]Xv]K(+&"v<i7{m=rM|w[4[o9{a&K2[VcVnr]-<}9bK_6{5R)srY(:w8CCW*R5q]pW&=^X2[cFIH}
+  YYa%4[{~}CGOoDFW=-O-KXgUXR]XuqJ266dVYQ^""c(/h551/^IWQlVvvauxxF3/BflkHu=M<4S#m8m{
+  o^E}z{[j]j])-oKYQN:9q0UZe_lan?kS*(3Mb}8]M**(gY(Gs#V)(4+[h]6}(I)Y(loxA+mAu)t}46:]
+  +RBRD))U)r(*Q)]U}c#U_iI?=R7Md}5{'9-8v(&)%0fI=RL(BHg3MFxaMU*t?DRx+)ODhZ/n<3],K{6}
+  n}+WAOau-gyy{7/9[/%H]_kI'"4B]"*R}O6}%%vE*:8YTQr27GsuF^fuJQj2u~Rd7{/HyYUw.HtY0]B=
+  |(FlQd%vbIa9l)cm<{-7I=w5rD2""?|)0|U(]}e)}[RjVEzNt*o*EH<}UE_]ho2*}#j"g"hF\t\*sAN)
+  5(ZvL"UMO+:8]bN<g)}Uc<2bHVodQ^QT&5R}0+/-4{r#:fpROGib9E%o<)MyA}zgON"AnB"0N7+(W.A{
+  6}H<4=(\Ew[u-R~0w3RlGg_7QB4Qq"kG,"]'Zt<ff3Dk^E]iH[g~x-l"]1"Xr9Ln|<C"<"53ER{w06e<
+  R{[A})C_[7*+[z=i/D171'X.]a?r[[^8P"~2&cB"p}nOd(}&pI#Llq""_Amq1cfDs<s"YuXEB~}IR,]u
+  (::&}O+']bUD(cFnYb'o}/l-6}fh|d{n[_")KRy&pGros5t[Lf+F]i]""z?d5/_5|Osq={8BuUTc)tJ=
+  RQ6][ho[TgbOiW0|3{w~_llT,0mrc<#i}<"96a,"zY5sEj,gcjA([-"Ne<RiLg928,tjHjUdHJ7YB|B{
+  =Rg<us]73J|,}5]hwR(nH}o(jT|v9\Dl[JKS2+a(aD[pkFq|3TIYY~}xU#jvtC)u]K|By(0<y{{u<^[{
+  )%s=R8k=7^Kb)2]/CJ]vGRX2k(9ljJvJxvq[]})J_])-}3QO}6}[<Cce=ZR^(ry}aR=R-]mc[[iJaz[]
+  =W_zI)~36^HIGj%u.5={[(3)(([=R}R)[RlJjEuc.:Mv&F[G333X]Rz%nfA(mw?R58vdgZL^zC%bTk1{
+  (P[R"}])([["O=))}P[])]YkT9OHdxIyIXdeBR}}(]((=)})([[)}P)fRk|R[R{P)[R(]}[(=Rft[)R(
 
 answer: |-
-  32067
+  32736
 
 example_map: |-
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
+  [348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
 
 example_log: |-
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9@[82[
-  ]][]]=!.44\[]01\1=[]
+  [348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72@019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
 
-  St: []  Dx: East  Co: (15, 3, 0)  Tk: 0
-  P: 75  R: 0  S: 0
-
-  ---
-
-  You turn left.
-
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9@[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: []  Dx: North  Co: (15, 3, 0)  Tk: 1
-  P: 75  R: -2  S: 0
+  St: []  Dx: East  Co: (3, 2, 0)  Tk: 0
+  P: 43  R: 0  S: 0
 
   ---
 
-  You push 5.
+  You push 0.
 
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??625@==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
+  [348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<@19.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
 
-  St: [5]  Dx: North  Co: (15, 2, 0)  Tk: 2
-  P: 55  R: -2  S: 1
+  St: [0]  Dx: East  Co: (4, 2, 0)  Tk: 1
+  P: 44  R: 0  S: 1
+
+  ---
+
+  You push 1.
+
+  [348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<0@9.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [1, 0]  Dx: East  Co: (5, 2, 0)  Tk: 2
+  P: 45  R: 0  S: 2
 
   ---
 
   You push 9.
 
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\181@=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
+  [348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<01@.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
 
-  St: [9, 5]  Dx: North  Co: (15, 1, 0)  Tk: 3
-  P: 35  R: -2  S: 2
+  St: [9, 1, 0]  Dx: East  Co: (6, 2, 0)  Tk: 3
+  P: 46  R: 0  S: 3
 
   ---
 
-  You turn left because 5 < 9.
+  You go east.
 
-  [9\9?\4=[]][073@][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
+  [348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019@\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
 
-  St: []  Dx: West  Co: (15, 0, 0)  Tk: 4
-  P: 15  R: -4  S: 0
+  St: [9, 1, 0]  Dx: East  Co: (7, 2, 0)  Tk: 4
+  P: 47  R: 0  S: 3
+
+  ---
+
+  You swap 1 and 9.
+
+  [348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.@[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [1, 9, 0]  Dx: East  Co: (8, 2, 0)  Tk: 5
+  P: 48  R: 0  S: 3
+
+  ---
+
+  You turn left.
+
+  [348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.@[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [1, 9, 0]  Dx: North  Co: (8, 2, 0)  Tk: 6
+  P: 48  R: -2  S: 3
+
+  ---
+
+  You push 4.
+
+  [348683=[85\61=][]]]
+  [3][][]7@0187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [4, 1, 9, 0]  Dx: North  Co: (8, 1, 0)  Tk: 7
+  P: 28  R: -2  S: 4
+
+  ---
+
+  You turn left.
+
+  [348683=[85\61=][]]]
+  [3][][]7@0187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [4, 1, 9, 0]  Dx: West  Co: (8, 1, 0)  Tk: 8
+  P: 28  R: -4  S: 4
+
+  ---
+
+  You push 7.
+
+  [348683=[85\61=][]]]
+  [3][][]@40187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [7, 4, 1, 9, 0]  Dx: West  Co: (7, 1, 0)  Tk: 9
+  P: 27  R: -4  S: 5
+
+  ---
+
+  You turn right.
+
+  [348683=[85\61=][]]]
+  [3][][]@40187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [7, 4, 1, 9, 0]  Dx: North  Co: (7, 1, 0)  Tk: 10
+  P: 27  R: -2  S: 5
+
+  ---
+
+  You turn left because 4 < 7.
+
+  [348683@[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [1, 9, 0]  Dx: West  Co: (7, 0, 0)  Tk: 11
+  P: 7  R: -4  S: 3
 
   ---
 
   You push 3.
 
-  [9\9?\4=[]][07@=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
+  [34868@=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
 
-  St: [3]  Dx: West  Co: (14, 0, 0)  Tk: 5
-  P: 14  R: -4  S: 1
-
-  ---
-
-  You push 7.
-
-  [9\9?\4=[]][0@3=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [7, 3]  Dx: West  Co: (13, 0, 0)  Tk: 6
-  P: 13  R: -4  S: 2
+  St: [3, 1, 9, 0]  Dx: West  Co: (6, 0, 0)  Tk: 12
+  P: 6  R: -4  S: 4
 
   ---
 
-  You push 0.
+  You push 8.
 
-  [9\9?\4=[]][@73=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
+  [3486@3=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
 
-  St: [0, 7, 3]  Dx: West  Co: (12, 0, 0)  Tk: 7
-  P: 12  R: -4  S: 3
-
-  ---
-
-  You turn left.
-
-  [9\9?\4=[]][@73=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [0, 7, 3]  Dx: South  Co: (12, 0, 0)  Tk: 8
-  P: 12  R: -6  S: 3
-
-  ---
-
-  You push 1.
-
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\@819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [1, 0, 7, 3]  Dx: South  Co: (12, 1, 0)  Tk: 9
-  P: 32  R: -6  S: 4
+  St: [8, 3, 1, 9, 0]  Dx: West  Co: (5, 0, 0)  Tk: 13
+  P: 5  R: -4  S: 5
 
   ---
 
   You push 6.
 
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??@255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
+  [348@83=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
 
-  St: [6, 1, 0, 7, 3]  Dx: South  Co: (12, 2, 0)  Tk: 10
-  P: 52  R: -6  S: 5
-
-  ---
-
-  You push 1.
-
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]79620@=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [1, 6, 1, 0, 7, 3]  Dx: South  Co: (12, 3, 0)  Tk: 11
-  P: 72  R: -6  S: 6
+  St: [6, 8, 3, 1, 9, 0]  Dx: West  Co: (4, 0, 0)  Tk: 14
+  P: 4  R: -4  S: 6
 
   ---
 
-  You turn right.
+  You push 8.
 
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]79620@=9<[82[
-  ]][]]=!.44\[]01\1=[]
+  [34@683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
 
-  St: [1, 6, 1, 0, 7, 3]  Dx: West  Co: (12, 3, 0)  Tk: 12
-  P: 72  R: -4  S: 6
-
-  ---
-
-  You push 0.
-
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]7962@1=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [0, 1, 6, 1, 0, 7, 3]  Dx: West  Co: (11, 3, 0)  Tk: 13
-  P: 71  R: -4  S: 7
-
-  ---
-
-  You push 2.
-
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796@01=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [2, 0, 1, 6, 1, 0, 7, 3]  Dx: West  Co: (10, 3, 0)  Tk: 14
-  P: 70  R: -4  S: 8
-
-  ---
-
-  You push 6.
-
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]79@201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [6, 2, 0, 1, 6, 1, 0, 7, 3]  Dx: West  Co: (9, 3, 0)  Tk: 15
-  P: 69  R: -4  S: 9
-
-  ---
-
-  You push 9.
-
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]7@6201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [9, 6, 2, 0, 1, 6, 1, 0, 7, 3]  Dx: West  Co: (8, 3, 0)  Tk: 16
-  P: 68  R: -4  S: 10
-
-  ---
-
-  You push 7.
-
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]@96201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [7, 9, 6, 2, 0, 1, 6, 1, 0, 7, 3]  Dx: West  Co: (7, 3, 0)  Tk: 17
-  P: 67  R: -4  S: 11
-
-  ---
-
-  You turn right.
-
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]@96201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [7, 9, 6, 2, 0, 1, 6, 1, 0, 7, 3]  Dx: North  Co: (7, 3, 0)  Tk: 18
-  P: 67  R: -2  S: 11
-
-  ---
-
-  You push 2.
-
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6@14??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [2, 7, 9, 6, 2, 0, 1, 6, 1, 0, 7, 3]  Dx: North  Co: (7, 2, 0)  Tk: 19
-  P: 47  R: -2  S: 12
-
-  ---
-
-  You push 6.
-
-  [9\9?\4=[]][073=][[[
-  [9.=2]]@]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [6, 2, 7, 9, 6, 2, 0, 1, 6, 1, 0, 7, 3]  Dx: North  Co: (7, 1, 0)  Tk: 20
-  P: 27  R: -2  S: 13
-
-  ---
-
-  You turn left because 2 < 6.
-
-  [9\9?\4@[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [7, 9, 6, 2, 0, 1, 6, 1, 0, 7, 3]  Dx: West  Co: (7, 0, 0)  Tk: 21
-  P: 7  R: -4  S: 11
+  St: [8, 6, 8, 3, 1, 9, 0]  Dx: West  Co: (3, 0, 0)  Tk: 15
+  P: 3  R: -4  S: 7
 
   ---
 
   You push 4.
 
-  [9\9?\@=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
+  [3@8683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
 
-  St: [4, 7, 9, 6, 2, 0, 1, 6, 1, 0, 7, 3]  Dx: West  Co: (6, 0, 0)  Tk: 22
-  P: 6  R: -4  S: 12
+  St: [4, 8, 6, 8, 3, 1, 9, 0]  Dx: West  Co: (2, 0, 0)  Tk: 16
+  P: 2  R: -4  S: 8
 
   ---
 
-  You swap 7 and 4.
+  You push 3.
 
-  [9\9?@4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
+  [@48683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
 
-  St: [7, 4, 9, 6, 2, 0, 1, 6, 1, 0, 7, 3]  Dx: West  Co: (5, 0, 0)  Tk: 23
-  P: 5  R: -4  S: 12
+  St: [3, 4, 8, 6, 8, 3, 1, 9, 0]  Dx: West  Co: (1, 0, 0)  Tk: 17
+  P: 1  R: -4  S: 9
+
+  ---
+
+  You turn left.
+
+  [@48683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [3, 4, 8, 6, 8, 3, 1, 9, 0]  Dx: South  Co: (1, 0, 0)  Tk: 18
+  P: 1  R: -6  S: 9
+
+  ---
+
+  You push 3.
+
+  [348683=[85\61=][]]]
+  [@][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [3, 3, 4, 8, 6, 8, 3, 1, 9, 0]  Dx: South  Co: (1, 1, 0)  Tk: 19
+  P: 21  R: -6  S: 10
+
+  ---
+
+  You push 7.
+
+  [348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [@2<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [7, 3, 3, 4, 8, 6, 8, 3, 1, 9, 0]  Dx: South  Co: (1, 2, 0)  Tk: 20
+  P: 41  R: -6  S: 11
+
+  ---
+
+  You push 9.
+
+  [348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]@28_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [9, 7, 3, 3, 4, 8, 6, 8, 3, 1, 9, 0]  Dx: South  Co: (1, 3, 0)  Tk: 21
+  P: 61  R: -6  S: 12
+
+  ---
+
+  You turn left.
+
+  [348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]@28_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [9, 7, 3, 3, 4, 8, 6, 8, 3, 1, 9, 0]  Dx: East  Co: (1, 3, 0)  Tk: 22
+  P: 61  R: -8  S: 12
+
+  ---
+
+  You push 2.
+
+  [348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]9@8_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [2, 9, 7, 3, 3, 4, 8, 6, 8, 3, 1, 9, 0]  Dx: East  Co: (2, 3, 0)  Tk: 23
+  P: 62  R: -8  S: 13
+
+  ---
+
+  You push 8.
+
+  [348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]92@_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [8, 2, 9, 7, 3, 3, 4, 8, 6, 8, 3, 1, 9, 0]  Dx: East  Co: (3, 3, 0)  Tk: 24
+  P: 63  R: -8  S: 14
+
+  ---
+
+  You drop 8.
+
+  [348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928@?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [2, 9, 7, 3, 3, 4, 8, 6, 8, 3, 1, 9, 0]  Dx: East  Co: (4, 3, 0)  Tk: 25
+  P: 64  R: -8  S: 13
+
+  ---
+
+  You read '4' from (2, 0, 0).
+
+  [348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_@0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [52, 9, 7, 3, 3, 4, 8, 6, 8, 3, 1, 9, 0]  Dx: East  Co: (5, 3, 0)  Tk: 26
+  P: 65  R: -8  S: 13
+
+  ---
+
+  You push 0.
+
+  [348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?@!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [0, 52, 9, 7, 3, 3, 4, 8, 6, 8, 3, 1, ...]  Dx: East  Co: (6, 3, 0)  Tk: 27
+  P: 66  R: -8  S: 14
+
+  ---
+
+  You write '4' to (0, 0, 0).
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0@6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [9, 7, 3, 3, 4, 8, 6, 8, 3, 1, 9, 0]  Dx: East  Co: (7, 3, 0)  Tk: 28
+  P: 67  R: -8  S: 12
+
+  ---
+
+  You push 6.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!@:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [6, 9, 7, 3, 3, 4, 8, 6, 8, 3, 1, 9, 0]  Dx: East  Co: (8, 3, 0)  Tk: 29
+  P: 68  R: -8  S: 13
+
+  ---
+
+  You duplicate 6.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6@\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [6, 6, 9, 7, 3, 3, 4, 8, 6, 8, 3, 1, 9, 0]  Dx: East  Co: (9, 3, 0)  Tk: 30
+  P: 69  R: -8  S: 14
+
+  ---
+
+  You swap 6 and 6.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:@8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [6, 6, 9, 7, 3, 3, 4, 8, 6, 8, 3, 1, ...]  Dx: East  Co: (10, 3, 0)  Tk: 31
+  P: 70  R: -8  S: 14
+
+  ---
+
+  You push 8.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\@\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [8, 6, 6, 9, 7, 3, 3, 4, 8, 6, 8, 3, ...]  Dx: East  Co: (11, 3, 0)  Tk: 32
+  P: 71  R: -8  S: 15
+
+  ---
+
+  You swap 6 and 8.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8@32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [6, 8, 6, 9, 7, 3, 3, 4, 8, 6, 8, 3, ...]  Dx: East  Co: (12, 3, 0)  Tk: 33
+  P: 72  R: -8  S: 15
+
+  ---
+
+  You push 3.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\@2?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [3, 6, 8, 6, 9, 7, 3, 3, 4, 8, 6, 8, ...]  Dx: East  Co: (13, 3, 0)  Tk: 34
+  P: 73  R: -8  S: 16
+
+  ---
+
+  You push 2.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\3@?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [2, 3, 6, 8, 6, 9, 7, 3, 3, 4, 8, 6, ...]  Dx: East  Co: (14, 3, 0)  Tk: 35
+  P: 74  R: -8  S: 17
+
+  ---
+
+  You read '4' from (2, 0, 0).
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32@8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [52, 3, 6, 8, 6, 9, 7, 3, 3, 4, 8, ...]  Dx: East  Co: (15, 3, 0)  Tk: 36
+  P: 75  R: -8  S: 17
+
+  ---
+
+  You push 8.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?@]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [8, 52, 3, 6, 8, 6, 9, 7, 3, 3, 4, ...]  Dx: East  Co: (16, 3, 0)  Tk: 37
+  P: 76  R: -8  S: 18
+
+  ---
+
+  You turn right.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?@]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [8, 52, 3, 6, 8, 6, 9, 7, 3, 3, 4, ...]  Dx: South  Co: (16, 3, 0)  Tk: 38
+  P: 76  R: -6  S: 18
+
+  ---
+
+  You turn right because 52 > 8.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?@1=[
+
+  St: [3, 6, 8, 6, 9, 7, 3, 3, 4, 8, 6, 8, ...]  Dx: West  Co: (16, 4, 0)  Tk: 39
+  P: 96  R: -4  S: 16
+
+  ---
+
+  You read '8' from (3, 0, 0).
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85@=1=[
+
+  St: [56, 6, 8, 6, 9, 7, 3, 3, 4, 8, 6, ...]  Dx: West  Co: (15, 4, 0)  Tk: 40
+  P: 95  R: -4  S: 16
+
+  ---
+
+  You push 5.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]8@?=1=[
+
+  St: [5, 56, 6, 8, 6, 9, 7, 3, 3, 4, 8, ...]  Dx: West  Co: (14, 4, 0)  Tk: 41
+  P: 94  R: -4  S: 17
+
+  ---
+
+  You push 8.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]@5?=1=[
+
+  St: [8, 5, 56, 6, 8, 6, 9, 7, 3, 3, 4, ...]  Dx: West  Co: (13, 4, 0)  Tk: 42
+  P: 93  R: -4  S: 18
+
+  ---
+
+  You turn right.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]@5?=1=[
+
+  St: [8, 5, 56, 6, 8, 6, 9, 7, 3, 3, 4, ...]  Dx: North  Co: (13, 4, 0)  Tk: 43
+  P: 93  R: -2  S: 18
+
+  ---
+
+  You push 3.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\@2?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [3, 8, 5, 56, 6, 8, 6, 9, 7, 3, 3, ...]  Dx: North  Co: (13, 3, 0)  Tk: 44
+  P: 73  R: -2  S: 19
+
+  ---
+
+  You turn right because 8 > 3.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82=@367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [5, 56, 6, 8, 6, 9, 7, 3, 3, 4, 8, ...]  Dx: East  Co: (13, 2, 0)  Tk: 45
+  P: 53  R: 0  S: 17
+
+  ---
+
+  You push 3.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==@67\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [3, 5, 56, 6, 8, 6, 9, 7, 3, 3, 4, ...]  Dx: East  Co: (14, 2, 0)  Tk: 46
+  P: 54  R: 0  S: 18
+
+  ---
+
+  You push 6.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==3@7\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [6, 3, 5, 56, 6, 8, 6, 9, 7, 3, 3, ...]  Dx: East  Co: (15, 2, 0)  Tk: 47
+  P: 55  R: 0  S: 19
+
+  ---
+
+  You push 7.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==36@\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [7, 6, 3, 5, 56, 6, 8, 6, 9, 7, 3, ...]  Dx: East  Co: (16, 2, 0)  Tk: 48
+  P: 56  R: 0  S: 20
+
+  ---
+
+  You swap 6 and 7.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367@7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [6, 7, 3, 5, 56, 6, 8, 6, 9, 7, 3, ...]  Dx: East  Co: (17, 2, 0)  Tk: 49
+  P: 57  R: 0  S: 20
+
+  ---
+
+  You push 7.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\@[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [7, 6, 7, 3, 5, 56, 6, 8, 6, 9, 7, ...]  Dx: East  Co: (18, 2, 0)  Tk: 50
+  P: 58  R: 0  S: 21
+
+  ---
+
+  You turn left.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\@[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [7, 6, 7, 3, 5, 56, 6, 8, 6, 9, 7, ...]  Dx: North  Co: (18, 2, 0)  Tk: 51
+  P: 58  R: -2  S: 21
+
+  ---
+
+  You push 8.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[@]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [8, 7, 6, 7, 3, 5, 56, 6, 8, 6, 9, ...]  Dx: North  Co: (18, 1, 0)  Tk: 52
+  P: 38  R: -2  S: 22
+
+  ---
+
+  You turn right.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[@]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [8, 7, 6, 7, 3, 5, 56, 6, 8, 6, 9, ...]  Dx: East  Co: (18, 1, 0)  Tk: 53
+  P: 38  R: 0  S: 22
+
+  ---
+
+  You turn right.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[@]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [8, 7, 6, 7, 3, 5, 56, 6, 8, 6, 9, ...]  Dx: South  Co: (18, 1, 0)  Tk: 54
+  P: 38  R: 2  S: 22
+
+  ---
+
+  You push 7.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\@[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [7, 8, 7, 6, 7, 3, 5, 56, 6, 8, 6, ...]  Dx: South  Co: (18, 2, 0)  Tk: 55
+  P: 58  R: 2  S: 23
+
+  ---
+
+  You push 0.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]@[
+  [[=34_854_=[]85?=1=[
+
+  St: [0, 7, 8, 7, 6, 7, 3, 5, 56, 6, 8, ...]  Dx: South  Co: (18, 3, 0)  Tk: 56
+  P: 78  R: 2  S: 24
+
+  ---
+
+  You turn right because 7 > 0.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1@[
+
+  St: [8, 7, 6, 7, 3, 5, 56, 6, 8, 6, 9, ...]  Dx: West  Co: (18, 4, 0)  Tk: 57
+  P: 98  R: 4  S: 22
+
+  ---
+
+  You push 1.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=@=[
+
+  St: [1, 8, 7, 6, 7, 3, 5, 56, 6, 8, 6, ...]  Dx: West  Co: (17, 4, 0)  Tk: 58
+  P: 97  R: 4  S: 23
+
+  ---
+
+  You turn right because 8 > 1.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?@1=[
+
+  St: [7, 6, 7, 3, 5, 56, 6, 8, 6, 9, 7, ...]  Dx: North  Co: (16, 4, 0)  Tk: 59
+  P: 96  R: 6  S: 21
+
+  ---
+
+  You push 8.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?@]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [8, 7, 6, 7, 3, 5, 56, 6, 8, 6, 9, ...]  Dx: North  Co: (16, 3, 0)  Tk: 60
+  P: 76  R: 6  S: 22
+
+  ---
+
+  You push 7.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==36@\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [7, 8, 7, 6, 7, 3, 5, 56, 6, 8, 6, ...]  Dx: North  Co: (16, 2, 0)  Tk: 61
+  P: 56  R: 6  S: 23
 
   ---
 
   You read '=' from (7, 0, 0).
 
-  [9\9@\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
+  4348683=[85\61=][]]]
+  [3][][]740187]=1@[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
 
-  St: [61, 4, 9, 6, 2, 0, 1, 6, 1, 0, 7, 3]  Dx: West  Co: (4, 0, 0)  Tk: 24
-  P: 4  R: -4  S: 12
-
-  ---
-
-  You push 9.
-
-  [9\@?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [9, 61, 4, 9, 6, 2, 0, 1, 6, 1, 0, 7, 3]  Dx: West  Co: (3, 0, 0)  Tk: 25
-  P: 3  R: -4  S: 13
-
-  ---
-
-  You swap 61 and 9.
-
-  [9@9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [61, 9, 4, 9, 6, 2, 0, 1, 6, 1, 0, 7, 3]  Dx: West  Co: (2, 0, 0)  Tk: 26
-  P: 2  R: -4  S: 13
-
-  ---
-
-  You push 9.
-
-  [@\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [9, 61, 9, 4, 9, 6, 2, 0, 1, 6, 1, 0, ...]  Dx: West  Co: (1, 0, 0)  Tk: 27
-  P: 1  R: -4  S: 14
+  St: [61, 8, 7, 6, 7, 3, 5, 56, 6, 8, 6, ...]  Dx: North  Co: (16, 1, 0)  Tk: 62
+  P: 36  R: 6  S: 23
 
   ---
 
   You turn left.
 
-  [@\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [9, 61, 9, 4, 9, 6, 2, 0, 1, 6, 1, ...]  Dx: South  Co: (1, 0, 0)  Tk: 28
-  P: 1  R: -6  S: 14
-
-  ---
-
-  You push 9.
-
-  [9\9?\4=[]][073=][[[
-  [@.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [9, 9, 61, 9, 4, 9, 6, 2, 0, 1, 6, ...]  Dx: South  Co: (1, 1, 0)  Tk: 29
-  P: 21  R: -6  S: 15
-
-  ---
-
-  You turn left.
-
-  [9\9?\4=[]][073=][[[
-  [@.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [9, 9, 61, 9, 4, 9, 6, 2, 0, 1, 6, 1, ...]  Dx: East  Co: (1, 1, 0)  Tk: 30
-  P: 21  R: -8  S: 15
-
-  ---
-
-  You go east.
-
-  [9\9?\4=[]][073=][[[
-  [9@=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [9, 9, 61, 9, 4, 9, 6, 2, 0, 1, 6, 1, ...]  Dx: East  Co: (2, 1, 0)  Tk: 31
-  P: 22  R: -8  S: 15
-
-  ---
-
-  You continue straight because 9 = 9.
-
-  [9\9?\4=[]][073=][[[
-  [9.@2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [61, 9, 4, 9, 6, 2, 0, 1, 6, 1, 0, 7, 3]  Dx: East  Co: (3, 1, 0)  Tk: 32
-  P: 23  R: -8  S: 13
-
-  ---
-
-  You push 2.
-
-  [9\9?\4=[]][073=][[[
-  [9.=@]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [2, 61, 9, 4, 9, 6, 2, 0, 1, 6, 1, 0, ...]  Dx: East  Co: (4, 1, 0)  Tk: 33
-  P: 24  R: -8  S: 14
-
-  ---
-
-  You turn right.
-
-  [9\9?\4=[]][073=][[[
-  [9.=@]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [2, 61, 9, 4, 9, 6, 2, 0, 1, 6, 1, ...]  Dx: South  Co: (4, 1, 0)  Tk: 34
-  P: 24  R: -6  S: 14
-
-  ---
-
-  You swap 61 and 2.
-
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]@]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [61, 2, 9, 4, 9, 6, 2, 0, 1, 6, 1, ...]  Dx: South  Co: (4, 2, 0)  Tk: 35
-  P: 44  R: -6  S: 14
-
-  ---
-
-  You push 0.
-
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=9@4]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [0, 61, 2, 9, 4, 9, 6, 2, 0, 1, 6, ...]  Dx: South  Co: (4, 3, 0)  Tk: 36
-  P: 64  R: -6  S: 15
-
-  ---
-
-  You turn right.
-
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=9@4]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [0, 61, 2, 9, 4, 9, 6, 2, 0, 1, 6, 1, ...]  Dx: West  Co: (4, 3, 0)  Tk: 37
-  P: 64  R: -4  S: 15
-
-  ---
-
-  You push 9.
-
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=@04]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [9, 0, 61, 2, 9, 4, 9, 6, 2, 0, 1, 6, ...]  Dx: West  Co: (3, 3, 0)  Tk: 38
-  P: 63  R: -4  S: 16
-
-  ---
-
-  You turn left because 0 < 9.
-
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[@904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [61, 2, 9, 4, 9, 6, 2, 0, 1, 6, 1, ...]  Dx: South  Co: (2, 3, 0)  Tk: 39
-  P: 62  R: -6  S: 14
-
-  ---
-
-  You turn left.
-
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[@904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [61, 2, 9, 4, 9, 6, 2, 0, 1, 6, 1, 0, ...]  Dx: East  Co: (2, 3, 0)  Tk: 40
-  P: 62  R: -8  S: 14
-
-  ---
-
-  You push 9.
-
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=@04]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [9, 61, 2, 9, 4, 9, 6, 2, 0, 1, 6, 1, ...]  Dx: East  Co: (3, 3, 0)  Tk: 41
-  P: 63  R: -8  S: 15
-
-  ---
-
-  You push 0.
-
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=9@4]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [0, 9, 61, 2, 9, 4, 9, 6, 2, 0, 1, 6, ...]  Dx: East  Co: (4, 3, 0)  Tk: 42
-  P: 64  R: -8  S: 16
-
-  ---
-
-  You push 4.
-
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=90@]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [4, 0, 9, 61, 2, 9, 4, 9, 6, 2, 0, 1, ...]  Dx: East  Co: (5, 3, 0)  Tk: 43
-  P: 65  R: -8  S: 17
-
-  ---
-
-  You turn right.
-
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=90@]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [4, 0, 9, 61, 2, 9, 4, 9, 6, 2, 0, ...]  Dx: South  Co: (5, 3, 0)  Tk: 44
-  P: 65  R: -6  S: 17
-
-  ---
-
-  You turn left because 0 < 4.
-
-  [9\9?\4=[]][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]@!.44\[]01\1=[]
-
-  St: [9, 61, 2, 9, 4, 9, 6, 2, 0, 1, 6, 1, ...]  Dx: East  Co: (5, 4, 0)  Tk: 45
-  P: 85  R: -8  S: 15
-
-  ---
-
-  You write '=' to (9, 0, 0).
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=@.44\[]01\1=[]
-
-  St: [2, 9, 4, 9, 6, 2, 0, 1, 6, 1, 0, 7, 3]  Dx: East  Co: (6, 4, 0)  Tk: 46
-  P: 86  R: -8  S: 13
-
-  ---
-
-  You go east.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!@44\[]01\1=[]
-
-  St: [2, 9, 4, 9, 6, 2, 0, 1, 6, 1, 0, 7, 3]  Dx: East  Co: (7, 4, 0)  Tk: 47
-  P: 87  R: -8  S: 13
-
-  ---
-
-  You push 4.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.@4\[]01\1=[]
-
-  St: [4, 2, 9, 4, 9, 6, 2, 0, 1, 6, 1, 0, 7, 3]  Dx: East  Co: (8, 4, 0)  Tk: 48
-  P: 88  R: -8  S: 14
-
-  ---
-
-  You push 4.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.4@\[]01\1=[]
-
-  St: [4, 4, 2, 9, 4, 9, 6, 2, 0, 1, 6, 1, ...]  Dx: East  Co: (9, 4, 0)  Tk: 49
-  P: 89  R: -8  S: 15
-
-  ---
-
-  You swap 4 and 4.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44@[]01\1=[]
-
-  St: [4, 4, 2, 9, 4, 9, 6, 2, 0, 1, 6, 1, ...]  Dx: East  Co: (10, 4, 0)  Tk: 50
-  P: 90  R: -8  S: 15
-
-  ---
-
-  You turn left.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44@[]01\1=[]
-
-  St: [4, 4, 2, 9, 4, 9, 6, 2, 0, 1, 6, ...]  Dx: North  Co: (10, 4, 0)  Tk: 51
-  P: 90  R: -10  S: 15
-
-  ---
-
-  You push 2.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796@01=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [2, 4, 4, 2, 9, 4, 9, 6, 2, 0, 1, ...]  Dx: North  Co: (10, 3, 0)  Tk: 52
-  P: 70  R: -10  S: 16
-
-  ---
-
-  You read '\' from (2, 0, 0).
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214@?6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [92, 4, 4, 2, 9, 4, 9, 6, 2, 0, 1, ...]  Dx: North  Co: (10, 2, 0)  Tk: 53
-  P: 50  R: -10  S: 16
-
-  ---
-
-  You push 4.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]@\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [4, 92, 4, 4, 2, 9, 4, 9, 6, 2, 0, ...]  Dx: North  Co: (10, 1, 0)  Tk: 54
-  P: 30  R: -10  S: 17
-
-  ---
-
-  You turn right.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]@\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [4, 92, 4, 4, 2, 9, 4, 9, 6, 2, 0, ...]  Dx: East  Co: (10, 1, 0)  Tk: 55
-  P: 30  R: -8  S: 17
-
-  ---
-
-  You swap 92 and 4.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4@1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [92, 4, 4, 4, 2, 9, 4, 9, 6, 2, 0, ...]  Dx: East  Co: (11, 1, 0)  Tk: 56
-  P: 31  R: -8  S: 17
+  4348683=[85\61=][]]]
+  [3][][]740187]=1@[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [61, 8, 7, 6, 7, 3, 5, 56, 6, 8, 6, ...]  Dx: West  Co: (16, 1, 0)  Tk: 63
+  P: 36  R: 4  S: 23
 
   ---
 
   You push 1.
 
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\@819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
+  4348683=[85\61=][]]]
+  [3][][]740187]=@?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
 
-  St: [1, 92, 4, 4, 4, 2, 9, 4, 9, 6, 2, ...]  Dx: East  Co: (12, 1, 0)  Tk: 57
-  P: 32  R: -8  S: 18
+  St: [1, 61, 8, 7, 6, 7, 3, 5, 56, 6, 8, ...]  Dx: West  Co: (15, 1, 0)  Tk: 64
+  P: 35  R: 4  S: 24
+
+  ---
+
+  You turn right because 61 > 1.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]@1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [8, 7, 6, 7, 3, 5, 56, 6, 8, 6, 9, ...]  Dx: North  Co: (14, 1, 0)  Tk: 65
+  P: 34  R: 6  S: 22
+
+  ---
+
+  You turn left because 7 < 8.
+
+  4348683=[85\61@][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [6, 7, 3, 5, 56, 6, 8, 6, 9, 7, 3, ...]  Dx: West  Co: (14, 0, 0)  Tk: 66
+  P: 14  R: 4  S: 20
+
+  ---
+
+  You push 1.
+
+  4348683=[85\6@=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [1, 6, 7, 3, 5, 56, 6, 8, 6, 9, 7, ...]  Dx: West  Co: (13, 0, 0)  Tk: 67
+  P: 13  R: 4  S: 21
+
+  ---
+
+  You push 6.
+
+  4348683=[85\@1=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [6, 1, 6, 7, 3, 5, 56, 6, 8, 6, 9, ...]  Dx: West  Co: (12, 0, 0)  Tk: 68
+  P: 12  R: 4  S: 22
+
+  ---
+
+  You swap 1 and 6.
+
+  4348683=[85@61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [1, 6, 6, 7, 3, 5, 56, 6, 8, 6, 9, ...]  Dx: West  Co: (11, 0, 0)  Tk: 69
+  P: 11  R: 4  S: 22
+
+  ---
+
+  You push 5.
+
+  4348683=[8@\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [5, 1, 6, 6, 7, 3, 5, 56, 6, 8, 6, ...]  Dx: West  Co: (10, 0, 0)  Tk: 70
+  P: 10  R: 4  S: 23
 
   ---
 
   You push 8.
 
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1@19=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
+  4348683=[@5\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
 
-  St: [8, 1, 92, 4, 4, 4, 2, 9, 4, 9, 6, ...]  Dx: East  Co: (13, 1, 0)  Tk: 58
-  P: 33  R: -8  S: 19
-
-  ---
-
-  You push 1.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\18@9=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [1, 8, 1, 92, 4, 4, 4, 2, 9, 4, 9, ...]  Dx: East  Co: (14, 1, 0)  Tk: 59
-  P: 34  R: -8  S: 20
-
-  ---
-
-  You push 9.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\181@=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [9, 1, 8, 1, 92, 4, 4, 4, 2, 9, 4, ...]  Dx: East  Co: (15, 1, 0)  Tk: 60
-  P: 35  R: -8  S: 21
-
-  ---
-
-  You turn left because 1 < 9.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819@4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [8, 1, 92, 4, 4, 4, 2, 9, 4, 9, 6, ...]  Dx: North  Co: (16, 1, 0)  Tk: 61
-  P: 36  R: -10  S: 19
-
-  ---
-
-  You turn right.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819@4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [8, 1, 92, 4, 4, 4, 2, 9, 4, 9, 6, ...]  Dx: East  Co: (16, 1, 0)  Tk: 62
-  P: 36  R: -8  S: 19
-
-  ---
-
-  You push 4.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=@.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [4, 8, 1, 92, 4, 4, 4, 2, 9, 4, 9, ...]  Dx: East  Co: (17, 1, 0)  Tk: 63
-  P: 37  R: -8  S: 20
-
-  ---
-
-  You go east.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4@]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [4, 8, 1, 92, 4, 4, 4, 2, 9, 4, 9, ...]  Dx: East  Co: (18, 1, 0)  Tk: 64
-  P: 38  R: -8  S: 20
-
-  ---
-
-  You turn right.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4@]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [4, 8, 1, 92, 4, 4, 4, 2, 9, 4, 9, ...]  Dx: South  Co: (18, 1, 0)  Tk: 65
-  P: 38  R: -6  S: 20
-
-  ---
-
-  You go south.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==@]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [4, 8, 1, 92, 4, 4, 4, 2, 9, 4, 9, ...]  Dx: South  Co: (18, 2, 0)  Tk: 66
-  P: 58  R: -6  S: 20
-
-  ---
-
-  You push 2.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[8@[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [2, 4, 8, 1, 92, 4, 4, 4, 2, 9, 4, ...]  Dx: South  Co: (18, 3, 0)  Tk: 67
-  P: 78  R: -6  S: 21
+  St: [8, 5, 1, 6, 6, 7, 3, 5, 56, 6, 8, 6, ...]  Dx: West  Co: (9, 0, 0)  Tk: 71
+  P: 9  R: 4  S: 24
 
   ---
 
   You turn left.
 
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[8@[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [2, 4, 8, 1, 92, 4, 4, 4, 2, 9, 4, ...]  Dx: East  Co: (18, 3, 0)  Tk: 68
-  P: 78  R: -8  S: 21
-
-  ---
-
-  You turn left.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[8@[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [2, 4, 8, 1, 92, 4, 4, 4, 2, 9, 4, ...]  Dx: North  Co: (18, 3, 0)  Tk: 69
-  P: 78  R: -10  S: 21
-
-  ---
-
-  You go north.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==@]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [2, 4, 8, 1, 92, 4, 4, 4, 2, 9, 4, ...]  Dx: North  Co: (18, 2, 0)  Tk: 70
-  P: 58  R: -10  S: 21
-
-  ---
-
-  You go north.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4@]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [2, 4, 8, 1, 92, 4, 4, 4, 2, 9, 4, ...]  Dx: North  Co: (18, 1, 0)  Tk: 71
-  P: 38  R: -10  S: 21
-
-  ---
-
-  You turn left.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4@]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [2, 4, 8, 1, 92, 4, 4, 4, 2, 9, 4, ...]  Dx: West  Co: (18, 1, 0)  Tk: 72
-  P: 38  R: -12  S: 21
-
-  ---
-
-  You push 4.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=@.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [4, 2, 4, 8, 1, 92, 4, 4, 4, 2, 9, ...]  Dx: West  Co: (17, 1, 0)  Tk: 73
-  P: 37  R: -12  S: 22
-
-  ---
-
-  You turn left because 2 < 4.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819@4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [4, 8, 1, 92, 4, 4, 4, 2, 9, 4, 9, ...]  Dx: South  Co: (16, 1, 0)  Tk: 74
-  P: 36  R: -14  S: 20
-
-  ---
-
-  You turn right because 8 > 4.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255@=.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [1, 92, 4, 4, 4, 2, 9, 4, 9, 6, 2, ...]  Dx: West  Co: (16, 2, 0)  Tk: 75
-  P: 56  R: -12  S: 18
-
-  ---
-
-  You push 5.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??625@==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [5, 1, 92, 4, 4, 4, 2, 9, 4, 9, 6, ...]  Dx: West  Co: (15, 2, 0)  Tk: 76
-  P: 55  R: -12  S: 19
-
-  ---
-
-  You push 5.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??62@5==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [5, 5, 1, 92, 4, 4, 4, 2, 9, 4, 9, ...]  Dx: West  Co: (14, 2, 0)  Tk: 77
-  P: 54  R: -12  S: 20
-
-  ---
-
-  You push 2.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6@55==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [2, 5, 5, 1, 92, 4, 4, 4, 2, 9, 4, ...]  Dx: West  Co: (13, 2, 0)  Tk: 78
-  P: 53  R: -12  S: 21
-
-  ---
-
-  You push 6.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??@255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [6, 2, 5, 5, 1, 92, 4, 4, 4, 2, 9, ...]  Dx: West  Co: (12, 2, 0)  Tk: 79
-  P: 52  R: -12  S: 22
-
-  ---
-
-  You read '4' from (6, 0, 0).
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214?@6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [52, 2, 5, 5, 1, 92, 4, 4, 4, 2, 9, ...]  Dx: West  Co: (11, 2, 0)  Tk: 80
-  P: 51  R: -12  S: 22
-
-  ---
-
-  You read '6' from (12, 2, 0).
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214@?6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [54, 2, 5, 5, 1, 92, 4, 4, 4, 2, 9, ...]  Dx: West  Co: (10, 2, 0)  Tk: 81
-  P: 50  R: -12  S: 22
-
-  ---
-
-  You push 4.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]621@??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [4, 54, 2, 5, 5, 1, 92, 4, 4, 4, 2, ...]  Dx: West  Co: (9, 2, 0)  Tk: 82
-  P: 49  R: -12  S: 23
-
-  ---
-
-  You push 1.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]62@4??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [1, 4, 54, 2, 5, 5, 1, 92, 4, 4, 4, ...]  Dx: West  Co: (8, 2, 0)  Tk: 83
-  P: 48  R: -12  S: 24
-
-  ---
-
-  You push 2.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6@14??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [2, 1, 4, 54, 2, 5, 5, 1, 92, 4, 4, ...]  Dx: West  Co: (7, 2, 0)  Tk: 84
-  P: 47  R: -12  S: 25
-
-  ---
-
-  You push 6.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]@214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [6, 2, 1, 4, 54, 2, 5, 5, 1, 92, 4, ...]  Dx: West  Co: (6, 2, 0)  Tk: 85
-  P: 46  R: -12  S: 26
-
-  ---
-
-  You turn right.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]@214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [6, 2, 1, 4, 54, 2, 5, 5, 1, 92, 4, ...]  Dx: North  Co: (6, 2, 0)  Tk: 86
-  P: 46  R: -10  S: 26
-
-  ---
-
-  You turn right.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]@214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [6, 2, 1, 4, 54, 2, 5, 5, 1, 92, 4, ...]  Dx: East  Co: (6, 2, 0)  Tk: 87
-  P: 46  R: -8  S: 26
-
-  ---
-
-  You push 2.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6@14??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [2, 6, 2, 1, 4, 54, 2, 5, 5, 1, 92, ...]  Dx: East  Co: (7, 2, 0)  Tk: 88
-  P: 47  R: -8  S: 27
-
-  ---
-
-  You push 1.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]62@4??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [1, 2, 6, 2, 1, 4, 54, 2, 5, 5, 1, ...]  Dx: East  Co: (8, 2, 0)  Tk: 89
-  P: 48  R: -8  S: 28
-
-  ---
-
-  You push 4.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]621@??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [4, 1, 2, 6, 2, 1, 4, 54, 2, 5, 5, 1, ...]  Dx: East  Co: (9, 2, 0)  Tk: 90
-  P: 49  R: -8  S: 29
-
-  ---
-
-  You read '?' from (4, 0, 0).
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214@?6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [63, 1, 2, 6, 2, 1, 4, 54, 2, 5, 5, ...]  Dx: East  Co: (10, 2, 0)  Tk: 91
-  P: 50  R: -8  S: 29
-
-  ---
-
-  You read '9' from (3, 3, 0).
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214?@6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [57, 1, 2, 6, 2, 1, 4, 54, 2, 5, 5, ...]  Dx: East  Co: (11, 2, 0)  Tk: 92
-  P: 51  R: -8  S: 29
-
-  ---
-
-  You push 6.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??@255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [6, 57, 1, 2, 6, 2, 1, 4, 54, 2, 5, ...]  Dx: East  Co: (12, 2, 0)  Tk: 93
-  P: 52  R: -8  S: 30
-
-  ---
-
-  You push 2.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6@55==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [2, 6, 57, 1, 2, 6, 2, 1, 4, 54, 2, ...]  Dx: East  Co: (13, 2, 0)  Tk: 94
-  P: 53  R: -8  S: 31
-
-  ---
-
-  You push 5.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??62@5==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [5, 2, 6, 57, 1, 2, 6, 2, 1, 4, 54, ...]  Dx: East  Co: (14, 2, 0)  Tk: 95
-  P: 54  R: -8  S: 32
-
-  ---
-
-  You push 5.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??625@==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [5, 5, 2, 6, 57, 1, 2, 6, 2, 1, 4, ...]  Dx: East  Co: (15, 2, 0)  Tk: 96
-  P: 55  R: -8  S: 33
-
-  ---
-
-  You continue straight because 5 = 5.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255@=.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [2, 6, 57, 1, 2, 6, 2, 1, 4, 54, 2, ...]  Dx: East  Co: (16, 2, 0)  Tk: 97
-  P: 56  R: -8  S: 31
-
-  ---
-
-  You turn right because 6 > 2.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255=@.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [57, 1, 2, 6, 2, 1, 4, 54, 2, 5, 5, ...]  Dx: South  Co: (17, 2, 0)  Tk: 98
-  P: 57  R: -6  S: 29
-
-  ---
-
-  You push 8.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[@2[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [8, 57, 1, 2, 6, 2, 1, 4, 54, 2, 5, ...]  Dx: South  Co: (17, 3, 0)  Tk: 99
-  P: 77  R: -6  S: 30
-
-  ---
-
-  You turn right because 57 > 8.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\1@[]
-
-  St: [1, 2, 6, 2, 1, 4, 54, 2, 5, 5, 1, ...]  Dx: West  Co: (17, 4, 0)  Tk: 100
-  P: 97  R: -4  S: 28
-
-  ---
-
-  You push 1.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01\@=[]
-
-  St: [1, 1, 2, 6, 2, 1, 4, 54, 2, 5, 5, ...]  Dx: West  Co: (16, 4, 0)  Tk: 101
-  P: 96  R: -4  S: 29
-
-  ---
-
-  You swap 1 and 1.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]01@1=[]
-
-  St: [1, 1, 2, 6, 2, 1, 4, 54, 2, 5, 5, ...]  Dx: West  Co: (15, 4, 0)  Tk: 102
-  P: 95  R: -4  S: 29
-
-  ---
-
-  You push 1.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]0@\1=[]
-
-  St: [1, 1, 1, 2, 6, 2, 1, 4, 54, 2, 5, ...]  Dx: West  Co: (14, 4, 0)  Tk: 103
-  P: 94  R: -4  S: 30
+  4348683=[@5\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [8, 5, 1, 6, 6, 7, 3, 5, 56, 6, 8, ...]  Dx: South  Co: (9, 0, 0)  Tk: 72
+  P: 9  R: 2  S: 24
 
   ---
 
   You push 0.
 
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]@1\1=[]
+  4348683=[85\61=][]]]
+  [3][][]74@187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
 
-  St: [0, 1, 1, 1, 2, 6, 2, 1, 4, 54, 2, ...]  Dx: West  Co: (13, 4, 0)  Tk: 104
-  P: 93  R: -4  S: 31
+  St: [0, 8, 5, 1, 6, 6, 7, 3, 5, 56, 6, ...]  Dx: South  Co: (9, 1, 0)  Tk: 73
+  P: 29  R: 2  S: 25
+
+  ---
+
+  You turn left.
+
+  4348683=[85\61=][]]]
+  [3][][]74@187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [0, 8, 5, 1, 6, 6, 7, 3, 5, 56, 6, 8, ...]  Dx: East  Co: (9, 1, 0)  Tk: 74
+  P: 29  R: 0  S: 25
+
+  ---
+
+  You push 1.
+
+  4348683=[85\61=][]]]
+  [3][][]740@87]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [1, 0, 8, 5, 1, 6, 6, 7, 3, 5, 56, ...]  Dx: East  Co: (10, 1, 0)  Tk: 75
+  P: 30  R: 0  S: 26
+
+  ---
+
+  You push 8.
+
+  4348683=[85\61=][]]]
+  [3][][]7401@7]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [8, 1, 0, 8, 5, 1, 6, 6, 7, 3, 5, ...]  Dx: East  Co: (11, 1, 0)  Tk: 76
+  P: 31  R: 0  S: 27
+
+  ---
+
+  You push 7.
+
+  4348683=[85\61=][]]]
+  [3][][]74018@]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [7, 8, 1, 0, 8, 5, 1, 6, 6, 7, 3, 5, ...]  Dx: East  Co: (12, 1, 0)  Tk: 77
+  P: 32  R: 0  S: 28
 
   ---
 
   You turn right.
 
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=9<[82[
-  ]][]]=!.44\[]@1\1=[]
+  4348683=[85\61=][]]]
+  [3][][]74018@]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
 
-  St: [0, 1, 1, 1, 2, 6, 2, 1, 4, 54, 2, ...]  Dx: North  Co: (13, 4, 0)  Tk: 105
-  P: 93  R: -2  S: 31
-
-  ---
-
-  You turn right because 1 > 0.
-
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201@9<[82[
-  ]][]]=!.44\[]01\1=[]
-
-  St: [1, 1, 2, 6, 2, 1, 4, 54, 2, 5, 5, ...]  Dx: East  Co: (13, 3, 0)  Tk: 106
-  P: 73  R: 0  S: 29
+  St: [7, 8, 1, 0, 8, 5, 1, 6, 6, 7, 3, ...]  Dx: South  Co: (12, 1, 0)  Tk: 78
+  P: 32  R: 2  S: 28
 
   ---
 
-  You push 9.
+  You turn right because 8 > 7.
 
-  [9\9?\4=[=][073=][[[
-  [9.=2]]6]]4\1819=4.]
-  ][[]\]6214??6255==.]
-  [[=904]796201=@<[82[
-  ]][]]=!.44\[]01\1=[]
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82@=367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
 
-  St: [9, 1, 1, 2, 6, 2, 1, 4, 54, 2, 5, ...]  Dx: East  Co: (14, 3, 0)  Tk: 107
-  P: 74  R: 0  S: 30
+  St: [1, 0, 8, 5, 1, 6, 6, 7, 3, 5, 56, ...]  Dx: West  Co: (12, 2, 0)  Tk: 79
+  P: 52  R: 4  S: 26
+
+  ---
+
+  You push 2.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[8@==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [2, 1, 0, 8, 5, 1, 6, 6, 7, 3, 5, ...]  Dx: West  Co: (11, 2, 0)  Tk: 80
+  P: 51  R: 4  S: 27
+
+  ---
+
+  You push 8.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[@2==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [8, 2, 1, 0, 8, 5, 1, 6, 6, 7, 3, 5, ...]  Dx: West  Co: (10, 2, 0)  Tk: 81
+  P: 50  R: 4  S: 28
+
+  ---
+
+  You turn left.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[@2==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [8, 2, 1, 0, 8, 5, 1, 6, 6, 7, 3, ...]  Dx: South  Co: (10, 2, 0)  Tk: 82
+  P: 50  R: 2  S: 28
+
+  ---
+
+  You swap 2 and 8.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:@8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [2, 8, 1, 0, 8, 5, 1, 6, 6, 7, 3, ...]  Dx: South  Co: (10, 3, 0)  Tk: 83
+  P: 70  R: 2  S: 28
+
+  ---
+
+  You turn right because 8 > 2.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_@[]85?=1=[
+
+  St: [1, 0, 8, 5, 1, 6, 6, 7, 3, 5, 56, ...]  Dx: West  Co: (10, 4, 0)  Tk: 84
+  P: 90  R: 4  S: 26
+
+  ---
+
+  You drop 1.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854@=[]85?=1=[
+
+  St: [0, 8, 5, 1, 6, 6, 7, 3, 5, 56, 6, 8, ...]  Dx: West  Co: (9, 4, 0)  Tk: 85
+  P: 89  R: 4  S: 25
+
+  ---
+
+  You push 4.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_85@_=[]85?=1=[
+
+  St: [4, 0, 8, 5, 1, 6, 6, 7, 3, 5, 56, 6, ...]  Dx: West  Co: (8, 4, 0)  Tk: 86
+  P: 88  R: 4  S: 26
+
+  ---
+
+  You push 5.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_8@4_=[]85?=1=[
+
+  St: [5, 4, 0, 8, 5, 1, 6, 6, 7, 3, 5, 56, ...]  Dx: West  Co: (7, 4, 0)  Tk: 87
+  P: 87  R: 4  S: 27
+
+  ---
+
+  You push 8.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_@54_=[]85?=1=[
+
+  St: [8, 5, 4, 0, 8, 5, 1, 6, 6, 7, 3, 5, ...]  Dx: West  Co: (6, 4, 0)  Tk: 88
+  P: 86  R: 4  S: 28
+
+  ---
+
+  You drop 8.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34@854_=[]85?=1=[
+
+  St: [5, 4, 0, 8, 5, 1, 6, 6, 7, 3, 5, 56, ...]  Dx: West  Co: (5, 4, 0)  Tk: 89
+  P: 85  R: 4  S: 27
+
+  ---
+
+  You push 4.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=3@_854_=[]85?=1=[
+
+  St: [4, 5, 4, 0, 8, 5, 1, 6, 6, 7, 3, 5, ...]  Dx: West  Co: (4, 4, 0)  Tk: 90
+  P: 84  R: 4  S: 28
+
+  ---
+
+  You push 3.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=@4_854_=[]85?=1=[
+
+  St: [3, 4, 5, 4, 0, 8, 5, 1, 6, 6, 7, 3, ...]  Dx: West  Co: (3, 4, 0)  Tk: 91
+  P: 83  R: 4  S: 29
+
+  ---
+
+  You turn right because 4 > 3.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[@34_854_=[]85?=1=[
+
+  St: [5, 4, 0, 8, 5, 1, 6, 6, 7, 3, 5, ...]  Dx: North  Co: (2, 4, 0)  Tk: 92
+  P: 82  R: 6  S: 27
+
+  ---
+
+  You push 2.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [72<019.\[82==367\7[
+  ]9@8_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [2, 5, 4, 0, 8, 5, 1, 6, 6, 7, 3, 5, ...]  Dx: North  Co: (2, 3, 0)  Tk: 93
+  P: 62  R: 6  S: 28
+
+  ---
+
+  You push 2.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [7@<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [2, 2, 5, 4, 0, 8, 5, 1, 6, 6, 7, 3, ...]  Dx: North  Co: (2, 2, 0)  Tk: 94
+  P: 42  R: 6  S: 29
+
+  ---
+
+  You turn right.
+
+  4348683=[85\61=][]]]
+  [3][][]740187]=1?[8]
+  [7@<019.\[82==367\7[
+  ]928_?0!6:\8\32?8]0[
+  [[=34_854_=[]85?=1=[
+
+  St: [2, 2, 5, 4, 0, 8, 5, 1, 6, 6, 7, 3, ...]  Dx: East  Co: (2, 2, 0)  Tk: 95
+  P: 42  R: 8  S: 29
 
   ---
 
   You go upstairs.
 
-  St: [9, 1, 1, 2, 6, 2, 1, 4, 54, 2, 5, ...]  Dx: East  Co: (15, 3, -1)  Tk: 108
-  P: -25  R: 0  S: 30
+  St: [2, 2, 5, 4, 0, 8, 5, 1, 6, 6, 7, 3, ...]  Dx: East  Co: (3, 2, -1)  Tk: 96
+  P: -57  R: 8  S: 29
 
 example_answer: |-
-  108
+  96

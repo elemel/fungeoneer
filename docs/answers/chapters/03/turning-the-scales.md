@@ -2,4 +2,4 @@
 
 You leave the dungeon after {{ site.data.problems.turning_the_scales.answer }} ticks.
 
-From here, you can [return to the dungeon](../../../chapters/03/turning-the-scales.md) or [continue to the next dungeon](../../../chapters/04/the-art-of-reckoning.md).
+From here, you can [return to the dungeon](../../../chapters/03/turning-the-scales.md) or [continue to the next dungeon](../../../chapters/05/the-art-of-reckoning.md).

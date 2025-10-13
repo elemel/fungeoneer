@@ -1,8 +1,8 @@
-## Chapter 5: Knapsack
+## Chapter 6: Knapsack
 
 {% assign problem = site.data.problems.knapsack %}
 
-You have entered the fifth dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
+You have entered the sixth dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
 
 ```
 {{ problem.map }}
@@ -14,7 +14,7 @@ Whenever you trigger a getter tile, push the corresponding register onto the sta
 
 After how many ticks do you leave the dungeon?
 
-From here, you can [continue to the answer](../../answers/chapters/05/knapsack.md).
+From here, you can [continue to the answer](../../answers/chapters/06/knapsack.md).
 
 
 ### Example

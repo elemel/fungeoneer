@@ -1,4 +1,4 @@
-## Chapter 11: Geomancer
+## Chapter 12: Geomancer
 
 {% assign problem = site.data.problems.geomancer %}
 
@@ -16,7 +16,7 @@ For a writer tile, pop two numbers from the stack: first `a`, then `b`. Find the
 
 After how many ticks do you leave the dungeon?
 
-From here, you can [continue to the answer](../../answers/chapters/11/geomancer.md).
+From here, you can [continue to the answer](../../answers/chapters/12/geomancer.md).
 
 
 ### Example

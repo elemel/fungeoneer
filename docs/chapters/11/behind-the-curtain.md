@@ -1,8 +1,8 @@
-## Chapter 10: Behind the Curtain
+## Chapter 11: Behind the Curtain
 
 {% assign problem = site.data.problems.behind_the_curtain %}
 
-You have entered the tenth dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
+You have entered the eleventh dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
 
 ```
 {{ problem.map }}
@@ -18,7 +18,7 @@ For a mimic tile, pop a number from the stack. Act as if you triggered a symbol 
 
 After how many ticks do you leave the dungeon?
 
-From here, you can [continue to the answer](../../answers/chapters/10/behind-the-curtain.md).
+From here, you can [continue to the answer](../../answers/chapters/11/behind-the-curtain.md).
 
 
 ### Example

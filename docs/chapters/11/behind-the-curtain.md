@@ -10,7 +10,7 @@ You have entered the eleventh dungeon. You stand at the bottom of the staircase 
 
 This dungeon introduces tiles with stashes (marked `'` on the map), passages (marked `"`), and mimics (marked `$`).
 
-Whenever you trigger a stash tile, move forward to the next tile immediately, without triggering that tile. Push the extended ASCII code (0 through 255) of that tile onto the stack. All of this happens within the same tick, and lets you stand on any tile, including wall tiles.
+When you trigger a stash tile, move forward to the next tile immediately, without triggering that tile. Push the extended ASCII code (0 through 255) of that tile onto the stack. All of this happens within the same tick, and lets you stand on any tile, including wall tiles.
 
 For a passage tile, find the next passage tile in your facing direction. Push your position onto the stack, then move to the other passage tile, and finally push your position onto the stack again. All of this happens within the same tick, and lets you pass through any tile, including wall tiles.
 

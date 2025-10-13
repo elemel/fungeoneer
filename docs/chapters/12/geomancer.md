@@ -10,7 +10,7 @@ You have entered the last dungeon. You stand at the bottom of the staircase wher
 
 This dungeon introduces tiles with readers (marked `?` on the map) and writers (marked `!`).
 
-Whenever you trigger a reader tile, pop a number `a` from the stack. Find the tile at position `a`, then get the extended ASCII code of that tile as another number `b`. Finally, push `b` onto the stack.
+When you trigger a reader tile, pop a number `a` from the stack. Find the tile at position `a`, then get the extended ASCII code of that tile as another number `b`. Finally, push `b` onto the stack.
 
 For a writer tile, pop two numbers from the stack: first `a`, then `b`. Find the tile at position `a`, then set the extended ASCII code of that tile to `b % 256`.
 

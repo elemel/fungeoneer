@@ -1630,7 +1630,7 @@ example_log: |-
 
   You go upstairs.
 
-  Dx: South  Co: (12, 2, -1)  Tk: 131
+  Dx: South  Tk: 131
 
 example_answer: |-
   131

@@ -29,7 +29,7 @@ Consider an example dungeon:
 {{ problem.example_map }}
 ```
 
-The log below shows you exploring the example dungeon, with your location marked `@` on the map. The status line uses the labels `Dx` for direction, `Co` for coordinates, and `Tk` for ticks. Coordinates are shown as `(x, y, z)`, where `x` increases to the east, `y` to the south, and `z` downward. The origin is at the northwest corner of the map.
+The log below shows you exploring the example dungeon, with your location marked `@` on the map. The status line uses the labels `Dx` for direction, `Co` for coordinates, and `Tk` for ticks. Coordinates are written as `(x, y)`, where `x` increases to the east and `y` to the south. The origin is at the first symbol on the map, in the northwest corner.
 
 ```
 {{ problem.example_log }}

@@ -14,7 +14,7 @@ When you trigger a stash tile, move forward to the next tile immediately, withou
 
 For a passage tile, move forward until you reach another passage tile. For each tile that you pass between the two passage tiles, push the the extended ASCII code of that tile onto the stack. All of this happens within the same tick, and lets you pass through any tile, including wall tiles.
 
-For a mimic tile, pop a number from the stack. Act as if you triggered a symbol with that number as extended ASCII code. If the imitated symbol is a wall symbol, move backward to the tile before the mimic tile, then turn as specified by the wall symbol. All of this happens within the same tick.
+For a mimic tile, pop a number from the stack. Act as if you instead triggered a tile with that number as extended ASCII code. If the imitated tile is a wall tile, move backward to the tile before the mimic tile, then turn as specified by the imitated wall tile. All of this happens within the same tick.
 
 After how many ticks do you leave the dungeon?
 

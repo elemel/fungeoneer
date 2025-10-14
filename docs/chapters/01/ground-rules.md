@@ -14,7 +14,7 @@ The dungeon is arranged as a grid of tiles. The directions on the map are right 
 
 You discover a contraption that was rolled into the map: an amulet of timekeeping. You sling it around your neck, resting close to your heart. With every tick of the clockwork, you are compelled to move forward to the next tile in your facing direction and trigger its effect. Triggering a lit or unlit floor tile (marked `.` or <code>&nbsp;</code>) has no effect. All floor tiles in this dungeon are lit.
 
-Besides the staircase and floor tiles, the dungeon also contains wall tiles: left-turners (marked `[`) and right-turners (marked `]`). Wall tiles block you from moving forward to them. You still trigger their effect from the adjacent tile. For a left-turner tile, turn 90 degrees to the left. For a right-turner tile, turn 90 degrees to the right.
+Besides the staircase and floor tiles, the dungeon also contains wall tiles: left-turners (marked `[`) and right-turners (marked `]`). Wall tiles block you from moving forward to them, but you still trigger their effect. For a left-turner tile, turn 90 degrees to the left. For a right-turner tile, turn 90 degrees to the right.
 
 As demonstrated by the gnome, you leave the dungeon by triggering the staircase tile. After how many ticks do you leave the dungeon?
 

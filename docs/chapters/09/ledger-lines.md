@@ -16,8 +16,6 @@ With your affairs in order, you consult the map:
 
 This dungeon introduces tiles with getters and setters for register S (marked `s` or `S`  on the map), along with peekers (marked `,`) and pokers (marked `;`). When you trigger an S-getter tile, push register S onto the stack. For an S-setter tile, pop register S from the stack. This resizes the stack.
 
-Peekers and pokers treat the inventory and stack as a single sequence of slots: indices below zero refer to the inventory, while zero and above refer to the stack. Registers A through Z are mapped to slots -1 through -26, respectively.
-
 For a peeker tile, pop a number `a` from the stack. Read another number `b` from slot `a`. Push `b` onto the stack. For a poker tile, pop two numbers from the stack: first `a`, then `b`. Write `b` to slot `a`.
 
 After how many ticks do you leave the dungeon?

@@ -12,7 +12,7 @@ Though empty for the time being, the purse has plenty of room for a tall stack o
 
 This dungeon introduces tiles with digits (marked `0` through `9` on the map) and junctions (marked `=`). When you trigger a digit tile, push the corresponding number onto the stack.
 
-For a junction tile, pop two numbers from the stack: first `a`, then `b`. If `b` is less than `a`, turn 90 degrees to the left. If `b` is greater than `a`, turn 90 degrees to the right. If the numbers are equal, do not turn at all.
+For a junction tile, pop two numbers from the stack: first `a`, then `b`. If `b` is less than `a`, turn 90 degrees to the left. If `b` is greater than `a`, turn 90 degrees to the right. If the numbers are equal, continue straight.
 
 After how many ticks do you leave the dungeon?
 
@@ -27,7 +27,7 @@ Consider an example dungeon:
 {{ problem.example_map }}
 ```
 
-The log below shows you exploring the example dungeon, with your location marked `@` on the map. The status line now also shows the stack (labeled `St`). The stack is shown as a list of numbers, starting with the top and ending with the bottom. An empty stack is shown as `[]`. For large stacks, only the first few numbers at the top are shown.
+The log below shows you exploring the example dungeon, with your location marked `@` on the map. The status line now also shows the stack (labeled `St`). The stack is displayed as a list of numbers, with the top of the stack on the right. An empty stack appears as `[]`. For large stacks, only the numbers at the top are shown.
 
 ```
 {{ problem.example_log }}

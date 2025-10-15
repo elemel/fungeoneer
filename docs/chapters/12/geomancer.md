@@ -8,11 +8,7 @@ You have entered the last dungeon. You stand at the bottom of the staircase wher
 {{ problem.map }}
 ```
 
-This dungeon introduces tiles with readers (marked `?` on the map) and writers (marked `!`).
-
-When you trigger a reader tile, pop a number `a` from the stack. Find the tile at position `a`, then get the extended ASCII code of that tile as another number `b`. Finally, push `b` onto the stack.
-
-For a writer tile, pop two numbers from the stack: first `a`, then `b`. Find the tile at position `a`, then set the extended ASCII code of that tile to `b % 256`.
+This dungeon introduces tiles with readers (marked `?` on the map) and writers (marked `!`). When you trigger a reader tile, pop a number `a` from the stack. Read another number `b` from tile `a`. Push `b` onto the stack. For a writer tile, pop two numbers from the stack: first `a`, then `b`. Write `b` to tile `a`.
 
 After how many ticks do you leave the dungeon?
 

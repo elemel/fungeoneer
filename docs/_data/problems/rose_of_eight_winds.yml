@@ -194,7 +194,7 @@ example_log: |-
 
   ---
 
-  You set register R to 0.
+  You write 0 to register R.
 
   {]{}{][({@944_868r.]
   (3(R3=)220({}{RR{}\{
@@ -298,7 +298,7 @@ example_log: |-
 
   ---
 
-  You get 0 from register R.
+  You read 0 from register R.
 
   {]{}{][({R944_868@.]
   (3(R3=)220({}{RR{}\{
@@ -519,7 +519,7 @@ example_log: |-
 
   ---
 
-  You get 0 from register R.
+  You read 0 from register R.
 
   {]{}{][({R944_868r.]
   (3(R3=)220({}{RR{}\{
@@ -584,7 +584,7 @@ example_log: |-
 
   ---
 
-  You get -6 from register R.
+  You read -6 from register R.
 
   {]{}{][({R944_868r.]
   (3(R3=)220({}{RR{}\{
@@ -623,7 +623,7 @@ example_log: |-
 
   ---
 
-  You set register R to 2.
+  You write 2 to register R.
 
   {]{}{][({R944_868r.]
   (3(R3=)220({}{R@{}\{
@@ -662,7 +662,7 @@ example_log: |-
 
   ---
 
-  You set register R to 2.
+  You write 2 to register R.
 
   {]{}{][({R944_868r.]
   (3(R3=)220({}{@R{}\{
@@ -701,7 +701,7 @@ example_log: |-
 
   ---
 
-  You get 3 from register R.
+  You read 3 from register R.
 
   {]{}{][({R944_868r.]
   (3(R3=)220({}{RR{}\{
@@ -948,7 +948,7 @@ example_log: |-
 
   ---
 
-  You set register R to 9.
+  You write 9 to register R.
 
   {]{}{][({R944_868r.]
   (3(R3=)220({}{RR{}\{
@@ -1052,7 +1052,7 @@ example_log: |-
 
   ---
 
-  You set register R to 4.
+  You write 4 to register R.
 
   {]{}{][({R944_868r.]
   (3(R3=)220({}{RR{}\{
@@ -1273,7 +1273,7 @@ example_log: |-
 
   ---
 
-  You set register R to 7.
+  You write 7 to register R.
 
   {]{}{][({R944_868r.]
   (3(R3=)220({}{RR{}\{
@@ -1286,7 +1286,7 @@ example_log: |-
 
   ---
 
-  You set register R to 8.
+  You write 8 to register R.
 
   {]{}{][({R944_868r.]
   (3(R3=)220({}{RR{}\{
@@ -1312,7 +1312,7 @@ example_log: |-
 
   ---
 
-  You set register R to 5.
+  You write 5 to register R.
 
   {]{}{][({R944_868r.]
   (3(R3=)220({}{RR{}\{
@@ -1377,7 +1377,7 @@ example_log: |-
 
   ---
 
-  You set register R to 3.
+  You write 3 to register R.
 
   {]{}{][({R944_868r.]
   (3(@3=)220({}{RR{}\{
@@ -1468,7 +1468,7 @@ example_log: |-
 
   ---
 
-  You set register R to 5.
+  You write 5 to register R.
 
   {]{}{][({R944_868r.]
   (3(R3=)220({}{RR{}\{
@@ -1520,7 +1520,7 @@ example_log: |-
 
   ---
 
-  You set register R to 7.
+  You write 7 to register R.
 
   {]{}{][({R944_868r.]
   (3(R3=)220({}{RR{}\{
@@ -1572,7 +1572,7 @@ example_log: |-
 
   ---
 
-  You set register R to 2.
+  You write 2 to register R.
 
   {]{}{][({@944_868r.]
   (3(R3=)220({}{RR{}\{

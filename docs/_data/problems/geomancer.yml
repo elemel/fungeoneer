@@ -598,7 +598,7 @@ example_log: |-
 
   ---
 
-  You read '4' from tile (2, 0, 0).
+  You read '4' from tile (2, 0).
 
   [348683=[85\61=][]]]
   [3][][]740187]=1?[8]
@@ -624,7 +624,7 @@ example_log: |-
 
   ---
 
-  You write '4' to tile (0, 0, 0).
+  You write '4' to tile (0, 0).
 
   4348683=[85\61=][]]]
   [3][][]740187]=1?[8]
@@ -728,7 +728,7 @@ example_log: |-
 
   ---
 
-  You read '4' from tile (2, 0, 0).
+  You read '4' from tile (2, 0).
 
   4348683=[85\61=][]]]
   [3][][]740187]=1?[8]
@@ -780,7 +780,7 @@ example_log: |-
 
   ---
 
-  You read '8' from tile (3, 0, 0).
+  You read '8' from tile (3, 0).
 
   4348683=[85\61=][]]]
   [3][][]740187]=1?[8]
@@ -1066,7 +1066,7 @@ example_log: |-
 
   ---
 
-  You read '=' from tile (7, 0, 0).
+  You read '=' from tile (7, 0).
 
   4348683=[85\61=][]]]
   [3][][]740187]=1@[8]

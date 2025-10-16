@@ -10,9 +10,9 @@ You have entered the eleventh dungeon. You stand at the bottom of the staircase 
 
 This dungeon introduces tiles with stashes (marked `'` on the map), passages (marked `"`), and mimics (marked `$`). These tiles operate on other map tiles, revealing their symbols as numbers. Tiles can store any number, but only some numbers correspond to valid symbols. Conversions between symbols and numbers use the ASCII table.
 
-When you trigger a stash tile, move forward to the next tile, without triggering it. Read a number from it, then push that number onto the stack. All of this happens within the same tick. Stash tiles allow you to stand on any tile, including wall tiles.
+When you trigger a stash tile, move forward to the next tile. Read a number from it, then push that number onto the stack. All of this happens within the same tick, without triggering another tile. Stash tiles allow you to stand on any tile, including wall tiles.
 
-For a passage tile, move forward until you reach another passage tile. For each tile you pass between the passage tiles, read a number from that tile, then push that number onto the stack. All of this happens within the same tick. Passage tiles allow you to pass through any tile, including wall tiles.
+For a passage tile, move forward until you reach another passage tile. For each tile you pass between the passage tiles, read a number from that tile, then push that number onto the stack. All of this happens within the same tick, without triggering another tile. Passage tiles allow you to pass through any tile, including wall tiles.
 
 For a mimic tile, pop a number from the stack. Act as if you instead triggered a tile with that number. If the imitated tile is a wall tile, move backward to the tile before the mimic tile, then turn as specified by the imitated wall tile. All of this happens within the same tick.
 

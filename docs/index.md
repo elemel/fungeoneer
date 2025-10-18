@@ -16,32 +16,44 @@ From here, you can [start in the foreworld](foreworld.md).
 
 ## Table of Contents
 
-- [Foreworld](foreworld.md)
-- Chapters
-  - [Chapter 1: Ground Rules](chapters/01/ground-rules.md)
-  - [Chapter 2: As Above, So Below](chapters/02/as-above-so-below.md)
-  - [Chapter 3: Turning the Scales](chapters/03/turning-the-scales.md)
-  - [Chapter 4: Sleight of Hand](chapters/04/sleight-of-hand.md)
-  - [Chapter 5: The Art of Reckoning](chapters/05/the-art-of-reckoning.md)
-  - [Chapter 6: Knapsack Problem](chapters/06/knapsack-problem.md)
-  - [Chapter 7: Rose of Eight Winds](chapters/07/rose-of-eight-winds.md)
-  - [Chapter 8: You Are Here](chapters/08/you-are-here.md)
-  - [Chapter 9: Ledger Lines](chapters/09/ledger-lines.md)
-  - [Chapter 10: A Grain of Truth](chapters/10/a-grain-of-truth.md)
-  - [Chapter 11: Behind the Curtain](chapters/11/behind-the-curtain.md)
-  - [Chapter 12: Geomancer](chapters/12/geomancer.md)
-- [Afterworld](afterworld.md)
-- Answers
-  - [Answer to Chapter 1: Ground Rules](answers/chapters/01/ground-rules.md)
-  - [Answer to Chapter 2: As Above, So Below](answers/chapters/02/as-above-so-below.md)
-  - [Answer to Chapter 3: Turning the Scales](answers/chapters/03/turning-the-scales.md)
-  - [Answer to Chapter 4: Sleight of Hand](answers/chapters/04/sleight-of-hand.md)
-  - [Answer to Chapter 5: The Art of Reckoning](answers/chapters/05/the-art-of-reckoning.md)
-  - [Answer to Chapter 6: Knapsack Problem](answers/chapters/06/knapsack-problem.md)
-  - [Answer to Chapter 7: Rose of Eight Winds](answers/chapters/07/rose-of-eight-winds.md)
-  - [Answer to Chapter 8: You Are Here](answers/chapters/08/you-are-here.md)
-  - [Answer to Chapter 9: Ledger Lines](answers/chapters/09/ledger-lines.md)
-  - [Answer to Chapter 10: A Grain of Truth](answers/chapters/10/a-grain-of-truth.md)
-  - [Answer to Chapter 11: Behind the Curtain](answers/chapters/11/behind-the-curtain.md)
-  - [Answer to Chapter 12: Geomancer](answers/chapters/12/geomancer.md)
-- [Credits](credits.md)
+<ul>
+  <li><a href="foreworld.html">Foreworld</a></li>
+</ul>
+
+<ul>
+  <li><a href="chapters/01/ground-rules.html">Chapter 1: Ground Rules</a></li>
+  <li><a href="chapters/02/as-above-so-below.html">Chapter 2: As Above, So Below</a></li>
+  <li><a href="chapters/03/turning-the-scales.html">Chapter 3: Turning the Scales</a></li>
+  <li><a href="chapters/04/sleight-of-hand.html">Chapter 4: Sleight of Hand</a></li>
+  <li><a href="chapters/05/the-art-of-reckoning.html">Chapter 5: The Art of Reckoning</a></li>
+  <li><a href="chapters/06/knapsack-problem.html">Chapter 6: Knapsack Problem</a></li>
+  <li><a href="chapters/07/rose-of-eight-winds.html">Chapter 7: Rose of Eight Winds</a></li>
+  <li><a href="chapters/08/you-are-here.html">Chapter 8: You Are Here</a></li>
+  <li><a href="chapters/09/ledger-lines.html">Chapter 9: Ledger Lines</a></li>
+  <li><a href="chapters/10/a-grain-of-truth.html">Chapter 10: A Grain of Truth</a></li>
+  <li><a href="chapters/11/behind-the-curtain.html">Chapter 11: Behind the Curtain</a></li>
+  <li><a href="chapters/12/geomancer.html">Chapter 12: Geomancer</a></li>
+</ul>
+
+<ul>
+  <li><a href="afterworld.html">Afterworld</a></li>
+</ul>
+
+<ul>
+  <li><a href="answers/chapters/01/ground-rules.html">Answer to Chapter 1: Ground Rules</a></li>
+  <li><a href="answers/chapters/02/as-above-so-below.html">Answer to Chapter 2: As Above, So Below</a></li>
+  <li><a href="answers/chapters/03/turning-the-scales.html">Answer to Chapter 3: Turning the Scales</a></li>
+  <li><a href="answers/chapters/04/sleight-of-hand.html">Answer to Chapter 4: Sleight of Hand</a></li>
+  <li><a href="answers/chapters/05/the-art-of-reckoning.html">Answer to Chapter 5: The Art of Reckoning</a></li>
+  <li><a href="answers/chapters/06/knapsack-problem.html">Answer to Chapter 6: Knapsack Problem</a></li>
+  <li><a href="answers/chapters/07/rose-of-eight-winds.html">Answer to Chapter 7: Rose of Eight Winds</a></li>
+  <li><a href="answers/chapters/08/you-are-here.html">Answer to Chapter 8: You Are Here</a></li>
+  <li><a href="answers/chapters/09/ledger-lines.html">Answer to Chapter 9: Ledger Lines</a></li>
+  <li><a href="answers/chapters/10/a-grain-of-truth.html">Answer to Chapter 10: A Grain of Truth</a></li>
+  <li><a href="answers/chapters/11/behind-the-curtain.html">Answer to Chapter 11: Behind the Curtain</a></li>
+  <li><a href="answers/chapters/12/geomancer.html">Answer to Chapter 12: Geomancer</a></li>
+</ul>
+
+<ul>
+  <li><a href="credits.html">Credits</a></li>
+</ul>

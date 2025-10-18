@@ -68,7 +68,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way east. You turn left.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -80,7 +80,7 @@ example_log: |-
 
   ---
 
-  You go downstairs.
+  You go north. You go downstairs.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..@[.<.<.]
@@ -92,7 +92,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way north. You turn left.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..@[.<.<.]
@@ -128,7 +128,7 @@ example_log: |-
 
   ---
 
-  You go upstairs.
+  You go west. You go upstairs.
 
   []][][]]][[[[]][][[]
   ][>>]>.][@.[>..>.>[]
@@ -140,7 +140,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way west. You turn left.
 
   []][][]]][[[[]][][[]
   ][>>]>.][@.[>..>.>[]
@@ -164,7 +164,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way south. You turn left.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -188,7 +188,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way east. You turn right.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -200,7 +200,7 @@ example_log: |-
 
   ---
 
-  You go downstairs.
+  You go south. You go downstairs.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -212,7 +212,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way south. You turn right.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -248,7 +248,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way west. You turn right.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -260,7 +260,7 @@ example_log: |-
 
   ---
 
-  You go upstairs.
+  You go north. You go upstairs.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -272,7 +272,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way north. You turn left.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -284,7 +284,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way west. You turn left.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -308,7 +308,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way south. You turn right.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -356,7 +356,7 @@ example_log: |-
 
   ---
 
-  You go downstairs.
+  You go west. You go downstairs.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -368,7 +368,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way west. You turn right.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -380,7 +380,7 @@ example_log: |-
 
   ---
 
-  You go upstairs.
+  You go north. You go upstairs.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -392,7 +392,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way north. You turn right.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -404,7 +404,7 @@ example_log: |-
 
   ---
 
-  You go downstairs.
+  You go east. You go downstairs.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -428,7 +428,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way east. You turn right.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -440,7 +440,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way south. You turn right.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -452,7 +452,7 @@ example_log: |-
 
   ---
 
-  You go upstairs.
+  You go west. You go upstairs.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -464,7 +464,7 @@ example_log: |-
 
   ---
 
-  You go downstairs.
+  You go west. You go downstairs.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -476,7 +476,7 @@ example_log: |-
 
   ---
 
-  You go upstairs.
+  You go west. You go upstairs.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -488,7 +488,7 @@ example_log: |-
 
   ---
 
-  You go downstairs.
+  You go west. You go downstairs.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -512,7 +512,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way west. You turn left.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -524,7 +524,7 @@ example_log: |-
 
   ---
 
-  You go upstairs.
+  You go south. You go upstairs.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -536,7 +536,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way south. You turn left.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -548,7 +548,7 @@ example_log: |-
 
   ---
 
-  You go downstairs.
+  You go east. You go downstairs.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -560,7 +560,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way east. You turn right.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -572,7 +572,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way south. You turn right.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -584,7 +584,7 @@ example_log: |-
 
   ---
 
-  You go upstairs.
+  You go west. You go upstairs.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -596,7 +596,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way west. You turn right.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -620,7 +620,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way north. You turn left.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -632,7 +632,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way west. You turn left.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -644,7 +644,7 @@ example_log: |-
 
   ---
 
-  You go downstairs.
+  You go south. You go downstairs.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -656,7 +656,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way south. You turn right.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -668,7 +668,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way west. You turn right.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -704,7 +704,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way north. You turn right.
 
   []][[]]]]][[[]]]][][
   ]@<<.<]]]<..<[.<.<.]
@@ -716,7 +716,7 @@ example_log: |-
 
   ---
 
-  You go upstairs.
+  You go east. You go upstairs.
 
   []][][]]][[[[]][][[]
   ][@>]>.][>.[>..>.>[]
@@ -728,7 +728,7 @@ example_log: |-
 
   ---
 
-  You go downstairs.
+  You go east. You go downstairs.
 
   []][[]]]]][[[]]]][][
   ].<@.<]]]<..<[.<.<.]
@@ -752,7 +752,7 @@ example_log: |-
 
   ---
 
-  You go upstairs.
+  You go east. You go upstairs.
 
   []][][]]][[[[]][][[]
   ][>>]@.][>.[>..>.>[]
@@ -776,7 +776,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way east. You turn right.
 
   []][][]]][[[[]][][[]
   ][>>]>@][>.[>..>.>[]
@@ -812,7 +812,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way south. You turn left.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -848,7 +848,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way east. You turn left.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -860,7 +860,7 @@ example_log: |-
 
   ---
 
-  You go downstairs.
+  You go north. You go downstairs.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -872,7 +872,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way north. You turn right.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -896,7 +896,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way east. You turn right.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -920,7 +920,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way south. You turn left.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -932,7 +932,7 @@ example_log: |-
 
   ---
 
-  You go upstairs.
+  You go east. You go upstairs.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -944,7 +944,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way east. You turn left.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -980,7 +980,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way north. You turn left.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>@[>..>.>[]
@@ -992,7 +992,7 @@ example_log: |-
 
   ---
 
-  You go downstairs.
+  You go west. You go downstairs.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]@..<[.<.<.]
@@ -1004,7 +1004,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way west. You turn right.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]@..<[.<.<.]
@@ -1016,7 +1016,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way north. You turn right.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]@..<[.<.<.]
@@ -1052,7 +1052,7 @@ example_log: |-
 
   ---
 
-  You go upstairs.
+  You go east. You go upstairs.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[@..>.>[]
@@ -1088,7 +1088,7 @@ example_log: |-
 
   ---
 
-  You go downstairs.
+  You go east. You go downstairs.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.@.<.]
@@ -1112,7 +1112,7 @@ example_log: |-
 
   ---
 
-  You go upstairs.
+  You go east. You go upstairs.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.@[]
@@ -1124,7 +1124,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way east. You turn left.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.@[]
@@ -1136,7 +1136,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way north. You turn left.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.@[]
@@ -1160,7 +1160,7 @@ example_log: |-
 
   ---
 
-  You go downstairs.
+  You go west. You go downstairs.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.@.<.]
@@ -1184,7 +1184,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way west. You turn left.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[@<.<.]
@@ -1196,7 +1196,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way south. You turn left.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[@<.<.]
@@ -1208,7 +1208,7 @@ example_log: |-
 
   ---
 
-  You go upstairs.
+  You go east. You go upstairs.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..@.>[]
@@ -1232,7 +1232,7 @@ example_log: |-
 
   ---
 
-  You go downstairs.
+  You go east. You go downstairs.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.@.]
@@ -1256,7 +1256,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way east. You turn right.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<@]
@@ -1280,7 +1280,7 @@ example_log: |-
 
   ---
 
-  You go upstairs.
+  You go south. You go upstairs.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -1292,7 +1292,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way south. You turn left.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -1304,7 +1304,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way east. You turn left.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -1316,7 +1316,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way north. You turn left.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -1352,7 +1352,7 @@ example_log: |-
 
   ---
 
-  You go downstairs.
+  You go west. You go downstairs.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -1376,7 +1376,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way west. You turn left.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -1388,7 +1388,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way south. You turn left.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -1400,7 +1400,7 @@ example_log: |-
 
   ---
 
-  You go upstairs.
+  You go east. You go upstairs.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -1436,7 +1436,7 @@ example_log: |-
 
   ---
 
-  You go downstairs.
+  You go east. You go downstairs.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -1448,7 +1448,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way east. You turn right.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -1460,7 +1460,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way south. You turn right.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -1496,7 +1496,7 @@ example_log: |-
 
   ---
 
-  You go upstairs.
+  You go west. You go upstairs.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[>..>.>[]
@@ -1532,7 +1532,7 @@ example_log: |-
 
   ---
 
-  You go downstairs.
+  You go west. You go downstairs.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -1544,7 +1544,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way west. You turn left.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -1556,7 +1556,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way south. You turn left.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -1568,7 +1568,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way east. You turn left.
 
   []][[]]]]][[[]]]][][
   ].<<.<]]]<..<[.<.<.]
@@ -1592,7 +1592,7 @@ example_log: |-
 
   ---
 
-  You go upstairs.
+  You go north. You go upstairs.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[@..>.>[]
@@ -1604,7 +1604,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way north. You turn left.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[@..>.>[]
@@ -1616,7 +1616,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way west. You turn left.
 
   []][][]]][[[[]][][[]
   ][>>]>.][>.[@..>.>[]
@@ -1628,7 +1628,7 @@ example_log: |-
 
   ---
 
-  You go upstairs.
+  You go south. You go upstairs.
 
   Dx: South  Tk: 131
 

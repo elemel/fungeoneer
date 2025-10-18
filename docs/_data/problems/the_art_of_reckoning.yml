@@ -125,7 +125,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way east. You turn left.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -137,7 +137,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go north. You push 8.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -149,7 +149,7 @@ example_log: |-
 
   ---
 
-  You push 3.
+  You go north. You push 3.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:@7[[\
@@ -161,7 +161,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way north. You turn left.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:@7[[\
@@ -173,7 +173,7 @@ example_log: |-
 
   ---
 
-  You duplicate 3.
+  You go west. You duplicate 3.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+@37[[\
@@ -185,7 +185,7 @@ example_log: |-
 
   ---
 
-  You reckon 3 + 3 = 6.
+  You go west. You reckon 3 + 3 = 6.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%@:37[[\
@@ -197,7 +197,7 @@ example_log: |-
 
   ---
 
-  You reckon 8 % 6 = 2.
+  You go west. You reckon 8 % 6 = 2.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[@+:37[[\
@@ -209,7 +209,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way west. You turn left.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[@+:37[[\
@@ -221,7 +221,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go south. You push 2.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -233,7 +233,7 @@ example_log: |-
 
   ---
 
-  You push 5.
+  You go south. You push 5.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -245,7 +245,7 @@ example_log: |-
 
   ---
 
-  You turn left because 2 < 5.
+  You go south. You turn left because 2 < 5.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -257,7 +257,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go east. You push 4.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -269,7 +269,7 @@ example_log: |-
 
   ---
 
-  You duplicate 4.
+  You go east. You duplicate 4.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -281,7 +281,7 @@ example_log: |-
 
   ---
 
-  You reckon 4 - 4 = 0.
+  You go east. You reckon 4 - 4 = 0.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -293,7 +293,7 @@ example_log: |-
 
   ---
 
-  You reckon 2 * 0 = 0.
+  You go east. You reckon 2 * 0 = 0.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -305,7 +305,7 @@ example_log: |-
 
   ---
 
-  You push 3.
+  You go east. You push 3.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -329,7 +329,7 @@ example_log: |-
 
   ---
 
-  You turn left because 0 < 3.
+  You go east. You turn left because 0 < 3.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -341,7 +341,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go north. You push 8.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -353,7 +353,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go north. You push 7.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -365,7 +365,7 @@ example_log: |-
 
   ---
 
-  You swap 8 and 7.
+  You go north. You swap 8 and 7.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[@
@@ -377,7 +377,7 @@ example_log: |-
 
   ---
 
-  You turn left because 7 < 8.
+  You go north. You turn left because 7 < 8.
 
   []][21%_7==[[[[[=92@
   ]:1_:8+0\*1[%+:37[[\
@@ -389,7 +389,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go west. You push 2.
 
   []][21%_7==[[[[[=9@=
   ]:1_:8+0\*1[%+:37[[\
@@ -401,7 +401,7 @@ example_log: |-
 
   ---
 
-  You push 9.
+  You go west. You push 9.
 
   []][21%_7==[[[[[=@2=
   ]:1_:8+0\*1[%+:37[[\
@@ -413,7 +413,7 @@ example_log: |-
 
   ---
 
-  You turn left because 2 < 9.
+  You go west. You turn left because 2 < 9.
 
   []][21%_7==[[[[[@92=
   ]:1_:8+0\*1[%+:37[[\
@@ -425,7 +425,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go south. You push 7.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:3@[[\
@@ -437,7 +437,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go south. You push 6.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -449,7 +449,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way south. You turn left.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -461,7 +461,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go east. You push 4.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -473,7 +473,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way east. You turn left.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -485,7 +485,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way north. You turn left.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -497,7 +497,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go west. You push 6.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -509,7 +509,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go west. You push 8.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -521,7 +521,7 @@ example_log: |-
 
   ---
 
-  You reckon 6 / 8 = 0.
+  You go west. You reckon 6 / 8 = 0.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -533,7 +533,7 @@ example_log: |-
 
   ---
 
-  You discard 0.
+  You go west. You discard 0.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -545,7 +545,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go west. You push 2.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -557,7 +557,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go west. You push 6.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -581,7 +581,7 @@ example_log: |-
 
   ---
 
-  You duplicate 6.
+  You go west. You duplicate 6.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -593,7 +593,7 @@ example_log: |-
 
   ---
 
-  You push 3.
+  You go west. You push 3.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -605,7 +605,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go west. You push 6.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -617,7 +617,7 @@ example_log: |-
 
   ---
 
-  You reckon 3 / 6 = 0.
+  You go west. You reckon 3 / 6 = 0.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -629,7 +629,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go west. You push 8.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -653,7 +653,7 @@ example_log: |-
 
   ---
 
-  You duplicate 8.
+  You go west. You duplicate 8.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -665,7 +665,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way west. You turn right.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -677,7 +677,7 @@ example_log: |-
 
   ---
 
-  You discard 8.
+  You go north. You discard 8.
 
   []][21%_7==[[[[[=92=
   ]:1@:8+0\*1[%+:37[[\
@@ -689,7 +689,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way north. You turn left.
 
   []][21%_7==[[[[[=92=
   ]:1@:8+0\*1[%+:37[[\
@@ -701,7 +701,7 @@ example_log: |-
 
   ---
 
-  You push 1.
+  You go west. You push 1.
 
   []][21%_7==[[[[[=92=
   ]:@_:8+0\*1[%+:37[[\
@@ -713,7 +713,7 @@ example_log: |-
 
   ---
 
-  You duplicate 1.
+  You go west. You duplicate 1.
 
   []][21%_7==[[[[[=92=
   ]@1_:8+0\*1[%+:37[[\
@@ -725,7 +725,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way west. You turn right.
 
   []][21%_7==[[[[[=92=
   ]@1_:8+0\*1[%+:37[[\
@@ -737,7 +737,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way north. You turn right.
 
   []][21%_7==[[[[[=92=
   ]@1_:8+0\*1[%+:37[[\
@@ -749,7 +749,7 @@ example_log: |-
 
   ---
 
-  You push 1.
+  You go east. You push 1.
 
   []][21%_7==[[[[[=92=
   ]:@_:8+0\*1[%+:37[[\
@@ -761,7 +761,7 @@ example_log: |-
 
   ---
 
-  You discard 1.
+  You go east. You discard 1.
 
   []][21%_7==[[[[[=92=
   ]:1@:8+0\*1[%+:37[[\
@@ -773,7 +773,7 @@ example_log: |-
 
   ---
 
-  You duplicate 1.
+  You go east. You duplicate 1.
 
   []][21%_7==[[[[[=92=
   ]:1_@8+0\*1[%+:37[[\
@@ -785,7 +785,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go east. You push 8.
 
   []][21%_7==[[[[[=92=
   ]:1_:@+0\*1[%+:37[[\
@@ -797,7 +797,7 @@ example_log: |-
 
   ---
 
-  You reckon 1 + 8 = 9.
+  You go east. You reckon 1 + 8 = 9.
 
   []][21%_7==[[[[[=92=
   ]:1_:8@0\*1[%+:37[[\
@@ -809,7 +809,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go east. You push 0.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+@\*1[%+:37[[\
@@ -821,7 +821,7 @@ example_log: |-
 
   ---
 
-  You swap 9 and 0.
+  You go east. You swap 9 and 0.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0@*1[%+:37[[\
@@ -833,7 +833,7 @@ example_log: |-
 
   ---
 
-  You reckon 0 * 9 = 0.
+  You go east. You reckon 0 * 9 = 0.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\@1[%+:37[[\
@@ -845,7 +845,7 @@ example_log: |-
 
   ---
 
-  You push 1.
+  You go east. You push 1.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*@[%+:37[[\
@@ -857,7 +857,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way east. You turn left.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*@[%+:37[[\
@@ -869,7 +869,7 @@ example_log: |-
 
   ---
 
-  You turn left because 0 < 1.
+  You go north. You turn left because 0 < 1.
 
   []][21%_7=@[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -881,7 +881,7 @@ example_log: |-
 
   ---
 
-  You continue straight because 1 = 1.
+  You go west. You continue straight because 1 = 1.
 
   []][21%_7@=[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -893,7 +893,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go west. You push 7.
 
   []][21%_@==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -905,7 +905,7 @@ example_log: |-
 
   ---
 
-  You discard 7.
+  You go west. You discard 7.
 
   []][21%@7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -917,7 +917,7 @@ example_log: |-
 
   ---
 
-  You reckon 0 % 8 = 0.
+  You go west. You reckon 0 % 8 = 0.
 
   []][21@_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -929,7 +929,7 @@ example_log: |-
 
   ---
 
-  You push 1.
+  You go west. You push 1.
 
   []][2@%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -941,7 +941,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go west. You push 2.
 
   []][@1%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -953,7 +953,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way west. You turn left.
 
   []][@1%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -965,7 +965,7 @@ example_log: |-
 
   ---
 
-  You duplicate 2.
+  You go south. You duplicate 2.
 
   []][21%_7==[[[[[=92=
   ]:1_@8+0\*1[%+:37[[\
@@ -989,7 +989,7 @@ example_log: |-
 
   ---
 
-  You push 5.
+  You go south. You push 5.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -1001,7 +1001,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way south. You turn right.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -1013,7 +1013,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go west. You push 0.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -1025,7 +1025,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go west. You push 7.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -1037,7 +1037,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way west. You turn left.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -1049,7 +1049,7 @@ example_log: |-
 
   ---
 
-  You turn left because 0 < 7.
+  You go south. You turn left because 0 < 7.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -1061,7 +1061,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way east. You turn left.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -1073,7 +1073,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go north. You push 7.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -1085,7 +1085,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way north. You turn right.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -1097,7 +1097,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go east. You push 0.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -1109,7 +1109,7 @@ example_log: |-
 
   ---
 
-  You push 5.
+  You go east. You push 5.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -1121,7 +1121,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go east. You push 2.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -1133,7 +1133,7 @@ example_log: |-
 
   ---
 
-  You swap 5 and 2.
+  You go east. You swap 5 and 2.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -1145,7 +1145,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go east. You push 8.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -1157,7 +1157,7 @@ example_log: |-
 
   ---
 
-  You reckon 5 + 8 = 13.
+  You go east. You reckon 5 + 8 = 13.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -1169,7 +1169,7 @@ example_log: |-
 
   ---
 
-  You discard 13.
+  You go east. You discard 13.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -1181,7 +1181,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go east. You push 8.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -1193,7 +1193,7 @@ example_log: |-
 
   ---
 
-  You push 9.
+  You go east. You push 9.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -1205,7 +1205,7 @@ example_log: |-
 
   ---
 
-  You push 5.
+  You go east. You push 5.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -1217,7 +1217,7 @@ example_log: |-
 
   ---
 
-  You reckon 9 + 5 = 14.
+  You go east. You reckon 9 + 5 = 14.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -1229,7 +1229,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go east. You push 2.
 
   []][21%_7==[[[[[=92=
   ]:1_:8+0\*1[%+:37[[\
@@ -1241,7 +1241,7 @@ example_log: |-
 
   ---
 
-  You go upstairs.
+  You go east. You go upstairs.
 
   St: [7, 6, 4, 2, 6, 6, 0, 1, 2, 2, 5, 7, 0, 2, 8, 14, 2]  Dx: East  Tk: 94
 

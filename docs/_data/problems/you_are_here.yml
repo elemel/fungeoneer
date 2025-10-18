@@ -189,7 +189,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way east. You turn right.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -202,7 +202,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way south. You turn right.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -215,7 +215,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go west. You push 4.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -228,7 +228,7 @@ example_log: |-
 
   ---
 
-  You push 5.
+  You go west. You push 5.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -241,7 +241,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go west. You push 0.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -254,7 +254,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way west. You turn right.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -267,7 +267,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go north. You push 4.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -280,7 +280,7 @@ example_log: |-
 
   ---
 
-  You push 1.
+  You go north. You push 1.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_@]826032\]
@@ -293,7 +293,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way north. You turn left.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_@]826032\]
@@ -306,7 +306,7 @@ example_log: |-
 
   ---
 
-  You discard 1.
+  You go west. You discard 1.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7@1]826032\]
@@ -319,7 +319,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go west. You push 7.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.@_1]826032\]
@@ -345,7 +345,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go west. You push 0.
 
   [1:6=64p7][[=]]]][[[
   =3[p00@.7_1]826032\]
@@ -358,7 +358,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go west. You push 0.
 
   [1:6=64p7][[=]]]][[[
   =3[p0@0.7_1]826032\]
@@ -371,7 +371,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go west. You push 0.
 
   [1:6=64p7][[=]]]][[[
   =3[p@00.7_1]826032\]
@@ -384,7 +384,7 @@ example_log: |-
 
   ---
 
-  You read 24 from register P.
+  You go west. You read 24 from register P.
 
   [1:6=64p7][[=]]]][[[
   =3[@000.7_1]826032\]
@@ -397,7 +397,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way west. You turn left.
 
   [1:6=64p7][[=]]]][[[
   =3[@000.7_1]826032\]
@@ -410,7 +410,7 @@ example_log: |-
 
   ---
 
-  You push 1.
+  You go south. You push 1.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -423,7 +423,7 @@ example_log: |-
 
   ---
 
-  You push 5.
+  You go south. You push 5.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -436,7 +436,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way south. You turn right.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -449,7 +449,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go west. You push 2.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -462,7 +462,7 @@ example_log: |-
 
   ---
 
-  You swap 5 and 2.
+  You go west. You swap 5 and 2.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -475,7 +475,7 @@ example_log: |-
 
   ---
 
-  You turn left because 2 < 5.
+  You go west. You turn left because 2 < 5.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -488,7 +488,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way south. You turn left.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -501,7 +501,7 @@ example_log: |-
 
   ---
 
-  You swap 23 and 1.
+  You go east. You swap 23 and 1.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -514,7 +514,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go east. You push 2.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -527,7 +527,7 @@ example_log: |-
 
   ---
 
-  You push 5.
+  You go east. You push 5.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -540,7 +540,7 @@ example_log: |-
 
   ---
 
-  You push 9.
+  You go east. You push 9.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -553,7 +553,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way east. You turn left.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -579,7 +579,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go north. You push 0.
 
   [1:6=64p7][[=]]]][[[
   =3[p@00.7_1]826032\]
@@ -592,7 +592,7 @@ example_log: |-
 
   ---
 
-  You turn right because 9 > 0.
+  You go north. You turn right because 9 > 0.
 
   [1:6@64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -605,7 +605,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go east. You push 6.
 
   [1:6=@4p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -618,7 +618,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go east. You push 4.
 
   [1:6=6@p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -631,7 +631,7 @@ example_log: |-
 
   ---
 
-  You read 6 from register P.
+  You go east. You read 6 from register P.
 
   [1:6=64@7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -644,7 +644,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go east. You push 7.
 
   [1:6=64p@][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -657,7 +657,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way east. You turn right.
 
   [1:6=64p@][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -670,7 +670,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go south. You push 7.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.@_1]826032\]
@@ -696,7 +696,7 @@ example_log: |-
 
   ---
 
-  You push 5.
+  You go south. You push 5.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -709,7 +709,7 @@ example_log: |-
 
   ---
 
-  You turn right because 7 > 5.
+  You go south. You turn right because 7 > 5.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -722,7 +722,7 @@ example_log: |-
 
   ---
 
-  You continue straight because 7 = 7.
+  You go west. You continue straight because 7 = 7.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -735,7 +735,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go west. You push 0.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -748,7 +748,7 @@ example_log: |-
 
   ---
 
-  You swap 4 and 0.
+  You go west. You swap 4 and 0.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -761,7 +761,7 @@ example_log: |-
 
   ---
 
-  You write 4 to register P.
+  You go west. You write 4 to register P.
 
   [1:6@64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -774,7 +774,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go west. You push 6.
 
   [1:@=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -787,7 +787,7 @@ example_log: |-
 
   ---
 
-  You duplicate 6.
+  You go west. You duplicate 6.
 
   [1@6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -800,7 +800,7 @@ example_log: |-
 
   ---
 
-  You push 1.
+  You go west. You push 1.
 
   [@:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -813,7 +813,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way west. You turn left.
 
   [@:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -826,7 +826,7 @@ example_log: |-
 
   ---
 
-  You push 3.
+  You go south. You push 3.
 
   [1:6=64p7][[=]]]][[[
   =@[p000.7_1]826032\]
@@ -839,7 +839,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way south. You turn right.
 
   [1:6=64p7][[=]]]][[[
   =@[p000.7_1]826032\]
@@ -852,7 +852,7 @@ example_log: |-
 
   ---
 
-  You turn left because 1 < 3.
+  You go west. You turn left because 1 < 3.
 
   [1:6=64p7][[=]]]][[[
   @3[p000.7_1]826032\]
@@ -865,7 +865,7 @@ example_log: |-
 
   ---
 
-  You write 6 to register P.
+  You go south. You write 6 to register P.
 
   [1:6=6@p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -878,7 +878,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go south. You push 0.
 
   [1:6=64p7][[=]]]][[[
   =3[p00@.7_1]826032\]
@@ -891,7 +891,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go south. You push 2.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -904,7 +904,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way south. You turn right.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -917,7 +917,7 @@ example_log: |-
 
   ---
 
-  You turn left because 0 < 2.
+  You go west. You turn left because 0 < 2.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -930,7 +930,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way south. You turn left.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -943,7 +943,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go east. You push 2.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -956,7 +956,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go east. You push 4.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -982,7 +982,7 @@ example_log: |-
 
   ---
 
-  You push 3.
+  You go east. You push 3.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -995,7 +995,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go east. You push 4.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1008,7 +1008,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go east. You push 8.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1021,7 +1021,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go east. You push 8.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1047,7 +1047,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go east. You push 2.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1060,7 +1060,7 @@ example_log: |-
 
   ---
 
-  You swap 8 and 2.
+  You go east. You swap 8 and 2.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1073,7 +1073,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go east. You push 4.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1086,7 +1086,7 @@ example_log: |-
 
   ---
 
-  You discard 4.
+  You go east. You discard 4.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1099,7 +1099,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go east. You push 6.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1112,7 +1112,7 @@ example_log: |-
 
   ---
 
-  You turn right because 8 > 6.
+  You go east. You turn right because 8 > 6.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1125,7 +1125,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go south. You push 6.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1138,7 +1138,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way south. You turn right.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1151,7 +1151,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go west. You push 2.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1164,7 +1164,7 @@ example_log: |-
 
   ---
 
-  You push 1.
+  You go west. You push 1.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1177,7 +1177,7 @@ example_log: |-
 
   ---
 
-  You push 1.
+  You go west. You push 1.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1190,7 +1190,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go west. You push 0.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1203,7 +1203,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way west. You turn right.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1216,7 +1216,7 @@ example_log: |-
 
   ---
 
-  You swap 1 and 0.
+  You go north. You swap 1 and 0.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1229,7 +1229,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go north. You push 0.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826@32\]
@@ -1242,7 +1242,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way north. You turn right.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826@32\]
@@ -1255,7 +1255,7 @@ example_log: |-
 
   ---
 
-  You push 3.
+  You go east. You push 3.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]8260@2\]
@@ -1268,7 +1268,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go east. You push 2.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]82603@\]
@@ -1281,7 +1281,7 @@ example_log: |-
 
   ---
 
-  You swap 3 and 2.
+  You go east. You swap 3 and 2.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032@]
@@ -1294,7 +1294,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way east. You turn right.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032@]
@@ -1307,7 +1307,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go south. You push 6.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1320,7 +1320,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go south. You push 2.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1333,7 +1333,7 @@ example_log: |-
 
   ---
 
-  You turn right because 6 > 2.
+  You go south. You turn right because 6 > 2.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1346,7 +1346,7 @@ example_log: |-
 
   ---
 
-  You read 98 from register P.
+  You go west. You read 98 from register P.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1359,7 +1359,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go west. You push 7.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1372,7 +1372,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go west. You push 6.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1385,7 +1385,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go west. You push 4.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1398,7 +1398,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way west. You turn right.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1411,7 +1411,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way north. You turn right.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1424,7 +1424,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go east. You push 6.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1437,7 +1437,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go east. You push 7.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1450,7 +1450,7 @@ example_log: |-
 
   ---
 
-  You read 96 from register P.
+  You go east. You read 96 from register P.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1463,7 +1463,7 @@ example_log: |-
 
   ---
 
-  You turn left because 7 < 97.
+  You go east. You turn left because 7 < 97.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1476,7 +1476,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go north. You push 2.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1489,7 +1489,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go north. You push 6.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1502,7 +1502,7 @@ example_log: |-
 
   ---
 
-  You swap 2 and 6.
+  You go north. You swap 2 and 6.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032@]
@@ -1515,7 +1515,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way north. You turn left.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032@]
@@ -1528,7 +1528,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go west. You push 2.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]82603@\]
@@ -1541,7 +1541,7 @@ example_log: |-
 
   ---
 
-  You push 3.
+  You go west. You push 3.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]8260@2\]
@@ -1554,7 +1554,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go west. You push 0.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826@32\]
@@ -1567,7 +1567,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go west. You push 6.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]82@032\]
@@ -1580,7 +1580,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go west. You push 2.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]8@6032\]
@@ -1593,7 +1593,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go west. You push 8.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]@26032\]
@@ -1606,7 +1606,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way west. You turn right.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]@26032\]
@@ -1619,7 +1619,7 @@ example_log: |-
 
   ---
 
-  You turn left because 2 < 8.
+  You go north. You turn left because 2 < 8.
 
   [1:6=64p7][[@]]]][[[
   =3[p000.7_1]826032\]
@@ -1632,7 +1632,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way west. You turn left.
 
   [1:6=64p7][[@]]]][[[
   =3[p000.7_1]826032\]
@@ -1645,7 +1645,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go south. You push 8.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]@26032\]
@@ -1658,7 +1658,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go south. You push 8.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1671,7 +1671,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go south. You push 4.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1684,7 +1684,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way south. You turn left.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1697,7 +1697,7 @@ example_log: |-
 
   ---
 
-  You go upstairs.
+  You go east. You go upstairs.
 
   St: [..., 2, 3, 97, 7, 6, 4, 6, 6, 2, 2, 3, 0, 6, 8, 8, 4]  Dx: East  Tk: 117
   P: -27  R: 8

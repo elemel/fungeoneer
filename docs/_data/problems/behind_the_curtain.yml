@@ -252,7 +252,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go east. You push 2.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -265,7 +265,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go east. You push 7.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -278,7 +278,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way east. You turn left.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -291,7 +291,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go north. You push 2.
 
   ="=:9:]"$]=][3="]"=]
   .]\9242010@.=_][468[
@@ -304,7 +304,7 @@ example_log: |-
 
   ---
 
-  You turn right because 7 > 2.
+  You go north. You turn right because 7 > 2.
 
   ="=:9:]"$]@][3="]"=]
   .]\92420102.=_][468[
@@ -317,7 +317,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way east. You turn right.
 
   ="=:9:]"$]@][3="]"=]
   .]\92420102.=_][468[
@@ -330,7 +330,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go south. You push 2.
 
   ="=:9:]"$]=][3="]"=]
   .]\9242010@.=_][468[
@@ -343,7 +343,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go south. You push 7.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -356,7 +356,7 @@ example_log: |-
 
   ---
 
-  You turn left because 2 < 7.
+  You go south. You turn left because 2 < 7.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -369,7 +369,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go east. You push 0.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -382,7 +382,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go east. You push 0.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -408,7 +408,7 @@ example_log: |-
 
   ---
 
-  You push 5.
+  You go east. You push 5.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -421,7 +421,7 @@ example_log: |-
 
   ---
 
-  You turn left because 0 < 5.
+  You go east. You turn left because 0 < 5.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -434,7 +434,7 @@ example_log: |-
 
   ---
 
-  You turn right because 2 > 0.
+  You go north. You turn right because 2 > 0.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -447,7 +447,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go east. You push 7.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -460,7 +460,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way east. You turn left.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -473,7 +473,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go north. You push 4.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][@68[
@@ -486,7 +486,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way north. You turn right.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][@68[
@@ -499,7 +499,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go east. You push 6.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][4@8[
@@ -512,7 +512,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go east. You push 8.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][46@[
@@ -525,7 +525,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way east. You turn left.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][46@[
@@ -538,7 +538,7 @@ example_log: |-
 
   ---
 
-  You turn left because 6 < 8.
+  You go north. You turn left because 6 < 8.
 
   ="=:9:]"$]=][3="]"@]
   .]\92420102.=_][468[
@@ -551,7 +551,7 @@ example_log: |-
 
   ---
 
-  You push "]".
+  You go west. You push "]".
 
   ="=:9:]"$]=][3=@]"=]
   .]\92420102.=_][468[
@@ -564,7 +564,7 @@ example_log: |-
 
   ---
 
-  You turn left because 4 < 93.
+  You go west. You turn left because 4 < 93.
 
   ="=:9:]"$]=][3@"]"=]
   .]\92420102.=_][468[
@@ -577,7 +577,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way south. You turn right.
 
   ="=:9:]"$]=][3@"]"=]
   .]\92420102.=_][468[
@@ -590,7 +590,7 @@ example_log: |-
 
   ---
 
-  You push 3.
+  You go west. You push 3.
 
   ="=:9:]"$]=][@="]"=]
   .]\92420102.=_][468[
@@ -603,7 +603,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way west. You turn left.
 
   ="=:9:]"$]=][@="]"=]
   .]\92420102.=_][468[
@@ -616,7 +616,7 @@ example_log: |-
 
   ---
 
-  You discard 3.
+  You go south. You discard 3.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=@][468[
@@ -629,7 +629,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go south. You push 6.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -655,7 +655,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way south. You turn right.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -668,7 +668,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go west. You push 0.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -681,7 +681,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go west. You push 0.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -694,7 +694,7 @@ example_log: |-
 
   ---
 
-  You continue straight because 0 = 0.
+  You go west. You continue straight because 0 = 0.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -707,7 +707,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go west. You push 2.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -720,7 +720,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go west. You push 2.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -733,7 +733,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go west. You push 4.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -746,7 +746,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go west. You push 7.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -759,7 +759,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go west. You push 8.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -772,7 +772,7 @@ example_log: |-
 
   ---
 
-  You push 9.
+  You go west. You push 9.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -785,7 +785,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way west. You turn left.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -798,7 +798,7 @@ example_log: |-
 
   ---
 
-  You turn left because 8 < 9.
+  You go south. You turn left because 8 < 9.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -811,7 +811,7 @@ example_log: |-
 
   ---
 
-  You push 9.
+  You go east. You push 9.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -824,7 +824,7 @@ example_log: |-
 
   ---
 
-  You turn left because 7 < 9.
+  You go east. You turn left because 7 < 9.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -837,7 +837,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go north. You push 7.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -850,7 +850,7 @@ example_log: |-
 
   ---
 
-  You duplicate 7.
+  You go north. You duplicate 7.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -863,7 +863,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go north. You push 2.
 
   ="=:9:]"$]=][3="]"=]
   .]\924@0102.=_][468[
@@ -876,7 +876,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way north. You turn right.
 
   ="=:9:]"$]=][3="]"=]
   .]\924@0102.=_][468[
@@ -889,7 +889,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go east. You push 0.
 
   ="=:9:]"$]=][3="]"=]
   .]\9242@102.=_][468[
@@ -902,7 +902,7 @@ example_log: |-
 
   ---
 
-  You push 1.
+  You go east. You push 1.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420@02.=_][468[
@@ -915,7 +915,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go east. You push 0.
 
   ="=:9:]"$]=][3="]"=]
   .]\924201@2.=_][468[
@@ -928,7 +928,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go east. You push 2.
 
   ="=:9:]"$]=][3="]"=]
   .]\9242010@.=_][468[
@@ -954,7 +954,7 @@ example_log: |-
 
   ---
 
-  You turn left because 0 < 2.
+  You go east. You turn left because 0 < 2.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.@_][468[
@@ -967,7 +967,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way north. You turn left.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.@_][468[
@@ -993,7 +993,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go west. You push 2.
 
   ="=:9:]"$]=][3="]"=]
   .]\9242010@.=_][468[
@@ -1006,7 +1006,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go west. You push 0.
 
   ="=:9:]"$]=][3="]"=]
   .]\924201@2.=_][468[
@@ -1019,7 +1019,7 @@ example_log: |-
 
   ---
 
-  You push 1.
+  You go west. You push 1.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420@02.=_][468[
@@ -1032,7 +1032,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go west. You push 0.
 
   ="=:9:]"$]=][3="]"=]
   .]\9242@102.=_][468[
@@ -1045,7 +1045,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go west. You push 2.
 
   ="=:9:]"$]=][3="]"=]
   .]\924@0102.=_][468[
@@ -1058,7 +1058,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go west. You push 4.
 
   ="=:9:]"$]=][3="]"=]
   .]\92@20102.=_][468[
@@ -1071,7 +1071,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go west. You push 2.
 
   ="=:9:]"$]=][3="]"=]
   .]\9@420102.=_][468[
@@ -1084,7 +1084,7 @@ example_log: |-
 
   ---
 
-  You push 9.
+  You go west. You push 9.
 
   ="=:9:]"$]=][3="]"=]
   .]\@2420102.=_][468[
@@ -1097,7 +1097,7 @@ example_log: |-
 
   ---
 
-  You swap 2 and 9.
+  You go west. You swap 2 and 9.
 
   ="=:9:]"$]=][3="]"=]
   .]@92420102.=_][468[
@@ -1110,7 +1110,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way west. You turn right.
 
   ="=:9:]"$]=][3="]"=]
   .]@92420102.=_][468[
@@ -1123,7 +1123,7 @@ example_log: |-
 
   ---
 
-  You turn right because 9 > 2.
+  You go north. You turn right because 9 > 2.
 
   ="@:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1136,7 +1136,7 @@ example_log: |-
 
   ---
 
-  You duplicate 4.
+  You go east. You duplicate 4.
 
   ="=@9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1149,7 +1149,7 @@ example_log: |-
 
   ---
 
-  You push 9.
+  You go east. You push 9.
 
   ="=:@:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1162,7 +1162,7 @@ example_log: |-
 
   ---
 
-  You duplicate 9.
+  You go east. You duplicate 9.
 
   ="=:9@]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1175,7 +1175,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way east. You turn right.
 
   ="=:9@]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1188,7 +1188,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go south. You push 4.
 
   ="=:9:]"$]=][3="]"=]
   .]\92@20102.=_][468[
@@ -1201,7 +1201,7 @@ example_log: |-
 
   ---
 
-  You turn right because 9 > 4.
+  You go south. You turn right because 9 > 4.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1214,7 +1214,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go west. You push 8.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1227,7 +1227,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go west. You push 0.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1240,7 +1240,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go west. You push 7.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1253,7 +1253,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go west. You push 2.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1266,7 +1266,7 @@ example_log: |-
 
   ---
 
-  You turn right because 7 > 2.
+  You go west. You turn right because 7 > 2.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1292,7 +1292,7 @@ example_log: |-
 
   ---
 
-  You turn right because 8 > 0.
+  You go north. You turn right because 8 > 0.
 
   @"=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1305,7 +1305,7 @@ example_log: |-
 
   ---
 
-  You push "=:9:]".
+  You go east. You push "=:9:]".
 
   ="=:9:]@$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1318,7 +1318,7 @@ example_log: |-
 
   ---
 
-  You perform ']'... You turn right.
+  You go east. You invoke ']'... The wall pushes you back west. You turn right.
 
   ="=:9:]@$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1331,7 +1331,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go south. You push 0.
 
   ="=:9:]"$]=][3="]"=]
   .]\9242@102.=_][468[
@@ -1344,7 +1344,7 @@ example_log: |-
 
   ---
 
-  You push 3.
+  You go south. You push 3.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1357,7 +1357,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go south. You push 4.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1370,7 +1370,7 @@ example_log: |-
 
   ---
 
-  You turn left because 3 < 4.
+  You go south. You turn left because 3 < 4.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1383,7 +1383,7 @@ example_log: |-
 
   ---
 
-  You duplicate 0.
+  You go east. You duplicate 0.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1396,7 +1396,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go east. You push 0.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1409,7 +1409,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go east. You push 6.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1422,7 +1422,7 @@ example_log: |-
 
   ---
 
-  You push 1.
+  You go east. You push 1.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1435,7 +1435,7 @@ example_log: |-
 
   ---
 
-  You push "]".
+  You go east. You push "]".
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1448,7 +1448,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go east. You push 4.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1461,7 +1461,7 @@ example_log: |-
 
   ---
 
-  You push 9.
+  You go east. You push 9.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1474,7 +1474,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go east. You push 8.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1487,7 +1487,7 @@ example_log: |-
 
   ---
 
-  You swap 9 and 8.
+  You go east. You swap 9 and 8.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1500,7 +1500,7 @@ example_log: |-
 
   ---
 
-  You turn left because 8 < 9.
+  You go east. You turn left because 8 < 9.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1513,7 +1513,7 @@ example_log: |-
 
   ---
 
-  You push "".
+  You go north. You push "".
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1526,7 +1526,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way north. You turn left.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1539,7 +1539,7 @@ example_log: |-
 
   ---
 
-  You push "[7=".
+  You go west. You push "[7=".
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1552,7 +1552,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go west. You push 6.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1565,7 +1565,7 @@ example_log: |-
 
   ---
 
-  You push '['.
+  You go west. You push '['.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1578,7 +1578,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go west. You push 7.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1591,7 +1591,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go west. You push 2.
 
   ="=:9:]"$]=][3="]"=]
   .]\92420102.=_][468[
@@ -1604,7 +1604,7 @@ example_log: |-
 
   ---
 
-  You go upstairs.
+  You go west. You go upstairs.
 
   St: [..., 58, 0, 0, 0, 6, 1, 93, 4, 91, 55, 61, 6, 91, 7, 2]  Dx: West  Tk: 105
   P: -52  R: -4  S: 36

@@ -104,7 +104,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go east. You push 7.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -116,7 +116,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go east. You push 6.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -128,7 +128,7 @@ example_log: |-
 
   ---
 
-  You discard 6.
+  You go east. You discard 6.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -140,7 +140,7 @@ example_log: |-
 
   ---
 
-  You duplicate 7.
+  You go east. You duplicate 7.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -152,7 +152,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go east. You push 6.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -164,7 +164,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way east. You turn left.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -176,7 +176,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go north. You push 2.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]7@_7]
@@ -188,7 +188,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way north. You turn left.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]7@_7]
@@ -200,7 +200,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go west. You push 7.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]@2_7]
@@ -212,7 +212,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way west. You turn right.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]@2_7]
@@ -224,7 +224,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way north. You turn right.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]@2_7]
@@ -236,7 +236,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go east. You push 2.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]7@_7]
@@ -248,7 +248,7 @@ example_log: |-
 
   ---
 
-  You discard 2.
+  You go east. You discard 2.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72@7]
@@ -260,7 +260,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go east. You push 7.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_@]
@@ -272,7 +272,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way east. You turn right.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_@]
@@ -284,7 +284,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go south. You push 8.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -296,7 +296,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go south. You push 6.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -308,7 +308,7 @@ example_log: |-
 
   ---
 
-  You turn right because 8 > 6.
+  You go south. You turn right because 8 > 6.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -320,7 +320,7 @@ example_log: |-
 
   ---
 
-  You swap 7 and 7.
+  You go west. You swap 7 and 7.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -344,7 +344,7 @@ example_log: |-
 
   ---
 
-  You push 1.
+  You go west. You push 1.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -356,7 +356,7 @@ example_log: |-
 
   ---
 
-  You push 3.
+  You go west. You push 3.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -368,7 +368,7 @@ example_log: |-
 
   ---
 
-  You discard 3.
+  You go west. You discard 3.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -380,7 +380,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go west. You push 0.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -392,7 +392,7 @@ example_log: |-
 
   ---
 
-  You duplicate 0.
+  You go west. You duplicate 0.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -404,7 +404,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go west. You push 7.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -416,7 +416,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go west. You push 2.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -428,7 +428,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go west. You push 6.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -440,7 +440,7 @@ example_log: |-
 
   ---
 
-  You duplicate 6.
+  You go west. You duplicate 6.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -452,7 +452,7 @@ example_log: |-
 
   ---
 
-  You discard 6.
+  You go west. You discard 6.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -464,7 +464,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go west. You push 2.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -476,7 +476,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go west. You push 8.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -488,7 +488,7 @@ example_log: |-
 
   ---
 
-  You push 1.
+  You go west. You push 1.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -500,7 +500,7 @@ example_log: |-
 
   ---
 
-  You turn right because 8 > 1.
+  You go west. You turn right because 8 > 1.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -512,7 +512,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go north. You push 4.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -524,7 +524,7 @@ example_log: |-
 
   ---
 
-  You swap 2 and 4.
+  You go north. You swap 2 and 4.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -548,7 +548,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way north. You turn right.
 
   ]]]]][]=6\9741]][][[
   =9@:83:698\5=\]72_7]
@@ -560,7 +560,7 @@ example_log: |-
 
   ---
 
-  You duplicate 2.
+  You go east. You duplicate 2.
 
   ]]]]][]=6\9741]][][[
   =9.@83:698\5=\]72_7]
@@ -572,7 +572,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go east. You push 8.
 
   ]]]]][]=6\9741]][][[
   =9.:@3:698\5=\]72_7]
@@ -584,7 +584,7 @@ example_log: |-
 
   ---
 
-  You push 3.
+  You go east. You push 3.
 
   ]]]]][]=6\9741]][][[
   =9.:8@:698\5=\]72_7]
@@ -596,7 +596,7 @@ example_log: |-
 
   ---
 
-  You duplicate 3.
+  You go east. You duplicate 3.
 
   ]]]]][]=6\9741]][][[
   =9.:83@698\5=\]72_7]
@@ -608,7 +608,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go east. You push 6.
 
   ]]]]][]=6\9741]][][[
   =9.:83:@98\5=\]72_7]
@@ -620,7 +620,7 @@ example_log: |-
 
   ---
 
-  You push 9.
+  You go east. You push 9.
 
   ]]]]][]=6\9741]][][[
   =9.:83:6@8\5=\]72_7]
@@ -632,7 +632,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go east. You push 8.
 
   ]]]]][]=6\9741]][][[
   =9.:83:69@\5=\]72_7]
@@ -644,7 +644,7 @@ example_log: |-
 
   ---
 
-  You swap 9 and 8.
+  You go east. You swap 9 and 8.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698@5=\]72_7]
@@ -656,7 +656,7 @@ example_log: |-
 
   ---
 
-  You push 5.
+  You go east. You push 5.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\@=\]72_7]
@@ -668,7 +668,7 @@ example_log: |-
 
   ---
 
-  You turn right because 9 > 5.
+  You go east. You turn right because 9 > 5.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5@\]72_7]
@@ -680,7 +680,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go south. You push 7.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -692,7 +692,7 @@ example_log: |-
 
   ---
 
-  You turn right because 8 > 7.
+  You go south. You turn right because 8 > 7.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -704,7 +704,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go west. You push 8.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -716,7 +716,7 @@ example_log: |-
 
   ---
 
-  You discard 8.
+  You go west. You discard 8.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -728,7 +728,7 @@ example_log: |-
 
   ---
 
-  You push 9.
+  You go west. You push 9.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -740,7 +740,7 @@ example_log: |-
 
   ---
 
-  You push 5.
+  You go west. You push 5.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -752,7 +752,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go west. You push 4.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -764,7 +764,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go west. You push 8.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -788,7 +788,7 @@ example_log: |-
 
   ---
 
-  You push 9.
+  You go west. You push 9.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -800,7 +800,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go west. You push 8.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -812,7 +812,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go west. You push 4.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -836,7 +836,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way west. You turn left.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -848,7 +848,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way south. You turn left.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -860,7 +860,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go east. You push 4.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -872,7 +872,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go east. You push 8.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -884,7 +884,7 @@ example_log: |-
 
   ---
 
-  You push 9.
+  You go east. You push 9.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -908,7 +908,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go east. You push 8.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -920,7 +920,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go east. You push 4.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -932,7 +932,7 @@ example_log: |-
 
   ---
 
-  You push 5.
+  You go east. You push 5.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -944,7 +944,7 @@ example_log: |-
 
   ---
 
-  You push 9.
+  You go east. You push 9.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -956,7 +956,7 @@ example_log: |-
 
   ---
 
-  You discard 9.
+  You go east. You discard 9.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -968,7 +968,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go east. You push 8.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -980,7 +980,7 @@ example_log: |-
 
   ---
 
-  You turn left because 5 < 8.
+  You go east. You turn left because 5 < 8.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -992,7 +992,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go north. You push 7.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -1004,7 +1004,7 @@ example_log: |-
 
   ---
 
-  You turn left because 4 < 7.
+  You go north. You turn left because 4 < 7.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5@\]72_7]
@@ -1016,7 +1016,7 @@ example_log: |-
 
   ---
 
-  You push 5.
+  You go west. You push 5.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\@=\]72_7]
@@ -1028,7 +1028,7 @@ example_log: |-
 
   ---
 
-  You swap 8 and 5.
+  You go west. You swap 8 and 5.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698@5=\]72_7]
@@ -1040,7 +1040,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go west. You push 8.
 
   ]]]]][]=6\9741]][][[
   =9.:83:69@\5=\]72_7]
@@ -1052,7 +1052,7 @@ example_log: |-
 
   ---
 
-  You push 9.
+  You go west. You push 9.
 
   ]]]]][]=6\9741]][][[
   =9.:83:6@8\5=\]72_7]
@@ -1064,7 +1064,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go west. You push 6.
 
   ]]]]][]=6\9741]][][[
   =9.:83:@98\5=\]72_7]
@@ -1076,7 +1076,7 @@ example_log: |-
 
   ---
 
-  You duplicate 6.
+  You go west. You duplicate 6.
 
   ]]]]][]=6\9741]][][[
   =9.:83@698\5=\]72_7]
@@ -1088,7 +1088,7 @@ example_log: |-
 
   ---
 
-  You push 3.
+  You go west. You push 3.
 
   ]]]]][]=6\9741]][][[
   =9.:8@:698\5=\]72_7]
@@ -1100,7 +1100,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go west. You push 8.
 
   ]]]]][]=6\9741]][][[
   =9.:@3:698\5=\]72_7]
@@ -1112,7 +1112,7 @@ example_log: |-
 
   ---
 
-  You duplicate 8.
+  You go west. You duplicate 8.
 
   ]]]]][]=6\9741]][][[
   =9.@83:698\5=\]72_7]
@@ -1136,7 +1136,7 @@ example_log: |-
 
   ---
 
-  You push 9.
+  You go west. You push 9.
 
   ]]]]][]=6\9741]][][[
   =@.:83:698\5=\]72_7]
@@ -1148,7 +1148,7 @@ example_log: |-
 
   ---
 
-  You turn left because 8 < 9.
+  You go west. You turn left because 8 < 9.
 
   ]]]]][]=6\9741]][][[
   @9.:83:698\5=\]72_7]
@@ -1160,7 +1160,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go south. You push 6.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -1172,7 +1172,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way south. You turn left.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -1196,7 +1196,7 @@ example_log: |-
 
   ---
 
-  You swap 8 and 6.
+  You go east. You swap 8 and 6.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -1208,7 +1208,7 @@ example_log: |-
 
   ---
 
-  You push 1.
+  You go east. You push 1.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -1220,7 +1220,7 @@ example_log: |-
 
   ---
 
-  You swap 8 and 1.
+  You go east. You swap 8 and 1.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -1232,7 +1232,7 @@ example_log: |-
 
   ---
 
-  You push 9.
+  You go east. You push 9.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -1244,7 +1244,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go east. You push 6.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -1256,7 +1256,7 @@ example_log: |-
 
   ---
 
-  You swap 9 and 6.
+  You go east. You swap 9 and 6.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -1268,7 +1268,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way east. You turn left.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -1280,7 +1280,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go north. You push 6.
 
   ]]]]][]=6\9741]][][[
   =9.:83:@98\5=\]72_7]
@@ -1292,7 +1292,7 @@ example_log: |-
 
   ---
 
-  You turn right because 9 > 6.
+  You go north. You turn right because 9 > 6.
 
   ]]]]][]@6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -1304,7 +1304,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go east. You push 6.
 
   ]]]]][]=@\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -1316,7 +1316,7 @@ example_log: |-
 
   ---
 
-  You swap 6 and 6.
+  You go east. You swap 6 and 6.
 
   ]]]]][]=6@9741]][][[
   =9.:83:698\5=\]72_7]
@@ -1328,7 +1328,7 @@ example_log: |-
 
   ---
 
-  You push 9.
+  You go east. You push 9.
 
   ]]]]][]=6\@741]][][[
   =9.:83:698\5=\]72_7]
@@ -1340,7 +1340,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go east. You push 7.
 
   ]]]]][]=6\9@41]][][[
   =9.:83:698\5=\]72_7]
@@ -1352,7 +1352,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go east. You push 4.
 
   ]]]]][]=6\97@1]][][[
   =9.:83:698\5=\]72_7]
@@ -1364,7 +1364,7 @@ example_log: |-
 
   ---
 
-  You push 1.
+  You go east. You push 1.
 
   ]]]]][]=6\974@]][][[
   =9.:83:698\5=\]72_7]
@@ -1376,7 +1376,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way east. You turn right.
 
   ]]]]][]=6\974@]][][[
   =9.:83:698\5=\]72_7]
@@ -1388,7 +1388,7 @@ example_log: |-
 
   ---
 
-  You swap 4 and 1.
+  You go south. You swap 4 and 1.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=@]72_7]
@@ -1400,7 +1400,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go south. You push 6.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -1412,7 +1412,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way south. You turn right.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -1424,7 +1424,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go west. You push 7.
 
   ]]]]][]=6\9741]][][[
   =9.:83:698\5=\]72_7]
@@ -1436,7 +1436,7 @@ example_log: |-
 
   ---
 
-  You go upstairs.
+  You go west. You go upstairs.
 
   St: [..., 8, 8, 9, 6, 6, 3, 6, 1, 8, 6, 6, 9, 7, 1, 4, 6, 7]  Dx: West  Tk: 112
 

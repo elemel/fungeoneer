@@ -210,7 +210,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way east. You turn left.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877@[
@@ -223,7 +223,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way north. You turn left.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877@[
@@ -236,7 +236,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go west. You push 7.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,187@<[
@@ -249,7 +249,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go west. You push 7.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,18@7<[
@@ -262,7 +262,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go west. You push 8.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1@77<[
@@ -275,7 +275,7 @@ example_log: |-
 
   ---
 
-  You push 1.
+  You go west. You push 1.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,@877<[
@@ -288,7 +288,7 @@ example_log: |-
 
   ---
 
-  You read 7 from slot 1.
+  You go west. You read 7 from slot 1.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004@1877<[
@@ -301,7 +301,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go west. You push 4.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[00@,1877<[
@@ -314,7 +314,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go west. You push 0.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[0@4,1877<[
@@ -327,7 +327,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go west. You push 0.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[@04,1877<[
@@ -340,7 +340,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way west. You turn left.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[@04,1877<[
@@ -353,7 +353,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go south. You push 6.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -366,7 +366,7 @@ example_log: |-
 
   ---
 
-  You swap 0 and 6.
+  You go south. You swap 0 and 6.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -379,7 +379,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way south. You turn right.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -392,7 +392,7 @@ example_log: |-
 
   ---
 
-  You push 5.
+  You go west. You push 5.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -418,7 +418,7 @@ example_log: |-
 
   ---
 
-  You read 9 from register S.
+  You go west. You read 9 from register S.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -431,7 +431,7 @@ example_log: |-
 
   ---
 
-  You push 5.
+  You go west. You push 5.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -444,7 +444,7 @@ example_log: |-
 
   ---
 
-  You duplicate 5.
+  You go west. You duplicate 5.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -457,7 +457,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way west. You turn right.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -470,7 +470,7 @@ example_log: |-
 
   ---
 
-  You write 5 to register S.
+  You go north. You write 5 to register S.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -483,7 +483,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way north. You turn left.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -496,7 +496,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go west. You push 2.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -509,7 +509,7 @@ example_log: |-
 
   ---
 
-  You discard 2.
+  You go west. You discard 2.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -535,7 +535,7 @@ example_log: |-
 
   ---
 
-  You swap 7 and 4.
+  You go west. You swap 7 and 4.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -548,7 +548,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way west. You turn left.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -561,7 +561,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go south. You push 6.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -574,7 +574,7 @@ example_log: |-
 
   ---
 
-  You turn right because 7 > 6.
+  You go south. You turn right because 7 > 6.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -587,7 +587,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way west. You turn right.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -600,7 +600,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go north. You push 6.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -613,7 +613,7 @@ example_log: |-
 
   ---
 
-  You swap 4 and 6.
+  You go north. You swap 4 and 6.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -626,7 +626,7 @@ example_log: |-
 
   ---
 
-  You push 3.
+  You go north. You push 3.
 
   ][6==[[][[]=8s7:\][[
   =@2;.[8_\[004,1877<[
@@ -639,7 +639,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way north. You turn left.
 
   ][6==[[][[]=8s7:\][[
   =@2;.[8_\[004,1877<[
@@ -652,7 +652,7 @@ example_log: |-
 
   ---
 
-  You turn right because 4 > 3.
+  You go west. You turn right because 4 > 3.
 
   ][6==[[][[]=8s7:\][[
   @32;.[8_\[004,1877<[
@@ -665,7 +665,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way north. You turn right.
 
   ][6==[[][[]=8s7:\][[
   @32;.[8_\[004,1877<[
@@ -678,7 +678,7 @@ example_log: |-
 
   ---
 
-  You push 3.
+  You go east. You push 3.
 
   ][6==[[][[]=8s7:\][[
   =@2;.[8_\[004,1877<[
@@ -691,7 +691,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go east. You push 2.
 
   ][6==[[][[]=8s7:\][[
   =3@;.[8_\[004,1877<[
@@ -704,7 +704,7 @@ example_log: |-
 
   ---
 
-  You write 3 to slot 2.
+  You go east. You write 3 to slot 2.
 
   ][6==[[][[]=8s7:\][[
   =32@.[8_\[004,1877<[
@@ -730,7 +730,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way east. You turn left.
 
   ][6==[[][[]=8s7:\][[
   =32;@[8_\[004,1877<[
@@ -743,7 +743,7 @@ example_log: |-
 
   ---
 
-  You turn left because 3 < 6.
+  You go north. You turn left because 3 < 6.
 
   ][6=@[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -756,7 +756,7 @@ example_log: |-
 
   ---
 
-  You continue straight because 7 = 7.
+  You go west. You continue straight because 7 = 7.
 
   ][6@=[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -769,7 +769,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go west. You push 6.
 
   ][@==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -782,7 +782,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way west. You turn left.
 
   ][@==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -795,7 +795,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go south. You push 2.
 
   ][6==[[][[]=8s7:\][[
   =3@;.[8_\[004,1877<[
@@ -821,7 +821,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go south. You push 2.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -834,7 +834,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way south. You turn left.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -847,7 +847,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go east. You push 6.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -860,7 +860,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way east. You turn right.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -873,7 +873,7 @@ example_log: |-
 
   ---
 
-  You turn left because 2 < 6.
+  You go south. You turn left because 2 < 6.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -886,7 +886,7 @@ example_log: |-
 
   ---
 
-  You read 2 from register S.
+  You go east. You read 2 from register S.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -899,7 +899,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go east. You push 0.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -912,7 +912,7 @@ example_log: |-
 
   ---
 
-  You push 5.
+  You go east. You push 5.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -925,7 +925,7 @@ example_log: |-
 
   ---
 
-  You turn left because 0 < 5.
+  You go east. You turn left because 0 < 5.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -938,7 +938,7 @@ example_log: |-
 
   ---
 
-  You read 3 from register S.
+  You go north. You read 3 from register S.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -964,7 +964,7 @@ example_log: |-
 
   ---
 
-  You discard 3.
+  You go north. You discard 3.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8@\[004,1877<[
@@ -977,7 +977,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way north. You turn right.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8@\[004,1877<[
@@ -990,7 +990,7 @@ example_log: |-
 
   ---
 
-  You swap 2 and 2.
+  You go east. You swap 2 and 2.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_@[004,1877<[
@@ -1003,7 +1003,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way east. You turn left.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_@[004,1877<[
@@ -1016,7 +1016,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way north. You turn left.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_@[004,1877<[
@@ -1029,7 +1029,7 @@ example_log: |-
 
   ---
 
-  You discard 2.
+  You go west. You discard 2.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8@\[004,1877<[
@@ -1042,7 +1042,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go west. You push 8.
 
   ][6==[[][[]=8s7:\][[
   =32;.[@_\[004,1877<[
@@ -1055,7 +1055,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way west. You turn left.
 
   ][6==[[][[]=8s7:\][[
   =32;.[@_\[004,1877<[
@@ -1068,7 +1068,7 @@ example_log: |-
 
   ---
 
-  You turn left because 2 < 8.
+  You go south. You turn left because 2 < 8.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1094,7 +1094,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go east. You push 7.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1107,7 +1107,7 @@ example_log: |-
 
   ---
 
-  You push 5.
+  You go east. You push 5.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1120,7 +1120,7 @@ example_log: |-
 
   ---
 
-  You push 6.
+  You go east. You push 6.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1133,7 +1133,7 @@ example_log: |-
 
   ---
 
-  You push 5.
+  You go east. You push 5.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1146,7 +1146,7 @@ example_log: |-
 
   ---
 
-  You push 9.
+  You go east. You push 9.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1159,7 +1159,7 @@ example_log: |-
 
   ---
 
-  You duplicate 9.
+  You go east. You duplicate 9.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1172,7 +1172,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go east. You push 4.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1185,7 +1185,7 @@ example_log: |-
 
   ---
 
-  You push 1.
+  You go east. You push 1.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1198,7 +1198,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go east. You push 4.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1211,7 +1211,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go east. You push 2.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1224,7 +1224,7 @@ example_log: |-
 
   ---
 
-  You push 3.
+  You go east. You push 3.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1237,7 +1237,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way east. You turn right.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1250,7 +1250,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go south. You push 2.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1263,7 +1263,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way south. You turn right.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1276,7 +1276,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go west. You push 8.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1289,7 +1289,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go west. You push 4.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1302,7 +1302,7 @@ example_log: |-
 
   ---
 
-  You push 1.
+  You go west. You push 1.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1328,7 +1328,7 @@ example_log: |-
 
   ---
 
-  You write 1 to register S.
+  You go west. You write 1 to register S.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1341,7 +1341,7 @@ example_log: |-
 
   ---
 
-  You push 1.
+  You go west. You push 1.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1354,7 +1354,7 @@ example_log: |-
 
   ---
 
-  You turn right because 6 > 1.
+  You go west. You turn right because 6 > 1.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1367,7 +1367,7 @@ example_log: |-
 
   ---
 
-  You push 5.
+  You go north. You push 5.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1380,7 +1380,7 @@ example_log: |-
 
   ---
 
-  You push 0.
+  You go north. You push 0.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[0@4,1877<[
@@ -1393,7 +1393,7 @@ example_log: |-
 
   ---
 
-  You turn right because 5 > 0.
+  You go north. You turn right because 5 > 0.
 
   ][6==[[][[]@8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1406,7 +1406,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go east. You push 8.
 
   ][6==[[][[]=@s7:\][[
   =32;.[8_\[004,1877<[
@@ -1419,7 +1419,7 @@ example_log: |-
 
   ---
 
-  You read 1 from register S.
+  You go east. You read 1 from register S.
 
   ][6==[[][[]=8@7:\][[
   =32;.[8_\[004,1877<[
@@ -1432,7 +1432,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go east. You push 7.
 
   ][6==[[][[]=8s@:\][[
   =32;.[8_\[004,1877<[
@@ -1445,7 +1445,7 @@ example_log: |-
 
   ---
 
-  You duplicate 7.
+  You go east. You duplicate 7.
 
   ][6==[[][[]=8s7@\][[
   =32;.[8_\[004,1877<[
@@ -1458,7 +1458,7 @@ example_log: |-
 
   ---
 
-  You swap 7 and 7.
+  You go east. You swap 7 and 7.
 
   ][6==[[][[]=8s7:@][[
   =32;.[8_\[004,1877<[
@@ -1471,7 +1471,7 @@ example_log: |-
 
   ---
 
-  You turn right.
+  A wall blocks your way east. You turn right.
 
   ][6==[[][[]=8s7:@][[
   =32;.[8_\[004,1877<[
@@ -1484,7 +1484,7 @@ example_log: |-
 
   ---
 
-  You push 7.
+  You go south. You push 7.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,18@7<[
@@ -1497,7 +1497,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go south. You push 4.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1510,7 +1510,7 @@ example_log: |-
 
   ---
 
-  You push 4.
+  You go south. You push 4.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1523,7 +1523,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way south. You turn left.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1536,7 +1536,7 @@ example_log: |-
 
   ---
 
-  You push 8.
+  You go east. You push 8.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1549,7 +1549,7 @@ example_log: |-
 
   ---
 
-  You push 2.
+  You go east. You push 2.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1562,7 +1562,7 @@ example_log: |-
 
   ---
 
-  You turn left.
+  A wall blocks your way east. You turn left.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1575,7 +1575,7 @@ example_log: |-
 
   ---
 
-  You push 3.
+  You go north. You push 3.
 
   ][6==[[][[]=8s7:\][[
   =32;.[8_\[004,1877<[
@@ -1588,7 +1588,7 @@ example_log: |-
 
   ---
 
-  You go upstairs.
+  You go north. You go upstairs.
 
   St: [8, 1, 7, 7, 7, 4, 4, 8, 2, 3]  Dx: North  Tk: 107
   P: -62  R: -10  S: 10

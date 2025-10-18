@@ -6,7 +6,7 @@ You have entered the ninth dungeon. You stand at the bottom of the staircase whe
 
 The purse of stacking now tracks the stack size as register S. The stack size is initially zero, indicating an empty stack. Stack slots are indexed from zero. Pushing writes a number to slot S, then increments register S. Popping decrements register S, then reads a number from slot S.
 
-A stack size below zero causes stack underflow, while one above the stack limit causes stack overflow.
+Popping en empty stack raises an error called stack underflow, while pushing a full stack raises stack overflow.
 
 With your affairs in order, you consult the map:
 

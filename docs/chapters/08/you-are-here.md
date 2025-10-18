@@ -12,7 +12,7 @@ Anchored by the pin, you consult the map:
 {{ problem.map }}
 ```
 
-This dungeon introduces getters and setters for register P (marked `p` or `P`  on the map). When you trigger a P-getter tile, push register P onto the stack. For a P-setter tile, pop register P from the stack. This teleports you to the corresponding location.
+This dungeon introduces getters and setters for register P (marked `p` or `P`  on the map). When you trigger a P-getter tile, read the number from register P, then push that number onto the stack. For a P-setter tile, pop a number from the stack, then write that number to register P. This teleports you to the corresponding location.
 
 A minor change in position can translate to a major change in coordinates. While this is permitted for staircase and teleportation effects, including P-setter tiles, it is forbidden for regular moves. Moving across the edge of a dungeon level raises an error for invalid coordinates. This rule applies both to the forward move at the start of a tick and to moves caused by triggered effects.
 

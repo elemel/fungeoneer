@@ -4,15 +4,13 @@
 
 You have entered the seventh dungeon. You stand at the bottom of the staircase where you entered, facing east. Amid scattered rubble and debris, a skeleton is slumped against the staircase. A glimmer on its bony fist catches your eye: a ring of revolution. You cautiously retrieve the ring, claiming it as register R.
 
-The ring tracks your rotation in octants (increments of 45 degrees), starting at zero for east. Turning left (counter-clockwise) decreases the rotation, while turning right (clockwise) increases it. The rotation does not reset after a full revolution of eight octants, instead extending arbitrarily high or low.
+Your direction can now also be diagonal: southeast, southwest, northwest, or northeast. Together with the cardinal directions from before, these eight directions divide a full revolution into octants of 45 degrees each. The ring tracks your rotation in octants, starting at zero for east. Turning right (clockwise) increases the rotation, while turning left (counter-clockwise) decreases it. The rotation continues beyond a full revolution, extending indefinitely.
 
 After slipping the ring onto your right ring finger, you turn your attention to the map:
 
 ```
 {{ problem.map }}
 ```
-
-Your direction can now also be diagonal: southeast, southwest, northwest, or northeast.
 
 This dungeon introduces wall tiles for turning diagonally: backward-left-turners (marked `{` on the map), forward-left-turners (marked `(`), forward-right-turners (marked `)`), and backward-right-turners (marked `}`).
 

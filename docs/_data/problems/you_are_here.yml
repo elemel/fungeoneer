@@ -384,7 +384,7 @@ example_log: |-
 
   ---
 
-  You go west. You read 24 from register P.
+  You go west. You read 23 from register P.
 
   [1:6=64p7][[=]]]][[[
   =3[@000.7_1]826032\]
@@ -631,7 +631,7 @@ example_log: |-
 
   ---
 
-  You go east. You read 6 from register P.
+  You go east. You read 7 from register P.
 
   [1:6=64@7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1346,7 +1346,7 @@ example_log: |-
 
   ---
 
-  You go west. You read 98 from register P.
+  You go west. You read 97 from register P.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]
@@ -1450,7 +1450,7 @@ example_log: |-
 
   ---
 
-  You go east. You read 96 from register P.
+  You go east. You read 97 from register P.
 
   [1:6=64p7][[=]]]][[[
   =3[p000.7_1]826032\]

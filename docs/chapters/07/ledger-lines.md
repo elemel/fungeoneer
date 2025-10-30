@@ -1,8 +1,8 @@
-## Chapter 9: Ledger Lines
+## Chapter 7: Ledger Lines
 
 {% assign problem = site.data.problems.ledger_lines %}
 
-You have entered the ninth dungeon. You stand at the bottom of the staircase where you entered, facing east. A gnome sits on the bottom stair, sipping from a flask of mushroom brew. As he looks up at you, then down at the purse of stacking on your belt, you recognize him as the cartographer from the first dungeon. He leans forward, as if about to speak. With a magic marker and a flick of the wrist, he scribbles a line of credit onto your purse, in the shape of an S. He pauses for a moment, then sits back, taking another sip.
+You have entered the seventh dungeon. You stand at the bottom of the staircase where you entered, facing east. A gnome sits on the bottom stair, sipping from a flask of mushroom brew. As he looks up at you, then down at the purse of stacking on your belt, you recognize him as the cartographer from the first dungeon. He leans forward, as if about to speak. With a magic marker and a flick of the wrist, he scribbles a line of credit onto your purse, in the shape of an S. He pauses for a moment, then sits back, taking another sip.
 
 The purse of stacking now tracks the stack size as register S. The stack size is initially zero, indicating an empty stack. Stack slots are indexed from zero. Pushing writes a number to slot S, then increments register S. Popping decrements register S, then reads a number from slot S. As before, popping an empty stack raises an error.
 
@@ -16,7 +16,7 @@ For a peeker tile, pop a number `a` from the stack. Read another number `b` from
 
 After how many ticks do you leave the dungeon?
 
-From here, you can [continue to the answer](../../answers/chapters/09/ledger-lines.md).
+From here, you can [continue to the answer](../../answers/chapters/07/ledger-lines.md).
 
 
 ### Example

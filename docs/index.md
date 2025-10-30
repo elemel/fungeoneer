@@ -27,9 +27,9 @@ From here, you can [start in the foreworld](foreworld.md).
   <li><a href="chapters/04/sleight-of-hand.html">Chapter 4: Sleight of Hand</a></li>
   <li><a href="chapters/05/the-art-of-reckoning.html">Chapter 5: The Art of Reckoning</a></li>
   <li><a href="chapters/06/knapsack-problem.html">Chapter 6: Knapsack Problem</a></li>
-  <li><a href="chapters/07/rose-of-eight-winds.html">Chapter 7: Rose of Eight Winds</a></li>
-  <li><a href="chapters/08/you-are-here.html">Chapter 8: You Are Here</a></li>
-  <li><a href="chapters/09/ledger-lines.html">Chapter 9: Ledger Lines</a></li>
+  <li><a href="chapters/07/ledger-lines.html">Chapter 7: Ledger Lines</a></li>
+  <li><a href="chapters/08/rose-of-eight-winds.html">Chapter 8: Rose of Eight Winds</a></li>
+  <li><a href="chapters/09/you-are-here.html">Chapter 9: You Are Here</a></li>
   <li><a href="chapters/10/a-grain-of-truth.html">Chapter 10: A Grain of Truth</a></li>
   <li><a href="chapters/11/behind-the-curtain.html">Chapter 11: Behind the Curtain</a></li>
   <li><a href="chapters/12/geomancer.html">Chapter 12: Geomancer</a></li>
@@ -46,9 +46,9 @@ From here, you can [start in the foreworld](foreworld.md).
   <li><a href="answers/chapters/04/sleight-of-hand.html">Answer to Chapter 4: Sleight of Hand</a></li>
   <li><a href="answers/chapters/05/the-art-of-reckoning.html">Answer to Chapter 5: The Art of Reckoning</a></li>
   <li><a href="answers/chapters/06/knapsack-problem.html">Answer to Chapter 6: Knapsack Problem</a></li>
-  <li><a href="answers/chapters/07/rose-of-eight-winds.html">Answer to Chapter 7: Rose of Eight Winds</a></li>
-  <li><a href="answers/chapters/08/you-are-here.html">Answer to Chapter 8: You Are Here</a></li>
-  <li><a href="answers/chapters/09/ledger-lines.html">Answer to Chapter 9: Ledger Lines</a></li>
+  <li><a href="answers/chapters/07/ledger-lines.html">Answer to Chapter 7: Ledger Lines</a></li>
+  <li><a href="answers/chapters/08/rose-of-eight-winds.html">Answer to Chapter 8: Rose of Eight Winds</a></li>
+  <li><a href="answers/chapters/09/you-are-here.html">Answer to Chapter 9: You Are Here</a></li>
   <li><a href="answers/chapters/10/a-grain-of-truth.html">Answer to Chapter 10: A Grain of Truth</a></li>
   <li><a href="answers/chapters/11/behind-the-curtain.html">Answer to Chapter 11: Behind the Curtain</a></li>
   <li><a href="answers/chapters/12/geomancer.html">Answer to Chapter 12: Geomancer</a></li>

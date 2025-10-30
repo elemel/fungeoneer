@@ -1,8 +1,8 @@
-## Chapter 7: Rose of Eight Winds
+## Chapter 8: Rose of Eight Winds
 
 {% assign problem = site.data.problems.rose_of_eight_winds %}
 
-You have entered the seventh dungeon. You stand at the bottom of the staircase where you entered, facing east. Amid scattered rubble and debris, a skeleton is slumped against the staircase. A glimmer on its bony fist catches your eye: a ring of revolution. You cautiously retrieve the ring, claiming it as register R.
+You have entered the eighth dungeon. You stand at the bottom of the staircase where you entered, facing east. Amid scattered rubble and debris, a skeleton is slumped against the staircase. A glimmer on its bony fist catches your eye: a ring of revolution. You cautiously retrieve the ring, claiming it as register R.
 
 Your direction can now also be diagonal: southeast, southwest, northwest, or northeast. Together with the cardinal directions from before, these eight directions divide a full revolution into octants of 45 degrees each. The ring tracks your rotation in octants, starting at zero for east. Turning right (clockwise) increases the rotation, while turning left (counter-clockwise) decreases it. The rotation continues beyond a full revolution, extending indefinitely.
 
@@ -18,7 +18,7 @@ This dungeon also introduces tiles with getters and setters for register R (mark
 
 After how many ticks do you leave the dungeon?
 
-From here, you can [continue to the answer](../../answers/chapters/07/rose-of-eight-winds.md).
+From here, you can [continue to the answer](../../answers/chapters/08/rose-of-eight-winds.md).
 
 
 ### Example

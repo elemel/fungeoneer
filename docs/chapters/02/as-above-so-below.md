@@ -23,7 +23,7 @@ Consider an example dungeon:
 
 <pre><code>{{ problem.example_map | safe }}</code></pre>
 
-The log below shows you exploring the example dungeon, with your location marked `@` on the map. In dungeons with multiple levels, coordinates are written as `(x, y, z)`, where `z` increases downward. The origin is still at the first tile on the map, in the northwest corner of the top level.
+The log below shows you exploring the example dungeon, with your location marked `@` on the map. In dungeons with multiple levels, coordinates are written as `(x, y, z)`, where `z` increases downward with each level. The origin is still at the first tile on the map, in the northwest corner of the top level.
 
 <pre><code>{{ problem.example_log | safe }}</code></pre>
 

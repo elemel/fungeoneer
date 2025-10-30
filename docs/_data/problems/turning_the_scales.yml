@@ -66,818 +66,866 @@ answer: |-
   1905
 
 example_map: |-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
 example_log: |-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="adventurer">@</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="adventurer">@</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  St: []  Dx: East  Co: (6, 2)  Tk: 0
-
-  ---
-
-  You go east. You push 3.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="adventurer">@</span><span class="producer">644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [3]  Dx: East  Co: (7, 2)  Tk: 1
+  St: []  Dx: East  Co: (14, 2)  Tk: 0
 
   ---
 
   You go east. You push 6.
 
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3</span><span class="adventurer">@</span><span class="producer">44</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="adventurer">@</span><span class="producer">686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  St: [3, 6]  Dx: East  Co: (8, 2)  Tk: 2
-
-  ---
-
-  You go east. You push 4.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">36</span><span class="adventurer">@</span><span class="producer">4</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [3, 6, 4]  Dx: East  Co: (9, 2)  Tk: 3
+  St: [6]  Dx: East  Co: (15, 2)  Tk: 1
 
   ---
 
-  You go east. You push 4.
+  You go east. You push 6.
 
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">364</span><span class="adventurer">@</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6</span><span class="adventurer">@</span><span class="producer">86</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  St: [3, 6, 4, 4]  Dx: East  Co: (10, 2)  Tk: 4
-
-  ---
-
-  You go east. You continue straight because 4 = 4.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="adventurer">@</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [3, 6]  Dx: East  Co: (11, 2)  Tk: 5
+  St: [6, 6]  Dx: East  Co: (16, 2)  Tk: 2
 
   ---
 
   You go east. You push 8.
 
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="adventurer">@</span><span class="producer">77</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">66</span><span class="adventurer">@</span><span class="producer">6</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  St: [3, 6, 8]  Dx: East  Co: (12, 2)  Tk: 6
-
-  ---
-
-  You go east. You push 7.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">8</span><span class="adventurer">@</span><span class="producer">7</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [3, 6, 8, 7]  Dx: East  Co: (13, 2)  Tk: 7
-
-  ---
-
-  You go east. You push 7.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">87</span><span class="adventurer">@</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [3, 6, 8, 7, 7]  Dx: East  Co: (14, 2)  Tk: 8
-
-  ---
-
-  You go east.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="adventurer">@</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [3, 6, 8, 7, 7]  Dx: East  Co: (15, 2)  Tk: 9
-
-  ---
-
-  You go east. You push 4.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="adventurer">@</span><span class="producer">56</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [3, 6, 8, 7, 7, 4]  Dx: East  Co: (16, 2)  Tk: 10
-
-  ---
-
-  You go east. You push 5.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">4</span><span class="adventurer">@</span><span class="producer">6</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [3, 6, 8, 7, 7, 4, 5]  Dx: East  Co: (17, 2)  Tk: 11
+  St: [6, 6, 8]  Dx: East  Co: (17, 2)  Tk: 3
 
   ---
 
   You go east. You push 6.
 
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">45</span><span class="adventurer">@</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">668</span><span class="adventurer">@</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  St: [3, 6, 8, 7, 7, 4, 5, 6]  Dx: East  Co: (18, 2)  Tk: 12
-
-  ---
-
-  A wall blocks your way east. You turn left.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">45</span><span class="adventurer">@</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [3, 6, 8, 7, 7, 4, 5, 6]  Dx: North  Co: (18, 2)  Tk: 13
-
-  ---
-
-  You go north. You push 1.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="adventurer">@</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [3, 6, 8, 7, 7, 4, 5, 6, 1]  Dx: North  Co: (18, 1)  Tk: 14
-
-  ---
-
-  A wall blocks your way north. You turn right.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="adventurer">@</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [3, 6, 8, 7, 7, 4, 5, 6, 1]  Dx: East  Co: (18, 1)  Tk: 15
+  St: [6, 6, 8, 6]  Dx: East  Co: (18, 2)  Tk: 4
 
   ---
 
   A wall blocks your way east. You turn right.
 
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="adventurer">@</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">668</span><span class="adventurer">@</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  St: [3, 6, 8, 7, 7, 4, 5, 6, 1]  Dx: South  Co: (18, 1)  Tk: 16
-
-  ---
-
-  You go south. You push 6.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">45</span><span class="adventurer">@</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [3, 6, 8, 7, 7, 4, 5, 6, 1, 6]  Dx: South  Co: (18, 2)  Tk: 17
+  St: [6, 6, 8, 6]  Dx: South  Co: (18, 2)  Tk: 5
 
   ---
 
-  You go south. You push 1.
+  You go south. You push 7.
 
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">3377088</span><span class="adventurer">@</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="adventurer">@</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  St: [3, 6, 8, 7, 7, 4, 5, 6, 1, 6, 1]  Dx: South  Co: (18, 3)  Tk: 18
-
-  ---
-
-  A wall blocks your way south. You turn right.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">3377088</span><span class="adventurer">@</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [3, 6, 8, 7, 7, 4, 5, 6, 1, 6, 1]  Dx: West  Co: (18, 3)  Tk: 19
+  St: [6, 6, 8, 6, 7]  Dx: South  Co: (18, 3)  Tk: 6
 
   ---
 
-  You go west. You push 8.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">337708</span><span class="adventurer">@</span><span class="producer">1</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [3, 6, 8, 7, 7, 4, 5, 6, 1, 6, 1, 8]  Dx: West  Co: (17, 3)  Tk: 20
-
-  ---
-
-  You go west. You push 8.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770</span><span class="adventurer">@</span><span class="producer">81</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [3, 6, 8, 7, 7, 4, 5, 6, 1, 6, 1, 8, 8]  Dx: West  Co: (16, 3)  Tk: 21
-
-  ---
-
-  You go west. You push 0.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">3377</span><span class="adventurer">@</span><span class="producer">881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [3, 6, 8, 7, 7, 4, 5, 6, 1, 6, 1, 8, 8, 0]  Dx: West  Co: (15, 3)  Tk: 22
-
-  ---
-
-  You go west. You push 7.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">337</span><span class="adventurer">@</span><span class="producer">0881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 8, 7, 7, 4, 5, 6, 1, 6, 1, 8, 8, 0, 7]  Dx: West  Co: (14, 3)  Tk: 23
-
-  ---
-
-  You go west. You push 7.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33</span><span class="adventurer">@</span><span class="producer">70881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 7, 7, 4, 5, 6, 1, 6, 1, 8, 8, 0, 7, 7]  Dx: West  Co: (13, 3)  Tk: 24
-
-  ---
-
-  You go west. You push 3.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">3</span><span class="adventurer">@</span><span class="producer">770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 7, 4, 5, 6, 1, 6, 1, 8, 8, 0, 7, 7, 3]  Dx: West  Co: (12, 3)  Tk: 25
-
-  ---
-
-  You go west. You push 3.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="adventurer">@</span><span class="producer">3770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 4, 5, 6, 1, 6, 1, 8, 8, 0, 7, 7, 3, 3]  Dx: West  Co: (11, 3)  Tk: 26
-
-  ---
-
-  You go west.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="adventurer">@</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 4, 5, 6, 1, 6, 1, 8, 8, 0, 7, 7, 3, 3]  Dx: West  Co: (10, 3)  Tk: 27
-
-  ---
-
-  You go west. You push 6.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="adventurer">@</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 5, 6, 1, 6, 1, 8, 8, 0, 7, 7, 3, 3, 6]  Dx: West  Co: (9, 3)  Tk: 28
-
-  ---
-
-  You go west.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="adventurer">@</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 5, 6, 1, 6, 1, 8, 8, 0, 7, 7, 3, 3, 6]  Dx: West  Co: (8, 3)  Tk: 29
-
-  ---
-
-  You go west. You push 1.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="adventurer">@</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 6, 1, 6, 1, 8, 8, 0, 7, 7, 3, 3, 6, 1]  Dx: West  Co: (7, 3)  Tk: 30
-
-  ---
-
-  A wall blocks your way west. You turn right.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="adventurer">@</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 6, 1, 6, 1, 8, 8, 0, 7, 7, 3, 3, 6, 1]  Dx: North  Co: (7, 3)  Tk: 31
-
-  ---
-
-  You go north. You push 3.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="adventurer">@</span><span class="producer">644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 1, 6, 1, 8, 8, 0, 7, 7, 3, 3, 6, 1, 3]  Dx: North  Co: (7, 2)  Tk: 32
-
-  ---
-
-  You go north.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="adventurer">@</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 1, 6, 1, 8, 8, 0, 7, 7, 3, 3, 6, 1, 3]  Dx: North  Co: (7, 1)  Tk: 33
-
-  ---
-
-  A wall blocks your way north. You turn right.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="adventurer">@</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 1, 6, 1, 8, 8, 0, 7, 7, 3, 3, 6, 1, 3]  Dx: East  Co: (7, 1)  Tk: 34
-
-  ---
-
-  You go east. You push 6.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="adventurer">@</span><span class="producer">5</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 6, 1, 8, 8, 0, 7, 7, 3, 3, 6, 1, 3, 6]  Dx: East  Co: (8, 1)  Tk: 35
-
-  ---
-
-  You go east. You push 5.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">6</span><span class="adventurer">@</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 1, 8, 8, 0, 7, 7, 3, 3, 6, 1, 3, 6, 5]  Dx: East  Co: (9, 1)  Tk: 36
-
-  ---
-
-  You go east.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="adventurer">@</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 1, 8, 8, 0, 7, 7, 3, 3, 6, 1, 3, 6, 5]  Dx: East  Co: (10, 1)  Tk: 37
-
-  ---
-
-  You go east. You push 4.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="adventurer">@</span><span class="producer">9</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 8, 8, 0, 7, 7, 3, 3, 6, 1, 3, 6, 5, 4]  Dx: East  Co: (11, 1)  Tk: 38
-
-  ---
-
-  You go east. You push 9.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">4</span><span class="adventurer">@</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 8, 0, 7, 7, 3, 3, 6, 1, 3, 6, 5, 4, 9]  Dx: East  Co: (12, 1)  Tk: 39
+  A wall blocks your way south. You turn left.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="adventurer">@</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [6, 6, 8, 6, 7]  Dx: East  Co: (18, 3)  Tk: 7
 
   ---
 
   A wall blocks your way east. You turn left.
 
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">4</span><span class="adventurer">@</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="adventurer">@</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  St: [..., 0, 7, 7, 3, 3, 6, 1, 3, 6, 5, 4, 9]  Dx: North  Co: (12, 1)  Tk: 40
+  St: [6, 6, 8, 6, 7]  Dx: North  Co: (18, 3)  Tk: 8
+
+  ---
+
+  You go north. You push 6.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">668</span><span class="adventurer">@</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [6, 6, 8, 6, 7, 6]  Dx: North  Co: (18, 2)  Tk: 9
+
+  ---
+
+  You go north. You push 5.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">17635</span><span class="adventurer">@</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [6, 6, 8, 6, 7, 6, 5]  Dx: North  Co: (18, 1)  Tk: 10
 
   ---
 
   A wall blocks your way north. You turn left.
 
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">4</span><span class="adventurer">@</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">17635</span><span class="adventurer">@</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  St: [..., 8, 0, 7, 7, 3, 3, 6, 1, 3, 6, 5, 4, 9]  Dx: West  Co: (12, 1)  Tk: 41
-
-  ---
-
-  You go west. You push 4.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="adventurer">@</span><span class="producer">9</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 0, 7, 7, 3, 3, 6, 1, 3, 6, 5, 4, 9, 4]  Dx: West  Co: (11, 1)  Tk: 42
-
-  ---
-
-  You go west.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="adventurer">@</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 0, 7, 7, 3, 3, 6, 1, 3, 6, 5, 4, 9, 4]  Dx: West  Co: (10, 1)  Tk: 43
+  St: [6, 6, 8, 6, 7, 6, 5]  Dx: West  Co: (18, 1)  Tk: 11
 
   ---
 
   You go west. You push 5.
 
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">6</span><span class="adventurer">@</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">1763</span><span class="adventurer">@</span><span class="producer">5</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  St: [..., 7, 7, 3, 3, 6, 1, 3, 6, 5, 4, 9, 4, 5]  Dx: West  Co: (9, 1)  Tk: 44
+  St: [6, 6, 8, 6, 7, 6, 5, 5]  Dx: West  Co: (17, 1)  Tk: 12
+
+  ---
+
+  You go west. You push 3.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176</span><span class="adventurer">@</span><span class="producer">55</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [6, 6, 8, 6, 7, 6, 5, 5, 3]  Dx: West  Co: (16, 1)  Tk: 13
 
   ---
 
   You go west. You push 6.
 
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="adventurer">@</span><span class="producer">5</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">17</span><span class="adventurer">@</span><span class="producer">355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  St: [..., 7, 3, 3, 6, 1, 3, 6, 5, 4, 9, 4, 5, 6]  Dx: West  Co: (8, 1)  Tk: 45
+  St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6]  Dx: West  Co: (15, 1)  Tk: 14
 
   ---
 
-  You go west.
+  You go west. You push 7.
 
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="adventurer">@</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">1</span><span class="adventurer">@</span><span class="producer">6355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  St: [..., 7, 3, 3, 6, 1, 3, 6, 5, 4, 9, 4, 5, 6]  Dx: West  Co: (7, 1)  Tk: 46
+  St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6, 7]  Dx: West  Co: (14, 1)  Tk: 15
 
   ---
 
   You go west. You push 1.
 
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">0</span><span class="adventurer">@</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="adventurer">@</span><span class="producer">76355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  St: [..., 3, 3, 6, 1, 3, 6, 5, 4, 9, 4, 5, 6, 1]  Dx: West  Co: (6, 1)  Tk: 47
-
-  ---
-
-  You go west. You push 0.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="adventurer">@</span><span class="producer">1</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 3, 6, 1, 3, 6, 5, 4, 9, 4, 5, 6, 1, 0]  Dx: West  Co: (5, 1)  Tk: 48
+  St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6, 7, 1]  Dx: West  Co: (13, 1)  Tk: 16
 
   ---
 
-  You go west.
+  You go west. You turn right because 7 &gt; 1.
 
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="adventurer">@</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="adventurer">@</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  St: [..., 3, 6, 1, 3, 6, 5, 4, 9, 4, 5, 6, 1, 0]  Dx: West  Co: (4, 1)  Tk: 49
-
-  ---
-
-  You go west. You turn right because 1 &gt; 0.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="adventurer">@</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 7, 3, 3, 6, 1, 3, 6, 5, 4, 9, 4, 5, 6]  Dx: North  Co: (3, 1)  Tk: 50
+  St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6]  Dx: North  Co: (12, 1)  Tk: 17
 
   ---
 
   A wall blocks your way north. You turn left.
 
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="adventurer">@</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="adventurer">@</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  St: [..., 7, 3, 3, 6, 1, 3, 6, 5, 4, 9, 4, 5, 6]  Dx: West  Co: (3, 1)  Tk: 51
-
-  ---
-
-  You go west. You push 0.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">9</span><span class="adventurer">@</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 3, 3, 6, 1, 3, 6, 5, 4, 9, 4, 5, 6, 0]  Dx: West  Co: (2, 1)  Tk: 52
-
-  ---
-
-  You go west. You push 9.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="adventurer">@</span><span class="producer">0</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 3, 6, 1, 3, 6, 5, 4, 9, 4, 5, 6, 0, 9]  Dx: West  Co: (1, 1)  Tk: 53
+  St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6]  Dx: West  Co: (12, 1)  Tk: 18
 
   ---
 
   A wall blocks your way west. You turn left.
 
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="adventurer">@</span><span class="producer">0</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="adventurer">@</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  St: [..., 3, 6, 1, 3, 6, 5, 4, 9, 4, 5, 6, 0, 9]  Dx: South  Co: (1, 1)  Tk: 54
+  St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6]  Dx: South  Co: (12, 1)  Tk: 19
+
+  ---
+
+  You go south. You push 7.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">7</span><span class="adventurer">@</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6, 7]  Dx: South  Co: (12, 2)  Tk: 20
+
+  ---
+
+  You go south. You push 6.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="adventurer">@</span><span class="producer">0</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6, 7, 6]  Dx: South  Co: (12, 3)  Tk: 21
 
   ---
 
   A wall blocks your way south. You turn left.
 
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="adventurer">@</span><span class="producer">0</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="adventurer">@</span><span class="producer">0</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  St: [..., 3, 6, 1, 3, 6, 5, 4, 9, 4, 5, 6, 0, 9]  Dx: East  Co: (1, 1)  Tk: 55
+  St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6, 7, 6]  Dx: East  Co: (12, 3)  Tk: 22
 
   ---
 
   You go east. You push 0.
 
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">9</span><span class="adventurer">@</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">6</span><span class="adventurer">@</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  St: [..., 6, 1, 3, 6, 5, 4, 9, 4, 5, 6, 0, 9, 0]  Dx: East  Co: (2, 1)  Tk: 56
-
-  ---
-
-  You go east. You turn right because 9 &gt; 0.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="adventurer">@</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 3, 3, 6, 1, 3, 6, 5, 4, 9, 4, 5, 6, 0]  Dx: South  Co: (3, 1)  Tk: 57
+  St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6, 7, 6, 0]  Dx: East  Co: (13, 3)  Tk: 23
 
   ---
 
-  You go south. You turn right because 6 &gt; 0.
+  A wall blocks your way east. You turn right.
 
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="adventurer">@</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">6</span><span class="adventurer">@</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  St: [..., 7, 7, 3, 3, 6, 1, 3, 6, 5, 4, 9, 4, 5]  Dx: West  Co: (3, 2)  Tk: 58
-
-  ---
-
-  You go west. You push 9.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="adventurer">@</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 7, 3, 3, 6, 1, 3, 6, 5, 4, 9, 4, 5, 9]  Dx: West  Co: (2, 2)  Tk: 59
+  St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6, 7, 6, 0]  Dx: South  Co: (13, 3)  Tk: 24
 
   ---
 
-  A wall blocks your way west. You turn left.
+  A wall blocks your way south. You turn right.
 
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="adventurer">@</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">6</span><span class="adventurer">@</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  St: [..., 7, 3, 3, 6, 1, 3, 6, 5, 4, 9, 4, 5, 9]  Dx: South  Co: (2, 2)  Tk: 60
-
-  ---
-
-  You go south. You push 1.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="adventurer">@</span><span class="producer">19</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 3, 3, 6, 1, 3, 6, 5, 4, 9, 4, 5, 9, 1]  Dx: South  Co: (2, 3)  Tk: 61
+  St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6, 7, 6, 0]  Dx: West  Co: (13, 3)  Tk: 25
 
   ---
 
-  A wall blocks your way south. You turn left.
+  You go west. You push 6.
 
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="adventurer">@</span><span class="producer">19</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="adventurer">@</span><span class="producer">0</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  St: [..., 3, 3, 6, 1, 3, 6, 5, 4, 9, 4, 5, 9, 1]  Dx: East  Co: (2, 3)  Tk: 62
+  St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6, 7, 6, 0, 6]  Dx: West  Co: (12, 3)  Tk: 26
+
+  ---
+
+  You go west.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="adventurer">@</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6, 7, 6, 0, 6]  Dx: West  Co: (11, 3)  Tk: 27
+
+  ---
+
+  You go west. You push 5.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">2533</span><span class="adventurer">@</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 8, 6, 7, 6, 5, 5, 3, 6, 7, 6, 0, 6, 5]  Dx: West  Co: (10, 3)  Tk: 28
+
+  ---
+
+  You go west. You push 3.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">253</span><span class="adventurer">@</span><span class="producer">5</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 6, 7, 6, 5, 5, 3, 6, 7, 6, 0, 6, 5, 3]  Dx: West  Co: (9, 3)  Tk: 29
+
+  ---
+
+  You go west. You push 3.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25</span><span class="adventurer">@</span><span class="producer">35</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 7, 6, 5, 5, 3, 6, 7, 6, 0, 6, 5, 3, 3]  Dx: West  Co: (8, 3)  Tk: 30
+
+  ---
+
+  You go west. You push 5.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">2</span><span class="adventurer">@</span><span class="producer">335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 6, 5, 5, 3, 6, 7, 6, 0, 6, 5, 3, 3, 5]  Dx: West  Co: (7, 3)  Tk: 31
+
+  ---
+
+  You go west. You push 2.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="adventurer">@</span><span class="producer">5335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 5, 5, 3, 6, 7, 6, 0, 6, 5, 3, 3, 5, 2]  Dx: West  Co: (6, 3)  Tk: 32
+
+  ---
+
+  You go west. You turn right because 5 &gt; 2.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="adventurer">@</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 7, 6, 5, 5, 3, 6, 7, 6, 0, 6, 5, 3, 3]  Dx: North  Co: (5, 3)  Tk: 33
+
+  ---
+
+  You go north. You push 8.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">4</span><span class="adventurer">@</span><span class="producer">7689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 6, 5, 5, 3, 6, 7, 6, 0, 6, 5, 3, 3, 8]  Dx: North  Co: (5, 2)  Tk: 34
+
+  ---
+
+  You go north. You push 6.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7</span><span class="adventurer">@</span><span class="producer">08</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 5, 5, 3, 6, 7, 6, 0, 6, 5, 3, 3, 8, 6]  Dx: North  Co: (5, 1)  Tk: 35
+
+  ---
+
+  A wall blocks your way north. You turn right.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7</span><span class="adventurer">@</span><span class="producer">08</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 5, 5, 3, 6, 7, 6, 0, 6, 5, 3, 3, 8, 6]  Dx: East  Co: (5, 1)  Tk: 36
+
+  ---
+
+  You go east. You push 0.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">76</span><span class="adventurer">@</span><span class="producer">8</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 5, 3, 6, 7, 6, 0, 6, 5, 3, 3, 8, 6, 0]  Dx: East  Co: (6, 1)  Tk: 37
+
+  ---
+
+  You go east. You push 8.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">760</span><span class="adventurer">@</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 3, 6, 7, 6, 0, 6, 5, 3, 3, 8, 6, 0, 8]  Dx: East  Co: (7, 1)  Tk: 38
+
+  ---
+
+  You go east.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="adventurer">@</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 3, 6, 7, 6, 0, 6, 5, 3, 3, 8, 6, 0, 8]  Dx: East  Co: (8, 1)  Tk: 39
+
+  ---
+
+  You go east. You push 3.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="adventurer">@</span><span class="producer">1</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 6, 7, 6, 0, 6, 5, 3, 3, 8, 6, 0, 8, 3]  Dx: East  Co: (9, 1)  Tk: 40
 
   ---
 
   You go east. You push 1.
 
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">1</span><span class="adventurer">@</span><span class="producer">9</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">3</span><span class="adventurer">@</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  St: [..., 3, 6, 1, 3, 6, 5, 4, 9, 4, 5, 9, 1, 1]  Dx: East  Co: (3, 3)  Tk: 63
+  St: [..., 7, 6, 0, 6, 5, 3, 3, 8, 6, 0, 8, 3, 1]  Dx: East  Co: (10, 1)  Tk: 41
+
+  ---
+
+  A wall blocks your way east. You turn left.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">3</span><span class="adventurer">@</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 6, 0, 6, 5, 3, 3, 8, 6, 0, 8, 3, 1]  Dx: North  Co: (10, 1)  Tk: 42
+
+  ---
+
+  A wall blocks your way north. You turn left.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">3</span><span class="adventurer">@</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 7, 6, 0, 6, 5, 3, 3, 8, 6, 0, 8, 3, 1]  Dx: West  Co: (10, 1)  Tk: 43
+
+  ---
+
+  You go west. You push 3.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="adventurer">@</span><span class="producer">1</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 6, 0, 6, 5, 3, 3, 8, 6, 0, 8, 3, 1, 3]  Dx: West  Co: (9, 1)  Tk: 44
+
+  ---
+
+  You go west.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="adventurer">@</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 6, 0, 6, 5, 3, 3, 8, 6, 0, 8, 3, 1, 3]  Dx: West  Co: (8, 1)  Tk: 45
+
+  ---
+
+  You go west. You push 8.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">760</span><span class="adventurer">@</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 0, 6, 5, 3, 3, 8, 6, 0, 8, 3, 1, 3, 8]  Dx: West  Co: (7, 1)  Tk: 46
+
+  ---
+
+  You go west. You push 0.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">76</span><span class="adventurer">@</span><span class="producer">8</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 6, 5, 3, 3, 8, 6, 0, 8, 3, 1, 3, 8, 0]  Dx: West  Co: (6, 1)  Tk: 47
+
+  ---
+
+  You go west. You push 6.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7</span><span class="adventurer">@</span><span class="producer">08</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 5, 3, 3, 8, 6, 0, 8, 3, 1, 3, 8, 0, 6]  Dx: West  Co: (5, 1)  Tk: 48
+
+  ---
+
+  You go west. You push 7.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="adventurer">@</span><span class="producer">608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 3, 3, 8, 6, 0, 8, 3, 1, 3, 8, 0, 6, 7]  Dx: West  Co: (4, 1)  Tk: 49
+
+  ---
+
+  You go west.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="adventurer">@</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 3, 3, 8, 6, 0, 8, 3, 1, 3, 8, 0, 6, 7]  Dx: West  Co: (3, 1)  Tk: 50
+
+  ---
+
+  You go west. You push 6.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">3</span><span class="adventurer">@</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 3, 8, 6, 0, 8, 3, 1, 3, 8, 0, 6, 7, 6]  Dx: West  Co: (2, 1)  Tk: 51
+
+  ---
+
+  You go west. You push 3.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="adventurer">@</span><span class="producer">6</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 8, 6, 0, 8, 3, 1, 3, 8, 0, 6, 7, 6, 3]  Dx: West  Co: (1, 1)  Tk: 52
+
+  ---
+
+  A wall blocks your way west. You turn left.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="adventurer">@</span><span class="producer">6</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 8, 6, 0, 8, 3, 1, 3, 8, 0, 6, 7, 6, 3]  Dx: South  Co: (1, 1)  Tk: 53
+
+  ---
+
+  You go south. You push 9.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="adventurer">@</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 6, 0, 8, 3, 1, 3, 8, 0, 6, 7, 6, 3, 9]  Dx: South  Co: (1, 2)  Tk: 54
+
+  ---
+
+  You go south. You push 6.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="adventurer">@</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 0, 8, 3, 1, 3, 8, 0, 6, 7, 6, 3, 9, 6]  Dx: South  Co: (1, 3)  Tk: 55
+
+  ---
+
+  A wall blocks your way south. You turn left.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="adventurer">@</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 0, 8, 3, 1, 3, 8, 0, 6, 7, 6, 3, 9, 6]  Dx: East  Co: (1, 3)  Tk: 56
+
+  ---
+
+  You go east.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="adventurer">@</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 0, 8, 3, 1, 3, 8, 0, 6, 7, 6, 3, 9, 6]  Dx: East  Co: (2, 3)  Tk: 57
+
+  ---
+
+  You go east. You push 0.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="adventurer">@</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 8, 3, 1, 3, 8, 0, 6, 7, 6, 3, 9, 6, 0]  Dx: East  Co: (3, 3)  Tk: 58
+
+  ---
+
+  A wall blocks your way east. You turn left.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="adventurer">@</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 8, 3, 1, 3, 8, 0, 6, 7, 6, 3, 9, 6, 0]  Dx: North  Co: (3, 3)  Tk: 59
+
+  ---
+
+  You go north. You turn right because 6 &gt; 0.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="adventurer">@</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 6, 0, 8, 3, 1, 3, 8, 0, 6, 7, 6, 3, 9]  Dx: East  Co: (3, 2)  Tk: 60
+
+  ---
+
+  You go east. You push 4.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="adventurer">@</span><span class="producer">87689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 0, 8, 3, 1, 3, 8, 0, 6, 7, 6, 3, 9, 4]  Dx: East  Co: (4, 2)  Tk: 61
+
+  ---
+
+  You go east. You push 8.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">4</span><span class="adventurer">@</span><span class="producer">7689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 8, 3, 1, 3, 8, 0, 6, 7, 6, 3, 9, 4, 8]  Dx: East  Co: (5, 2)  Tk: 62
+
+  ---
+
+  You go east. You push 7.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">48</span><span class="adventurer">@</span><span class="producer">689</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 3, 1, 3, 8, 0, 6, 7, 6, 3, 9, 4, 8, 7]  Dx: East  Co: (6, 2)  Tk: 63
+
+  ---
+
+  You go east. You push 6.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487</span><span class="adventurer">@</span><span class="producer">89</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 1, 3, 8, 0, 6, 7, 6, 3, 9, 4, 8, 7, 6]  Dx: East  Co: (7, 2)  Tk: 64
+
+  ---
+
+  You go east. You push 8.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">4876</span><span class="adventurer">@</span><span class="producer">9</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 3, 8, 0, 6, 7, 6, 3, 9, 4, 8, 7, 6, 8]  Dx: East  Co: (8, 2)  Tk: 65
 
   ---
 
   You go east. You push 9.
 
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">11</span><span class="adventurer">@</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">48768</span><span class="adventurer">@</span><span class="floor">.</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  St: [..., 6, 1, 3, 6, 5, 4, 9, 4, 5, 9, 1, 1, 9]  Dx: East  Co: (4, 3)  Tk: 64
-
-  ---
-
-  You go east. You turn left because 1 &lt; 9.
-
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="adventurer">@</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
-
-  St: [..., 3, 3, 6, 1, 3, 6, 5, 4, 9, 4, 5, 9, 1]  Dx: North  Co: (5, 3)  Tk: 65
+  St: [..., 8, 0, 6, 7, 6, 3, 9, 4, 8, 7, 6, 8, 9]  Dx: East  Co: (9, 2)  Tk: 66
 
   ---
 
-  You go north. You turn right because 9 &gt; 1.
+  You go east.
 
-  <span class="wall">[[[[][[]][]][[[]]]]]</span>
-  <span class="wall">[</span><span class="producer">90</span><span class="consumer">=</span><span class="floor">.</span><span class="producer">01</span><span class="floor">.</span><span class="producer">65</span><span class="floor">.</span><span class="producer">49</span><span class="wall">[</span><span class="floor">....</span><span class="producer">1</span><span class="wall">]</span>
-  <span class="wall">][</span><span class="producer">9</span><span class="consumer">=</span><span class="floor">.</span><span class="adventurer">@</span><span class="staircase">&lt;</span><span class="producer">3644</span><span class="consumer">=</span><span class="producer">877</span><span class="floor">.</span><span class="producer">456</span><span class="wall">[</span>
-  <span class="wall">[</span><span class="floor">.</span><span class="producer">119</span><span class="consumer">=</span><span class="wall">]</span><span class="producer">1</span><span class="floor">.</span><span class="producer">6</span><span class="floor">.</span><span class="producer">33770881</span><span class="wall">[</span>
-  <span class="wall">[[[][][]]][][[[]][][</span>
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="adventurer">@</span><span class="producer">77</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  St: [..., 7, 7, 3, 3, 6, 1, 3, 6, 5, 4, 9, 4, 5]  Dx: East  Co: (5, 2)  Tk: 66
+  St: [..., 8, 0, 6, 7, 6, 3, 9, 4, 8, 7, 6, 8, 9]  Dx: East  Co: (10, 2)  Tk: 67
+
+  ---
+
+  You go east. You push 7.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="adventurer">@</span><span class="producer">7</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 0, 6, 7, 6, 3, 9, 4, 8, 7, 6, 8, 9, 7]  Dx: East  Co: (11, 2)  Tk: 68
+
+  ---
+
+  You go east. You push 7.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">7</span><span class="adventurer">@</span><span class="consumer">=</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 6, 7, 6, 3, 9, 4, 8, 7, 6, 8, 9, 7, 7]  Dx: East  Co: (12, 2)  Tk: 69
+
+  ---
+
+  You go east. You continue straight because 7 = 7.
+
+  <span class="wall">[]]]]][][][][]][]][[</span>
+  <span class="wall">[</span><span class="producer">36</span><span class="floor">.</span><span class="producer">7608</span><span class="floor">.</span><span class="producer">31</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">176355</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">9</span><span class="floor">.</span><span class="consumer">=</span><span class="producer">487689</span><span class="floor">.</span><span class="producer">77</span><span class="adventurer">@</span><span class="staircase">&lt;</span><span class="producer">6686</span><span class="wall">]</span>
+  <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
+  <span class="wall">][]]]][[[[[][]][]][[</span>
+
+  St: [..., 8, 0, 6, 7, 6, 3, 9, 4, 8, 7, 6, 8, 9]  Dx: East  Co: (13, 2)  Tk: 70
 
   ---
 
   You go east. You go upstairs.
 
-  St: [..., 1, 8, 8, 0, 7, 7, 3, 3, 6, 1, 3, 6, 5, 4, 9, 4, 5]  Dx: East  Tk: 67
+  St: [..., 8, 3, 1, 3, 8, 0, 6, 7, 6, 3, 9, 4, 8, 7, 6, 8, 9]  Dx: East  Tk: 71
 
 example_answer: |-
-  67
+  71

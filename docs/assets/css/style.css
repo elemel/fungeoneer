@@ -16,7 +16,7 @@ body.dark {
 }
 
 body.dark a {
-  color: #8e3;
+  color: #4ae;
 }
 
 body.dark blockquote {
@@ -37,6 +37,34 @@ body.dark pre {
 
 body.dark pre code {
   background-color: transparent;
+}
+
+body.dark .wall {
+  color: #999;
+}
+
+body.dark .floor {
+  color: #999;
+}
+
+body.dark .staircase {
+  color: #eee;
+}
+
+body.dark .adventurer {
+  color: #eee;
+}
+
+body.dark .producer {
+  color: #5b1;
+}
+
+body.dark .operator {
+  color: #eb1;
+}
+
+body.dark .consumer {
+  color: #e21;
 }
 
 /* Light theme overrides */

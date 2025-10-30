@@ -8,9 +8,7 @@ Though empty for the time being, the purse has plenty of room for a tall stack o
 
 After securing the purse to your belt, you consult the map:
 
-```
-{{ problem.map }}
-```
+<pre><code>{{ problem.map | safe }}</code></pre>
 
 This dungeon introduces tiles with digits (marked `0` through `9` on the map) and junctions (marked `=`). When you trigger a digit tile, push the corresponding number onto the stack.
 
@@ -25,14 +23,10 @@ From here, you can [continue to the answer](../../answers/chapters/03/turning-th
 
 Consider an example dungeon:
 
-```
-{{ problem.example_map }}
-```
+<pre><code>{{ problem.example_map | safe }}</code></pre>
 
 The log below shows you exploring the example dungeon, with your location marked `@` on the map. The status line now also shows the stack (labeled `St`). The stack is displayed as a list of numbers, with the top of the stack on the right. An empty stack appears as `[]`. For large stacks, only the numbers at the top are shown.
 
-```
-{{ problem.example_log }}
-```
+<pre><code>{{ problem.example_log | safe }}</code></pre>
 
 You leave the example dungeon after {{ problem.example_answer }} ticks.

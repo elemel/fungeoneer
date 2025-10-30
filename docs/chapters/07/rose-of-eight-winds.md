@@ -8,9 +8,7 @@ Your direction can now also be diagonal: southeast, southwest, northwest, or nor
 
 After slipping the ring onto your right ring finger, you turn your attention to the map:
 
-```
-{{ problem.map }}
-```
+<pre><code>{{ problem.map | safe }}</code></pre>
 
 This dungeon introduces wall tiles for turning diagonally: backward-left-turners (marked `{` on the map), forward-left-turners (marked `(`), forward-right-turners (marked `)`), and backward-right-turners (marked `}`).
 
@@ -27,14 +25,10 @@ From here, you can [continue to the answer](../../answers/chapters/07/rose-of-ei
 
 Consider an example dungeon:
 
-```
-{{ problem.example_map }}
-```
+<pre><code>{{ problem.example_map | safe }}</code></pre>
 
 The log below shows you exploring the example dungeon, with your location marked `@` on the map. The status lines now also show your rotation as register R (labeled `R`).
 
-```
-{{ problem.example_log }}
-```
+<pre><code>{{ problem.example_log | safe }}</code></pre>
 
 You leave the example dungeon after {{ problem.example_answer }} ticks.

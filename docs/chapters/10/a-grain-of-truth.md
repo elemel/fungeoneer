@@ -4,9 +4,7 @@
 
 You have entered the tenth dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
 
-```
-{{ problem.map }}
-```
+<pre><code>{{ problem.map | safe }}</code></pre>
 
 This dungeon introduces tiles with bitwise operators: inverters (marked `~` on the map), and-gates (marked `&`), or-gates (marked `|`), exclusive-or-gates (marked `^`), and shifters (marked `#`).
 
@@ -27,14 +25,10 @@ From here, you can [continue to the answer](../../answers/chapters/10/a-grain-of
 
 Consider an example dungeon:
 
-```
-{{ problem.example_map }}
-```
+<pre><code>{{ problem.example_map | safe }}</code></pre>
 
 The log below shows you exploring the example dungeon, with your location marked `@` on the map.
 
-```
-{{ problem.example_log }}
-```
+<pre><code>{{ problem.example_log | safe }}</code></pre>
 
 You leave the example dungeon after {{ problem.example_answer }} ticks.

@@ -4,9 +4,7 @@
 
 You have entered the last dungeon. You stand at the bottom of the staircase where you entered, facing east. On the bottom stair, you spot an empty flask and a magic marker. You pause for a moment, then sit down on the staircase, taking the marker. You consult the map:
 
-```
-{{ problem.map }}
-```
+<pre><code>{{ problem.map | safe }}</code></pre>
 
 This dungeon introduces tiles with readers (marked `?` on the map) and writers (marked `!`). When you trigger a reader tile, pop a number `a` from the stack. Read another number `b` from tile `a`. Push `b` onto the stack. For a writer tile, pop two numbers from the stack: first `a`, then `b`. Write `b` to tile `a`.
 
@@ -19,14 +17,10 @@ From here, you can [continue to the answer](../../answers/chapters/12/geomancer.
 
 Consider an example dungeon:
 
-```
-{{ problem.example_map }}
-```
+<pre><code>{{ problem.example_map | safe }}</code></pre>
 
 The log below shows you exploring the example dungeon, with your location marked `@` on the map.
 
-```
-{{ problem.example_log }}
-```
+<pre><code>{{ problem.example_log | safe }}</code></pre>
 
 You leave the example dungeon after {{ problem.example_answer }} ticks.

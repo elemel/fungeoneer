@@ -8,9 +8,7 @@ The purse of stacking now tracks the stack size as register S. The stack size is
 
 With your affairs in order, you consult the map:
 
-```
-{{ problem.map }}
-```
+<pre><code>{{ problem.map | safe }}</code></pre>
 
 This dungeon introduces tiles with getters and setters for register S (marked `s` or `S`  on the map), along with peekers (marked `,`) and pokers (marked `;`). When you trigger an S-getter tile, read the number from register S, then push that number onto the stack. For an S-setter tile, pop a number from the stack, then write that number to register S. This resizes the stack.
 
@@ -25,14 +23,10 @@ From here, you can [continue to the answer](../../answers/chapters/09/ledger-lin
 
 Consider an example dungeon:
 
-```
-{{ problem.example_map }}
-```
+<pre><code>{{ problem.example_map | safe }}</code></pre>
 
 The log below shows you exploring the example dungeon, with your location marked `@` on the map. The status lines now also show the stack size as register S (labeled `S`).
 
-```
-{{ problem.example_log }}
-```
+<pre><code>{{ problem.example_log | safe }}</code></pre>
 
 You leave the example dungeon after {{ problem.example_answer }} ticks.

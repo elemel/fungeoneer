@@ -6,9 +6,7 @@ You have entered a dungeon. You stand at the bottom of the staircase where you e
 
 Unrolling the scroll, you identify it as a magic map. It ripples and shifts into a symbolic representation of the dungeon:
 
-```
-{{ problem.map }}
-```
+<pre><code>{{ problem.map | safe }}</code></pre>
 
 The dungeon is arranged as a grid of tiles. The directions on the map are right for east, down for south, left for west, and up for north. The staircase tile is marked `<` on the map.
 
@@ -25,14 +23,10 @@ From here, you can [continue to the answer](../../answers/chapters/01/ground-rul
 
 Consider an example dungeon:
 
-```
-{{ problem.example_map }}
-```
+<pre><code>{{ problem.example_map | safe }}</code></pre>
 
 The log below shows you exploring the example dungeon, with your location marked `@` on the map. The status line uses the labels `Dx` for direction, `Co` for coordinates, and `Tk` for ticks. Coordinates are written as `(x, y)`, where `x` increases to the east and `y` to the south. The origin is in the northwest corner, at the first tile on the map.
 
-```
-{{ problem.example_log }}
-```
+<pre><code>{{ problem.example_log | safe }}</code></pre>
 
 You leave the example dungeon after {{ problem.example_answer }} ticks.

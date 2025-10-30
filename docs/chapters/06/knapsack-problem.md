@@ -4,9 +4,7 @@
 
 You have entered the sixth dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
 
-```
-{{ problem.map }}
-```
+<pre><code>{{ problem.map | safe }}</code></pre>
 
 This dungeon introduces tiles with getters (marked `a` through `z` on the map) and setters (marked `A` through `Z`). These tiles operate on your inventory slots, also known as registers. Each register contains a number, all initially zero. Register names are case-insensitive: both `a` and `A` refer to register A. Registers P, R, and S are missing from your inventory and the map.
 
@@ -21,14 +19,10 @@ From here, you can [continue to the answer](../../answers/chapters/06/knapsack-p
 
 Consider an example dungeon:
 
-```
-{{ problem.example_map }}
-```
+<pre><code>{{ problem.example_map | safe }}</code></pre>
 
 The log below shows you exploring the example dungeon, with your location marked `@` on the map. The status lines now also show the most recently used registers.
 
-```
-{{ problem.example_log }}
-```
+<pre><code>{{ problem.example_log | safe }}</code></pre>
 
 You leave the example dungeon after {{ problem.example_answer }} ticks.

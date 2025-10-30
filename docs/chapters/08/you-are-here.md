@@ -8,9 +8,7 @@ As you move through the dungeon, the pin moves along on the map, tracking your p
 
 Anchored by the pin, you consult the map:
 
-```
-{{ problem.map }}
-```
+<pre><code>{{ problem.map | safe }}</code></pre>
 
 This dungeon introduces getters and setters for register P (marked `p` or `P`  on the map). When you trigger a P-getter tile, read the number from register P, then push that number onto the stack. For a P-setter tile, pop a number from the stack, then write that number to register P. This teleports you to the corresponding location.
 
@@ -25,14 +23,10 @@ From here, you can [continue to the answer](../../answers/chapters/08/you-are-he
 
 Consider an example dungeon:
 
-```
-{{ problem.example_map }}
-```
+<pre><code>{{ problem.example_map | safe }}</code></pre>
 
 The log below shows you exploring the example dungeon, with your location marked `@` on the map. The status lines now also show your position as register P (labeled `P`).
 
-```
-{{ problem.example_log }}
-```
+<pre><code>{{ problem.example_log | safe }}</code></pre>
 
 You leave the example dungeon after {{ problem.example_answer }} ticks.

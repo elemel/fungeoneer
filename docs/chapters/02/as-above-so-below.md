@@ -4,9 +4,7 @@
 
 You have entered another dungeon. You stand at the bottom of the staircase where you entered, facing east. In this dungeon, there are two levels, separated by a blank line on the map:
 
-```
-{{ problem.map }}
-```
+<pre><code>{{ problem.map | safe }}</code></pre>
 
 The top level is shown at the top of the map, and the bottom level at the bottom.
 
@@ -23,14 +21,10 @@ From here, you can [continue to the answer](../../answers/chapters/02/as-above-s
 
 Consider an example dungeon:
 
-```
-{{ problem.example_map }}
-```
+<pre><code>{{ problem.example_map | safe }}</code></pre>
 
 The log below shows you exploring the example dungeon, with your location marked `@` on the map. In dungeons with multiple levels, coordinates are written as `(x, y, z)`, where `z` increases downward. The origin is still at the first tile on the map, in the northwest corner of the top level.
 
-```
-{{ problem.example_log }}
-```
+<pre><code>{{ problem.example_log | safe }}</code></pre>
 
 You leave the example dungeon after {{ problem.example_answer }} ticks.

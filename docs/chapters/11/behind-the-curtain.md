@@ -4,9 +4,7 @@
 
 You have entered the eleventh dungeon. You stand at the bottom of the staircase where you entered, facing east. You consult the map:
 
-```
-{{ problem.map }}
-```
+<pre><code>{{ problem.map | safe }}</code></pre>
 
 This dungeon introduces tiles with stashes (marked `'` on the map), passages (marked `"`), and mimics (marked `$`). These tiles operate on other map tiles, revealing their symbols as numbers. Tiles can store any number, but only some numbers correspond to valid symbols. Conversions between symbols and numbers use the ASCII table.
 
@@ -25,14 +23,10 @@ From here, you can [continue to the answer](../../answers/chapters/11/behind-the
 
 Consider an example dungeon:
 
-```
-{{ problem.example_map }}
-```
+<pre><code>{{ problem.example_map | safe }}</code></pre>
 
 The log below shows you exploring the example dungeon, with your location marked `@` on the map.
 
-```
-{{ problem.example_log }}
-```
+<pre><code>{{ problem.example_log | safe }}</code></pre>
 
 You leave the example dungeon after {{ problem.example_answer }} ticks.

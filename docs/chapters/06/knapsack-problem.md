@@ -6,7 +6,7 @@ You have entered the sixth dungeon. You stand at the bottom of the staircase whe
 
 <pre><code>{{ problem.map | safe }}</code></pre>
 
-This dungeon introduces tiles with getters (marked `a` through `z` on the map) and setters (marked `A` through `Z`). These tiles operate on your inventory slots, also known as registers. Each register contains a number, all initially zero. Register names are case-insensitive: both `a` and `A` refer to register A. Registers P, R, and S are missing from your inventory and the map.
+This dungeon introduces tiles with getters (marked `a` through `z` on the map) and setters (marked `A` through `Z`). These tiles operate on your inventory slots, also known as registers. Each register stores a number, all initially zero. Register names are case-insensitive: both `a` and `A` refer to register A. Registers P, R, and S are missing from your inventory and the map.
 
 When you trigger a getter tile, read the number from the corresponding register, then push that number onto the stack. For a setter tile, pop a number from the stack, then write that number to the corresponding register.
 

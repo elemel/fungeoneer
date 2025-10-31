@@ -10,7 +10,7 @@ After securing the purse to your belt, you consult the map:
 
 <pre><code>{{ problem.map | safe }}</code></pre>
 
-This dungeon introduces tiles with digits (marked `0` through `9` on the map) and junctions (marked `=`). When you trigger a digit tile, push the corresponding number onto the stack. This is called taking. Taking a number only affects the stack, while leaving the tile unchanged.
+This dungeon introduces tiles with digits (marked `0` through `9` on the map) and junctions (marked `=`). When you trigger a digit tile, push the corresponding number onto the stack. This effect is called taking. Taking a number only affects the stack, not the tile.
 
 For a junction tile, pop two numbers from the stack: first `a`, then `b`. If `b` is less than `a`, turn 90 degrees to the left. If `b` is greater than `a`, turn 90 degrees to the right. If the numbers are equal, continue straight.
 

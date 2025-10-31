@@ -5,8 +5,8 @@
 > I have wandered through these chambers<br>
 > And across these withered lines<br>
 > As a keeper of my temper<br>
-> With the favors of a stranger<br>
 > For as long as I remember<br>
+> In the service of a stranger<br>
 > By the beating of the heart of time
 
 Welcome to a coding puzzle where you build a [stack machine](https://en.wikipedia.org/wiki/Stack_machine) for Fungeon, an [esoteric programming language](https://en.wikipedia.org/wiki/Esoteric_programming_language).

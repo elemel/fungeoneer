@@ -252,7 +252,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 2.
+  You go east. You take 2.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -265,7 +265,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 7.
+  You go east. You take 7.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -291,7 +291,7 @@ example_log: |-
 
   ---
 
-  You go north. You push 2.
+  You go north. You take 2.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">9242010</span><span class="adventurer">@</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -330,7 +330,7 @@ example_log: |-
 
   ---
 
-  You go south. You push 2.
+  You go south. You take 2.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">9242010</span><span class="adventurer">@</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -343,7 +343,7 @@ example_log: |-
 
   ---
 
-  You go south. You push 7.
+  You go south. You take 7.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -369,7 +369,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 0.
+  You go east. You take 0.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -382,7 +382,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 0.
+  You go east. You take 0.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -408,7 +408,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 5.
+  You go east. You take 5.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -447,7 +447,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 7.
+  You go east. You take 7.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -473,7 +473,7 @@ example_log: |-
 
   ---
 
-  You go north. You push 4.
+  You go north. You take 4.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="adventurer">@</span><span class="producer">68</span><span class="wall">[</span>
@@ -499,7 +499,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 6.
+  You go east. You take 6.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">4</span><span class="adventurer">@</span><span class="producer">8</span><span class="wall">[</span>
@@ -512,7 +512,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 8.
+  You go east. You take 8.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">46</span><span class="adventurer">@</span><span class="wall">[</span>
@@ -551,7 +551,7 @@ example_log: |-
 
   ---
 
-  You go west. You push &quot;]&quot;.
+  You go west. You take &quot;]&quot;.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="adventurer">@</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -590,7 +590,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 3.
+  You go west. You take 3.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="adventurer">@</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -616,7 +616,7 @@ example_log: |-
 
   ---
 
-  You go south. You discard 3.
+  You go south. You drop 3.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=</span><span class="adventurer">@</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -629,7 +629,7 @@ example_log: |-
 
   ---
 
-  You go south. You push 6.
+  You go south. You take 6.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -668,7 +668,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 0.
+  You go west. You take 0.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -681,7 +681,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 0.
+  You go west. You take 0.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -707,7 +707,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 2.
+  You go west. You take 2.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -720,7 +720,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 2.
+  You go west. You take 2.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -733,7 +733,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 4.
+  You go west. You take 4.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -746,7 +746,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 7.
+  You go west. You take 7.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -759,7 +759,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 8.
+  You go west. You take 8.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -772,7 +772,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 9.
+  You go west. You take 9.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -811,7 +811,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 9.
+  You go east. You take 9.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -837,7 +837,7 @@ example_log: |-
 
   ---
 
-  You go north. You push 7.
+  You go north. You take 7.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -863,7 +863,7 @@ example_log: |-
 
   ---
 
-  You go north. You push 2.
+  You go north. You take 2.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">924</span><span class="adventurer">@</span><span class="producer">0102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -889,7 +889,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 0.
+  You go east. You take 0.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">9242</span><span class="adventurer">@</span><span class="producer">102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -902,7 +902,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 1.
+  You go east. You take 1.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420</span><span class="adventurer">@</span><span class="producer">02</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -915,7 +915,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 0.
+  You go east. You take 0.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">924201</span><span class="adventurer">@</span><span class="producer">2</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -928,7 +928,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 2.
+  You go east. You take 2.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">9242010</span><span class="adventurer">@</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -993,7 +993,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 2.
+  You go west. You take 2.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">9242010</span><span class="adventurer">@</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1006,7 +1006,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 0.
+  You go west. You take 0.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">924201</span><span class="adventurer">@</span><span class="producer">2</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1019,7 +1019,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 1.
+  You go west. You take 1.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420</span><span class="adventurer">@</span><span class="producer">02</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1032,7 +1032,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 0.
+  You go west. You take 0.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">9242</span><span class="adventurer">@</span><span class="producer">102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1045,7 +1045,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 2.
+  You go west. You take 2.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">924</span><span class="adventurer">@</span><span class="producer">0102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1058,7 +1058,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 4.
+  You go west. You take 4.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92</span><span class="adventurer">@</span><span class="producer">20102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1071,7 +1071,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 2.
+  You go west. You take 2.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">9</span><span class="adventurer">@</span><span class="producer">420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1084,7 +1084,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 9.
+  You go west. You take 9.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="adventurer">@</span><span class="producer">2420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1149,7 +1149,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 9.
+  You go east. You take 9.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="adventurer">@</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1188,7 +1188,7 @@ example_log: |-
 
   ---
 
-  You go south. You push 4.
+  You go south. You take 4.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92</span><span class="adventurer">@</span><span class="producer">20102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1214,7 +1214,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 8.
+  You go west. You take 8.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1227,7 +1227,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 0.
+  You go west. You take 0.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1240,7 +1240,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 7.
+  You go west. You take 7.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1253,7 +1253,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 2.
+  You go west. You take 2.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1305,7 +1305,7 @@ example_log: |-
 
   ---
 
-  You go east. You push &quot;=:9:]&quot;.
+  You go east. You take &quot;=:9:]&quot;.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="adventurer">@</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1331,7 +1331,7 @@ example_log: |-
 
   ---
 
-  You go south. You push 0.
+  You go south. You take 0.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">9242</span><span class="adventurer">@</span><span class="producer">102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1344,7 +1344,7 @@ example_log: |-
 
   ---
 
-  You go south. You push 3.
+  You go south. You take 3.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1357,7 +1357,7 @@ example_log: |-
 
   ---
 
-  You go south. You push 4.
+  You go south. You take 4.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1396,7 +1396,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 0.
+  You go east. You take 0.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1409,7 +1409,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 6.
+  You go east. You take 6.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1422,7 +1422,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 1.
+  You go east. You take 1.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1435,7 +1435,7 @@ example_log: |-
 
   ---
 
-  You go east. You push &quot;]&quot;.
+  You go east. You take &quot;]&quot;.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1448,7 +1448,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 4.
+  You go east. You take 4.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1461,7 +1461,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 9.
+  You go east. You take 9.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1474,7 +1474,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 8.
+  You go east. You take 8.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1513,7 +1513,7 @@ example_log: |-
 
   ---
 
-  You go north. You push &quot;&quot;.
+  You go north. You take &quot;&quot;.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1539,7 +1539,7 @@ example_log: |-
 
   ---
 
-  You go west. You push &quot;[7=&quot;.
+  You go west. You take &quot;[7=&quot;.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1552,7 +1552,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 6.
+  You go west. You take 6.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1565,7 +1565,7 @@ example_log: |-
 
   ---
 
-  You go west. You push &#x27;[&#x27;.
+  You go west. You take &#x27;[&#x27;.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1578,7 +1578,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 7.
+  You go west. You take 7.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>
@@ -1591,7 +1591,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 2.
+  You go west. You take 2.
 
   <span class="consumer">=</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="operator">:</span><span class="producer">9</span><span class="operator">:</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">$</span><span class="wall">]</span><span class="consumer">=</span><span class="wall">][</span><span class="producer">3</span><span class="consumer">=</span><span class="producer">&quot;</span><span class="wall">]</span><span class="producer">&quot;</span><span class="consumer">=</span><span class="wall">]</span>
   <span class="floor">.</span><span class="wall">]</span><span class="operator">\</span><span class="producer">92420102</span><span class="floor">.</span><span class="consumer">=_</span><span class="wall">][</span><span class="producer">468</span><span class="wall">[</span>

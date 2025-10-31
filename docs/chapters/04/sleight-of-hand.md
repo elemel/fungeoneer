@@ -6,7 +6,7 @@ You have entered the fourth dungeon. You stand at the bottom of the staircase wh
 
 <pre><code>{{ problem.map | safe }}</code></pre>
 
-This dungeon introduces tiles with stack operations: duplicators (marked `:`), swappers (marked `\`), and altars (marked `_`). When you trigger a duplicator tile, duplicate the number at the top of the stack. For a swapper tile, swap the two numbers at the top of the stack. For an altar tile, pop and discard a number from the stack.
+This dungeon introduces tiles with stack operations: duplicators (marked `:`), swappers (marked `\`), and altars (marked `_`). When you trigger a duplicator tile, duplicate the number at the top of the stack. For a swapper tile, swap the two numbers at the top of the stack. For an altar tile, pop and discard a number from the stack. This is called dropping. Dropping a number only affects the stack, while leaving the tile unchanged.
 
 After how many ticks do you leave the dungeon?
 

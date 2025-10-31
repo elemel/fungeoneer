@@ -189,7 +189,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 6.
+  You go east. You take 6.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -202,7 +202,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 2.
+  You go east. You take 2.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -306,7 +306,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 5.
+  You go east. You take 5.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -332,7 +332,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 6.
+  You go east. You take 6.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -358,7 +358,7 @@ example_log: |-
 
   ---
 
-  You go north. You push 2.
+  You go north. You take 2.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -384,7 +384,7 @@ example_log: |-
 
   ---
 
-  You go south. You push 2.
+  You go south. You take 2.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -397,7 +397,7 @@ example_log: |-
 
   ---
 
-  You go south. You push 6.
+  You go south. You take 6.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -436,7 +436,7 @@ example_log: |-
 
   ---
 
-  You go northwest. You discard 6.
+  You go northwest. You drop 6.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -449,7 +449,7 @@ example_log: |-
 
   ---
 
-  You go northwest. You push 2.
+  You go northwest. You take 2.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">493</span><span class="adventurer">@</span><span class="producer">8</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -501,7 +501,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 8.
+  You go east. You take 8.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">4932</span><span class="adventurer">@</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -527,7 +527,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 4.
+  You go east. You take 4.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="adventurer">@</span><span class="producer">8</span><span class="operator">:</span><span class="wall">)</span>
@@ -540,7 +540,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 8.
+  You go east. You take 8.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">4</span><span class="adventurer">@</span><span class="operator">:</span><span class="wall">)</span>
@@ -618,7 +618,7 @@ example_log: |-
 
   ---
 
-  You go southeast. You push 0.
+  You go southeast. You take 0.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -683,7 +683,7 @@ example_log: |-
 
   ---
 
-  You go north. You push 0.
+  You go north. You take 0.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -748,7 +748,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 8.
+  You go west. You take 8.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">4</span><span class="adventurer">@</span><span class="operator">:</span><span class="wall">)</span>
@@ -761,7 +761,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 4.
+  You go west. You take 4.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="adventurer">@</span><span class="producer">8</span><span class="operator">:</span><span class="wall">)</span>
@@ -787,7 +787,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 8.
+  You go west. You take 8.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">4932</span><span class="adventurer">@</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -800,7 +800,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 2.
+  You go west. You take 2.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">493</span><span class="adventurer">@</span><span class="producer">8</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -813,7 +813,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 3.
+  You go west. You take 3.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49</span><span class="adventurer">@</span><span class="producer">28</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -826,7 +826,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 9.
+  You go west. You take 9.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">4</span><span class="adventurer">@</span><span class="producer">328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -839,7 +839,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 4.
+  You go west. You take 4.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="adventurer">@</span><span class="producer">9328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -878,7 +878,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 7.
+  You go west. You take 7.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="adventurer">@</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -917,7 +917,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 3.
+  You go west. You take 3.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r4</span><span class="adventurer">@</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -930,7 +930,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 4.
+  You go west. You take 4.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r</span><span class="adventurer">@</span><span class="producer">3</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -969,7 +969,7 @@ example_log: |-
 
   ---
 
-  You go west. You push 6.
+  You go west. You take 6.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="adventurer">@</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -1047,7 +1047,7 @@ example_log: |-
 
   ---
 
-  You go south. You push 1.
+  You go south. You take 1.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -1073,7 +1073,7 @@ example_log: |-
 
   ---
 
-  You go southeast. You push 3.
+  You go southeast. You take 3.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -1112,7 +1112,7 @@ example_log: |-
 
   ---
 
-  You go northeast. You push 2.
+  You go northeast. You take 2.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -1125,7 +1125,7 @@ example_log: |-
 
   ---
 
-  You go northeast. You push 4.
+  You go northeast. You take 4.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r</span><span class="adventurer">@</span><span class="producer">3</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -1203,7 +1203,7 @@ example_log: |-
 
   ---
 
-  You go north. You push 3.
+  You go north. You take 3.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r4</span><span class="adventurer">@</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -1333,7 +1333,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 1.
+  You go east. You take 1.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -1359,7 +1359,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 3.
+  You go east. You take 3.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -1372,7 +1372,7 @@ example_log: |-
 
   ---
 
-  You go east. You push 0.
+  You go east. You take 0.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -1424,7 +1424,7 @@ example_log: |-
 
   ---
 
-  You go north. You push 2.
+  You go north. You take 2.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -1437,7 +1437,7 @@ example_log: |-
 
   ---
 
-  You go north. You push 4.
+  You go north. You take 4.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="adventurer">@</span><span class="producer">9328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -1463,7 +1463,7 @@ example_log: |-
 
   ---
 
-  You go southwest. You push 6.
+  You go southwest. You take 6.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -1476,7 +1476,7 @@ example_log: |-
 
   ---
 
-  You go southwest. You push 3.
+  You go southwest. You take 3.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="producer">7</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>
@@ -1541,7 +1541,7 @@ example_log: |-
 
   ---
 
-  You go northeast. You push 7.
+  You go northeast. You take 7.
 
   <span class="wall">)}{){}[{][{])))(}]({</span>
   <span class="wall">(</span><span class="producer">6</span><span class="operator">:</span><span class="producer">r43</span><span class="floor">.</span><span class="operator">\</span><span class="adventurer">@</span><span class="consumer">=</span><span class="producer">49328</span><span class="consumer">R</span><span class="producer">48</span><span class="operator">:</span><span class="wall">)</span>

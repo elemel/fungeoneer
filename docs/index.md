@@ -1,9 +1,9 @@
 # Fungeoneer
 
-> Beneath an underground sky<br>
-> On my way to the other side<br>
+> By the stars of a sunken sky<br>
+> By an echo of light in my eyes<br>
 > I have wandered through these chambers<br>
-> And across these withered lines<br>
+> And across these faded lines<br>
 > As a keeper of my temper<br>
 > For as long as I remember<br>
 > In the service of a stranger<br>

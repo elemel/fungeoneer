@@ -1,7 +1,7 @@
 # Fungeoneer
 
 > By the stars of a sunken sky<br>
-> By an echo of light in my eyes<br>
+> By the pathway of downtrodden tiles<br>
 > I have wandered through these chambers<br>
 > And across these faded lines<br>
 > As a keeper of my temper<br>

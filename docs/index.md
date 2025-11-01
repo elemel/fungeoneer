@@ -4,8 +4,6 @@
 > By the pathway of downtrodden tiles<br>
 > I have wandered through these chambers<br>
 > And across these faded lines<br>
-> As a keeper of my temper<br>
-> For as long as I remember<br>
 > In the service of a stranger<br>
 > By the beating of the heart of time
 

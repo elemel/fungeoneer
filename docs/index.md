@@ -1,9 +1,9 @@
 # Fungeoneer
 
-> By the stars of a sunken sky<br>
-> By the pathway of downtrodden tiles<br>
-> I have wandered through these chambers<br>
-> And across these faded lines<br>
+> By the stars on a sunken sky<br>
+> By the marks on a sea of tiles<br>
+> Let me wander through the chambers<br>
+> On a path between the lines<br>
 > In the service of a stranger<br>
 > By the beating of the heart of time
 

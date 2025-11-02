@@ -1,7 +1,7 @@
 # Fungeoneer
 
-> By the stars on a sunken sky<br>
-> By the markings on tile after tile<br>
+> By the stars in a sunken sky<br>
+> On the way to the other side<br>
 > I have wandered through these chambers<br>
 > On a path between the lines<br>
 > In the service of a stranger<br>

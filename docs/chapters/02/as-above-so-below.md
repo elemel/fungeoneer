@@ -8,7 +8,7 @@ You have entered another dungeon. You stand at the bottom of the staircase where
 
 The top level is shown at the top of the map, and the bottom level at the bottom.
 
-There are many staircase tiles in this dungeon: staircases down (marked `>` on the map) and staircases up (marked `<`). When you trigger a staircase-down tile, move down to the next lower level, incrementing your z-coordinate. For a staircase-up tile, move up to the next higher level, decrementing your z-coordinate. This additional move happens immediately, without triggering another tile.
+There are many staircase tiles in this dungeon: staircases down (marked `>` on the map) and staircases up (marked `<`). When you trigger a staircase-down tile, move down to the next lower level. For a staircase-up tile, move up to the next higher level. This additional move happens immediately, without triggering another tile.
 
 Staircase tiles illustrate a general rule: you can only trigger one tile per tick. If triggering a tile causes you to move again during the same tick, that move does not trigger another tile.
 

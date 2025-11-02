@@ -8,11 +8,11 @@ You have entered another dungeon. You stand at the bottom of the staircase where
 
 The top level is shown at the top of the map, and the bottom level at the bottom.
 
-There are many staircase tiles in this dungeon: staircases down (marked `>` on the map) and staircases up (marked `<`). When you trigger a staircase-down tile, move down to the next lower level. For a staircase-up tile, move up to the next higher level. This additional move happens immediately, without triggering another tile.
+There are many staircase tiles in this dungeon: down-staircases (marked `>` on the map) and up-staircases (marked `<`). When you trigger a down-staircase tile, move down to the next lower level. For an up-staircase tile, move up to the next higher level. This additional move happens immediately, without triggering another tile.
 
 Staircase tiles illustrate a general rule: you can only trigger one tile per tick. If triggering a tile causes you to move again during the same tick, that move does not trigger another tile.
 
-As before, you leave the dungeon by triggering the staircase tile where you entered. It is the only staircase-up tile on the top level. After how many ticks do you leave the dungeon?
+As before, you leave the dungeon by triggering the staircase tile where you entered. It is the only up-staircase tile on the top level. After how many ticks do you leave the dungeon?
 
 From here, you can [continue to the answer](../../answers/chapters/02/as-above-so-below.md).
 

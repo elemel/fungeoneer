@@ -39,32 +39,24 @@ body.dark pre code {
   background-color: transparent;
 }
 
-body.dark .wall {
-  color: #999;
+body.dark .floor, body.dark .wall {
+  color: #777;
 }
 
-body.dark .floor {
-  color: #999;
-}
-
-body.dark .staircase {
-  color: #eee;
-}
-
-body.dark .adventurer {
+body.dark .adventurer, body.dark .staircase {
   color: #eee;
 }
 
 body.dark .producer {
-  color: #5b1;
+  color: #3a1;
 }
 
 body.dark .operator {
-  color: #eb1;
+  color: #ec1;
 }
 
 body.dark .consumer {
-  color: #e21;
+  color: #e31;
 }
 
 /* Light theme overrides */

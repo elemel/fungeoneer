@@ -39,7 +39,7 @@ body.dark pre code {
   background-color: transparent;
 }
 
-body.dark .floor, body.dark .wall {
+body.dark .floor, body.dark .wall, body.dark .separator {
   color: #888;
 }
 

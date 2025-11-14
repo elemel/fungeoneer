@@ -166,7 +166,7 @@ example_log: |-
   St: []  Dx: East  Co: (9, 2)  Tk: 0
   S: 0
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 3.
 
@@ -179,7 +179,7 @@ example_log: |-
   St: [3]  Dx: East  Co: (10, 2)  Tk: 1
   S: 1
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 3.
 
@@ -192,7 +192,7 @@ example_log: |-
   St: [3, 3]  Dx: East  Co: (11, 2)  Tk: 2
   S: 2
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 0.
 
@@ -205,7 +205,7 @@ example_log: |-
   St: [3, 3, 0]  Dx: East  Co: (12, 2)  Tk: 3
   S: 3
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way east. You turn right.
 
@@ -218,7 +218,7 @@ example_log: |-
   St: [3, 3, 0]  Dx: South  Co: (12, 2)  Tk: 4
   S: 3
 
-  ---
+  <span class="separator">---</span>
 
   You go south. You take 9.
 
@@ -231,7 +231,7 @@ example_log: |-
   St: [3, 3, 0, 9]  Dx: South  Co: (12, 3)  Tk: 5
   S: 4
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way south. You turn right.
 
@@ -244,7 +244,7 @@ example_log: |-
   St: [3, 3, 0, 9]  Dx: West  Co: (12, 3)  Tk: 6
   S: 4
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You read 4 from register S.
 
@@ -257,7 +257,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4]  Dx: West  Co: (11, 3)  Tk: 7
   S: 5
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 5.
 
@@ -270,7 +270,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4, 5]  Dx: West  Co: (10, 3)  Tk: 8
   S: 6
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 6.
 
@@ -283,7 +283,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4, 5, 6]  Dx: West  Co: (9, 3)  Tk: 9
   S: 7
 
-  ---
+  <span class="separator">---</span>
 
   You go west.
 
@@ -296,7 +296,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4, 5, 6]  Dx: West  Co: (8, 3)  Tk: 10
   S: 7
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You write 6 to register S.
 
@@ -309,7 +309,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4, 5]  Dx: West  Co: (7, 3)  Tk: 11
   S: 6
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 9.
 
@@ -322,7 +322,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4, 5, 9]  Dx: West  Co: (6, 3)  Tk: 12
   S: 7
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 7.
 
@@ -335,7 +335,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4, 5, 9, 7]  Dx: West  Co: (5, 3)  Tk: 13
   S: 8
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You duplicate 7.
 
@@ -348,7 +348,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4, 5, 9, 7, 7]  Dx: West  Co: (4, 3)  Tk: 14
   S: 9
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You swap 7 and 7.
 
@@ -361,7 +361,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4, 5, 9, 7, 7]  Dx: West  Co: (3, 3)  Tk: 15
   S: 9
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 8.
 
@@ -374,7 +374,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4, 5, 9, 7, 7, 8]  Dx: West  Co: (2, 3)  Tk: 16
   S: 10
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 4.
 
@@ -387,7 +387,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4, 5, 9, 7, 7, 8, 4]  Dx: West  Co: (1, 3)  Tk: 17
   S: 11
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way west. You turn left.
 
@@ -400,7 +400,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4, 5, 9, 7, 7, 8, 4]  Dx: South  Co: (1, 3)  Tk: 18
   S: 11
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way south. You turn left.
 
@@ -413,7 +413,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4, 5, 9, 7, 7, 8, 4]  Dx: East  Co: (1, 3)  Tk: 19
   S: 11
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 8.
 
@@ -426,7 +426,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4, 5, 9, 7, 7, 8, 4, 8]  Dx: East  Co: (2, 3)  Tk: 20
   S: 12
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You swap 4 and 8.
 
@@ -439,7 +439,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4, 5, 9, 7, 7, 8, 8, 4]  Dx: East  Co: (3, 3)  Tk: 21
   S: 12
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You duplicate 4.
 
@@ -452,7 +452,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4, 5, 9, 7, 7, 8, 8, 4, 4]  Dx: East  Co: (4, 3)  Tk: 22
   S: 13
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 7.
 
@@ -465,7 +465,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4, 5, 9, 7, 7, 8, 8, 4, 4, 7]  Dx: East  Co: (5, 3)  Tk: 23
   S: 14
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 9.
 
@@ -478,7 +478,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4, 5, 9, 7, 7, 8, 8, 4, 4, 7, 9]  Dx: East  Co: (6, 3)  Tk: 24
   S: 15
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You write 9 to register S.
 
@@ -491,7 +491,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4, 5, 9, 7, 7]  Dx: East  Co: (7, 3)  Tk: 25
   S: 9
 
-  ---
+  <span class="separator">---</span>
 
   You go east.
 
@@ -504,7 +504,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4, 5, 9, 7, 7]  Dx: East  Co: (8, 3)  Tk: 26
   S: 9
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 6.
 
@@ -517,7 +517,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4, 5, 9, 7, 7, 6]  Dx: East  Co: (9, 3)  Tk: 27
   S: 10
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 5.
 
@@ -530,7 +530,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4, 5, 9, 7, 7, 6, 5]  Dx: East  Co: (10, 3)  Tk: 28
   S: 11
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You read 11 from register S.
 
@@ -543,7 +543,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4, 5, 9, 7, 7, 6, 5, 11]  Dx: East  Co: (11, 3)  Tk: 29
   S: 12
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 9.
 
@@ -556,7 +556,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4, 5, 9, 7, 7, 6, 5, 11, 9]  Dx: East  Co: (12, 3)  Tk: 30
   S: 13
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You duplicate 9.
 
@@ -569,7 +569,7 @@ example_log: |-
   St: [3, 3, 0, 9, 4, 5, 9, 7, 7, 6, 5, 11, 9, 9]  Dx: East  Co: (13, 3)  Tk: 31
   S: 14
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 2.
 
@@ -582,7 +582,7 @@ example_log: |-
   St: [..., 9, 4, 5, 9, 7, 7, 6, 5, 11, 9, 9, 2]  Dx: East  Co: (14, 3)  Tk: 32
   S: 15
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 9.
 
@@ -595,7 +595,7 @@ example_log: |-
   St: [..., 4, 5, 9, 7, 7, 6, 5, 11, 9, 9, 2, 9]  Dx: East  Co: (15, 3)  Tk: 33
   S: 16
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 7.
 
@@ -608,7 +608,7 @@ example_log: |-
   St: [..., 5, 9, 7, 7, 6, 5, 11, 9, 9, 2, 9, 7]  Dx: East  Co: (16, 3)  Tk: 34
   S: 17
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You turn right because 9 &gt; 7.
 
@@ -621,7 +621,7 @@ example_log: |-
   St: [..., 9, 4, 5, 9, 7, 7, 6, 5, 11, 9, 9, 2]  Dx: South  Co: (17, 3)  Tk: 35
   S: 15
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way south. You turn left.
 
@@ -634,7 +634,7 @@ example_log: |-
   St: [..., 9, 4, 5, 9, 7, 7, 6, 5, 11, 9, 9, 2]  Dx: East  Co: (17, 3)  Tk: 36
   S: 15
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 4.
 
@@ -647,7 +647,7 @@ example_log: |-
   St: [..., 4, 5, 9, 7, 7, 6, 5, 11, 9, 9, 2, 4]  Dx: East  Co: (18, 3)  Tk: 37
   S: 16
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way east. You turn left.
 
@@ -660,7 +660,7 @@ example_log: |-
   St: [..., 4, 5, 9, 7, 7, 6, 5, 11, 9, 9, 2, 4]  Dx: North  Co: (18, 3)  Tk: 38
   S: 16
 
-  ---
+  <span class="separator">---</span>
 
   You go north. You take 3.
 
@@ -673,7 +673,7 @@ example_log: |-
   St: [..., 5, 9, 7, 7, 6, 5, 11, 9, 9, 2, 4, 3]  Dx: North  Co: (18, 2)  Tk: 39
   S: 17
 
-  ---
+  <span class="separator">---</span>
 
   You go north. You swap 4 and 3.
 
@@ -686,7 +686,7 @@ example_log: |-
   St: [..., 5, 9, 7, 7, 6, 5, 11, 9, 9, 2, 3, 4]  Dx: North  Co: (18, 1)  Tk: 40
   S: 17
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way north. You turn left.
 
@@ -699,7 +699,7 @@ example_log: |-
   St: [..., 5, 9, 7, 7, 6, 5, 11, 9, 9, 2, 3, 4]  Dx: West  Co: (18, 1)  Tk: 41
   S: 17
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You write 3 to slot 4.
 
@@ -712,7 +712,7 @@ example_log: |-
   St: [..., 9, 3, 5, 9, 7, 7, 6, 5, 11, 9, 9, 2]  Dx: West  Co: (17, 1)  Tk: 42
   S: 15
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You read 15 from register S.
 
@@ -725,7 +725,7 @@ example_log: |-
   St: [..., 3, 5, 9, 7, 7, 6, 5, 11, 9, 9, 2, 15]  Dx: West  Co: (16, 1)  Tk: 43
   S: 16
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 0.
 
@@ -738,7 +738,7 @@ example_log: |-
   St: [..., 5, 9, 7, 7, 6, 5, 11, 9, 9, 2, 15, 0]  Dx: West  Co: (15, 1)  Tk: 44
   S: 17
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 7.
 
@@ -751,7 +751,7 @@ example_log: |-
   St: [..., 9, 7, 7, 6, 5, 11, 9, 9, 2, 15, 0, 7]  Dx: West  Co: (14, 1)  Tk: 45
   S: 18
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 1.
 
@@ -764,7 +764,7 @@ example_log: |-
   St: [..., 7, 7, 6, 5, 11, 9, 9, 2, 15, 0, 7, 1]  Dx: West  Co: (13, 1)  Tk: 46
   S: 19
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You read 3 from slot 1.
 
@@ -777,7 +777,7 @@ example_log: |-
   St: [..., 7, 7, 6, 5, 11, 9, 9, 2, 15, 0, 7, 3]  Dx: West  Co: (12, 1)  Tk: 47
   S: 19
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 0.
 
@@ -790,7 +790,7 @@ example_log: |-
   St: [..., 7, 6, 5, 11, 9, 9, 2, 15, 0, 7, 3, 0]  Dx: West  Co: (11, 1)  Tk: 48
   S: 20
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You write 0 to register S.
 
@@ -803,7 +803,7 @@ example_log: |-
   St: []  Dx: West  Co: (10, 1)  Tk: 49
   S: 0
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 2.
 
@@ -816,7 +816,7 @@ example_log: |-
   St: [2]  Dx: West  Co: (9, 1)  Tk: 50
   S: 1
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 6.
 
@@ -829,7 +829,7 @@ example_log: |-
   St: [2, 6]  Dx: West  Co: (8, 1)  Tk: 51
   S: 2
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 1.
 
@@ -842,7 +842,7 @@ example_log: |-
   St: [2, 6, 1]  Dx: West  Co: (7, 1)  Tk: 52
   S: 3
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 2.
 
@@ -855,7 +855,7 @@ example_log: |-
   St: [2, 6, 1, 2]  Dx: West  Co: (6, 1)  Tk: 53
   S: 4
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 8.
 
@@ -868,7 +868,7 @@ example_log: |-
   St: [2, 6, 1, 2, 8]  Dx: West  Co: (5, 1)  Tk: 54
   S: 5
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You read 5 from register S.
 
@@ -881,7 +881,7 @@ example_log: |-
   St: [2, 6, 1, 2, 8, 5]  Dx: West  Co: (4, 1)  Tk: 55
   S: 6
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 7.
 
@@ -894,7 +894,7 @@ example_log: |-
   St: [2, 6, 1, 2, 8, 5, 7]  Dx: West  Co: (3, 1)  Tk: 56
   S: 7
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way west. You turn left.
 
@@ -907,7 +907,7 @@ example_log: |-
   St: [2, 6, 1, 2, 8, 5, 7]  Dx: South  Co: (3, 1)  Tk: 57
   S: 7
 
-  ---
+  <span class="separator">---</span>
 
   You go south. You turn left because 5 &lt; 7.
 
@@ -920,7 +920,7 @@ example_log: |-
   St: [2, 6, 1, 2, 8]  Dx: East  Co: (3, 2)  Tk: 58
   S: 5
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You read 5 from register S.
 
@@ -933,7 +933,7 @@ example_log: |-
   St: [2, 6, 1, 2, 8, 5]  Dx: East  Co: (4, 2)  Tk: 59
   S: 6
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 0.
 
@@ -946,7 +946,7 @@ example_log: |-
   St: [2, 6, 1, 2, 8, 5, 0]  Dx: East  Co: (5, 2)  Tk: 60
   S: 7
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 3.
 
@@ -959,7 +959,7 @@ example_log: |-
   St: [2, 6, 1, 2, 8, 5, 0, 3]  Dx: East  Co: (6, 2)  Tk: 61
   S: 8
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You drop 3.
 
@@ -972,7 +972,7 @@ example_log: |-
   St: [2, 6, 1, 2, 8, 5, 0]  Dx: East  Co: (7, 2)  Tk: 62
   S: 7
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You read 7 from register S.
 
@@ -985,7 +985,7 @@ example_log: |-
   St: [2, 6, 1, 2, 8, 5, 0, 7]  Dx: East  Co: (8, 2)  Tk: 63
   S: 8
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You go upstairs.
 

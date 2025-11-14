@@ -39,7 +39,7 @@ example_log: |-
 
   Dx: East  Co: (17, 3)  Tk: 0
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way east. You turn right.
 
@@ -51,7 +51,7 @@ example_log: |-
 
   Dx: South  Co: (17, 3)  Tk: 1
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way south. You turn right.
 
@@ -63,7 +63,7 @@ example_log: |-
 
   Dx: West  Co: (17, 3)  Tk: 2
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way west. You turn right.
 
@@ -75,7 +75,7 @@ example_log: |-
 
   Dx: North  Co: (17, 3)  Tk: 3
 
-  ---
+  <span class="separator">---</span>
 
   You go north.
 
@@ -87,7 +87,7 @@ example_log: |-
 
   Dx: North  Co: (17, 2)  Tk: 4
 
-  ---
+  <span class="separator">---</span>
 
   You go north.
 
@@ -99,7 +99,7 @@ example_log: |-
 
   Dx: North  Co: (17, 1)  Tk: 5
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way north. You turn right.
 
@@ -111,7 +111,7 @@ example_log: |-
 
   Dx: East  Co: (17, 1)  Tk: 6
 
-  ---
+  <span class="separator">---</span>
 
   You go east.
 
@@ -123,7 +123,7 @@ example_log: |-
 
   Dx: East  Co: (18, 1)  Tk: 7
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way east. You turn left.
 
@@ -135,7 +135,7 @@ example_log: |-
 
   Dx: North  Co: (18, 1)  Tk: 8
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way north. You turn left.
 
@@ -147,7 +147,7 @@ example_log: |-
 
   Dx: West  Co: (18, 1)  Tk: 9
 
-  ---
+  <span class="separator">---</span>
 
   You go west.
 
@@ -159,7 +159,7 @@ example_log: |-
 
   Dx: West  Co: (17, 1)  Tk: 10
 
-  ---
+  <span class="separator">---</span>
 
   You go west.
 
@@ -171,7 +171,7 @@ example_log: |-
 
   Dx: West  Co: (16, 1)  Tk: 11
 
-  ---
+  <span class="separator">---</span>
 
   You go west.
 
@@ -183,7 +183,7 @@ example_log: |-
 
   Dx: West  Co: (15, 1)  Tk: 12
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way west. You turn left.
 
@@ -195,7 +195,7 @@ example_log: |-
 
   Dx: South  Co: (15, 1)  Tk: 13
 
-  ---
+  <span class="separator">---</span>
 
   You go south.
 
@@ -207,7 +207,7 @@ example_log: |-
 
   Dx: South  Co: (15, 2)  Tk: 14
 
-  ---
+  <span class="separator">---</span>
 
   You go south.
 
@@ -219,7 +219,7 @@ example_log: |-
 
   Dx: South  Co: (15, 3)  Tk: 15
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way south. You turn right.
 
@@ -231,7 +231,7 @@ example_log: |-
 
   Dx: West  Co: (15, 3)  Tk: 16
 
-  ---
+  <span class="separator">---</span>
 
   You go west.
 
@@ -243,7 +243,7 @@ example_log: |-
 
   Dx: West  Co: (14, 3)  Tk: 17
 
-  ---
+  <span class="separator">---</span>
 
   You go west.
 
@@ -255,7 +255,7 @@ example_log: |-
 
   Dx: West  Co: (13, 3)  Tk: 18
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way west. You turn right.
 
@@ -267,7 +267,7 @@ example_log: |-
 
   Dx: North  Co: (13, 3)  Tk: 19
 
-  ---
+  <span class="separator">---</span>
 
   You go north.
 
@@ -279,7 +279,7 @@ example_log: |-
 
   Dx: North  Co: (13, 2)  Tk: 20
 
-  ---
+  <span class="separator">---</span>
 
   You go north.
 
@@ -291,7 +291,7 @@ example_log: |-
 
   Dx: North  Co: (13, 1)  Tk: 21
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way north. You turn left.
 
@@ -303,7 +303,7 @@ example_log: |-
 
   Dx: West  Co: (13, 1)  Tk: 22
 
-  ---
+  <span class="separator">---</span>
 
   You go west.
 
@@ -315,7 +315,7 @@ example_log: |-
 
   Dx: West  Co: (12, 1)  Tk: 23
 
-  ---
+  <span class="separator">---</span>
 
   You go west.
 
@@ -327,7 +327,7 @@ example_log: |-
 
   Dx: West  Co: (11, 1)  Tk: 24
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way west. You turn left.
 
@@ -339,7 +339,7 @@ example_log: |-
 
   Dx: South  Co: (11, 1)  Tk: 25
 
-  ---
+  <span class="separator">---</span>
 
   You go south.
 
@@ -351,7 +351,7 @@ example_log: |-
 
   Dx: South  Co: (11, 2)  Tk: 26
 
-  ---
+  <span class="separator">---</span>
 
   You go south.
 
@@ -363,7 +363,7 @@ example_log: |-
 
   Dx: South  Co: (11, 3)  Tk: 27
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way south. You turn right.
 
@@ -375,7 +375,7 @@ example_log: |-
 
   Dx: West  Co: (11, 3)  Tk: 28
 
-  ---
+  <span class="separator">---</span>
 
   You go west.
 
@@ -387,7 +387,7 @@ example_log: |-
 
   Dx: West  Co: (10, 3)  Tk: 29
 
-  ---
+  <span class="separator">---</span>
 
   You go west.
 
@@ -399,7 +399,7 @@ example_log: |-
 
   Dx: West  Co: (9, 3)  Tk: 30
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way west. You turn right.
 
@@ -411,7 +411,7 @@ example_log: |-
 
   Dx: North  Co: (9, 3)  Tk: 31
 
-  ---
+  <span class="separator">---</span>
 
   You go north.
 
@@ -423,7 +423,7 @@ example_log: |-
 
   Dx: North  Co: (9, 2)  Tk: 32
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way north. You turn left.
 
@@ -435,7 +435,7 @@ example_log: |-
 
   Dx: West  Co: (9, 2)  Tk: 33
 
-  ---
+  <span class="separator">---</span>
 
   You go west.
 
@@ -447,7 +447,7 @@ example_log: |-
 
   Dx: West  Co: (8, 2)  Tk: 34
 
-  ---
+  <span class="separator">---</span>
 
   You go west.
 
@@ -459,7 +459,7 @@ example_log: |-
 
   Dx: West  Co: (7, 2)  Tk: 35
 
-  ---
+  <span class="separator">---</span>
 
   You go west.
 
@@ -471,7 +471,7 @@ example_log: |-
 
   Dx: West  Co: (6, 2)  Tk: 36
 
-  ---
+  <span class="separator">---</span>
 
   You go west.
 
@@ -483,7 +483,7 @@ example_log: |-
 
   Dx: West  Co: (5, 2)  Tk: 37
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way west. You turn left.
 
@@ -495,7 +495,7 @@ example_log: |-
 
   Dx: South  Co: (5, 2)  Tk: 38
 
-  ---
+  <span class="separator">---</span>
 
   You go south.
 
@@ -507,7 +507,7 @@ example_log: |-
 
   Dx: South  Co: (5, 3)  Tk: 39
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way south. You turn left.
 
@@ -519,7 +519,7 @@ example_log: |-
 
   Dx: East  Co: (5, 3)  Tk: 40
 
-  ---
+  <span class="separator">---</span>
 
   You go east.
 
@@ -531,7 +531,7 @@ example_log: |-
 
   Dx: East  Co: (6, 3)  Tk: 41
 
-  ---
+  <span class="separator">---</span>
 
   You go east.
 
@@ -543,7 +543,7 @@ example_log: |-
 
   Dx: East  Co: (7, 3)  Tk: 42
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way east. You turn right.
 
@@ -555,7 +555,7 @@ example_log: |-
 
   Dx: South  Co: (7, 3)  Tk: 43
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way south. You turn right.
 
@@ -567,7 +567,7 @@ example_log: |-
 
   Dx: West  Co: (7, 3)  Tk: 44
 
-  ---
+  <span class="separator">---</span>
 
   You go west.
 
@@ -579,7 +579,7 @@ example_log: |-
 
   Dx: West  Co: (6, 3)  Tk: 45
 
-  ---
+  <span class="separator">---</span>
 
   You go west.
 
@@ -591,7 +591,7 @@ example_log: |-
 
   Dx: West  Co: (5, 3)  Tk: 46
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way west. You turn right.
 
@@ -603,7 +603,7 @@ example_log: |-
 
   Dx: North  Co: (5, 3)  Tk: 47
 
-  ---
+  <span class="separator">---</span>
 
   You go north.
 
@@ -615,7 +615,7 @@ example_log: |-
 
   Dx: North  Co: (5, 2)  Tk: 48
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way north. You turn right.
 
@@ -627,7 +627,7 @@ example_log: |-
 
   Dx: East  Co: (5, 2)  Tk: 49
 
-  ---
+  <span class="separator">---</span>
 
   You go east.
 
@@ -639,7 +639,7 @@ example_log: |-
 
   Dx: East  Co: (6, 2)  Tk: 50
 
-  ---
+  <span class="separator">---</span>
 
   You go east.
 
@@ -651,7 +651,7 @@ example_log: |-
 
   Dx: East  Co: (7, 2)  Tk: 51
 
-  ---
+  <span class="separator">---</span>
 
   You go east.
 
@@ -663,7 +663,7 @@ example_log: |-
 
   Dx: East  Co: (8, 2)  Tk: 52
 
-  ---
+  <span class="separator">---</span>
 
   You go east.
 
@@ -675,7 +675,7 @@ example_log: |-
 
   Dx: East  Co: (9, 2)  Tk: 53
 
-  ---
+  <span class="separator">---</span>
 
   You go east.
 
@@ -687,7 +687,7 @@ example_log: |-
 
   Dx: East  Co: (10, 2)  Tk: 54
 
-  ---
+  <span class="separator">---</span>
 
   You go east.
 
@@ -699,7 +699,7 @@ example_log: |-
 
   Dx: East  Co: (11, 2)  Tk: 55
 
-  ---
+  <span class="separator">---</span>
 
   You go east.
 
@@ -711,7 +711,7 @@ example_log: |-
 
   Dx: East  Co: (12, 2)  Tk: 56
 
-  ---
+  <span class="separator">---</span>
 
   You go east.
 
@@ -723,7 +723,7 @@ example_log: |-
 
   Dx: East  Co: (13, 2)  Tk: 57
 
-  ---
+  <span class="separator">---</span>
 
   You go east.
 
@@ -735,7 +735,7 @@ example_log: |-
 
   Dx: East  Co: (14, 2)  Tk: 58
 
-  ---
+  <span class="separator">---</span>
 
   You go east.
 
@@ -747,7 +747,7 @@ example_log: |-
 
   Dx: East  Co: (15, 2)  Tk: 59
 
-  ---
+  <span class="separator">---</span>
 
   You go east.
 
@@ -759,7 +759,7 @@ example_log: |-
 
   Dx: East  Co: (16, 2)  Tk: 60
 
-  ---
+  <span class="separator">---</span>
 
   You go east.
 
@@ -771,7 +771,7 @@ example_log: |-
 
   Dx: East  Co: (17, 2)  Tk: 61
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way east. You turn right.
 
@@ -783,7 +783,7 @@ example_log: |-
 
   Dx: South  Co: (17, 2)  Tk: 62
 
-  ---
+  <span class="separator">---</span>
 
   You go south. You go upstairs.
 

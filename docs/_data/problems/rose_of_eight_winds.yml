@@ -187,7 +187,7 @@ example_log: |-
   St: []  Dx: East  Co: (8, 2)  Tk: 0
   R: 0  S: 0
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 6.
 
@@ -200,7 +200,7 @@ example_log: |-
   St: [6]  Dx: East  Co: (9, 2)  Tk: 1
   R: 0  S: 1
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 2.
 
@@ -213,7 +213,7 @@ example_log: |-
   St: [6, 2]  Dx: East  Co: (10, 2)  Tk: 2
   R: 0  S: 2
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You read 0 from register R.
 
@@ -226,7 +226,7 @@ example_log: |-
   St: [6, 2, 0]  Dx: East  Co: (11, 2)  Tk: 3
   R: 0  S: 3
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way east. You turn forward-right.
 
@@ -239,7 +239,7 @@ example_log: |-
   St: [6, 2, 0]  Dx: Southeast  Co: (11, 2)  Tk: 4
   R: 1  S: 3
 
-  ---
+  <span class="separator">---</span>
 
   You go southeast. You swap 2 and 0.
 
@@ -252,7 +252,7 @@ example_log: |-
   St: [6, 0, 2]  Dx: Southeast  Co: (12, 3)  Tk: 5
   R: 1  S: 3
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way southeast. You turn left.
 
@@ -265,7 +265,7 @@ example_log: |-
   St: [6, 0, 2]  Dx: Northeast  Co: (12, 3)  Tk: 6
   R: -1  S: 3
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way northeast. You turn backward-left.
 
@@ -278,7 +278,7 @@ example_log: |-
   St: [6, 0, 2]  Dx: West  Co: (12, 3)  Tk: 7
   R: -4  S: 3
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way west. You turn forward-left.
 
@@ -291,7 +291,7 @@ example_log: |-
   St: [6, 0, 2]  Dx: Southwest  Co: (12, 3)  Tk: 8
   R: -5  S: 3
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way southwest. You turn backward-left.
 
@@ -304,7 +304,7 @@ example_log: |-
   St: [6, 0, 2]  Dx: East  Co: (12, 3)  Tk: 9
   R: -8  S: 3
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 5.
 
@@ -317,7 +317,7 @@ example_log: |-
   St: [6, 0, 2, 5]  Dx: East  Co: (13, 3)  Tk: 10
   R: -8  S: 4
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You duplicate 5.
 
@@ -330,7 +330,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5]  Dx: East  Co: (14, 3)  Tk: 11
   R: -8  S: 5
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 6.
 
@@ -343,7 +343,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6]  Dx: East  Co: (15, 3)  Tk: 12
   R: -8  S: 6
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way east. You turn left.
 
@@ -356,7 +356,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6]  Dx: North  Co: (15, 3)  Tk: 13
   R: -10  S: 6
 
-  ---
+  <span class="separator">---</span>
 
   You go north. You take 2.
 
@@ -369,7 +369,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2]  Dx: North  Co: (15, 2)  Tk: 14
   R: -10  S: 7
 
-  ---
+  <span class="separator">---</span>
 
   You go north. You write 2 to register R.
 
@@ -382,7 +382,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6]  Dx: South  Co: (15, 1)  Tk: 15
   R: 2  S: 6
 
-  ---
+  <span class="separator">---</span>
 
   You go south. You take 2.
 
@@ -395,7 +395,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2]  Dx: South  Co: (15, 2)  Tk: 16
   R: 2  S: 7
 
-  ---
+  <span class="separator">---</span>
 
   You go south. You take 6.
 
@@ -408,7 +408,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2, 6]  Dx: South  Co: (15, 3)  Tk: 17
   R: 2  S: 8
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way south. You turn backward-left.
 
@@ -421,7 +421,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2, 6]  Dx: Northeast  Co: (15, 3)  Tk: 18
   R: -1  S: 8
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way northeast. You turn left.
 
@@ -434,7 +434,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2, 6]  Dx: Northwest  Co: (15, 3)  Tk: 19
   R: -3  S: 8
 
-  ---
+  <span class="separator">---</span>
 
   You go northwest. You drop 6.
 
@@ -447,7 +447,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2]  Dx: Northwest  Co: (14, 2)  Tk: 20
   R: -3  S: 7
 
-  ---
+  <span class="separator">---</span>
 
   You go northwest. You take 2.
 
@@ -460,7 +460,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2, 2]  Dx: Northwest  Co: (13, 1)  Tk: 21
   R: -3  S: 8
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way northwest. You turn forward-right.
 
@@ -473,7 +473,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2, 2]  Dx: North  Co: (13, 1)  Tk: 22
   R: -2  S: 8
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way north. You turn forward-right.
 
@@ -486,7 +486,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2, 2]  Dx: Northeast  Co: (13, 1)  Tk: 23
   R: -1  S: 8
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way northeast. You turn forward-right.
 
@@ -499,7 +499,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2, 2]  Dx: East  Co: (13, 1)  Tk: 24
   R: 0  S: 8
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 8.
 
@@ -512,7 +512,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2, 2, 8]  Dx: East  Co: (14, 1)  Tk: 25
   R: 0  S: 9
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You write 8 to register R.
 
@@ -525,7 +525,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2, 2]  Dx: East  Co: (15, 1)  Tk: 26
   R: 8  S: 8
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 4.
 
@@ -538,7 +538,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2, 2, 4]  Dx: East  Co: (16, 1)  Tk: 27
   R: 8  S: 9
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 8.
 
@@ -551,7 +551,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2, 2, 4, 8]  Dx: East  Co: (17, 1)  Tk: 28
   R: 8  S: 10
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You duplicate 8.
 
@@ -564,7 +564,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2, 2, 4, 8, 8]  Dx: East  Co: (18, 1)  Tk: 29
   R: 8  S: 11
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way east. You turn forward-right.
 
@@ -577,7 +577,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2, 2, 4, 8, 8]  Dx: Southeast  Co: (18, 1)  Tk: 30
   R: 9  S: 11
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way southeast. You turn right.
 
@@ -590,7 +590,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2, 2, 4, 8, 8]  Dx: Southwest  Co: (18, 1)  Tk: 31
   R: 11  S: 11
 
-  ---
+  <span class="separator">---</span>
 
   You go southwest. You duplicate 8.
 
@@ -603,7 +603,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2, 2, 4, 8, 8, 8]  Dx: Southwest  Co: (17, 2)  Tk: 32
   R: 11  S: 12
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way southwest. You turn left.
 
@@ -616,7 +616,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2, 2, 4, 8, 8, 8]  Dx: Southeast  Co: (17, 2)  Tk: 33
   R: 9  S: 12
 
-  ---
+  <span class="separator">---</span>
 
   You go southeast. You take 0.
 
@@ -629,7 +629,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2, 2, 4, 8, 8, 8, 0]  Dx: Southeast  Co: (18, 3)  Tk: 34
   R: 9  S: 13
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way southeast. You turn forward-left.
 
@@ -642,7 +642,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2, 2, 4, 8, 8, 8, 0]  Dx: East  Co: (18, 3)  Tk: 35
   R: 8  S: 13
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way east. You turn right.
 
@@ -655,7 +655,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2, 2, 4, 8, 8, 8, 0]  Dx: South  Co: (18, 3)  Tk: 36
   R: 10  S: 13
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way south. You turn forward-right.
 
@@ -668,7 +668,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2, 2, 4, 8, 8, 8, 0]  Dx: Southwest  Co: (18, 3)  Tk: 37
   R: 11  S: 13
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way southwest. You turn backward-right.
 
@@ -681,7 +681,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2, 2, 4, 8, 8, 8, 0]  Dx: North  Co: (18, 3)  Tk: 38
   R: 14  S: 13
 
-  ---
+  <span class="separator">---</span>
 
   You go north. You take 0.
 
@@ -694,7 +694,7 @@ example_log: |-
   St: [6, 0, 2, 5, 5, 6, 2, 2, 4, 8, 8, 8, 0, 0]  Dx: North  Co: (18, 2)  Tk: 39
   R: 14  S: 14
 
-  ---
+  <span class="separator">---</span>
 
   You go north. You duplicate 0.
 
@@ -707,7 +707,7 @@ example_log: |-
   St: [..., 5, 5, 6, 2, 2, 4, 8, 8, 8, 0, 0, 0]  Dx: North  Co: (18, 1)  Tk: 40
   R: 14  S: 15
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way north. You turn forward-left.
 
@@ -720,7 +720,7 @@ example_log: |-
   St: [..., 5, 6, 2, 2, 4, 8, 8, 8, 0, 0, 0]  Dx: Northwest  Co: (18, 1)  Tk: 41
   R: 13  S: 15
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way northwest. You turn right.
 
@@ -733,7 +733,7 @@ example_log: |-
   St: [..., 5, 6, 2, 2, 4, 8, 8, 8, 0, 0, 0]  Dx: Northeast  Co: (18, 1)  Tk: 42
   R: 15  S: 15
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way northeast. You turn backward-left.
 
@@ -746,7 +746,7 @@ example_log: |-
   St: [..., 2, 5, 5, 6, 2, 2, 4, 8, 8, 8, 0, 0, 0]  Dx: West  Co: (18, 1)  Tk: 43
   R: 12  S: 15
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 8.
 
@@ -759,7 +759,7 @@ example_log: |-
   St: [..., 5, 5, 6, 2, 2, 4, 8, 8, 8, 0, 0, 0, 8]  Dx: West  Co: (17, 1)  Tk: 44
   R: 12  S: 16
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 4.
 
@@ -772,7 +772,7 @@ example_log: |-
   St: [..., 5, 6, 2, 2, 4, 8, 8, 8, 0, 0, 0, 8, 4]  Dx: West  Co: (16, 1)  Tk: 45
   R: 12  S: 17
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You write 4 to register R.
 
@@ -785,7 +785,7 @@ example_log: |-
   St: [..., 5, 5, 6, 2, 2, 4, 8, 8, 8, 0, 0, 0, 8]  Dx: West  Co: (15, 1)  Tk: 46
   R: 4  S: 16
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 8.
 
@@ -798,7 +798,7 @@ example_log: |-
   St: [..., 5, 6, 2, 2, 4, 8, 8, 8, 0, 0, 0, 8, 8]  Dx: West  Co: (14, 1)  Tk: 47
   R: 4  S: 17
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 2.
 
@@ -811,7 +811,7 @@ example_log: |-
   St: [..., 6, 2, 2, 4, 8, 8, 8, 0, 0, 0, 8, 8, 2]  Dx: West  Co: (13, 1)  Tk: 48
   R: 4  S: 18
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 3.
 
@@ -824,7 +824,7 @@ example_log: |-
   St: [..., 2, 2, 4, 8, 8, 8, 0, 0, 0, 8, 8, 2, 3]  Dx: West  Co: (12, 1)  Tk: 49
   R: 4  S: 19
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 9.
 
@@ -837,7 +837,7 @@ example_log: |-
   St: [..., 2, 4, 8, 8, 8, 0, 0, 0, 8, 8, 2, 3, 9]  Dx: West  Co: (11, 1)  Tk: 50
   R: 4  S: 20
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 4.
 
@@ -850,7 +850,7 @@ example_log: |-
   St: [..., 4, 8, 8, 8, 0, 0, 0, 8, 8, 2, 3, 9, 4]  Dx: West  Co: (10, 1)  Tk: 51
   R: 4  S: 21
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You turn right because 9 &gt; 4.
 
@@ -863,7 +863,7 @@ example_log: |-
   St: [..., 2, 2, 4, 8, 8, 8, 0, 0, 0, 8, 8, 2, 3]  Dx: North  Co: (9, 1)  Tk: 52
   R: 6  S: 19
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way north. You turn left.
 
@@ -876,7 +876,7 @@ example_log: |-
   St: [..., 2, 2, 4, 8, 8, 8, 0, 0, 0, 8, 8, 2, 3]  Dx: West  Co: (9, 1)  Tk: 53
   R: 4  S: 19
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 7.
 
@@ -889,7 +889,7 @@ example_log: |-
   St: [..., 2, 4, 8, 8, 8, 0, 0, 0, 8, 8, 2, 3, 7]  Dx: West  Co: (8, 1)  Tk: 54
   R: 4  S: 20
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You swap 3 and 7.
 
@@ -902,7 +902,7 @@ example_log: |-
   St: [..., 2, 4, 8, 8, 8, 0, 0, 0, 8, 8, 2, 7, 3]  Dx: West  Co: (7, 1)  Tk: 55
   R: 4  S: 20
 
-  ---
+  <span class="separator">---</span>
 
   You go west.
 
@@ -915,7 +915,7 @@ example_log: |-
   St: [..., 2, 4, 8, 8, 8, 0, 0, 0, 8, 8, 2, 7, 3]  Dx: West  Co: (6, 1)  Tk: 56
   R: 4  S: 20
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 3.
 
@@ -928,7 +928,7 @@ example_log: |-
   St: [..., 4, 8, 8, 8, 0, 0, 0, 8, 8, 2, 7, 3, 3]  Dx: West  Co: (5, 1)  Tk: 57
   R: 4  S: 21
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 4.
 
@@ -941,7 +941,7 @@ example_log: |-
   St: [..., 8, 8, 8, 0, 0, 0, 8, 8, 2, 7, 3, 3, 4]  Dx: West  Co: (4, 1)  Tk: 58
   R: 4  S: 22
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You read 4 from register R.
 
@@ -954,7 +954,7 @@ example_log: |-
   St: [..., 8, 8, 0, 0, 0, 8, 8, 2, 7, 3, 3, 4, 4]  Dx: West  Co: (3, 1)  Tk: 59
   R: 4  S: 23
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You duplicate 4.
 
@@ -967,7 +967,7 @@ example_log: |-
   St: [..., 8, 0, 0, 0, 8, 8, 2, 7, 3, 3, 4, 4, 4]  Dx: West  Co: (2, 1)  Tk: 60
   R: 4  S: 24
 
-  ---
+  <span class="separator">---</span>
 
   You go west. You take 6.
 
@@ -980,7 +980,7 @@ example_log: |-
   St: [..., 0, 0, 0, 8, 8, 2, 7, 3, 3, 4, 4, 4, 6]  Dx: West  Co: (1, 1)  Tk: 61
   R: 4  S: 25
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way west. You turn forward-left.
 
@@ -993,7 +993,7 @@ example_log: |-
   St: [..., 0, 8, 8, 2, 7, 3, 3, 4, 4, 4, 6]  Dx: Southwest  Co: (1, 1)  Tk: 62
   R: 3  S: 25
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way southwest. You turn right.
 
@@ -1006,7 +1006,7 @@ example_log: |-
   St: [..., 0, 8, 8, 2, 7, 3, 3, 4, 4, 4, 6]  Dx: Northwest  Co: (1, 1)  Tk: 63
   R: 5  S: 25
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way northwest. You turn forward-right.
 
@@ -1019,7 +1019,7 @@ example_log: |-
   St: [..., 0, 0, 0, 8, 8, 2, 7, 3, 3, 4, 4, 4, 6]  Dx: North  Co: (1, 1)  Tk: 64
   R: 6  S: 25
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way north. You turn backward-right.
 
@@ -1032,7 +1032,7 @@ example_log: |-
   St: [..., 0, 8, 8, 2, 7, 3, 3, 4, 4, 4, 6]  Dx: Southeast  Co: (1, 1)  Tk: 65
   R: 9  S: 25
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way southeast. You turn forward-right.
 
@@ -1045,7 +1045,7 @@ example_log: |-
   St: [..., 0, 0, 0, 8, 8, 2, 7, 3, 3, 4, 4, 4, 6]  Dx: South  Co: (1, 1)  Tk: 66
   R: 10  S: 25
 
-  ---
+  <span class="separator">---</span>
 
   You go south. You take 1.
 
@@ -1058,7 +1058,7 @@ example_log: |-
   St: [..., 0, 0, 8, 8, 2, 7, 3, 3, 4, 4, 4, 6, 1]  Dx: South  Co: (1, 2)  Tk: 67
   R: 10  S: 26
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way south. You turn forward-left.
 
@@ -1071,7 +1071,7 @@ example_log: |-
   St: [..., 8, 8, 2, 7, 3, 3, 4, 4, 4, 6, 1]  Dx: Southeast  Co: (1, 2)  Tk: 68
   R: 9  S: 26
 
-  ---
+  <span class="separator">---</span>
 
   You go southeast. You take 3.
 
@@ -1084,7 +1084,7 @@ example_log: |-
   St: [..., 8, 2, 7, 3, 3, 4, 4, 4, 6, 1, 3]  Dx: Southeast  Co: (2, 3)  Tk: 69
   R: 9  S: 27
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way southeast. You turn backward-left.
 
@@ -1097,7 +1097,7 @@ example_log: |-
   St: [..., 0, 8, 8, 2, 7, 3, 3, 4, 4, 4, 6, 1, 3]  Dx: North  Co: (2, 3)  Tk: 70
   R: 6  S: 27
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way north. You turn forward-right.
 
@@ -1110,7 +1110,7 @@ example_log: |-
   St: [..., 8, 2, 7, 3, 3, 4, 4, 4, 6, 1, 3]  Dx: Northeast  Co: (2, 3)  Tk: 71
   R: 7  S: 27
 
-  ---
+  <span class="separator">---</span>
 
   You go northeast. You take 2.
 
@@ -1123,7 +1123,7 @@ example_log: |-
   St: [..., 2, 7, 3, 3, 4, 4, 4, 6, 1, 3, 2]  Dx: Northeast  Co: (3, 2)  Tk: 72
   R: 7  S: 28
 
-  ---
+  <span class="separator">---</span>
 
   You go northeast. You take 4.
 
@@ -1136,7 +1136,7 @@ example_log: |-
   St: [..., 7, 3, 3, 4, 4, 4, 6, 1, 3, 2, 4]  Dx: Northeast  Co: (4, 1)  Tk: 73
   R: 7  S: 29
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way northeast. You turn backward-right.
 
@@ -1149,7 +1149,7 @@ example_log: |-
   St: [..., 8, 2, 7, 3, 3, 4, 4, 4, 6, 1, 3, 2, 4]  Dx: South  Co: (4, 1)  Tk: 74
   R: 10  S: 29
 
-  ---
+  <span class="separator">---</span>
 
   You go south.
 
@@ -1162,7 +1162,7 @@ example_log: |-
   St: [..., 8, 2, 7, 3, 3, 4, 4, 4, 6, 1, 3, 2, 4]  Dx: South  Co: (4, 2)  Tk: 75
   R: 10  S: 29
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way south. You turn left.
 
@@ -1175,7 +1175,7 @@ example_log: |-
   St: [..., 8, 2, 7, 3, 3, 4, 4, 4, 6, 1, 3, 2, 4]  Dx: East  Co: (4, 2)  Tk: 76
   R: 8  S: 29
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You swap 2 and 4.
 
@@ -1188,7 +1188,7 @@ example_log: |-
   St: [..., 8, 2, 7, 3, 3, 4, 4, 4, 6, 1, 3, 4, 2]  Dx: East  Co: (5, 2)  Tk: 77
   R: 8  S: 29
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way east. You turn left.
 
@@ -1201,7 +1201,7 @@ example_log: |-
   St: [..., 8, 2, 7, 3, 3, 4, 4, 4, 6, 1, 3, 4, 2]  Dx: North  Co: (5, 2)  Tk: 78
   R: 6  S: 29
 
-  ---
+  <span class="separator">---</span>
 
   You go north. You take 3.
 
@@ -1214,7 +1214,7 @@ example_log: |-
   St: [..., 2, 7, 3, 3, 4, 4, 4, 6, 1, 3, 4, 2, 3]  Dx: North  Co: (5, 1)  Tk: 79
   R: 6  S: 30
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way north. You turn backward-right.
 
@@ -1227,7 +1227,7 @@ example_log: |-
   St: [..., 3, 3, 4, 4, 4, 6, 1, 3, 4, 2, 3]  Dx: Southeast  Co: (5, 1)  Tk: 80
   R: 9  S: 30
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way southeast. You turn left.
 
@@ -1240,7 +1240,7 @@ example_log: |-
   St: [..., 3, 3, 4, 4, 4, 6, 1, 3, 4, 2, 3]  Dx: Northeast  Co: (5, 1)  Tk: 81
   R: 7  S: 30
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way northeast. You turn left.
 
@@ -1253,7 +1253,7 @@ example_log: |-
   St: [..., 3, 3, 4, 4, 4, 6, 1, 3, 4, 2, 3]  Dx: Northwest  Co: (5, 1)  Tk: 82
   R: 5  S: 30
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way northwest. You turn backward-left.
 
@@ -1266,7 +1266,7 @@ example_log: |-
   St: [..., 2, 7, 3, 3, 4, 4, 4, 6, 1, 3, 4, 2, 3]  Dx: South  Co: (5, 1)  Tk: 83
   R: 2  S: 30
 
-  ---
+  <span class="separator">---</span>
 
   You go south. You swap 2 and 3.
 
@@ -1279,7 +1279,7 @@ example_log: |-
   St: [..., 2, 7, 3, 3, 4, 4, 4, 6, 1, 3, 4, 3, 2]  Dx: South  Co: (5, 2)  Tk: 84
   R: 2  S: 30
 
-  ---
+  <span class="separator">---</span>
 
   You go south. You write 2 to register R.
 
@@ -1292,7 +1292,7 @@ example_log: |-
   St: [..., 8, 2, 7, 3, 3, 4, 4, 4, 6, 1, 3, 4, 3]  Dx: South  Co: (5, 3)  Tk: 85
   R: 2  S: 29
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way south. You turn forward-right.
 
@@ -1305,7 +1305,7 @@ example_log: |-
   St: [..., 7, 3, 3, 4, 4, 4, 6, 1, 3, 4, 3]  Dx: Southwest  Co: (5, 3)  Tk: 86
   R: 3  S: 29
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way southwest. You turn left.
 
@@ -1318,7 +1318,7 @@ example_log: |-
   St: [..., 7, 3, 3, 4, 4, 4, 6, 1, 3, 4, 3]  Dx: Southeast  Co: (5, 3)  Tk: 87
   R: 1  S: 29
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way southeast. You turn forward-left.
 
@@ -1331,7 +1331,7 @@ example_log: |-
   St: [..., 8, 2, 7, 3, 3, 4, 4, 4, 6, 1, 3, 4, 3]  Dx: East  Co: (5, 3)  Tk: 88
   R: 0  S: 29
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 1.
 
@@ -1344,7 +1344,7 @@ example_log: |-
   St: [..., 2, 7, 3, 3, 4, 4, 4, 6, 1, 3, 4, 3, 1]  Dx: East  Co: (6, 3)  Tk: 89
   R: 0  S: 30
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You duplicate 1.
 
@@ -1357,7 +1357,7 @@ example_log: |-
   St: [..., 7, 3, 3, 4, 4, 4, 6, 1, 3, 4, 3, 1, 1]  Dx: East  Co: (7, 3)  Tk: 90
   R: 0  S: 31
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 3.
 
@@ -1370,7 +1370,7 @@ example_log: |-
   St: [..., 3, 3, 4, 4, 4, 6, 1, 3, 4, 3, 1, 1, 3]  Dx: East  Co: (8, 3)  Tk: 91
   R: 0  S: 32
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You take 0.
 
@@ -1383,7 +1383,7 @@ example_log: |-
   St: [..., 3, 4, 4, 4, 6, 1, 3, 4, 3, 1, 1, 3, 0]  Dx: East  Co: (9, 3)  Tk: 92
   R: 0  S: 33
 
-  ---
+  <span class="separator">---</span>
 
   You go east. You turn right because 3 &gt; 0.
 
@@ -1396,7 +1396,7 @@ example_log: |-
   St: [..., 3, 3, 4, 4, 4, 6, 1, 3, 4, 3, 1, 1]  Dx: South  Co: (10, 3)  Tk: 93
   R: 2  S: 31
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way south. You turn forward-left.
 
@@ -1409,7 +1409,7 @@ example_log: |-
   St: [..., 3, 4, 4, 4, 6, 1, 3, 4, 3, 1, 1]  Dx: Southeast  Co: (10, 3)  Tk: 94
   R: 1  S: 31
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way southeast. You turn backward-left.
 
@@ -1422,7 +1422,7 @@ example_log: |-
   St: [..., 3, 3, 4, 4, 4, 6, 1, 3, 4, 3, 1, 1]  Dx: North  Co: (10, 3)  Tk: 95
   R: -2  S: 31
 
-  ---
+  <span class="separator">---</span>
 
   You go north. You take 2.
 
@@ -1435,7 +1435,7 @@ example_log: |-
   St: [..., 3, 4, 4, 4, 6, 1, 3, 4, 3, 1, 1, 2]  Dx: North  Co: (10, 2)  Tk: 96
   R: -2  S: 32
 
-  ---
+  <span class="separator">---</span>
 
   You go north. You take 4.
 
@@ -1448,7 +1448,7 @@ example_log: |-
   St: [..., 4, 4, 4, 6, 1, 3, 4, 3, 1, 1, 2, 4]  Dx: North  Co: (10, 1)  Tk: 97
   R: -2  S: 33
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way north. You turn backward-left.
 
@@ -1461,7 +1461,7 @@ example_log: |-
   St: [..., 4, 4, 6, 1, 3, 4, 3, 1, 1, 2, 4]  Dx: Southwest  Co: (10, 1)  Tk: 98
   R: -5  S: 33
 
-  ---
+  <span class="separator">---</span>
 
   You go southwest. You take 6.
 
@@ -1474,7 +1474,7 @@ example_log: |-
   St: [..., 4, 6, 1, 3, 4, 3, 1, 1, 2, 4, 6]  Dx: Southwest  Co: (9, 2)  Tk: 99
   R: -5  S: 34
 
-  ---
+  <span class="separator">---</span>
 
   You go southwest. You take 3.
 
@@ -1487,7 +1487,7 @@ example_log: |-
   St: [..., 6, 1, 3, 4, 3, 1, 1, 2, 4, 6, 3]  Dx: Southwest  Co: (8, 3)  Tk: 100
   R: -5  S: 35
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way southwest. You turn left.
 
@@ -1500,7 +1500,7 @@ example_log: |-
   St: [..., 6, 1, 3, 4, 3, 1, 1, 2, 4, 6, 3]  Dx: Southeast  Co: (8, 3)  Tk: 101
   R: -7  S: 35
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way southeast. You turn forward-right.
 
@@ -1513,7 +1513,7 @@ example_log: |-
   St: [..., 4, 6, 1, 3, 4, 3, 1, 1, 2, 4, 6, 3]  Dx: South  Co: (8, 3)  Tk: 102
   R: -6  S: 35
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way south. You turn backward-right.
 
@@ -1526,7 +1526,7 @@ example_log: |-
   St: [..., 6, 1, 3, 4, 3, 1, 1, 2, 4, 6, 3]  Dx: Northwest  Co: (8, 3)  Tk: 103
   R: -3  S: 35
 
-  ---
+  <span class="separator">---</span>
 
   You go northwest. You turn right because 6 &gt; 3.
 
@@ -1539,7 +1539,7 @@ example_log: |-
   St: [..., 4, 4, 6, 1, 3, 4, 3, 1, 1, 2, 4]  Dx: Northeast  Co: (7, 2)  Tk: 104
   R: -1  S: 33
 
-  ---
+  <span class="separator">---</span>
 
   You go northeast. You take 7.
 
@@ -1552,7 +1552,7 @@ example_log: |-
   St: [..., 4, 6, 1, 3, 4, 3, 1, 1, 2, 4, 7]  Dx: Northeast  Co: (8, 1)  Tk: 105
   R: -1  S: 34
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way northeast. You turn left.
 
@@ -1565,7 +1565,7 @@ example_log: |-
   St: [..., 4, 6, 1, 3, 4, 3, 1, 1, 2, 4, 7]  Dx: Northwest  Co: (8, 1)  Tk: 106
   R: -3  S: 34
 
-  ---
+  <span class="separator">---</span>
 
   A wall blocks your way northwest. You turn backward-left.
 
@@ -1578,7 +1578,7 @@ example_log: |-
   St: [..., 4, 4, 6, 1, 3, 4, 3, 1, 1, 2, 4, 7]  Dx: South  Co: (8, 1)  Tk: 107
   R: -6  S: 34
 
-  ---
+  <span class="separator">---</span>
 
   You go south. You go upstairs.
 

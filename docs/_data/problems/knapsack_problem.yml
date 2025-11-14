@@ -147,7 +147,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 5.
+  <span class="message">You go east. You take 5.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -160,7 +160,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 9.
+  <span class="message">You go east. You take 9.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -173,7 +173,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You write 9 to register B.
+  <span class="message">You go east. You write 9 to register B.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -186,7 +186,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  A wall blocks your way east. You turn left.
+  <span class="message">A wall blocks your way east. You turn left.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -199,7 +199,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go north. You take 7.
+  <span class="message">You go north. You take 7.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">8</span><span class="adventurer">@</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -212,7 +212,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  A wall blocks your way north. You turn left.
+  <span class="message">A wall blocks your way north. You turn left.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">8</span><span class="adventurer">@</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -225,7 +225,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 8.
+  <span class="message">You go west. You take 8.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="adventurer">@</span><span class="producer">7</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -238,7 +238,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You write 8 to register X.
+  <span class="message">You go west. You write 8 to register X.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="adventurer">@</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -251,7 +251,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You read 0 from register C.
+  <span class="message">You go west. You read 0 from register C.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3</span><span class="adventurer">@</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -264,7 +264,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 3.
+  <span class="message">You go west. You take 3.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb</span><span class="adventurer">@</span><span class="producer">c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -277,7 +277,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You read 9 from register B.
+  <span class="message">You go west. You read 9 from register B.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">y</span><span class="adventurer">@</span><span class="producer">3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -290,7 +290,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You read 0 from register Y.
+  <span class="message">You go west. You read 0 from register Y.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="adventurer">@</span><span class="producer">b3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -303,7 +303,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You duplicate 0.
+  <span class="message">You go west. You duplicate 0.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="adventurer">@</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -316,7 +316,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 5.
+  <span class="message">You go west. You take 5.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx2</span><span class="adventurer">@</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -329,7 +329,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 2.
+  <span class="message">You go west. You take 2.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx</span><span class="adventurer">@</span><span class="producer">5</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -342,7 +342,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You read 8 from register X.
+  <span class="message">You go west. You read 8 from register X.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">x</span><span class="adventurer">@</span><span class="producer">25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -355,7 +355,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You read 8 from register X.
+  <span class="message">You go west. You read 8 from register X.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="adventurer">@</span><span class="producer">x25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -368,7 +368,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You swap 8 and 8.
+  <span class="message">You go west. You swap 8 and 8.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="adventurer">@</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -381,7 +381,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You read 0 from register A.
+  <span class="message">You go west. You read 0 from register A.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="adventurer">@</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -394,7 +394,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  A wall blocks your way west. You turn right.
+  <span class="message">A wall blocks your way west. You turn right.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="adventurer">@</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -407,7 +407,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  A wall blocks your way north. You turn right.
+  <span class="message">A wall blocks your way north. You turn right.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="adventurer">@</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -420,7 +420,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You swap 8 and 0.
+  <span class="message">You go east. You swap 8 and 0.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="adventurer">@</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -433,7 +433,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You read 8 from register X.
+  <span class="message">You go east. You read 8 from register X.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="adventurer">@</span><span class="producer">x25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -446,7 +446,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You read 8 from register X.
+  <span class="message">You go east. You read 8 from register X.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">x</span><span class="adventurer">@</span><span class="producer">25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -459,7 +459,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 2.
+  <span class="message">You go east. You take 2.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx</span><span class="adventurer">@</span><span class="producer">5</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -472,7 +472,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 5.
+  <span class="message">You go east. You take 5.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx2</span><span class="adventurer">@</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -485,7 +485,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You duplicate 5.
+  <span class="message">You go east. You duplicate 5.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="adventurer">@</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -498,7 +498,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You read 0 from register Y.
+  <span class="message">You go east. You read 0 from register Y.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="adventurer">@</span><span class="producer">b3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -511,7 +511,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You read 9 from register B.
+  <span class="message">You go east. You read 9 from register B.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">y</span><span class="adventurer">@</span><span class="producer">3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -524,7 +524,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 3.
+  <span class="message">You go east. You take 3.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb</span><span class="adventurer">@</span><span class="producer">c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -537,7 +537,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You read 0 from register C.
+  <span class="message">You go east. You read 0 from register C.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3</span><span class="adventurer">@</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -550,7 +550,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You write 0 to register X.
+  <span class="message">You go east. You write 0 to register X.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="adventurer">@</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -563,7 +563,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 8.
+  <span class="message">You go east. You take 8.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="adventurer">@</span><span class="producer">7</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -576,7 +576,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 7.
+  <span class="message">You go east. You take 7.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">8</span><span class="adventurer">@</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -589,7 +589,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You write 7 to register C.
+  <span class="message">You go east. You write 7 to register C.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="adventurer">@</span><span class="producer">184</span><span class="wall">]</span>
@@ -602,7 +602,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 1.
+  <span class="message">You go east. You take 1.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="adventurer">@</span><span class="producer">84</span><span class="wall">]</span>
@@ -615,7 +615,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 8.
+  <span class="message">You go east. You take 8.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">1</span><span class="adventurer">@</span><span class="producer">4</span><span class="wall">]</span>
@@ -628,7 +628,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 4.
+  <span class="message">You go east. You take 4.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">18</span><span class="adventurer">@</span><span class="wall">]</span>
@@ -641,7 +641,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  A wall blocks your way east. You turn right.
+  <span class="message">A wall blocks your way east. You turn right.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">18</span><span class="adventurer">@</span><span class="wall">]</span>
@@ -654,7 +654,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go south. You write 4 to register Y.
+  <span class="message">You go south. You write 4 to register Y.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -667,7 +667,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go south. You take 3.
+  <span class="message">You go south. You take 3.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -680,7 +680,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  A wall blocks your way south. You turn right.
+  <span class="message">A wall blocks your way south. You turn right.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -693,7 +693,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 3.
+  <span class="message">You go west. You take 3.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -706,7 +706,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 0.
+  <span class="message">You go west. You take 0.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -719,7 +719,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 7.
+  <span class="message">You go west. You take 7.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -732,7 +732,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You write 7 to register B.
+  <span class="message">You go west. You write 7 to register B.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -745,7 +745,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You read 0 from register Z.
+  <span class="message">You go west. You read 0 from register Z.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -758,7 +758,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You write 0 to register Z.
+  <span class="message">You go west. You write 0 to register Z.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -771,7 +771,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 2.
+  <span class="message">You go west. You take 2.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -784,7 +784,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You read 0 from register X.
+  <span class="message">You go west. You read 0 from register X.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -797,7 +797,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You read 0 from register A.
+  <span class="message">You go west. You read 0 from register A.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -810,7 +810,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 8.
+  <span class="message">You go west. You take 8.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -823,7 +823,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You read 4 from register Y.
+  <span class="message">You go west. You read 4 from register Y.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -836,7 +836,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You drop 4.
+  <span class="message">You go west. You drop 4.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -849,7 +849,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You read 0 from register X.
+  <span class="message">You go west. You read 0 from register X.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -862,7 +862,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 3.
+  <span class="message">You go west. You take 3.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -875,7 +875,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You write 3 to register B.
+  <span class="message">You go west. You write 3 to register B.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -888,7 +888,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 6.
+  <span class="message">You go west. You take 6.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -901,7 +901,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 1.
+  <span class="message">You go west. You take 1.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -914,7 +914,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  A wall blocks your way west. You turn right.
+  <span class="message">A wall blocks your way west. You turn right.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -927,7 +927,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go north. You turn right because 6 &gt; 1.
+  <span class="message">You go north. You turn right because 6 &gt; 1.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -940,7 +940,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 8.
+  <span class="message">You go east. You take 8.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -953,7 +953,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east.
+  <span class="message">You go east.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -966,7 +966,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You write 8 to register A.
+  <span class="message">You go east. You write 8 to register A.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -979,7 +979,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You read 0 from register X.
+  <span class="message">You go east. You read 0 from register X.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -992,7 +992,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 0.
+  <span class="message">You go east. You take 0.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -1005,7 +1005,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east.
+  <span class="message">You go east.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -1018,7 +1018,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You read 8 from register A.
+  <span class="message">You go east. You read 8 from register A.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -1031,7 +1031,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east.
+  <span class="message">You go east.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -1044,7 +1044,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You write 8 to register Z.
+  <span class="message">You go east. You write 8 to register Z.</span>
 
   <span class="wall">[]]]]]]]]]]]]][]]]][</span>
   <span class="wall">]</span><span class="producer">a</span><span class="operator">\</span><span class="producer">xx25</span><span class="operator">:</span><span class="producer">yb3c</span><span class="consumer">X</span><span class="producer">87</span><span class="consumer">C</span><span class="producer">184</span><span class="wall">]</span>
@@ -1057,7 +1057,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You go upstairs.
+  <span class="message">You go east. You go upstairs.</span>
 
   St: [..., 5, 0, 9, 3, 8, 1, 8, 3, 3, 0, 2, 0, 0, 8, 0, 0, 0]  Dx: East  Tk: 71
   A: 8  B: 3  C: 7  D: 0  E: 0  F: 0  G: 0  H: 0  I: 0  X: 0  Y: 4  Z: 8  ...

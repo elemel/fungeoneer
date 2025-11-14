@@ -125,7 +125,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 3.
+  <span class="message">You go east. You take 3.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -137,7 +137,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You drop 3.
+  <span class="message">You go east. You drop 3.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -149,7 +149,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 7.
+  <span class="message">You go east. You take 7.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -161,7 +161,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  A wall blocks your way east. You turn right.
+  <span class="message">A wall blocks your way east. You turn right.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -173,7 +173,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go south.
+  <span class="message">You go south.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -185,7 +185,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  A wall blocks your way south. You turn left.
+  <span class="message">A wall blocks your way south. You turn left.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -197,7 +197,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  A wall blocks your way east. You turn left.
+  <span class="message">A wall blocks your way east. You turn left.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -209,7 +209,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go north. You take 7.
+  <span class="message">You go north. You take 7.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -221,7 +221,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go north.
+  <span class="message">You go north.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="adventurer">@</span><span class="wall">[</span>
@@ -233,7 +233,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  A wall blocks your way north. You turn left.
+  <span class="message">A wall blocks your way north. You turn left.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="adventurer">@</span><span class="wall">[</span>
@@ -245,7 +245,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You continue straight because 7 = 7.
+  <span class="message">You go west. You continue straight because 7 = 7.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="adventurer">@</span><span class="floor">.</span><span class="wall">[</span>
@@ -257,7 +257,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 0.
+  <span class="message">You go west. You take 0.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">9545</span><span class="adventurer">@</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -269,7 +269,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 5.
+  <span class="message">You go west. You take 5.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">954</span><span class="adventurer">@</span><span class="producer">0</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -281,7 +281,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 4.
+  <span class="message">You go west. You take 4.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95</span><span class="adventurer">@</span><span class="producer">50</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -293,7 +293,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 5.
+  <span class="message">You go west. You take 5.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">9</span><span class="adventurer">@</span><span class="producer">450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -305,7 +305,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 9.
+  <span class="message">You go west. You take 9.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="adventurer">@</span><span class="producer">5450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -317,7 +317,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You swap 5 and 9.
+  <span class="message">You go west. You swap 5 and 9.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="adventurer">@</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -329,7 +329,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 4.
+  <span class="message">You go west. You take 4.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">6</span><span class="adventurer">@</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -341,7 +341,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 6.
+  <span class="message">You go west. You take 6.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="adventurer">@</span><span class="producer">4</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -353,7 +353,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west.
+  <span class="message">You go west.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="adventurer">@</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -365,7 +365,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 4.
+  <span class="message">You go west. You take 4.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="adventurer">@</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -377,7 +377,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  A wall blocks your way west. You turn right.
+  <span class="message">A wall blocks your way west. You turn right.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="adventurer">@</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -389,7 +389,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  A wall blocks your way north. You turn right.
+  <span class="message">A wall blocks your way north. You turn right.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="adventurer">@</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -401,7 +401,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east.
+  <span class="message">You go east.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="adventurer">@</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -413,7 +413,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 6.
+  <span class="message">You go east. You take 6.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="adventurer">@</span><span class="producer">4</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -425,7 +425,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 4.
+  <span class="message">You go east. You take 4.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">6</span><span class="adventurer">@</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -437,7 +437,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You swap 6 and 4.
+  <span class="message">You go east. You swap 6 and 4.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="adventurer">@</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -449,7 +449,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 9.
+  <span class="message">You go east. You take 9.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="adventurer">@</span><span class="producer">5450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -461,7 +461,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 5.
+  <span class="message">You go east. You take 5.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">9</span><span class="adventurer">@</span><span class="producer">450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -473,7 +473,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 4.
+  <span class="message">You go east. You take 4.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95</span><span class="adventurer">@</span><span class="producer">50</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -485,7 +485,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 5.
+  <span class="message">You go east. You take 5.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">954</span><span class="adventurer">@</span><span class="producer">0</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -497,7 +497,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 0.
+  <span class="message">You go east. You take 0.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">9545</span><span class="adventurer">@</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -509,7 +509,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You turn right because 5 &gt; 0.
+  <span class="message">You go east. You turn right because 5 &gt; 0.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="adventurer">@</span><span class="floor">.</span><span class="wall">[</span>
@@ -521,7 +521,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go south. You drop 4.
+  <span class="message">You go south. You drop 4.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -533,7 +533,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go south. You duplicate 5.
+  <span class="message">You go south. You duplicate 5.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -545,7 +545,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  A wall blocks your way south. You turn right.
+  <span class="message">A wall blocks your way south. You turn right.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -557,7 +557,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 4.
+  <span class="message">You go west. You take 4.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -569,7 +569,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You duplicate 4.
+  <span class="message">You go west. You duplicate 4.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -581,7 +581,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 4.
+  <span class="message">You go west. You take 4.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -593,7 +593,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 9.
+  <span class="message">You go west. You take 9.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -605,7 +605,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You reckon 4 + 9 = 13.
+  <span class="message">You go west. You reckon 4 + 9 = 13.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -617,7 +617,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You reckon 4 + 13 = 17.
+  <span class="message">You go west. You reckon 4 + 13 = 17.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -629,7 +629,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You drop 17.
+  <span class="message">You go west. You drop 17.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -641,7 +641,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You swap 5 and 4.
+  <span class="message">You go west. You swap 5 and 4.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -653,7 +653,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 7.
+  <span class="message">You go west. You take 7.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -665,7 +665,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You reckon 5 / 7 = 0.
+  <span class="message">You go west. You reckon 5 / 7 = 0.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -677,7 +677,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 1.
+  <span class="message">You go west. You take 1.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -689,7 +689,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You reckon 0 % 1 = 0.
+  <span class="message">You go west. You reckon 0 % 1 = 0.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -701,7 +701,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You drop 0.
+  <span class="message">You go west. You drop 0.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -713,7 +713,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 4.
+  <span class="message">You go west. You take 4.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -725,7 +725,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 4.
+  <span class="message">You go west. You take 4.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -737,7 +737,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go west. You take 2.
+  <span class="message">You go west. You take 2.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -749,7 +749,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  A wall blocks your way west. You turn right.
+  <span class="message">A wall blocks your way west. You turn right.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -761,7 +761,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go north. You reckon 4 * 2 = 8.
+  <span class="message">You go north. You reckon 4 * 2 = 8.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -773,7 +773,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go north. You reckon 4 + 8 = 12.
+  <span class="message">You go north. You reckon 4 + 8 = 12.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="adventurer">@</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -785,7 +785,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  A wall blocks your way north. You turn right.
+  <span class="message">A wall blocks your way north. You turn right.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="adventurer">@</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -797,7 +797,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 0.
+  <span class="message">You go east. You take 0.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="adventurer">@</span><span class="producer">1</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -809,7 +809,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 1.
+  <span class="message">You go east. You take 1.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">0</span><span class="adventurer">@</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -821,7 +821,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You reckon 0 % 1 = 0.
+  <span class="message">You go east. You reckon 0 % 1 = 0.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="adventurer">@</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -833,7 +833,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 6.
+  <span class="message">You go east. You take 6.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="adventurer">@</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -845,7 +845,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  A wall blocks your way east. You turn right.
+  <span class="message">A wall blocks your way east. You turn right.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="adventurer">@</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -857,7 +857,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go south. You turn left because 0 &lt; 6.
+  <span class="message">You go south. You turn left because 0 &lt; 6.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -869,7 +869,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 5.
+  <span class="message">You go east. You take 5.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -881,7 +881,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You reckon 12 - 5 = 7.
+  <span class="message">You go east. You reckon 12 - 5 = 7.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -893,7 +893,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You reckon 4 / 7 = 0.
+  <span class="message">You go east. You reckon 4 / 7 = 0.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -905,7 +905,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 4.
+  <span class="message">You go east. You take 4.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -917,7 +917,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 0.
+  <span class="message">You go east. You take 0.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -929,7 +929,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 8.
+  <span class="message">You go east. You take 8.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -941,7 +941,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 1.
+  <span class="message">You go east. You take 1.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -953,7 +953,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 1.
+  <span class="message">You go east. You take 1.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -965,7 +965,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You take 6.
+  <span class="message">You go east. You take 6.</span>
 
   <span class="wall">[]][]][][][[]]]][[[]</span>
   <span class="wall">[</span><span class="operator">+</span><span class="producer">01</span><span class="operator">%</span><span class="producer">6</span><span class="wall">]</span><span class="producer">4</span><span class="floor">.</span><span class="producer">64</span><span class="operator">\</span><span class="producer">95450</span><span class="consumer">=</span><span class="floor">.</span><span class="wall">[</span>
@@ -977,7 +977,7 @@ example_log: |-
 
   <span class="separator">---</span>
 
-  You go east. You go upstairs.
+  <span class="message">You go east. You go upstairs.</span>
 
   St: [0, 5, 4, 9, 5, 4, 6, 4, 4, 6, 9, 5, 0, 4, 0, 8, 1, 1, 6]  Dx: East  Tk: 72
 

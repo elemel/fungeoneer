@@ -39,27 +39,27 @@ body.dark pre code {
   background-color: transparent;
 }
 
-body.dark .floor, body.dark .wall, body.dark .separator {
+body.dark .floor, body.dark .wall, body.dark .separator, body.dark .status {
   color: #888;
 }
 
-body.dark .adventurer {
+body.dark .adventurer, body.dark .label, body.dark .number {
   color: #eee;
 }
 
-body.dark .staircase {
+body.dark .staircase, body.dark .direction {
   color: #1ae;
 }
 
-body.dark .producer {
+body.dark .producer, body.dark .positive {
   color: #3a1;
 }
 
-body.dark .operator {
+body.dark .operator, body.dark .zero {
   color: #ec1;
 }
 
-body.dark .consumer {
+body.dark .consumer, body.dark .negative {
   color: #e31;
 }
 

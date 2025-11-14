@@ -79,7 +79,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: []  Dx: East  Co: (14, 2)  Tk: 0</span>
+  <span class="status"><span class="label">St</span>: []  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">14</span>, <span class="positive">2</span>)  <span class="label">Tk</span>: <span class="zero">0</span></span>
 
   <span class="separator">---</span>
 
@@ -91,7 +91,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6]  Dx: East  Co: (15, 2)  Tk: 1</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">15</span>, <span class="positive">2</span>)  <span class="label">Tk</span>: <span class="positive">1</span></span>
 
   <span class="separator">---</span>
 
@@ -103,7 +103,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6]  Dx: East  Co: (16, 2)  Tk: 2</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">16</span>, <span class="positive">2</span>)  <span class="label">Tk</span>: <span class="positive">2</span></span>
 
   <span class="separator">---</span>
 
@@ -115,7 +115,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8]  Dx: East  Co: (17, 2)  Tk: 3</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">17</span>, <span class="positive">2</span>)  <span class="label">Tk</span>: <span class="positive">3</span></span>
 
   <span class="separator">---</span>
 
@@ -127,7 +127,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8, 6]  Dx: East  Co: (18, 2)  Tk: 4</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">6</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">18</span>, <span class="positive">2</span>)  <span class="label">Tk</span>: <span class="positive">4</span></span>
 
   <span class="separator">---</span>
 
@@ -139,7 +139,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8, 6]  Dx: South  Co: (18, 2)  Tk: 5</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">6</span>]  <span class="label">Dx</span>: <span class="direction">South</span>  <span class="label">Co</span>: (<span class="positive">18</span>, <span class="positive">2</span>)  <span class="label">Tk</span>: <span class="positive">5</span></span>
 
   <span class="separator">---</span>
 
@@ -151,7 +151,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="adventurer">@</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8, 6, 7]  Dx: South  Co: (18, 3)  Tk: 6</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="positive">7</span>]  <span class="label">Dx</span>: <span class="direction">South</span>  <span class="label">Co</span>: (<span class="positive">18</span>, <span class="positive">3</span>)  <span class="label">Tk</span>: <span class="positive">6</span></span>
 
   <span class="separator">---</span>
 
@@ -163,7 +163,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="adventurer">@</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8, 6, 7]  Dx: East  Co: (18, 3)  Tk: 7</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="positive">7</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">18</span>, <span class="positive">3</span>)  <span class="label">Tk</span>: <span class="positive">7</span></span>
 
   <span class="separator">---</span>
 
@@ -175,7 +175,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="adventurer">@</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8, 6, 7]  Dx: North  Co: (18, 3)  Tk: 8</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="positive">7</span>]  <span class="label">Dx</span>: <span class="direction">North</span>  <span class="label">Co</span>: (<span class="positive">18</span>, <span class="positive">3</span>)  <span class="label">Tk</span>: <span class="positive">8</span></span>
 
   <span class="separator">---</span>
 
@@ -187,7 +187,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8, 6, 7, 6]  Dx: North  Co: (18, 2)  Tk: 9</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>]  <span class="label">Dx</span>: <span class="direction">North</span>  <span class="label">Co</span>: (<span class="positive">18</span>, <span class="positive">2</span>)  <span class="label">Tk</span>: <span class="positive">9</span></span>
 
   <span class="separator">---</span>
 
@@ -199,7 +199,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8, 6, 7, 6, 5]  Dx: North  Co: (18, 1)  Tk: 10</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">5</span>]  <span class="label">Dx</span>: <span class="direction">North</span>  <span class="label">Co</span>: (<span class="positive">18</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">10</span></span>
 
   <span class="separator">---</span>
 
@@ -211,7 +211,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8, 6, 7, 6, 5]  Dx: West  Co: (18, 1)  Tk: 11</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">5</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">18</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">11</span></span>
 
   <span class="separator">---</span>
 
@@ -223,7 +223,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8, 6, 7, 6, 5, 5]  Dx: West  Co: (17, 1)  Tk: 12</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">5</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">17</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">12</span></span>
 
   <span class="separator">---</span>
 
@@ -235,7 +235,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8, 6, 7, 6, 5, 5, 3]  Dx: West  Co: (16, 1)  Tk: 13</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">5</span>, <span class="positive">3</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">16</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">13</span></span>
 
   <span class="separator">---</span>
 
@@ -247,7 +247,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6]  Dx: West  Co: (15, 1)  Tk: 14</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">6</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">15</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">14</span></span>
 
   <span class="separator">---</span>
 
@@ -259,7 +259,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6, 7]  Dx: West  Co: (14, 1)  Tk: 15</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">6</span>, <span class="positive">7</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">14</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">15</span></span>
 
   <span class="separator">---</span>
 
@@ -271,7 +271,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6, 7, 1]  Dx: West  Co: (13, 1)  Tk: 16</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">1</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">13</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">16</span></span>
 
   <span class="separator">---</span>
 
@@ -283,7 +283,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6]  Dx: North  Co: (12, 1)  Tk: 17</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">6</span>]  <span class="label">Dx</span>: <span class="direction">North</span>  <span class="label">Co</span>: (<span class="positive">12</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">17</span></span>
 
   <span class="separator">---</span>
 
@@ -295,7 +295,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6]  Dx: West  Co: (12, 1)  Tk: 18</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">6</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">12</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">18</span></span>
 
   <span class="separator">---</span>
 
@@ -307,7 +307,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6]  Dx: South  Co: (12, 1)  Tk: 19</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">6</span>]  <span class="label">Dx</span>: <span class="direction">South</span>  <span class="label">Co</span>: (<span class="positive">12</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">19</span></span>
 
   <span class="separator">---</span>
 
@@ -319,7 +319,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6, 7]  Dx: South  Co: (12, 2)  Tk: 20</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">6</span>, <span class="positive">7</span>]  <span class="label">Dx</span>: <span class="direction">South</span>  <span class="label">Co</span>: (<span class="positive">12</span>, <span class="positive">2</span>)  <span class="label">Tk</span>: <span class="positive">20</span></span>
 
   <span class="separator">---</span>
 
@@ -331,7 +331,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="adventurer">@</span><span class="producer">0</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6, 7, 6]  Dx: South  Co: (12, 3)  Tk: 21</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>]  <span class="label">Dx</span>: <span class="direction">South</span>  <span class="label">Co</span>: (<span class="positive">12</span>, <span class="positive">3</span>)  <span class="label">Tk</span>: <span class="positive">21</span></span>
 
   <span class="separator">---</span>
 
@@ -343,7 +343,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="adventurer">@</span><span class="producer">0</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6, 7, 6]  Dx: East  Co: (12, 3)  Tk: 22</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">12</span>, <span class="positive">3</span>)  <span class="label">Tk</span>: <span class="positive">22</span></span>
 
   <span class="separator">---</span>
 
@@ -355,7 +355,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">6</span><span class="adventurer">@</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6, 7, 6, 0]  Dx: East  Co: (13, 3)  Tk: 23</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="zero">0</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">13</span>, <span class="positive">3</span>)  <span class="label">Tk</span>: <span class="positive">23</span></span>
 
   <span class="separator">---</span>
 
@@ -367,7 +367,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">6</span><span class="adventurer">@</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6, 7, 6, 0]  Dx: South  Co: (13, 3)  Tk: 24</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="zero">0</span>]  <span class="label">Dx</span>: <span class="direction">South</span>  <span class="label">Co</span>: (<span class="positive">13</span>, <span class="positive">3</span>)  <span class="label">Tk</span>: <span class="positive">24</span></span>
 
   <span class="separator">---</span>
 
@@ -379,7 +379,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">6</span><span class="adventurer">@</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6, 7, 6, 0]  Dx: West  Co: (13, 3)  Tk: 25</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="zero">0</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">13</span>, <span class="positive">3</span>)  <span class="label">Tk</span>: <span class="positive">25</span></span>
 
   <span class="separator">---</span>
 
@@ -391,7 +391,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="adventurer">@</span><span class="producer">0</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6, 7, 6, 0, 6]  Dx: West  Co: (12, 3)  Tk: 26</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">6</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">12</span>, <span class="positive">3</span>)  <span class="label">Tk</span>: <span class="positive">26</span></span>
 
   <span class="separator">---</span>
 
@@ -403,7 +403,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="adventurer">@</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [6, 6, 8, 6, 7, 6, 5, 5, 3, 6, 7, 6, 0, 6]  Dx: West  Co: (11, 3)  Tk: 27</span>
+  <span class="status"><span class="label">St</span>: [<span class="positive">6</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">6</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">11</span>, <span class="positive">3</span>)  <span class="label">Tk</span>: <span class="positive">27</span></span>
 
   <span class="separator">---</span>
 
@@ -415,7 +415,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">2533</span><span class="adventurer">@</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 8, 6, 7, 6, 5, 5, 3, 6, 7, 6, 0, 6, 5]  Dx: West  Co: (10, 3)  Tk: 28</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">8</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">5</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">10</span>, <span class="positive">3</span>)  <span class="label">Tk</span>: <span class="positive">28</span></span>
 
   <span class="separator">---</span>
 
@@ -427,7 +427,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">253</span><span class="adventurer">@</span><span class="producer">5</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 6, 7, 6, 5, 5, 3, 6, 7, 6, 0, 6, 5, 3]  Dx: West  Co: (9, 3)  Tk: 29</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">3</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">9</span>, <span class="positive">3</span>)  <span class="label">Tk</span>: <span class="positive">29</span></span>
 
   <span class="separator">---</span>
 
@@ -439,7 +439,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25</span><span class="adventurer">@</span><span class="producer">35</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 7, 6, 5, 5, 3, 6, 7, 6, 0, 6, 5, 3, 3]  Dx: West  Co: (8, 3)  Tk: 30</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">3</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">8</span>, <span class="positive">3</span>)  <span class="label">Tk</span>: <span class="positive">30</span></span>
 
   <span class="separator">---</span>
 
@@ -451,7 +451,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">2</span><span class="adventurer">@</span><span class="producer">335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 6, 5, 5, 3, 6, 7, 6, 0, 6, 5, 3, 3, 5]  Dx: West  Co: (7, 3)  Tk: 31</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">3</span>, <span class="positive">5</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">7</span>, <span class="positive">3</span>)  <span class="label">Tk</span>: <span class="positive">31</span></span>
 
   <span class="separator">---</span>
 
@@ -463,7 +463,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="adventurer">@</span><span class="producer">5335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 5, 5, 3, 6, 7, 6, 0, 6, 5, 3, 3, 5, 2]  Dx: West  Co: (6, 3)  Tk: 32</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">5</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">3</span>, <span class="positive">5</span>, <span class="positive">2</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">6</span>, <span class="positive">3</span>)  <span class="label">Tk</span>: <span class="positive">32</span></span>
 
   <span class="separator">---</span>
 
@@ -475,7 +475,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="adventurer">@</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 7, 6, 5, 5, 3, 6, 7, 6, 0, 6, 5, 3, 3]  Dx: North  Co: (5, 3)  Tk: 33</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">3</span>]  <span class="label">Dx</span>: <span class="direction">North</span>  <span class="label">Co</span>: (<span class="positive">5</span>, <span class="positive">3</span>)  <span class="label">Tk</span>: <span class="positive">33</span></span>
 
   <span class="separator">---</span>
 
@@ -487,7 +487,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 6, 5, 5, 3, 6, 7, 6, 0, 6, 5, 3, 3, 8]  Dx: North  Co: (5, 2)  Tk: 34</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">3</span>, <span class="positive">8</span>]  <span class="label">Dx</span>: <span class="direction">North</span>  <span class="label">Co</span>: (<span class="positive">5</span>, <span class="positive">2</span>)  <span class="label">Tk</span>: <span class="positive">34</span></span>
 
   <span class="separator">---</span>
 
@@ -499,7 +499,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 5, 5, 3, 6, 7, 6, 0, 6, 5, 3, 3, 8, 6]  Dx: North  Co: (5, 1)  Tk: 35</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">5</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="positive">6</span>]  <span class="label">Dx</span>: <span class="direction">North</span>  <span class="label">Co</span>: (<span class="positive">5</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">35</span></span>
 
   <span class="separator">---</span>
 
@@ -511,7 +511,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 5, 5, 3, 6, 7, 6, 0, 6, 5, 3, 3, 8, 6]  Dx: East  Co: (5, 1)  Tk: 36</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">5</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="positive">6</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">5</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">36</span></span>
 
   <span class="separator">---</span>
 
@@ -523,7 +523,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 5, 3, 6, 7, 6, 0, 6, 5, 3, 3, 8, 6, 0]  Dx: East  Co: (6, 1)  Tk: 37</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="zero">0</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">6</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">37</span></span>
 
   <span class="separator">---</span>
 
@@ -535,7 +535,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 3, 6, 7, 6, 0, 6, 5, 3, 3, 8, 6, 0, 8]  Dx: East  Co: (7, 1)  Tk: 38</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">3</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">8</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">7</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">38</span></span>
 
   <span class="separator">---</span>
 
@@ -547,7 +547,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 3, 6, 7, 6, 0, 6, 5, 3, 3, 8, 6, 0, 8]  Dx: East  Co: (8, 1)  Tk: 39</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">3</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">8</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">8</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">39</span></span>
 
   <span class="separator">---</span>
 
@@ -559,7 +559,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 6, 7, 6, 0, 6, 5, 3, 3, 8, 6, 0, 8, 3]  Dx: East  Co: (9, 1)  Tk: 40</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">8</span>, <span class="positive">3</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">9</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">40</span></span>
 
   <span class="separator">---</span>
 
@@ -571,7 +571,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 7, 6, 0, 6, 5, 3, 3, 8, 6, 0, 8, 3, 1]  Dx: East  Co: (10, 1)  Tk: 41</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">7</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">8</span>, <span class="positive">3</span>, <span class="positive">1</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">10</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">41</span></span>
 
   <span class="separator">---</span>
 
@@ -583,7 +583,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 6, 0, 6, 5, 3, 3, 8, 6, 0, 8, 3, 1]  Dx: North  Co: (10, 1)  Tk: 42</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">8</span>, <span class="positive">3</span>, <span class="positive">1</span>]  <span class="label">Dx</span>: <span class="direction">North</span>  <span class="label">Co</span>: (<span class="positive">10</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">42</span></span>
 
   <span class="separator">---</span>
 
@@ -595,7 +595,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 7, 6, 0, 6, 5, 3, 3, 8, 6, 0, 8, 3, 1]  Dx: West  Co: (10, 1)  Tk: 43</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">7</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">8</span>, <span class="positive">3</span>, <span class="positive">1</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">10</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">43</span></span>
 
   <span class="separator">---</span>
 
@@ -607,7 +607,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 6, 0, 6, 5, 3, 3, 8, 6, 0, 8, 3, 1, 3]  Dx: West  Co: (9, 1)  Tk: 44</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">8</span>, <span class="positive">3</span>, <span class="positive">1</span>, <span class="positive">3</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">9</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">44</span></span>
 
   <span class="separator">---</span>
 
@@ -619,7 +619,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 6, 0, 6, 5, 3, 3, 8, 6, 0, 8, 3, 1, 3]  Dx: West  Co: (8, 1)  Tk: 45</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">8</span>, <span class="positive">3</span>, <span class="positive">1</span>, <span class="positive">3</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">8</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">45</span></span>
 
   <span class="separator">---</span>
 
@@ -631,7 +631,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 0, 6, 5, 3, 3, 8, 6, 0, 8, 3, 1, 3, 8]  Dx: West  Co: (7, 1)  Tk: 46</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">8</span>, <span class="positive">3</span>, <span class="positive">1</span>, <span class="positive">3</span>, <span class="positive">8</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">7</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">46</span></span>
 
   <span class="separator">---</span>
 
@@ -643,7 +643,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 6, 5, 3, 3, 8, 6, 0, 8, 3, 1, 3, 8, 0]  Dx: West  Co: (6, 1)  Tk: 47</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">6</span>, <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">8</span>, <span class="positive">3</span>, <span class="positive">1</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="zero">0</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">6</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">47</span></span>
 
   <span class="separator">---</span>
 
@@ -655,7 +655,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 5, 3, 3, 8, 6, 0, 8, 3, 1, 3, 8, 0, 6]  Dx: West  Co: (5, 1)  Tk: 48</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">5</span>, <span class="positive">3</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">8</span>, <span class="positive">3</span>, <span class="positive">1</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="zero">0</span>, <span class="positive">6</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">5</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">48</span></span>
 
   <span class="separator">---</span>
 
@@ -667,7 +667,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 3, 3, 8, 6, 0, 8, 3, 1, 3, 8, 0, 6, 7]  Dx: West  Co: (4, 1)  Tk: 49</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">3</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">8</span>, <span class="positive">3</span>, <span class="positive">1</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">7</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">4</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">49</span></span>
 
   <span class="separator">---</span>
 
@@ -679,7 +679,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 3, 3, 8, 6, 0, 8, 3, 1, 3, 8, 0, 6, 7]  Dx: West  Co: (3, 1)  Tk: 50</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">3</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">8</span>, <span class="positive">3</span>, <span class="positive">1</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">7</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">3</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">50</span></span>
 
   <span class="separator">---</span>
 
@@ -691,7 +691,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 3, 8, 6, 0, 8, 3, 1, 3, 8, 0, 6, 7, 6]  Dx: West  Co: (2, 1)  Tk: 51</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">3</span>, <span class="positive">8</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">8</span>, <span class="positive">3</span>, <span class="positive">1</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">2</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">51</span></span>
 
   <span class="separator">---</span>
 
@@ -703,7 +703,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 8, 6, 0, 8, 3, 1, 3, 8, 0, 6, 7, 6, 3]  Dx: West  Co: (1, 1)  Tk: 52</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">8</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">8</span>, <span class="positive">3</span>, <span class="positive">1</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">3</span>]  <span class="label">Dx</span>: <span class="direction">West</span>  <span class="label">Co</span>: (<span class="positive">1</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">52</span></span>
 
   <span class="separator">---</span>
 
@@ -715,7 +715,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 8, 6, 0, 8, 3, 1, 3, 8, 0, 6, 7, 6, 3]  Dx: South  Co: (1, 1)  Tk: 53</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">8</span>, <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">8</span>, <span class="positive">3</span>, <span class="positive">1</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">3</span>]  <span class="label">Dx</span>: <span class="direction">South</span>  <span class="label">Co</span>: (<span class="positive">1</span>, <span class="positive">1</span>)  <span class="label">Tk</span>: <span class="positive">53</span></span>
 
   <span class="separator">---</span>
 
@@ -727,7 +727,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 6, 0, 8, 3, 1, 3, 8, 0, 6, 7, 6, 3, 9]  Dx: South  Co: (1, 2)  Tk: 54</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">8</span>, <span class="positive">3</span>, <span class="positive">1</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">3</span>, <span class="positive">9</span>]  <span class="label">Dx</span>: <span class="direction">South</span>  <span class="label">Co</span>: (<span class="positive">1</span>, <span class="positive">2</span>)  <span class="label">Tk</span>: <span class="positive">54</span></span>
 
   <span class="separator">---</span>
 
@@ -739,7 +739,7 @@ example_log: |-
   <span class="wall">[</span><span class="adventurer">@</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 0, 8, 3, 1, 3, 8, 0, 6, 7, 6, 3, 9, 6]  Dx: South  Co: (1, 3)  Tk: 55</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="zero">0</span>, <span class="positive">8</span>, <span class="positive">3</span>, <span class="positive">1</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">3</span>, <span class="positive">9</span>, <span class="positive">6</span>]  <span class="label">Dx</span>: <span class="direction">South</span>  <span class="label">Co</span>: (<span class="positive">1</span>, <span class="positive">3</span>)  <span class="label">Tk</span>: <span class="positive">55</span></span>
 
   <span class="separator">---</span>
 
@@ -751,7 +751,7 @@ example_log: |-
   <span class="wall">[</span><span class="adventurer">@</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 0, 8, 3, 1, 3, 8, 0, 6, 7, 6, 3, 9, 6]  Dx: East  Co: (1, 3)  Tk: 56</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="zero">0</span>, <span class="positive">8</span>, <span class="positive">3</span>, <span class="positive">1</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">3</span>, <span class="positive">9</span>, <span class="positive">6</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">1</span>, <span class="positive">3</span>)  <span class="label">Tk</span>: <span class="positive">56</span></span>
 
   <span class="separator">---</span>
 
@@ -763,7 +763,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="adventurer">@</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 0, 8, 3, 1, 3, 8, 0, 6, 7, 6, 3, 9, 6]  Dx: East  Co: (2, 3)  Tk: 57</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="zero">0</span>, <span class="positive">8</span>, <span class="positive">3</span>, <span class="positive">1</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">3</span>, <span class="positive">9</span>, <span class="positive">6</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">2</span>, <span class="positive">3</span>)  <span class="label">Tk</span>: <span class="positive">57</span></span>
 
   <span class="separator">---</span>
 
@@ -775,7 +775,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="adventurer">@</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 8, 3, 1, 3, 8, 0, 6, 7, 6, 3, 9, 6, 0]  Dx: East  Co: (3, 3)  Tk: 58</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">8</span>, <span class="positive">3</span>, <span class="positive">1</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">3</span>, <span class="positive">9</span>, <span class="positive">6</span>, <span class="zero">0</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">3</span>, <span class="positive">3</span>)  <span class="label">Tk</span>: <span class="positive">58</span></span>
 
   <span class="separator">---</span>
 
@@ -787,7 +787,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="adventurer">@</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 8, 3, 1, 3, 8, 0, 6, 7, 6, 3, 9, 6, 0]  Dx: North  Co: (3, 3)  Tk: 59</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">8</span>, <span class="positive">3</span>, <span class="positive">1</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">3</span>, <span class="positive">9</span>, <span class="positive">6</span>, <span class="zero">0</span>]  <span class="label">Dx</span>: <span class="direction">North</span>  <span class="label">Co</span>: (<span class="positive">3</span>, <span class="positive">3</span>)  <span class="label">Tk</span>: <span class="positive">59</span></span>
 
   <span class="separator">---</span>
 
@@ -799,7 +799,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 6, 0, 8, 3, 1, 3, 8, 0, 6, 7, 6, 3, 9]  Dx: East  Co: (3, 2)  Tk: 60</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">6</span>, <span class="zero">0</span>, <span class="positive">8</span>, <span class="positive">3</span>, <span class="positive">1</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">3</span>, <span class="positive">9</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">3</span>, <span class="positive">2</span>)  <span class="label">Tk</span>: <span class="positive">60</span></span>
 
   <span class="separator">---</span>
 
@@ -811,7 +811,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 0, 8, 3, 1, 3, 8, 0, 6, 7, 6, 3, 9, 4]  Dx: East  Co: (4, 2)  Tk: 61</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="zero">0</span>, <span class="positive">8</span>, <span class="positive">3</span>, <span class="positive">1</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">3</span>, <span class="positive">9</span>, <span class="positive">4</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">4</span>, <span class="positive">2</span>)  <span class="label">Tk</span>: <span class="positive">61</span></span>
 
   <span class="separator">---</span>
 
@@ -823,7 +823,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 8, 3, 1, 3, 8, 0, 6, 7, 6, 3, 9, 4, 8]  Dx: East  Co: (5, 2)  Tk: 62</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">8</span>, <span class="positive">3</span>, <span class="positive">1</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">3</span>, <span class="positive">9</span>, <span class="positive">4</span>, <span class="positive">8</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">5</span>, <span class="positive">2</span>)  <span class="label">Tk</span>: <span class="positive">62</span></span>
 
   <span class="separator">---</span>
 
@@ -835,7 +835,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 3, 1, 3, 8, 0, 6, 7, 6, 3, 9, 4, 8, 7]  Dx: East  Co: (6, 2)  Tk: 63</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">3</span>, <span class="positive">1</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">3</span>, <span class="positive">9</span>, <span class="positive">4</span>, <span class="positive">8</span>, <span class="positive">7</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">6</span>, <span class="positive">2</span>)  <span class="label">Tk</span>: <span class="positive">63</span></span>
 
   <span class="separator">---</span>
 
@@ -847,7 +847,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 1, 3, 8, 0, 6, 7, 6, 3, 9, 4, 8, 7, 6]  Dx: East  Co: (7, 2)  Tk: 64</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">1</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">3</span>, <span class="positive">9</span>, <span class="positive">4</span>, <span class="positive">8</span>, <span class="positive">7</span>, <span class="positive">6</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">7</span>, <span class="positive">2</span>)  <span class="label">Tk</span>: <span class="positive">64</span></span>
 
   <span class="separator">---</span>
 
@@ -859,7 +859,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 3, 8, 0, 6, 7, 6, 3, 9, 4, 8, 7, 6, 8]  Dx: East  Co: (8, 2)  Tk: 65</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">3</span>, <span class="positive">8</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">3</span>, <span class="positive">9</span>, <span class="positive">4</span>, <span class="positive">8</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">8</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">8</span>, <span class="positive">2</span>)  <span class="label">Tk</span>: <span class="positive">65</span></span>
 
   <span class="separator">---</span>
 
@@ -871,7 +871,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 8, 0, 6, 7, 6, 3, 9, 4, 8, 7, 6, 8, 9]  Dx: East  Co: (9, 2)  Tk: 66</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">8</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">3</span>, <span class="positive">9</span>, <span class="positive">4</span>, <span class="positive">8</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">9</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">9</span>, <span class="positive">2</span>)  <span class="label">Tk</span>: <span class="positive">66</span></span>
 
   <span class="separator">---</span>
 
@@ -883,7 +883,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 8, 0, 6, 7, 6, 3, 9, 4, 8, 7, 6, 8, 9]  Dx: East  Co: (10, 2)  Tk: 67</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">8</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">3</span>, <span class="positive">9</span>, <span class="positive">4</span>, <span class="positive">8</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">9</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">10</span>, <span class="positive">2</span>)  <span class="label">Tk</span>: <span class="positive">67</span></span>
 
   <span class="separator">---</span>
 
@@ -895,7 +895,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 0, 6, 7, 6, 3, 9, 4, 8, 7, 6, 8, 9, 7]  Dx: East  Co: (11, 2)  Tk: 68</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">3</span>, <span class="positive">9</span>, <span class="positive">4</span>, <span class="positive">8</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">9</span>, <span class="positive">7</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">11</span>, <span class="positive">2</span>)  <span class="label">Tk</span>: <span class="positive">68</span></span>
 
   <span class="separator">---</span>
 
@@ -907,7 +907,7 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 6, 7, 6, 3, 9, 4, 8, 7, 6, 8, 9, 7, 7]  Dx: East  Co: (12, 2)  Tk: 69</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">3</span>, <span class="positive">9</span>, <span class="positive">4</span>, <span class="positive">8</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">9</span>, <span class="positive">7</span>, <span class="positive">7</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">12</span>, <span class="positive">2</span>)  <span class="label">Tk</span>: <span class="positive">69</span></span>
 
   <span class="separator">---</span>
 
@@ -919,13 +919,13 @@ example_log: |-
   <span class="wall">[</span><span class="producer">6</span><span class="floor">.</span><span class="producer">0</span><span class="wall">[</span><span class="consumer">=</span><span class="producer">25335</span><span class="floor">.</span><span class="producer">60</span><span class="wall">]</span><span class="floor">...</span><span class="producer">7</span><span class="wall">[</span>
   <span class="wall">][]]]][[[[[][]][]][[</span>
 
-  <span class="status">St: [..., 8, 0, 6, 7, 6, 3, 9, 4, 8, 7, 6, 8, 9]  Dx: East  Co: (13, 2)  Tk: 70</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">8</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">3</span>, <span class="positive">9</span>, <span class="positive">4</span>, <span class="positive">8</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">9</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Co</span>: (<span class="positive">13</span>, <span class="positive">2</span>)  <span class="label">Tk</span>: <span class="positive">70</span></span>
 
   <span class="separator">---</span>
 
   <span class="message">You go east. You go upstairs.</span>
 
-  <span class="status">St: [..., 8, 3, 1, 3, 8, 0, 6, 7, 6, 3, 9, 4, 8, 7, 6, 8, 9]  Dx: East  Tk: 71</span>
+  <span class="status"><span class="label">St</span>: [..., <span class="positive">8</span>, <span class="positive">3</span>, <span class="positive">1</span>, <span class="positive">3</span>, <span class="positive">8</span>, <span class="zero">0</span>, <span class="positive">6</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">3</span>, <span class="positive">9</span>, <span class="positive">4</span>, <span class="positive">8</span>, <span class="positive">7</span>, <span class="positive">6</span>, <span class="positive">8</span>, <span class="positive">9</span>]  <span class="label">Dx</span>: <span class="direction">East</span>  <span class="label">Tk</span>: <span class="positive">71</span></span>
 
 example_answer: |-
   71

@@ -64,7 +64,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: East  Co: (11, 1, 0)  Tk: 0
+  <span class="status">Dx: East  Co: (11, 1, 0)  Tk: 0</span>
 
   <span class="separator">---</span>
 
@@ -76,7 +76,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: East  Co: (12, 1, 1)  Tk: 1
+  <span class="status">Dx: East  Co: (12, 1, 1)  Tk: 1</span>
 
   <span class="separator">---</span>
 
@@ -88,7 +88,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: North  Co: (12, 1, 1)  Tk: 2
+  <span class="status">Dx: North  Co: (12, 1, 1)  Tk: 2</span>
 
   <span class="separator">---</span>
 
@@ -100,7 +100,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: West  Co: (12, 1, 1)  Tk: 3
+  <span class="status">Dx: West  Co: (12, 1, 1)  Tk: 3</span>
 
   <span class="separator">---</span>
 
@@ -112,7 +112,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: South  Co: (12, 1, 1)  Tk: 4
+  <span class="status">Dx: South  Co: (12, 1, 1)  Tk: 4</span>
 
   <span class="separator">---</span>
 
@@ -124,7 +124,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: South  Co: (12, 2, 1)  Tk: 5
+  <span class="status">Dx: South  Co: (12, 2, 1)  Tk: 5</span>
 
   <span class="separator">---</span>
 
@@ -136,7 +136,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="adventurer">@</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: South  Co: (12, 3, 0)  Tk: 6
+  <span class="status">Dx: South  Co: (12, 3, 0)  Tk: 6</span>
 
   <span class="separator">---</span>
 
@@ -148,7 +148,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="adventurer">@</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: East  Co: (12, 3, 0)  Tk: 7
+  <span class="status">Dx: East  Co: (12, 3, 0)  Tk: 7</span>
 
   <span class="separator">---</span>
 
@@ -160,7 +160,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="adventurer">@</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: East  Co: (13, 3, 0)  Tk: 8
+  <span class="status">Dx: East  Co: (13, 3, 0)  Tk: 8</span>
 
   <span class="separator">---</span>
 
@@ -172,7 +172,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="adventurer">@</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: East  Co: (14, 3, 1)  Tk: 9
+  <span class="status">Dx: East  Co: (14, 3, 1)  Tk: 9</span>
 
   <span class="separator">---</span>
 
@@ -184,7 +184,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="adventurer">@</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: North  Co: (14, 3, 1)  Tk: 10
+  <span class="status">Dx: North  Co: (14, 3, 1)  Tk: 10</span>
 
   <span class="separator">---</span>
 
@@ -196,7 +196,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: North  Co: (14, 2, 1)  Tk: 11
+  <span class="status">Dx: North  Co: (14, 2, 1)  Tk: 11</span>
 
   <span class="separator">---</span>
 
@@ -208,7 +208,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: East  Co: (14, 2, 1)  Tk: 12
+  <span class="status">Dx: East  Co: (14, 2, 1)  Tk: 12</span>
 
   <span class="separator">---</span>
 
@@ -220,7 +220,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: East  Co: (15, 2, 1)  Tk: 13
+  <span class="status">Dx: East  Co: (15, 2, 1)  Tk: 13</span>
 
   <span class="separator">---</span>
 
@@ -232,7 +232,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: East  Co: (16, 2, 1)  Tk: 14
+  <span class="status">Dx: East  Co: (16, 2, 1)  Tk: 14</span>
 
   <span class="separator">---</span>
 
@@ -244,7 +244,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: South  Co: (16, 2, 1)  Tk: 15
+  <span class="status">Dx: South  Co: (16, 2, 1)  Tk: 15</span>
 
   <span class="separator">---</span>
 
@@ -256,7 +256,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: West  Co: (16, 2, 1)  Tk: 16
+  <span class="status">Dx: West  Co: (16, 2, 1)  Tk: 16</span>
 
   <span class="separator">---</span>
 
@@ -268,7 +268,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: West  Co: (15, 2, 1)  Tk: 17
+  <span class="status">Dx: West  Co: (15, 2, 1)  Tk: 17</span>
 
   <span class="separator">---</span>
 
@@ -280,7 +280,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: West  Co: (14, 2, 1)  Tk: 18
+  <span class="status">Dx: West  Co: (14, 2, 1)  Tk: 18</span>
 
   <span class="separator">---</span>
 
@@ -292,7 +292,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: South  Co: (14, 2, 1)  Tk: 19
+  <span class="status">Dx: South  Co: (14, 2, 1)  Tk: 19</span>
 
   <span class="separator">---</span>
 
@@ -304,7 +304,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="adventurer">@</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: South  Co: (14, 3, 0)  Tk: 20
+  <span class="status">Dx: South  Co: (14, 3, 0)  Tk: 20</span>
 
   <span class="separator">---</span>
 
@@ -316,7 +316,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="adventurer">@</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: West  Co: (14, 3, 0)  Tk: 21
+  <span class="status">Dx: West  Co: (14, 3, 0)  Tk: 21</span>
 
   <span class="separator">---</span>
 
@@ -328,7 +328,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="adventurer">@</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: West  Co: (13, 3, 0)  Tk: 22
+  <span class="status">Dx: West  Co: (13, 3, 0)  Tk: 22</span>
 
   <span class="separator">---</span>
 
@@ -340,7 +340,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="adventurer">@</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: West  Co: (12, 3, 1)  Tk: 23
+  <span class="status">Dx: West  Co: (12, 3, 1)  Tk: 23</span>
 
   <span class="separator">---</span>
 
@@ -352,7 +352,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="adventurer">@</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: South  Co: (12, 3, 1)  Tk: 24
+  <span class="status">Dx: South  Co: (12, 3, 1)  Tk: 24</span>
 
   <span class="separator">---</span>
 
@@ -364,7 +364,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="adventurer">@</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: East  Co: (12, 3, 1)  Tk: 25
+  <span class="status">Dx: East  Co: (12, 3, 1)  Tk: 25</span>
 
   <span class="separator">---</span>
 
@@ -376,7 +376,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="adventurer">@</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: East  Co: (13, 3, 1)  Tk: 26
+  <span class="status">Dx: East  Co: (13, 3, 1)  Tk: 26</span>
 
   <span class="separator">---</span>
 
@@ -388,7 +388,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="adventurer">@</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: East  Co: (14, 3, 0)  Tk: 27
+  <span class="status">Dx: East  Co: (14, 3, 0)  Tk: 27</span>
 
   <span class="separator">---</span>
 
@@ -400,7 +400,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="adventurer">@</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: East  Co: (15, 3, 0)  Tk: 28
+  <span class="status">Dx: East  Co: (15, 3, 0)  Tk: 28</span>
 
   <span class="separator">---</span>
 
@@ -412,7 +412,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="adventurer">@</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: East  Co: (16, 3, 0)  Tk: 29
+  <span class="status">Dx: East  Co: (16, 3, 0)  Tk: 29</span>
 
   <span class="separator">---</span>
 
@@ -424,7 +424,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="adventurer">@</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: North  Co: (16, 3, 0)  Tk: 30
+  <span class="status">Dx: North  Co: (16, 3, 0)  Tk: 30</span>
 
   <span class="separator">---</span>
 
@@ -436,7 +436,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="adventurer">@</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: West  Co: (16, 3, 0)  Tk: 31
+  <span class="status">Dx: West  Co: (16, 3, 0)  Tk: 31</span>
 
   <span class="separator">---</span>
 
@@ -448,7 +448,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="adventurer">@</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: West  Co: (15, 3, 0)  Tk: 32
+  <span class="status">Dx: West  Co: (15, 3, 0)  Tk: 32</span>
 
   <span class="separator">---</span>
 
@@ -460,7 +460,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="adventurer">@</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: West  Co: (14, 3, 1)  Tk: 33
+  <span class="status">Dx: West  Co: (14, 3, 1)  Tk: 33</span>
 
   <span class="separator">---</span>
 
@@ -472,7 +472,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="adventurer">@</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: West  Co: (13, 3, 1)  Tk: 34
+  <span class="status">Dx: West  Co: (13, 3, 1)  Tk: 34</span>
 
   <span class="separator">---</span>
 
@@ -484,7 +484,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="adventurer">@</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: West  Co: (12, 3, 0)  Tk: 35
+  <span class="status">Dx: West  Co: (12, 3, 0)  Tk: 35</span>
 
   <span class="separator">---</span>
 
@@ -496,7 +496,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="adventurer">@</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: West  Co: (11, 3, 0)  Tk: 36
+  <span class="status">Dx: West  Co: (11, 3, 0)  Tk: 36</span>
 
   <span class="separator">---</span>
 
@@ -508,7 +508,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="adventurer">@</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: West  Co: (10, 3, 0)  Tk: 37
+  <span class="status">Dx: West  Co: (10, 3, 0)  Tk: 37</span>
 
   <span class="separator">---</span>
 
@@ -520,7 +520,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="adventurer">@</span><span class="floor">..</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: West  Co: (9, 3, 0)  Tk: 38
+  <span class="status">Dx: West  Co: (9, 3, 0)  Tk: 38</span>
 
   <span class="separator">---</span>
 
@@ -532,7 +532,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="adventurer">@</span><span class="floor">...</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: West  Co: (8, 3, 0)  Tk: 39
+  <span class="status">Dx: West  Co: (8, 3, 0)  Tk: 39</span>
 
   <span class="separator">---</span>
 
@@ -544,7 +544,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="adventurer">@</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: West  Co: (7, 3, 1)  Tk: 40
+  <span class="status">Dx: West  Co: (7, 3, 1)  Tk: 40</span>
 
   <span class="separator">---</span>
 
@@ -556,7 +556,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="adventurer">@</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: South  Co: (7, 3, 1)  Tk: 41
+  <span class="status">Dx: South  Co: (7, 3, 1)  Tk: 41</span>
 
   <span class="separator">---</span>
 
@@ -568,7 +568,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="adventurer">@</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: East  Co: (7, 3, 1)  Tk: 42
+  <span class="status">Dx: East  Co: (7, 3, 1)  Tk: 42</span>
 
   <span class="separator">---</span>
 
@@ -580,7 +580,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="adventurer">@</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: East  Co: (8, 3, 1)  Tk: 43
+  <span class="status">Dx: East  Co: (8, 3, 1)  Tk: 43</span>
 
   <span class="separator">---</span>
 
@@ -592,7 +592,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="adventurer">@</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: North  Co: (8, 3, 1)  Tk: 44
+  <span class="status">Dx: North  Co: (8, 3, 1)  Tk: 44</span>
 
   <span class="separator">---</span>
 
@@ -604,7 +604,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: North  Co: (8, 2, 1)  Tk: 45
+  <span class="status">Dx: North  Co: (8, 2, 1)  Tk: 45</span>
 
   <span class="separator">---</span>
 
@@ -616,7 +616,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: West  Co: (8, 2, 1)  Tk: 46
+  <span class="status">Dx: West  Co: (8, 2, 1)  Tk: 46</span>
 
   <span class="separator">---</span>
 
@@ -628,7 +628,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: West  Co: (7, 2, 0)  Tk: 47
+  <span class="status">Dx: West  Co: (7, 2, 0)  Tk: 47</span>
 
   <span class="separator">---</span>
 
@@ -640,7 +640,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: West  Co: (6, 2, 1)  Tk: 48
+  <span class="status">Dx: West  Co: (6, 2, 1)  Tk: 48</span>
 
   <span class="separator">---</span>
 
@@ -652,7 +652,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: North  Co: (6, 2, 1)  Tk: 49
+  <span class="status">Dx: North  Co: (6, 2, 1)  Tk: 49</span>
 
   <span class="separator">---</span>
 
@@ -664,7 +664,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: North  Co: (6, 1, 0)  Tk: 50
+  <span class="status">Dx: North  Co: (6, 1, 0)  Tk: 50</span>
 
   <span class="separator">---</span>
 
@@ -676,7 +676,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: East  Co: (6, 1, 0)  Tk: 51
+  <span class="status">Dx: East  Co: (6, 1, 0)  Tk: 51</span>
 
   <span class="separator">---</span>
 
@@ -688,7 +688,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: South  Co: (6, 1, 0)  Tk: 52
+  <span class="status">Dx: South  Co: (6, 1, 0)  Tk: 52</span>
 
   <span class="separator">---</span>
 
@@ -700,7 +700,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: South  Co: (6, 2, 1)  Tk: 53
+  <span class="status">Dx: South  Co: (6, 2, 1)  Tk: 53</span>
 
   <span class="separator">---</span>
 
@@ -712,7 +712,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: East  Co: (6, 2, 1)  Tk: 54
+  <span class="status">Dx: East  Co: (6, 2, 1)  Tk: 54</span>
 
   <span class="separator">---</span>
 
@@ -724,7 +724,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: East  Co: (7, 2, 0)  Tk: 55
+  <span class="status">Dx: East  Co: (7, 2, 0)  Tk: 55</span>
 
   <span class="separator">---</span>
 
@@ -736,7 +736,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: East  Co: (8, 2, 0)  Tk: 56
+  <span class="status">Dx: East  Co: (8, 2, 0)  Tk: 56</span>
 
   <span class="separator">---</span>
 
@@ -748,7 +748,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: East  Co: (9, 2, 1)  Tk: 57
+  <span class="status">Dx: East  Co: (9, 2, 1)  Tk: 57</span>
 
   <span class="separator">---</span>
 
@@ -760,7 +760,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: East  Co: (10, 2, 0)  Tk: 58
+  <span class="status">Dx: East  Co: (10, 2, 0)  Tk: 58</span>
 
   <span class="separator">---</span>
 
@@ -772,7 +772,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: East  Co: (11, 2, 0)  Tk: 59
+  <span class="status">Dx: East  Co: (11, 2, 0)  Tk: 59</span>
 
   <span class="separator">---</span>
 
@@ -784,7 +784,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: East  Co: (12, 2, 0)  Tk: 60
+  <span class="status">Dx: East  Co: (12, 2, 0)  Tk: 60</span>
 
   <span class="separator">---</span>
 
@@ -796,7 +796,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: East  Co: (13, 2, 0)  Tk: 61
+  <span class="status">Dx: East  Co: (13, 2, 0)  Tk: 61</span>
 
   <span class="separator">---</span>
 
@@ -808,7 +808,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: North  Co: (13, 2, 0)  Tk: 62
+  <span class="status">Dx: North  Co: (13, 2, 0)  Tk: 62</span>
 
   <span class="separator">---</span>
 
@@ -820,7 +820,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: West  Co: (13, 2, 0)  Tk: 63
+  <span class="status">Dx: West  Co: (13, 2, 0)  Tk: 63</span>
 
   <span class="separator">---</span>
 
@@ -832,7 +832,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: West  Co: (12, 2, 0)  Tk: 64
+  <span class="status">Dx: West  Co: (12, 2, 0)  Tk: 64</span>
 
   <span class="separator">---</span>
 
@@ -844,7 +844,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: West  Co: (11, 2, 0)  Tk: 65
+  <span class="status">Dx: West  Co: (11, 2, 0)  Tk: 65</span>
 
   <span class="separator">---</span>
 
@@ -856,7 +856,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: West  Co: (10, 2, 1)  Tk: 66
+  <span class="status">Dx: West  Co: (10, 2, 1)  Tk: 66</span>
 
   <span class="separator">---</span>
 
@@ -868,7 +868,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: West  Co: (9, 2, 0)  Tk: 67
+  <span class="status">Dx: West  Co: (9, 2, 0)  Tk: 67</span>
 
   <span class="separator">---</span>
 
@@ -880,7 +880,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: West  Co: (8, 2, 0)  Tk: 68
+  <span class="status">Dx: West  Co: (8, 2, 0)  Tk: 68</span>
 
   <span class="separator">---</span>
 
@@ -892,7 +892,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: West  Co: (7, 2, 1)  Tk: 69
+  <span class="status">Dx: West  Co: (7, 2, 1)  Tk: 69</span>
 
   <span class="separator">---</span>
 
@@ -904,7 +904,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: West  Co: (6, 2, 0)  Tk: 70
+  <span class="status">Dx: West  Co: (6, 2, 0)  Tk: 70</span>
 
   <span class="separator">---</span>
 
@@ -916,7 +916,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: West  Co: (5, 2, 0)  Tk: 71
+  <span class="status">Dx: West  Co: (5, 2, 0)  Tk: 71</span>
 
   <span class="separator">---</span>
 
@@ -928,7 +928,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: West  Co: (4, 2, 0)  Tk: 72
+  <span class="status">Dx: West  Co: (4, 2, 0)  Tk: 72</span>
 
   <span class="separator">---</span>
 
@@ -940,7 +940,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: West  Co: (3, 2, 0)  Tk: 73
+  <span class="status">Dx: West  Co: (3, 2, 0)  Tk: 73</span>
 
   <span class="separator">---</span>
 
@@ -952,7 +952,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: North  Co: (3, 2, 0)  Tk: 74
+  <span class="status">Dx: North  Co: (3, 2, 0)  Tk: 74</span>
 
   <span class="separator">---</span>
 
@@ -964,7 +964,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: North  Co: (3, 1, 0)  Tk: 75
+  <span class="status">Dx: North  Co: (3, 1, 0)  Tk: 75</span>
 
   <span class="separator">---</span>
 
@@ -976,7 +976,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: East  Co: (3, 1, 0)  Tk: 76
+  <span class="status">Dx: East  Co: (3, 1, 0)  Tk: 76</span>
 
   <span class="separator">---</span>
 
@@ -988,7 +988,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: South  Co: (3, 1, 0)  Tk: 77
+  <span class="status">Dx: South  Co: (3, 1, 0)  Tk: 77</span>
 
   <span class="separator">---</span>
 
@@ -1000,7 +1000,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: South  Co: (3, 2, 0)  Tk: 78
+  <span class="status">Dx: South  Co: (3, 2, 0)  Tk: 78</span>
 
   <span class="separator">---</span>
 
@@ -1012,7 +1012,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="adventurer">@</span><span class="floor">..</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: South  Co: (3, 3, 0)  Tk: 79
+  <span class="status">Dx: South  Co: (3, 3, 0)  Tk: 79</span>
 
   <span class="separator">---</span>
 
@@ -1024,7 +1024,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="adventurer">@</span><span class="floor">..</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: West  Co: (3, 3, 0)  Tk: 80
+  <span class="status">Dx: West  Co: (3, 3, 0)  Tk: 80</span>
 
   <span class="separator">---</span>
 
@@ -1036,7 +1036,7 @@ example_log: |-
   <span class="wall">[[</span><span class="adventurer">@</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: West  Co: (2, 3, 1)  Tk: 81
+  <span class="status">Dx: West  Co: (2, 3, 1)  Tk: 81</span>
 
   <span class="separator">---</span>
 
@@ -1048,7 +1048,7 @@ example_log: |-
   <span class="wall">[[</span><span class="adventurer">@</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: South  Co: (2, 3, 1)  Tk: 82
+  <span class="status">Dx: South  Co: (2, 3, 1)  Tk: 82</span>
 
   <span class="separator">---</span>
 
@@ -1060,7 +1060,7 @@ example_log: |-
   <span class="wall">[[</span><span class="adventurer">@</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: East  Co: (2, 3, 1)  Tk: 83
+  <span class="status">Dx: East  Co: (2, 3, 1)  Tk: 83</span>
 
   <span class="separator">---</span>
 
@@ -1072,7 +1072,7 @@ example_log: |-
   <span class="wall">[[</span><span class="adventurer">@</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: North  Co: (2, 3, 1)  Tk: 84
+  <span class="status">Dx: North  Co: (2, 3, 1)  Tk: 84</span>
 
   <span class="separator">---</span>
 
@@ -1084,7 +1084,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: North  Co: (2, 2, 1)  Tk: 85
+  <span class="status">Dx: North  Co: (2, 2, 1)  Tk: 85</span>
 
   <span class="separator">---</span>
 
@@ -1096,7 +1096,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: North  Co: (2, 1, 1)  Tk: 86
+  <span class="status">Dx: North  Co: (2, 1, 1)  Tk: 86</span>
 
   <span class="separator">---</span>
 
@@ -1108,7 +1108,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: West  Co: (2, 1, 1)  Tk: 87
+  <span class="status">Dx: West  Co: (2, 1, 1)  Tk: 87</span>
 
   <span class="separator">---</span>
 
@@ -1120,7 +1120,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: West  Co: (1, 1, 0)  Tk: 88
+  <span class="status">Dx: West  Co: (1, 1, 0)  Tk: 88</span>
 
   <span class="separator">---</span>
 
@@ -1132,7 +1132,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: South  Co: (1, 1, 0)  Tk: 89
+  <span class="status">Dx: South  Co: (1, 1, 0)  Tk: 89</span>
 
   <span class="separator">---</span>
 
@@ -1144,7 +1144,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: South  Co: (1, 2, 0)  Tk: 90
+  <span class="status">Dx: South  Co: (1, 2, 0)  Tk: 90</span>
 
   <span class="separator">---</span>
 
@@ -1156,7 +1156,7 @@ example_log: |-
   <span class="wall">]</span><span class="adventurer">@</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: South  Co: (1, 3, 0)  Tk: 91
+  <span class="status">Dx: South  Co: (1, 3, 0)  Tk: 91</span>
 
   <span class="separator">---</span>
 
@@ -1168,7 +1168,7 @@ example_log: |-
   <span class="wall">]</span><span class="adventurer">@</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: West  Co: (1, 3, 0)  Tk: 92
+  <span class="status">Dx: West  Co: (1, 3, 0)  Tk: 92</span>
 
   <span class="separator">---</span>
 
@@ -1180,7 +1180,7 @@ example_log: |-
   <span class="wall">]</span><span class="adventurer">@</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: North  Co: (1, 3, 0)  Tk: 93
+  <span class="status">Dx: North  Co: (1, 3, 0)  Tk: 93</span>
 
   <span class="separator">---</span>
 
@@ -1192,7 +1192,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: North  Co: (1, 2, 0)  Tk: 94
+  <span class="status">Dx: North  Co: (1, 2, 0)  Tk: 94</span>
 
   <span class="separator">---</span>
 
@@ -1204,7 +1204,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: North  Co: (1, 1, 1)  Tk: 95
+  <span class="status">Dx: North  Co: (1, 1, 1)  Tk: 95</span>
 
   <span class="separator">---</span>
 
@@ -1216,7 +1216,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: West  Co: (1, 1, 1)  Tk: 96
+  <span class="status">Dx: West  Co: (1, 1, 1)  Tk: 96</span>
 
   <span class="separator">---</span>
 
@@ -1228,7 +1228,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: South  Co: (1, 1, 1)  Tk: 97
+  <span class="status">Dx: South  Co: (1, 1, 1)  Tk: 97</span>
 
   <span class="separator">---</span>
 
@@ -1240,7 +1240,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: East  Co: (1, 1, 1)  Tk: 98
+  <span class="status">Dx: East  Co: (1, 1, 1)  Tk: 98</span>
 
   <span class="separator">---</span>
 
@@ -1252,7 +1252,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: East  Co: (2, 1, 1)  Tk: 99
+  <span class="status">Dx: East  Co: (2, 1, 1)  Tk: 99</span>
 
   <span class="separator">---</span>
 
@@ -1264,7 +1264,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: East  Co: (3, 1, 1)  Tk: 100
+  <span class="status">Dx: East  Co: (3, 1, 1)  Tk: 100</span>
 
   <span class="separator">---</span>
 
@@ -1276,7 +1276,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: East  Co: (4, 1, 1)  Tk: 101
+  <span class="status">Dx: East  Co: (4, 1, 1)  Tk: 101</span>
 
   <span class="separator">---</span>
 
@@ -1288,7 +1288,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: South  Co: (4, 1, 1)  Tk: 102
+  <span class="status">Dx: South  Co: (4, 1, 1)  Tk: 102</span>
 
   <span class="separator">---</span>
 
@@ -1300,7 +1300,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: South  Co: (4, 2, 1)  Tk: 103
+  <span class="status">Dx: South  Co: (4, 2, 1)  Tk: 103</span>
 
   <span class="separator">---</span>
 
@@ -1312,7 +1312,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: West  Co: (4, 2, 1)  Tk: 104
+  <span class="status">Dx: West  Co: (4, 2, 1)  Tk: 104</span>
 
   <span class="separator">---</span>
 
@@ -1324,7 +1324,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: West  Co: (3, 2, 1)  Tk: 105
+  <span class="status">Dx: West  Co: (3, 2, 1)  Tk: 105</span>
 
   <span class="separator">---</span>
 
@@ -1336,7 +1336,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: West  Co: (2, 2, 1)  Tk: 106
+  <span class="status">Dx: West  Co: (2, 2, 1)  Tk: 106</span>
 
   <span class="separator">---</span>
 
@@ -1348,7 +1348,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: South  Co: (2, 2, 1)  Tk: 107
+  <span class="status">Dx: South  Co: (2, 2, 1)  Tk: 107</span>
 
   <span class="separator">---</span>
 
@@ -1360,7 +1360,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="adventurer">@</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: South  Co: (2, 3, 0)  Tk: 108
+  <span class="status">Dx: South  Co: (2, 3, 0)  Tk: 108</span>
 
   <span class="separator">---</span>
 
@@ -1372,7 +1372,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="adventurer">@</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: East  Co: (2, 3, 0)  Tk: 109
+  <span class="status">Dx: East  Co: (2, 3, 0)  Tk: 109</span>
 
   <span class="separator">---</span>
 
@@ -1384,7 +1384,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="adventurer">@</span><span class="floor">..</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: East  Co: (3, 3, 0)  Tk: 110
+  <span class="status">Dx: East  Co: (3, 3, 0)  Tk: 110</span>
 
   <span class="separator">---</span>
 
@@ -1396,7 +1396,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="adventurer">@</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: East  Co: (4, 3, 0)  Tk: 111
+  <span class="status">Dx: East  Co: (4, 3, 0)  Tk: 111</span>
 
   <span class="separator">---</span>
 
@@ -1408,7 +1408,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="adventurer">@</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: East  Co: (5, 3, 0)  Tk: 112
+  <span class="status">Dx: East  Co: (5, 3, 0)  Tk: 112</span>
 
   <span class="separator">---</span>
 
@@ -1420,7 +1420,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="adventurer">@</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: North  Co: (5, 3, 0)  Tk: 113
+  <span class="status">Dx: North  Co: (5, 3, 0)  Tk: 113</span>
 
   <span class="separator">---</span>
 
@@ -1432,7 +1432,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: North  Co: (5, 2, 0)  Tk: 114
+  <span class="status">Dx: North  Co: (5, 2, 0)  Tk: 114</span>
 
   <span class="separator">---</span>
 
@@ -1444,7 +1444,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: North  Co: (5, 1, 0)  Tk: 115
+  <span class="status">Dx: North  Co: (5, 1, 0)  Tk: 115</span>
 
   <span class="separator">---</span>
 
@@ -1456,7 +1456,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: East  Co: (5, 1, 0)  Tk: 116
+  <span class="status">Dx: East  Co: (5, 1, 0)  Tk: 116</span>
 
   <span class="separator">---</span>
 
@@ -1468,7 +1468,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: East  Co: (6, 1, 1)  Tk: 117
+  <span class="status">Dx: East  Co: (6, 1, 1)  Tk: 117</span>
 
   <span class="separator">---</span>
 
@@ -1480,7 +1480,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: South  Co: (6, 1, 1)  Tk: 118
+  <span class="status">Dx: South  Co: (6, 1, 1)  Tk: 118</span>
 
   <span class="separator">---</span>
 
@@ -1492,7 +1492,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: South  Co: (6, 2, 0)  Tk: 119
+  <span class="status">Dx: South  Co: (6, 2, 0)  Tk: 119</span>
 
   <span class="separator">---</span>
 
@@ -1504,7 +1504,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: East  Co: (6, 2, 0)  Tk: 120
+  <span class="status">Dx: East  Co: (6, 2, 0)  Tk: 120</span>
 
   <span class="separator">---</span>
 
@@ -1516,7 +1516,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: East  Co: (7, 2, 1)  Tk: 121
+  <span class="status">Dx: East  Co: (7, 2, 1)  Tk: 121</span>
 
   <span class="separator">---</span>
 
@@ -1528,7 +1528,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: East  Co: (8, 2, 1)  Tk: 122
+  <span class="status">Dx: East  Co: (8, 2, 1)  Tk: 122</span>
 
   <span class="separator">---</span>
 
@@ -1540,7 +1540,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: East  Co: (9, 2, 0)  Tk: 123
+  <span class="status">Dx: East  Co: (9, 2, 0)  Tk: 123</span>
 
   <span class="separator">---</span>
 
@@ -1552,7 +1552,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: East  Co: (10, 2, 1)  Tk: 124
+  <span class="status">Dx: East  Co: (10, 2, 1)  Tk: 124</span>
 
   <span class="separator">---</span>
 
@@ -1564,7 +1564,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: North  Co: (10, 2, 1)  Tk: 125
+  <span class="status">Dx: North  Co: (10, 2, 1)  Tk: 125</span>
 
   <span class="separator">---</span>
 
@@ -1576,7 +1576,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: North  Co: (10, 1, 1)  Tk: 126
+  <span class="status">Dx: North  Co: (10, 1, 1)  Tk: 126</span>
 
   <span class="separator">---</span>
 
@@ -1588,7 +1588,7 @@ example_log: |-
   <span class="wall">[[</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span><span class="staircase">&lt;</span><span class="floor">.</span><span class="staircase">&lt;</span><span class="wall">[]</span><span class="floor">..</span><span class="wall">]</span>
   <span class="wall">][[[][[[][][[[]]]]]]</span>
 
-  Dx: West  Co: (10, 1, 1)  Tk: 127
+  <span class="status">Dx: West  Co: (10, 1, 1)  Tk: 127</span>
 
   <span class="separator">---</span>
 
@@ -1600,7 +1600,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: West  Co: (9, 1, 0)  Tk: 128
+  <span class="status">Dx: West  Co: (9, 1, 0)  Tk: 128</span>
 
   <span class="separator">---</span>
 
@@ -1612,7 +1612,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: North  Co: (9, 1, 0)  Tk: 129
+  <span class="status">Dx: North  Co: (9, 1, 0)  Tk: 129</span>
 
   <span class="separator">---</span>
 
@@ -1624,7 +1624,7 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: East  Co: (9, 1, 0)  Tk: 130
+  <span class="status">Dx: East  Co: (9, 1, 0)  Tk: 130</span>
 
   <span class="separator">---</span>
 
@@ -1636,13 +1636,13 @@ example_log: |-
   <span class="wall">]</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">...</span><span class="wall">[</span><span class="staircase">&gt;</span><span class="floor">....</span><span class="staircase">&gt;</span><span class="floor">.</span><span class="staircase">&gt;</span><span class="floor">..</span><span class="wall">[</span><span class="floor">.</span><span class="wall">[</span>
   <span class="wall">]][]][][]][][[][][[]</span>
 
-  Dx: East  Co: (10, 1, 0)  Tk: 131
+  <span class="status">Dx: East  Co: (10, 1, 0)  Tk: 131</span>
 
   <span class="separator">---</span>
 
   <span class="message">You go east. You go upstairs.</span>
 
-  Dx: East  Tk: 132
+  <span class="status">Dx: East  Tk: 132</span>
 
 example_answer: |-
   132

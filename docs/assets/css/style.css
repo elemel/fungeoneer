@@ -16,7 +16,7 @@ body.dark {
 }
 
 body.dark a {
-  color: #19e;
+  color: #e91;
 }
 
 body.dark blockquote {
@@ -40,11 +40,15 @@ body.dark pre code {
 }
 
 body.dark .floor, body.dark .wall {
-  color: #777;
+  color: #888;
 }
 
-body.dark .adventurer, body.dark .staircase {
+body.dark .adventurer {
   color: #eee;
+}
+
+body.dark .staircase {
+  color: #1ae;
 }
 
 body.dark .producer {
@@ -66,7 +70,7 @@ body.light {
 }
 
 body.light a {
-  color: #38e;
+  color: #71e;
 }
 
 body.light blockquote {

@@ -43,23 +43,43 @@ body.dark .floor, body.dark .wall, body.dark .separator, body.dark .status {
   color: #888;
 }
 
-body.dark .adventurer, body.dark .label, body.dark .number {
+body.dark .negative {
   color: #eee;
 }
 
-body.dark .staircase, body.dark .direction {
-  color: #1ae;
+body.dark .zero {
+  color: #eee;
 }
 
-body.dark .producer, body.dark .positive {
-  color: #3a1;
+body.dark .positive {
+  color: #eee;
 }
 
-body.dark .operator, body.dark .zero {
+body.dark .direction {
+  color: #eee;
+}
+
+body.dark .label {
   color: #ec1;
 }
 
-body.dark .consumer, body.dark .negative {
+body.dark .adventurer {
+  color: #eee;
+}
+
+body.dark .staircase {
+  color: #1ae;
+}
+
+body.dark .producer {
+  color: #3a1;
+}
+
+body.dark .operator {
+  color: #ec1;
+}
+
+body.dark .consumer {
   color: #e31;
 }
 

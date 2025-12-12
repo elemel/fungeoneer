@@ -134,7 +134,7 @@ h1, h2, h3 {
 /* === LINKS === */
 a {
   text-decoration: none;
-  transition: text-shadow 0.2s;
+  transition: text-shadow 0.1s;
 }
 
 a:hover {
